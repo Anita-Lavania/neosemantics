@@ -18,7 +18,3 @@ neo4ind:graphql3502 neo4voc:name "Neo4j-GraphQL" ;
 			   neo4voc:version "3.5.0.3" ;
 			   neo4voc:releaseDate "05-05-2019" ;			   
 			   neo4voc:runsOn neo4ind:neo4j355 .			   			   
-
-neo4ind:neo4j355 neo4voc:name "neo4j" ;
-			   a neo4voc:GraphPlatform , neo4voc:AwesomePlatform ;
-			   neo4voc:version "3.5.5" .
