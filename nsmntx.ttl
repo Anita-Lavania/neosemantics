@@ -1,5 +1,6 @@
 @prefix neo4voc: <http://neo4j.org/vocab/sw#> .
 @prefix neo4ind: <http://neo4j.org/ind#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 
 neo4ind:nsmntx3502 neo4voc:name "NSMNTX" ;
 			   rdf:type neo4voc:Neo4jPlugin ;
