@@ -1,5 +1,5 @@
-@prefix wiki: <www.wikidata.org/wiki/> .
-@prefix wiki_prop: <www.wikidata.org/wiki/Property:> .
+@prefix wiki: <http://www.wikidata.org/wiki/> .
+@prefix wiki_prop: <http://www.wikidata.org/wiki/Property:> .
 
 wiki:Q2539 wiki_prop:P31 wiki:Q11862829 .
 wiki:Q2539 wiki_prop:P2283 wiki:Q483639 .
