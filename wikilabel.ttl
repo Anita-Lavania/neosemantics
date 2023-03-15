@@ -1,4 +1,0 @@
-@prefix wiki: <http://www.wikidata.org/wiki/>
-@prefix wikivoc: <http://neo4j.org/vocab/sw#>
-
-wiki:Q2539 
