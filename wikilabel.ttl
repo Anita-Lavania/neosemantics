@@ -17,7 +17,7 @@ wiki:Q21198 wikivoc:name "computer science" .
 wiki:Q7094097 wikivoc:name "online machine learning" .
 wiki:Q334384 wikivoc:name "supervised learning" .
 wiki:Q830687 wikivoc:name "reinforcement learning" .
-wiki:Q268592 wikivoc:name industry .
+wiki:Q268592 wikivoc:name "industry" .
 wiki:Q112057532 wikivoc:name "type of technology" .
 wiki:Q147638 wikivoc:name "cognitive science" .
 wiki:Q120208 wikivoc:name "emerging technology" .
