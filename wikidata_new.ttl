@@ -1,0 +1,89 @@
+@prefix wiki: <http://www.wikidata.org/wiki/> .
+@prefix wiki_prop: <http://www.wikidata.org/wiki/Property:> .
+@prefix wikivoc: <http://www.wikidata.org/Label/> .
+
+wiki:Q2539 wikivoc:name "machine learning" .
+wiki:Q2539 wiki_prop:P31 wiki:Q11862829 .
+wiki:Q11862829 wikivoc:name "academic discipline" .
+wiki:Q2539 wiki_prop:P2283 wiki:Q483639 .
+wiki:Q483639 wikivoc:name "cloud computing" .
+wiki:Q2539 wiki_prop:P361 wiki:Q11660 .
+wiki:Q11660 wikivoc:name "artificial intelligence" .
+wiki:Q2539 wiki_prop:P279 wiki:Q21198 .
+wiki:Q21198 wikivoc:name "computer science" .
+wiki:Q2539 wiki_prop:P279 wiki:Q11660 .
+wiki:Q2539 wiki_prop:P527 wiki:Q7094097 .
+wiki:Q7094097 wikivoc:name "online machine learning" .
+wiki:Q2539 wiki_prop:P527 wiki:Q334384 .
+wiki:Q334384 wikivoc:name "supervised learning" .
+wiki:Q2539 wiki_prop:P527 wiki:Q1152135 .
+wiki:Q1152135 wikivoc:name "unsupervised learning" .
+wiki:Q2539 wiki_prop:P527 wiki:Q830687 .
+wiki:Q830687 wikivoc:name "reinforcement learning" .
+wiki:Q11660 wiki_prop:P31 wiki:Q11862829 .
+wiki:Q11660 wiki_prop:P31 wiki:Q268592 .
+wiki:Q268592 wikivoc:name "industry" .
+wiki:Q11660 wiki_prop:P31 wiki:Q112057532 .
+wiki:Q112057532 wikivoc:name "type of technology" .
+wiki:Q11660 wiki_prop:P361 wiki:Q21198 .
+wiki:Q11660 wiki_prop:P361 wiki:Q147638 .
+wiki:Q147638 wikivoc:name "cognitive science" .
+wiki:Q11660 wiki_prop:P279 wiki:Q21198 .
+wiki:Q11660 wiki_prop:P279 wiki:Q120208 .
+wiki:Q120208 wikivoc:name "emerging technology" .
+wiki:Q11660 wiki_prop:P527 wiki:Q5514059 .
+wiki:Q5514059 wikivoc:name "symbolic artificial intelligence" .
+wiki:Q11660 wiki_prop:P527 wiki:Q203790 .
+wiki:Q203790 wikivoc:name "connectionism" .
+wiki:Q11660 wiki_prop:P366 wiki:Q4182287 .
+wiki:Q4182287 wikivoc:name "web search engine" .
+wiki:Q11660 wiki_prop:P366 wiki:Q554950 .
+wiki:Q554950 wikivoc:name "recommender system" .
+wiki:Q11660 wiki_prop:P366 wiki:Q1078276 .
+wiki:Q1078276 wikivoc:name "natural language understanding" .
+wiki:Q11660 wiki_prop:P366 wiki:Q741490 .
+wiki:Q741490 wikivoc:name "autonomous car" .
+wiki:Q11660 wiki_prop:P366 wiki:Q108704339 .
+wiki:Q108704339 wikivoc:name "automated decision-making" .
+wiki:Q5157340 wikivoc:name "computational statistics" .
+wiki:Q5157340 wiki_prop:P31 wiki:Q11862829 .
+wiki:Q5157340 wiki_prop:P31 wiki:Q66747126 .
+wiki:Q66747126 wikivoc:name "computer science term" .
+wiki:Q5157340 wiki_prop:P361 wiki:Q21198 .
+wiki:Q5157340 wiki_prop:P361 wiki:Q12483 .
+wiki:Q12483 wikivoc:name "statistics" .
+wiki:Q5157340 wiki_prop:P279 wiki:Q1914636 .
+wiki:Q1914636 wikivoc:name "activity" .
+wiki:Q141495 wikivoc:name "mathematical optimization" .
+wiki:Q141495 wiki_prop:P31 wiki:Q11862829 .
+wiki:Q141495 wiki_prop:P361 wiki:Q13636890 .
+wiki:Q13636890 wikivoc:name "algorithmics" .
+wiki:Q141495 wiki_prop:P279 wiki:Q24476018 .
+wiki:Q24476018 wikivoc:name "optimization" .
+wiki:Q172491 wikivoc:name "data mining" .
+wiki:Q172491 wiki_prop:P279 wiki:Q12483 .
+wiki:Q172491 wiki_prop:P279 wiki:Q12772819 .
+wiki:Q12772819 wikivoc:name "discovery" .
+wiki:Q172491 wiki_prop:P279 wiki:Q70708084 .
+wiki:Q70708084 wikivoc:name "text and data mining" .
+wiki:Q1152135 wiki_prop:P31 wiki:Q1799072 .
+wiki:Q1799072 wikivoc:name "method" .
+wiki:Q1152135 wiki_prop:P2283 wiki:Q5532625 .
+wiki:Q5532625 wikivoc:name "generative model" .
+wiki:Q1152135 wiki_prop:P361 wiki:Q113127963 .
+wiki:Q113127963 wikivoc:name "semi-supervised and unsupervised learning" .
+wiki:Q1152135 wiki_prop:P279 wiki:Q111862379 .
+wiki:Q111862379 wikivoc:name "machine learning method" .
+wiki:Q42848 wikivoc:name "data" .
+wiki:Q42848 wiki_prop:P361 wiki:Q59138835 .
+wiki:Q59138835 wikivoc:name "data base" .
+wiki:Q42848 wiki_prop:P279 wiki:Q11028 .
+wiki:Q11028 wikivoc:name "information" .
+wiki:Q55624999 wikivoc:name "neural network" .
+wiki:Q55624999 wiki_prop:P279 wiki:Q1900326 .
+wiki:Q1900326 wikivoc:name "network" .
+wiki:Q1053367 wikivoc:name "predictive analytics" .
+wiki:Q1053367 wiki_prop:P279 wiki:Q12718609 .
+wiki:Q12718609 wikivoc:name "statistical method" .
+wiki:Q197536 wikivoc:name "deep learning" .
+wiki:Q197536 wiki_prop:P279 wiki:Q111862379 .
