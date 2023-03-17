@@ -1,0 +1,47 @@
+@prefix wiki: <http://www.wikidata.org/wiki/> .
+@prefix wiki_prop: <http://www.wikidata.org/wiki/Property:> .
+@prefix wikivoc: <http://www.wikidata.org/Label/> .
+@prefix mathco: <http://www.themathcompany.com/cognition/> .
+@prefix mathcovoc: <http://www.themathcompany.com/Label/> .
+
+wiki:Q483639 wiki_prop:P31 mathco:on-demand_availability_of_computer_system_resources .
+wiki:Q483639 wikivoc:name "'Cloud computing'" .
+mathco:on-demand_availability_of_computer_system_resources mathcovoc:name "'on-demand availability of computer system resources'" .
+wiki:Q483639 wiki_prop:P527 wiki:Q57515336 .
+wiki:Q57515336 wikivoc:name "'Data storage'" .
+wiki:Q483639 wiki_prop:P527 wiki:Q1197550 .
+wiki:Q1197550 wikivoc:name "'Computer performance'" .
+wiki:Q483639 wiki_prop:P2283 wiki:Q75 .
+wiki:Q75 wikivoc:name 'Internet' .
+wiki:Q483639 wiki_prop:P366 wiki:Q671224 .
+wiki:Q671224 wikivoc:name "'Data center'" .
+wiki:Q483639 wiki_prop:P366 mathco:central_servers .
+mathco:central_servers mathcovoc:name "'central servers'" .
+wiki:Q483639 wiki_prop:P366 mathco:local_machine_hard_drive .
+mathco:local_machine_hard_drive mathcovoc:name "'local machine hard drive'" .
+wiki:Q1346018 wiki_prop:P279 wiki:Q483639 .
+wiki:Q1346018 wikivoc:name "'Infrastructure as a service'" .
+wiki:Q1153767 wiki_prop:P279 wiki:Q483639 .
+wiki:Q1153767 wikivoc:name "'Platform as a service'" .
+wiki:Q1254596 wiki_prop:P279 wiki:Q483639 .
+wiki:Q1254596 wikivoc:name "'Software as a service'" .
+mathco:Azure_App_Service wiki_prop:P31 wiki:Q1153767 .
+mathco:Azure_App_Service mathcovoc:name "'Azure App Service'" .
+mathco:Azure_App_Service wiki_prop:P366 mathco:Azure_Cloud_platform .
+mathco:Azure_Cloud_platform mathcovoc:name "'Azure Cloud platform'" .
+mathco:Azure_App_Service wiki_prop:P366 wiki:Q1406 .
+wiki:Q1406 wikivoc:name "'Microsoft Windows'" .
+mathco:Azure_App_Service wiki_prop:P366 wiki:Q388 .
+wiki:Q388 wikivoc:name 'Linux' .
+mathco:Azure_App_Service wiki_prop:P366 wiki:Q186055 .
+wiki:Q186055 wikivoc:name 'Git' .
+mathco:Azure_App_Service wiki_prop:P366 wiki:Q910577 .
+wiki:Q910577 wikivoc:name 'Docker' .
+mathco:Azure_App_Service wiki_prop:P366 wiki:Q364 .
+wiki:Q364 wikivoc:name 'GitHub' .
+mathco:Azure_App_Service wiki_prop:P366 mathco:Azure_Container_Registry .
+mathco:Azure_Container_Registry mathcovoc:name "'Azure Container Registry'" .
+mathco:Azure_App_Service wiki_prop:P527 wiki:Q17987250 .
+wiki:Q17987250 wikivoc:name "'Application development'" .
+mathco:Azure_App_Service wiki_prop:P527 wiki:Q5909460 .
+wiki:Q5909460 wikivoc:name "'Hosting environment'" .
