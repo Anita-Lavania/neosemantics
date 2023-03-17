@@ -1,0 +1,19 @@
+@prefix wiki: <http://www.wikidata.org/wiki/> .
+@prefix wiki_prop: <http://www.wikidata.org/wiki/Property:> .
+@prefix wikivoc: <http://www.wikidata.org/Label/> .
+@prefix mathco: <http://www.themathcompany.com/cognition/> .
+@prefix mathcovoc: <http://www.themathcompany.com/Label/> .
+
+mathco:CardHolder wiki_prop:P2283 wiki:Q299037 .
+mathco:CardHolder mathcovoc:name 'CardHolder' .
+wiki:Q299037 wikivoc:name 'ATM' .
+wiki:Q299037 wiki_prop:P366 mathco:CardHolder .
+mathco:withdraw_money wiki_prop:P31 wiki:Q613417 .
+mathco:withdraw_money mathcovoc:name "'withdraw money'" .
+wiki:Q613417 wikivoc:name "'Use case'" .
+wiki:Q613417 wiki_prop:P366 wiki:Q299037 .
+wiki:Q299037 wiki_prop:P366 mathco:business_goals .
+mathco:business_goals mathcovoc:name "'business goals'" .
+mathco:business_goals wiki_prop:P361 wiki:Q33999 .
+wiki:Q33999 wikivoc:name 'Actor' .
+wiki:Q33999 wiki_prop:P527 mathco:business_goals .
