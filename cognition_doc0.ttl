@@ -1,4 +1,9 @@
-source edge target endline
+@prefix wiki: <http://www.wikidata.org/wiki/> .
+@prefix wiki_prop: <http://www.wikidata.org/wiki/Property:> .
+@prefix wikivoc: <http://www.wikidata.org/Label/> .
+@prefix mathco: <http://www.themathcompany.com/cognition/> .
+@prefix mathcovoc: <http://www.themathcompany.com/Label/> .
+
 wiki:Q3025536 wiki_prop:P31 mathco:coming_together_of_development_and_operations_teams .
 wiki:Q3025536 wikivoc:name 'DevOps' .
 mathco:coming_together_of_development_and_operations_teams mathcovoc:name "'coming together of development and operations teams'" .
