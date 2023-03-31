@@ -1,0 +1,45 @@
+source edge target endline
+wiki:Q3025536 wiki_prop:P31 mathco:coming_together_of_development_and_operations_teams .
+wiki:Q3025536 wikivoc:name 'DevOps' .
+mathco:coming_together_of_development_and_operations_teams mathcovoc:name "'coming together of development and operations teams'" .
+wiki:Q3025536 wiki_prop:P366 wiki:Q1145523 .
+wiki:Q1145523 wikivoc:name 'Collaboration' .
+wiki:Q3025536 wiki_prop:P366 wiki:Q2111958 .
+wiki:Q2111958 wikivoc:name 'Productivity' .
+wiki:Q3025536 wiki_prop:P527 wiki:Q11042 .
+wiki:Q11042 wikivoc:name 'Culture' .
+wiki:Q3025536 wiki_prop:P527 wiki:Q1339824 .
+wiki:Q1339824 wikivoc:name 'Mindset' .
+wiki:Q3025536 wiki_prop:P527 wiki:Q1289773 .
+wiki:Q1289773 wikivoc:name 'Framework' .
+wiki:Q3025536 wiki_prop:P527 wiki:Q3326911 .
+wiki:Q3326911 wikivoc:name 'Movement' .
+wiki:Q965769 wiki_prop:P31 wiki:Q3025536 .
+wiki:Q965769 wikivoc:name "'Continuous integration'" .
+wiki:Q2507377 wiki_prop:P31 wiki:Q3025536 .
+wiki:Q2507377 wikivoc:name "'Continuous delivery'" .
+mathco:Continuous_Deployment wiki_prop:P31 wiki:Q3025536 .
+mathco:Continuous_Deployment mathcovoc:name "'Continuous Deployment'" .
+wiki:Q965769 wiki_prop:P366 wiki:Q30232 .
+wiki:Q30232 wikivoc:name "'Agile software development'" .
+wiki:Q2507377 wiki_prop:P366 mathco:release_capabilities .
+mathco:release_capabilities mathcovoc:name "'release capabilities'" .
+mathco:Continuous_Deployment wiki_prop:P366 wiki:Q3055454 .
+wiki:Q3055454 wikivoc:name "'Deployment environment'" .
+wiki:Q965769 wiki_prop:P366 mathco:validating_build .
+mathco:validating_build mathcovoc:name "'validating build'" .
+wiki:Q2507377 wiki_prop:P366 wiki:Q3055454 .
+mathco:Continuous_Deployment wiki_prop:P366 wiki:Q528074 .
+wiki:Q528074 wikivoc:name "'End user'" .
+wiki:Q3025536 wiki_prop:P366 mathco:frequent_releases .
+mathco:frequent_releases mathcovoc:name "'frequent releases'" .
+wiki:Q3025536 wiki_prop:P366 mathco:faster_lead_times .
+mathco:faster_lead_times mathcovoc:name "'faster lead times'" .
+wiki:Q3025536 wiki_prop:P366 mathco:higher_quality_software .
+mathco:higher_quality_software mathcovoc:name "'higher quality software'" .
+wiki:Q3025536 wiki_prop:P366 mathco:lower_change/failure_rate .
+mathco:lower_change/failure_rate mathcovoc:name "'lower change/failure rate'" .
+wiki:Q3025536 wiki_prop:P366 mathco:system_stability .
+mathco:system_stability mathcovoc:name "'system stability'" .
+wiki:Q3025536 wiki_prop:P366 mathco:faster_restore_service .
+mathco:faster_restore_service mathcovoc:name "'faster restore service'" .
