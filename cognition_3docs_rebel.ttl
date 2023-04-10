@@ -1,0 +1,151 @@
+@prefix wiki: <http://www.wikidata.org/wiki/> .
+@prefix wiki_prop: <http://www.wikidata.org/wiki/Property:> .
+@prefix wikivoc: <http://www.wikidata.org/Label/> .
+@prefix mathco: <http://www.themathcompany.com/cognition/> .
+@prefix mathcovoc: <http://www.themathcompany.com/Label/> .
+
+wiki:Q3025536 wiki_prop:P527 wiki:Q340724 .
+wiki:Q3025536 wikivoc:name 'DevOps' .
+wiki:Q340724 wikivoc:name 'Development' .
+wiki:Q3025536 wiki_prop:P527 wiki:Q209577 .
+wiki:Q209577 wikivoc:name 'Operation' .
+wiki:Q340724 wiki_prop:P361 wiki:Q3025536 .
+wiki:Q209577 wiki_prop:P361 wiki:Q3025536 .
+wiki:Q3025536 wiki_prop:P279 wiki:Q209577 .
+wiki:Q11042 wiki_prop:P1889 wiki:Q1339824 .
+wiki:Q11042 wikivoc:name 'Culture' .
+wiki:Q1339824 wikivoc:name 'Mindset' .
+wiki:Q1339824 wiki_prop:P1889 wiki:Q11042 .
+mathco:Early_release_cycles wiki_prop:P156 wiki:Q298021 .
+mathco:Early_release_cycles mathcovoc:name "'Early release cycles'" .
+wiki:Q298021 wikivoc:name 'Long' .
+wiki:Q298021 wiki_prop:P155 mathco:Early_release_cycles .
+wiki:Q409857 wiki_prop:P1056 wiki:Q1176855 .
+wiki:Q409857 wikivoc:name 'Developer' .
+wiki:Q1176855 wikivoc:name "'Software package'" .
+wiki:Q408125 wiki_prop:P461 wiki:Q859392 .
+wiki:Q408125 wikivoc:name 'Dev' .
+wiki:Q859392 wikivoc:name 'Ops' .
+wiki:Q859392 wiki_prop:P461 wiki:Q408125 .
+wiki:Q351889 wiki_prop:P361 wiki:Q3025536 .
+wiki:Q351889 wikivoc:name 'Release' .
+wiki:Q3025536 wiki_prop:P279 wiki:Q184199 .
+wiki:Q184199 wikivoc:name 'Automation' .
+wiki:Q2507377 wiki_prop:P361 wiki:Q965769 .
+wiki:Q2507377 wikivoc:name "'Continuous delivery'" .
+wiki:Q965769 wikivoc:name "'Continuous integration'" .
+wiki:Q965769 wiki_prop:P361 wiki:Q3025536 .
+mathco:Continuous_Deployment wiki_prop:P361 wiki:Q3025536 .
+mathco:Continuous_Deployment mathcovoc:name "'Continuous Deployment'" .
+wiki:Q3025536 wiki_prop:P361 mathco:continuous_software_development .
+mathco:continuous_software_development mathcovoc:name "'continuous software development'" .
+wiki:Q2507377 wiki_prop:P279 wiki:Q184199 .
+mathco:Continuous_Integration_CI wiki_prop:P366 wiki:Q965769 .
+mathco:Continuous_Integration_CI mathcovoc:name "'Continuous Integration CI'" .
+wiki:Q1475717 wiki_prop:P366 wiki:Q1002975 .
+wiki:Q1475717 wikivoc:name "'Test automation'" .
+wiki:Q1002975 wikivoc:name 'Build' .
+wiki:Q1002975 wiki_prop:P1269 wiki:Q829645 .
+wiki:Q829645 wikivoc:name "'Borel functional calculus'" .
+wiki:Q219118 wiki_prop:P366 mathco:automated_release .
+wiki:Q219118 wikivoc:name 'CI' .
+mathco:automated_release mathcovoc:name "'automated release'" .
+mathco:continuous_integrated wiki_prop:P279 mathco:code_commit .
+mathco:continuous_integrated mathcovoc:name "'continuous integrated'" .
+mathco:code_commit mathcovoc:name "'code commit'" .
+wiki:Q3055454 wiki_prop:P461 wiki:Q3055454 .
+wiki:Q3055454 wikivoc:name "'Deployment environment'" .
+mathco:feature_update wiki_prop:P828 mathco:release_approval .
+mathco:feature_update mathcovoc:name "'feature update'" .
+mathco:release_approval mathcovoc:name "'release approval'" .
+mathco:release_approval wiki_prop:P1542 mathco:feature_update .
+mathco:Continuous_Deployment wiki_prop:P279 mathco:Cont_inuous_Delivery .
+mathco:Cont_inuous_Delivery mathcovoc:name "'Cont inuous Delivery'" .
+mathco:failed_test wiki_prop:P1542 mathco:build_update .
+mathco:failed_test mathcovoc:name "'failed test'" .
+mathco:build_update mathcovoc:name "'build update'" .
+wiki:Q183635 wiki_prop:P1535 wiki:Q409857 .
+wiki:Q183635 wikivoc:name 'Feedback' .
+mathco:DevOps_Research_and_Assessment_DORA_report wiki_prop:P921 wiki:Q3025536 .
+mathco:DevOps_Research_and_Assessment_DORA_report mathcovoc:name "'DevOps Research and Assessment DORA report'" .
+mathco:change_failure_rate wiki_prop:P1269 wiki:Q7397 .
+mathco:change_failure_rate mathcovoc:name "'change failure rate'" .
+wiki:Q7397 wikivoc:name 'Software' .
+mathco:platfor wiki_prop:P178 wiki:Q2095962 .
+mathco:platfor mathcovoc:name 'platfor' .
+wiki:Q2095962 wikivoc:name "'Puppet (software)'" .
+wiki:Q483639 wiki_prop:P527 mathco:Azure_App_Service .
+wiki:Q483639 wikivoc:name "'Cloud computing'" .
+mathco:Azure_App_Service mathcovoc:name "'Azure App Service'" .
+wiki:Q483639 wiki_prop:P279 wiki:Q483639 .
+mathco:Inte_rnet wiki_prop:P31 wiki:Q671224 .
+mathco:Inte_rnet mathcovoc:name "'Inte rnet'" .
+wiki:Q671224 wikivoc:name "'Data center'" .
+mathco:Large_cloud wiki_prop:P279 wiki:Q8074 .
+mathco:Large_cloud mathcovoc:name "'Large cloud'" .
+wiki:Q8074 wikivoc:name 'Cloud' .
+wiki:Q75 wiki_prop:P31 wiki:Q483639 .
+wiki:Q75 wikivoc:name 'Internet' .
+wiki:Q8074 wiki_prop:P31 wiki:Q18534 .
+wiki:Q18534 wikivoc:name 'Metaphor' .
+mathco:Cloud_Computing_1 wiki_prop:P31 wiki:Q483639 .
+mathco:Cloud_Computing_1 mathcovoc:name "'Cloud Computing 1'" .
+wiki:Q1526055 wiki_prop:P1269 wiki:Q9135 .
+wiki:Q1526055 wikivoc:name "'Load balancing'" .
+wiki:Q9135 wikivoc:name "'Operating system'" .
+mathco:PaaS_Platform_as_a_Service wiki_prop:P279 wiki:Q1153767 .
+mathco:PaaS_Platform_as_a_Service mathcovoc:name "'PaaS Platform as a Service'" .
+wiki:Q1153767 wikivoc:name "'Platform as a service'" .
+wiki:Q294834 wiki_prop:P527 wiki:Q234328 .
+wiki:Q294834 wikivoc:name 'Application' .
+wiki:Q234328 wikivoc:name 'Run' .
+wiki:Q2291388 wiki_prop:P279 mathco:configu_rations .
+wiki:Q2291388 wikivoc:name 'Scaling' .
+mathco:configu_rations mathcovoc:name "'configu rations'" .
+mathco:SaaS_Software_as_a_Service wiki_prop:P279 wiki:Q1254596 .
+mathco:SaaS_Software_as_a_Service mathcovoc:name "'SaaS Software as a Service'" .
+wiki:Q1254596 wikivoc:name "'Software as a service'" .
+mathco:a_pp wiki_prop:P1269 wiki:Q9135 .
+mathco:a_pp mathcovoc:name "'a pp'" .
+mathco:Azure_App_Service wiki_prop:P31 wiki:Q483639 .
+mathco:Azure_App_Service wiki_prop:P31 wiki:Q1153767 .
+mathco:Azure_App_Service wiki_prop:P361 mathco:Azure_Cloud .
+mathco:Azure_Cloud mathcovoc:name "'Azure Cloud'" .
+wiki:Q1153767 wiki_prop:P279 wiki:Q1153767 .
+mathco:Azure_Cloud wiki_prop:P31 wiki:Q1153767 .
+mathco:Azure_Cloud wiki_prop:P527 mathco:Azure_App_Service .
+mathco:web_ap wiki_prop:P279 wiki:Q35127 .
+mathco:web_ap mathcovoc:name "'web ap'" .
+wiki:Q35127 wikivoc:name 'Website' .
+wiki:Q186055 wiki_prop:P366 wiki:Q57261400 .
+wiki:Q186055 wikivoc:name 'Git' .
+wiki:Q57261400 wikivoc:name "'Continuous deployment'" .
+mathco:Case_study_automatic_teller_machine wiki_prop:P921 wiki:Q81235 .
+mathco:Case_study_automatic_teller_machine mathcovoc:name "'Case study automatic teller machine'" .
+wiki:Q81235 wikivoc:name "'Automated teller machine'" .
+mathco:Identifying_use_cases wiki_prop:P1269 wiki:Q613417 .
+mathco:Identifying_use_cases mathcovoc:name "'Identifying use cases'" .
+wiki:Q613417 wikivoc:name "'Use case'" .
+wiki:Q33999 wiki_prop:P361 wiki:Q58778 .
+wiki:Q33999 wikivoc:name 'Actor' .
+wiki:Q58778 wikivoc:name 'System' .
+mathco:use_case_models_a_service wiki_prop:P279 wiki:Q613417 .
+mathco:use_case_models_a_service mathcovoc:name "'use case models a service'" .
+wiki:Q845789 wiki_prop:P1269 mathco:systeminteractions .
+wiki:Q845789 wikivoc:name 'Observable' .
+mathco:systeminteractions mathcovoc:name 'systeminteractions' .
+wiki:Q1267283 wiki_prop:P1269 mathco:business_goals .
+wiki:Q1267283 wikivoc:name 'Searching' .
+mathco:business_goals mathcovoc:name "'business goals'" .
+wiki:Q613417 wiki_prop:P527 wiki:Q33999 .
+wiki:Q33999 wiki_prop:P361 wiki:Q613417 .
+wiki:Q299037 wiki_prop:P527 mathco:CardHolder .
+wiki:Q299037 wikivoc:name 'ATM' .
+mathco:CardHolder mathcovoc:name 'CardHolder' .
+mathco:CardHolder wiki_prop:P361 wiki:Q299037 .
+mathco:ATM_5 wiki_prop:P31 wiki:Q446366 .
+mathco:ATM_5 mathcovoc:name "'ATM 5'" .
+wiki:Q446366 wikivoc:name "'System context diagram'" .
+mathco:Unified_Modeling_Language_Superstructure_version_2 wiki_prop:P178 wiki:Q226011 .
+mathco:Unified_Modeling_Language_Superstructure_version_2 mathcovoc:name "'Unified Modeling Language Superstructure version 2'" .
+wiki:Q226011 wikivoc:name 'OMG' .
