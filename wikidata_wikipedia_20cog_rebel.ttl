@@ -1,4 +1,9 @@
-source edge target endline
+@prefix wiki: <http://www.wikidata.org/wiki/> .
+@prefix wiki_prop: <http://www.wikidata.org/wiki/Property:> .
+@prefix wikivoc: <http://www.wikidata.org/Label/> .
+@prefix mathco: <http://www.themathcompany.com/cognition/> .
+@prefix mathcovoc: <http://www.themathcompany.com/Label/> .
+
 wiki:Q2539 wikivoc:name "'machine learning'" .
 wiki:Q2539 wiki_prop:P31 wiki:Q11862829 .
 wiki:Q11862829 wikivoc:name "'academic discipline'" .
