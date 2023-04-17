@@ -6229,8 +6229,6 @@ mathco:deployment-container-image-name mathcovoc:name 'deployment-container-imag
 mathco:iomydockerimage mathcovoc:name 'iomydockerimage' .
 wiki:Q189210 wiki_prop:P279 mathco:app_service .
 mathco:app_service mathcovoc:name "'app service'" .
-mathco:--name wiki_prop:P1269 wiki:Q189210 .
-mathco:--name mathcovoc:name '--name' .
 mathco:azure-container-registry-name wiki_prop:P361 mathco:myResourceGroup .
 mathco:registry-username wiki_prop:P1889 wiki:Q161157 .
 mathco:registry-username mathcovoc:name 'registry-username' .
