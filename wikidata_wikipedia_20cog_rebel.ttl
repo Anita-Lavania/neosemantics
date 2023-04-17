@@ -3443,40 +3443,1776 @@ wiki:Q2539 wiki_prop:P279 wiki:Q172491 .
 wiki:Q172491 wikivoc:name "'Data mining'" .
 wiki:Q2539 wiki_prop:P366 wiki:Q1152135 .
 wiki:Q1152135 wikivoc:name "'Unsupervised learning'" .
-mathco:preprocessatinit wiki_prop:P279 wiki:Q28838080 .
-mathco:preprocessatinit mathcovoc:name 'preprocessatinit' .
+mathco:Co.dex wiki_prop:P31 wiki:Q8513 .
+mathco:Co.dex mathcovoc:name 'Co.dex' .
+wiki:Q8513 wikivoc:name 'Database' .
+wiki:Q2374463 wiki_prop:P279 wiki:Q294834 .
+wiki:Q2374463 wikivoc:name "'Data science'" .
+wiki:Q294834 wikivoc:name 'Application' .
+wiki:Q2374463 wiki_prop:studies wiki:Q2374463 .
+wiki:Q2374463 wiki_prop:P2579 wiki:Q2374463 .
+wiki:Q340724 wiki_prop:P527 wiki:Q439664 .
+wiki:Q340724 wikivoc:name 'Development' .
+wiki:Q439664 wikivoc:name 'Deployment' .
+wiki:Q439664 wiki_prop:P361 wiki:Q340724 .
+wiki:Q1979154 wiki_prop:P361 wiki:Q2374463 .
+wiki:Q1979154 wikivoc:name 'Model' .
+mathco:Data_Ingestion wiki_prop:P361 wiki:Q22245680 .
+mathco:Data_Ingestion mathcovoc:name "'Data Ingestion'" .
+wiki:Q22245680 wikivoc:name "'Feature engineering'" .
+wiki:Q22245680 wiki_prop:P527 mathco:Data_Ingestion .
+wiki:Q22245680 wiki_prop:P527 mathco:Model_building_and_selection .
+mathco:Model_building_and_selection mathcovoc:name "'Model building and selection'" .
+wiki:Q22245680 wiki_prop:P527 mathco:Model_performance_monitoring .
+mathco:Model_performance_monitoring mathcovoc:name "'Model performance monitoring'" .
+mathco:Model_building_and_selection wiki_prop:P361 wiki:Q22245680 .
+mathco:Model_performance_monitoring wiki_prop:P361 wiki:Q22245680 .
+wiki:Q39546 wiki_prop:P1889 wiki:Q11016 .
+wiki:Q39546 wikivoc:name 'Tool' .
+wiki:Q11016 wikivoc:name 'Technology' .
+wiki:Q11016 wiki_prop:P1889 wiki:Q39546 .
+mathco:Infrastructure_provisioning wiki_prop:P279 wiki:Q209577 .
+mathco:Infrastructure_provisioning mathcovoc:name "'Infrastructure provisioning'" .
+wiki:Q209577 wikivoc:name 'Operation' .
+wiki:Q439664 wiki_prop:P279 wiki:Q209577 .
+wiki:Q2291388 wiki_prop:P279 wiki:Q209577 .
+wiki:Q2291388 wikivoc:name 'Scaling' .
+wiki:Q2023643 wiki_prop:P279 wiki:Q8074 .
+wiki:Q2023643 wikivoc:name "'On-premises software'" .
+wiki:Q8074 wikivoc:name 'Cloud' .
+wiki:Q1254596 wiki_prop:P279 wiki:Q294834 .
+wiki:Q1254596 wikivoc:name "'Software as a service'" .
+wiki:Q26287 wiki_prop:P361 mathco:client_environment .
+wiki:Q26287 wikivoc:name 'UI' .
+mathco:client_environment mathcovoc:name "'client environment'" .
+mathco:Co.dex wiki_prop:P31 wiki:Q294834 .
+mathco:Component_A wiki_prop:P31 mathco:Co.dex .
+mathco:Component_A mathcovoc:name "'Component A'" .
+wiki:Q8513 wiki_prop:P527 mathco:store_data .
+mathco:store_data mathcovoc:name "'store data'" .
+mathco:store_data wiki_prop:P361 wiki:Q8513 .
+wiki:Q7216332 wiki_prop:studies mathco:forecasting_models .
+wiki:Q7216332 wikivoc:name 'Forecasting' .
+mathco:forecasting_models mathcovoc:name "'forecasting models'" .
+mathco:forecasting_models wiki_prop:P2579 wiki:Q7216332 .
+wiki:Q2374463 wiki_prop:studies mathco:Storage_of_data .
+mathco:Storage_of_data mathcovoc:name "'Storage of data'" .
+mathco:Storage_of_data wiki_prop:P2579 wiki:Q2374463 .
+mathco:TheMathMarket wiki_prop:P366 wiki:Q7216332 .
+mathco:TheMathMarket mathcovoc:name 'TheMathMarket' .
+mathco:Jupyter_notebooks wiki_prop:P366 wiki:Q2374463 .
+mathco:Jupyter_notebooks mathcovoc:name "'Jupyter notebooks'" .
+mathco:automates wiki_prop:P279 wiki:Q402577 .
+mathco:automates mathcovoc:name 'automates' .
+wiki:Q402577 wikivoc:name 'Stuff' .
+wiki:Q43967068 wiki_prop:P1535 mathco:TheMathMarket .
+wiki:Q43967068 wikivoc:name "'Automated machine learning'" .
+mathco:TheMathMarket wiki_prop:P2283 wiki:Q43967068 .
+wiki:Q4043142 wiki_prop:P361 wiki:Q188889 .
+wiki:Q4043142 wikivoc:name 'Module' .
+wiki:Q188889 wikivoc:name 'Code' .
+wiki:Q7216332 wiki_prop:P279 wiki:Q294834 .
+mathco:Document_classifier wiki_prop:P279 wiki:Q294834 .
+mathco:Document_classifier mathcovoc:name "'Document classifier'" .
+mathco:TestAndLearn wiki_prop:P279 wiki:Q294834 .
+mathco:TestAndLearn mathcovoc:name 'TestAndLearn' .
+wiki:Q43967068 wiki_prop:P366 wiki:Q2374463 .
+wiki:Q220395 wiki_prop:P279 wiki:Q1796457 .
+wiki:Q220395 wikivoc:name 'Saturation' .
+wiki:Q1796457 wikivoc:name 'Product' .
+wiki:Q8567 wiki_prop:P585 wiki:Q2004 .
+wiki:Q8567 wikivoc:name "'2008 Summer Olympics'" .
+wiki:Q2004 wikivoc:name '2008' .
+wiki:Q483639 wiki_prop:P279 wiki:Q7252538 .
+wiki:Q483639 wikivoc:name "'Cloud computing'" .
+wiki:Q7252538 wikivoc:name 'Providers' .
+wiki:Q250313 wiki_prop:industry wiki:Q8074 .
+wiki:Q250313 wikivoc:name 'CSP' .
+wiki:Q2023643 wiki_prop:P461 wiki:Q250313 .
+wiki:Q16278284 wiki_prop:P527 wiki:Q8351206 .
+wiki:Q16278284 wikivoc:name 'Client' .
+wiki:Q8351206 wikivoc:name 'Firewall' .
+wiki:Q8351206 wiki_prop:P361 wiki:Q16278284 .
+mathco:Data_Scientist wiki_prop:P425 wiki:Q219113 .
+mathco:Data_Scientist mathcovoc:name "'Data Scientist'" .
+wiki:Q219113 wikivoc:name 'ML' .
+wiki:Q219113 wiki_prop:P3095 mathco:Data_Scientist .
+wiki:Q2374463 wiki_prop:P425 wiki:Q2374463 .
+wiki:Q2374463 wiki_prop:P3095 wiki:Q2374463 .
+mathco:Individual_standalone_applications wiki_prop:P361 wiki:Q218846 .
+mathco:Individual_standalone_applications mathcovoc:name "'Individual standalone applications'" .
+wiki:Q218846 wikivoc:name 'Enterprise' .
+wiki:Q218846 wiki_prop:P527 mathco:Individual_standalone_applications .
+mathco:This_is_great wiki_prop:P31 wiki:Q7889 .
+mathco:This_is_great mathcovoc:name "'This is great'" .
+wiki:Q7889 wikivoc:name "'Video game'" .
+mathco:TheMathMarket wiki_prop:P178 mathco:Co.dex .
+mathco:Srivatsathemath wiki_prop:P277 wiki:Q747452 .
+mathco:Srivatsathemath mathcovoc:name 'Srivatsathemath' .
+wiki:Q747452 wikivoc:name 'Python' .
+wiki:Q188889 wiki_prop:P361 wiki:Q2374463 .
+mathco:Knowledge_repository wiki_prop:P279 mathco:Collaboration_Platform .
+mathco:Knowledge_repository mathcovoc:name "'Knowledge repository'" .
+mathco:Collaboration_Platform mathcovoc:name "'Collaboration Platform'" .
+wiki:Q841774 wiki_prop:P527 wiki:Q8486 .
+wiki:Q841774 wikivoc:name 'Latte' .
+wiki:Q8486 wikivoc:name 'Coffee' .
+wiki:Q537769 wiki_prop:P279 wiki:Q13516686 .
+wiki:Q537769 wikivoc:name 'Hurdling' .
+wiki:Q13516686 wikivoc:name 'Expense' .
+mathco:SQL_Queries wiki_prop:P1535 mathco:Data_Scientist .
+mathco:SQL_Queries mathcovoc:name "'SQL Queries'" .
+mathco:data_on_cloud wiki_prop:P279 wiki:Q7385 .
+mathco:data_on_cloud mathcovoc:name "'data on cloud'" .
+wiki:Q7385 wikivoc:name 'Query' .
+wiki:Q192726 wiki_prop:P361 wiki:Q8074 .
+wiki:Q192726 wikivoc:name "'Virtual machine'" .
+wiki:Q226733 wiki_prop:P1889 wiki:Q218013 .
+wiki:Q226733 wikivoc:name 'Driver' .
+wiki:Q218013 wikivoc:name "'Binary file'" .
+wiki:Q218013 wiki_prop:P1889 wiki:Q226733 .
+mathco:Start_a_SQL_server wiki_prop:P1269 wiki:Q400708 .
+mathco:Start_a_SQL_server mathcovoc:name "'Start a SQL server'" .
+wiki:Q400708 wikivoc:name "'SQL Server'" .
+wiki:Q47607 wiki_prop:P1535 wiki:Q16278284 .
+wiki:Q47607 wikivoc:name 'SQL' .
+wiki:Q16278284 wiki_prop:P2283 wiki:Q47607 .
+wiki:Q7385 wiki_prop:P2283 wiki:Q400708 .
+wiki:Q226998 "wiki_prop:located in the administrative territorial entity" wiki:Q99 .
+wiki:Q226998 wikivoc:name 'Eureka' .
+wiki:Q99 wikivoc:name 'California' .
+wiki:Q99 "wiki_prop:contains administrative territorial entity" wiki:Q226998 .
+wiki:Q192726 wiki_prop:P527 wiki:Q235150 .
+wiki:Q235150 wikivoc:name 'VM' .
+wiki:Q235150 wiki_prop:P361 wiki:Q192726 .
+wiki:Q235150 wiki_prop:P361 wiki:Q4634266 .
+wiki:Q4634266 wikivoc:name '3.3' .
+wiki:Q4634266 wiki_prop:P527 wiki:Q235150 .
+mathco:Maintaining_the_VM wiki_prop:P1269 wiki:Q235150 .
+mathco:Maintaining_the_VM mathcovoc:name "'Maintaining the VM'" .
+wiki:Q668 "wiki_prop:contains administrative territorial entity" wiki:Q1356 .
+wiki:Q668 wikivoc:name 'India' .
+wiki:Q1356 wikivoc:name "'West Bengal'" .
+wiki:Q1356 "wiki_prop:located in the administrative territorial entity" wiki:Q668 .
+wiki:Q235150 wiki_prop:P527 wiki:Q257022 .
+wiki:Q257022 wikivoc:name 'Bill' .
+wiki:Q49127 wiki_prop:P361 wiki:Q13371 .
+wiki:Q49127 wikivoc:name "'Harvard Kennedy School'" .
+wiki:Q13371 wikivoc:name "'Harvard University'" .
+wiki:Q3958022 wiki_prop:P279 wiki:Q294834 .
+wiki:Q3958022 wikivoc:name "'Serverless computing'" .
+wiki:Q3958022 wiki_prop:P361 wiki:Q8074 .
+wiki:Q8074 wiki_prop:P527 mathco:requiredtriggered .
+mathco:requiredtriggered mathcovoc:name 'requiredtriggered' .
+mathco:requiredtriggered wiki_prop:P361 wiki:Q8074 .
+wiki:Q788331 wiki_prop:P527 wiki:Q492 .
+wiki:Q788331 wikivoc:name 'Function' .
+wiki:Q492 wikivoc:name 'Memory' .
+wiki:Q224617 wiki_prop:P279 wiki:Q146654 .
+wiki:Q224617 wikivoc:name 'Platform' .
+wiki:Q146654 wikivoc:name 'Solution' .
+wiki:Q456157 wiki_prop:subsidiary mathco:S3_-_Simple_Storage_Service .
+wiki:Q456157 wikivoc:name "'Amazon Web Services'" .
+mathco:S3_-_Simple_Storage_Service mathcovoc:name "'S3 - Simple Storage Service'" .
+mathco:S3_-_Simple_Storage_Service "wiki_prop:parent organization" wiki:Q456157 .
+wiki:Q838828 "wiki_prop:based on" wiki:Q2063 .
+wiki:Q838828 wikivoc:name 'Parquetry' .
+wiki:Q2063 wikivoc:name 'JSON' .
+wiki:Q2641220 wiki_prop:P279 wiki:Q35127 .
+wiki:Q2641220 wikivoc:name "'Static web page'" .
+wiki:Q35127 wikivoc:name 'Website' .
+wiki:Q37122 wiki_prop:P31 wiki:Q1137469 .
+wiki:Q37122 wikivoc:name 'Athena' .
+wiki:Q1137469 wikivoc:name 'Store' .
+wiki:Q245906 wiki_prop:P361 wiki:Q456157 .
+wiki:Q245906 wikivoc:name 'S3' .
+wiki:Q245906 wiki_prop:P31 wiki:Q8513 .
+wiki:Q33268 "wiki_prop:located in the administrative territorial entity" wiki:Q1445 .
+wiki:Q33268 wikivoc:name "'Bhojpuri language'" .
+wiki:Q1445 wikivoc:name "'Tamil Nadu'" .
+wiki:Q1445 "wiki_prop:contains administrative territorial entity" wiki:Q33268 .
+wiki:Q37122 wiki_prop:P31 wiki:Q3958022 .
+wiki:Q47607 wiki_prop:P31 wiki:Q315 .
+wiki:Q315 wikivoc:name 'Language' .
+mathco:custom_applications wiki_prop:P279 wiki:Q1696827 .
+mathco:custom_applications mathcovoc:name "'custom applications'" .
+wiki:Q1696827 wikivoc:name 'Visualization' .
+mathco:pay_per_query wiki_prop:P279 wiki:Q13516686 .
+mathco:pay_per_query mathcovoc:name "'pay per query'" .
+wiki:Q2063 wiki_prop:P31 wiki:Q235557 .
+wiki:Q235557 wikivoc:name "'File format'" .
+wiki:Q233727 wiki_prop:P31 wiki:Q235557 .
+wiki:Q233727 wikivoc:name 'CSV' .
+wiki:Q838828 wiki_prop:P31 wiki:Q235557 .
+wiki:Q437742 wiki_prop:P31 wiki:Q235557 .
+wiki:Q437742 wikivoc:name 'TSV' .
+wiki:Q8567 wiki_prop:location wiki:Q956 .
+wiki:Q956 wikivoc:name 'Beijing' .
+wiki:Q8567 wiki_prop:country wiki:Q148 .
+wiki:Q148 wikivoc:name 'China' .
+wiki:Q956 wiki_prop:country wiki:Q148 .
+wiki:Q148 wiki_prop:capital wiki:Q956 .
+wiki:Q1127460 wiki_prop:P361 wiki:Q456157 .
+wiki:Q1127460 wikivoc:name 'Console' .
+wiki:Q245906 wiki_prop:P366 wiki:Q1172284 .
+wiki:Q1172284 wikivoc:name "'Data set'" .
+mathco:S3_Bucket wiki_prop:P31 wiki:Q987767 .
+mathco:S3_Bucket mathcovoc:name "'S3 Bucket'" .
+wiki:Q987767 wikivoc:name 'Container' .
+wiki:Q37122 wiki_prop:P31 wiki:Q232576 .
+wiki:Q232576 wikivoc:name 'Service' .
+wiki:Q37122 "wiki_prop:number of episodes" wiki:Q203 .
+wiki:Q203 wikivoc:name '5' .
+mathco:Select_all_the_values_as_indicated_in_the_image wiki_prop:P279 wiki:Q478798 .
+mathco:Select_all_the_values_as_indicated_in_the_image mathcovoc:name "'Select all the values as indicated in the image'" .
+wiki:Q478798 wikivoc:name 'Image' .
+mathco:Create_a_new_database wiki_prop:P31 wiki:Q110484567 .
+mathco:Create_a_new_database mathcovoc:name "'Create a new database'" .
+wiki:Q110484567 wikivoc:name 'Dropdown' .
+mathco:Database_Name wiki_prop:P361 wiki:Q8513 .
+mathco:Database_Name mathcovoc:name "'Database Name'" .
+mathco:Table_Name wiki_prop:P361 wiki:Q14749 .
+mathco:Table_Name mathcovoc:name "'Table Name'" .
+wiki:Q14749 wikivoc:name 'Table' .
+wiki:Q245906 wiki_prop:P31 mathco:location_directory .
+mathco:location_directory mathcovoc:name "'location directory'" .
+mathco:Select_Next "wiki_prop:number of episodes" wiki:Q23488 .
+mathco:Select_Next mathcovoc:name "'Select Next'" .
+wiki:Q23488 wikivoc:name '6' .
+mathco:Data_Format wiki_prop:P361 wiki:Q23350 .
+mathco:Data_Format mathcovoc:name "'Data Format'" .
+wiki:Q23350 wikivoc:name '7' .
+wiki:Q23350 wiki_prop:P527 mathco:Data_Format .
+mathco:Bulk_add_Columns wiki_prop:P527 wiki:Q32043 .
+mathco:Bulk_add_Columns mathcovoc:name "'Bulk add Columns'" .
+wiki:Q32043 wikivoc:name 'Addition' .
+wiki:Q32043 wiki_prop:P361 mathco:Bulk_add_Columns .
+mathco:create_partitions wiki_prop:P527 mathco:Create_Table .
+mathco:create_partitions mathcovoc:name "'create partitions'" .
+mathco:Create_Table mathcovoc:name "'Create Table'" .
+mathco:Create_Table wiki_prop:P361 mathco:create_partitions .
+wiki:Q14749 "wiki_prop:has parts of the class" wiki:Q4817 .
+wiki:Q4817 wikivoc:name 'Column' .
+wiki:Q4817 wiki_prop:P361 wiki:Q14749 .
+wiki:Q343131 "wiki_prop:influenced by" wiki:Q28956992 .
+wiki:Q343131 wikivoc:name 'Tableau' .
+wiki:Q28956992 wikivoc:name 'DBeaver' .
+wiki:Q37122 wiki_prop:P361 wiki:Q456157 .
+wiki:Q437 wiki_prop:country wiki:Q215 .
+wiki:Q437 wikivoc:name 'Ljubljana' .
+wiki:Q215 wikivoc:name 'Slovenia' .
+wiki:Q215 wiki_prop:capital wiki:Q437 .
+mathco:API_Gateway wiki_prop:P366 wiki:Q212108 .
+mathco:API_Gateway mathcovoc:name "'API Gateway'" .
+wiki:Q212108 wikivoc:name 'Authentication' .
+wiki:Q440309 wiki_prop:P366 wiki:Q212108 .
+wiki:Q440309 wikivoc:name 'IAM' .
+wiki:Q10897 wiki_prop:P31 wiki:Q3958022 .
+wiki:Q10897 wikivoc:name 'Lambda' .
+wiki:Q37122 wiki_prop:P361 wiki:Q245906 .
+wiki:Q47607 wiki_prop:P366 wiki:Q217602 .
+wiki:Q217602 wikivoc:name 'Analysis' .
+wiki:Q37122 wiki_prop:P1056 mathco:analytical_products .
+mathco:analytical_products mathcovoc:name "'analytical products'" .
+wiki:Q3958022 wiki_prop:P31 wiki:Q28643 .
+wiki:Q28643 wikivoc:name 'Paradigm' .
+mathco:Engineering_Team wiki_prop:P425 wiki:Q11023 .
+mathco:Engineering_Team mathcovoc:name "'Engineering Team'" .
+wiki:Q11023 wikivoc:name 'Engineering' .
+wiki:Q11023 wiki_prop:P3095 mathco:Engineering_Team .
+wiki:Q906118 wiki_prop:P1269 mathco:NoSQL_in_the_Wild .
+wiki:Q906118 wikivoc:name 'Disclaimer' .
+mathco:NoSQL_in_the_Wild mathcovoc:name "'NoSQL in the Wild'" .
+wiki:Q5446584 wiki_prop:P279 wiki:Q105534017 .
+wiki:Q5446584 wikivoc:name 'Fictitious' .
+wiki:Q105534017 wikivoc:name 'Character' .
+wiki:Q2308809 wiki_prop:P279 wiki:Q254390 .
+wiki:Q2308809 wikivoc:name 'Coincidence' .
+wiki:Q254390 wikivoc:name 'Similarity' .
+mathco:Monday_morning wiki_prop:P585 wiki:Q105 .
+mathco:Monday_morning mathcovoc:name "'Monday morning'" .
+wiki:Q105 wikivoc:name 'Monday' .
+mathco:fitness_accessories wiki_prop:P279 wiki:Q339084 .
+mathco:fitness_accessories mathcovoc:name "'fitness accessories'" .
+wiki:Q339084 wikivoc:name 'Gadget' .
+wiki:Q13371 wiki_prop:subsidiary wiki:Q49127 .
+wiki:Q9158 wiki_prop:P527 wiki:Q83760 .
+wiki:Q9158 wikivoc:name 'Email' .
+wiki:Q83760 wikivoc:name 'Screen' .
+wiki:Q83760 wiki_prop:P361 wiki:Q9158 .
+mathco:Meeting_request wiki_prop:P279 wiki:Q49845 .
+mathco:Meeting_request mathcovoc:name "'Meeting request'" .
+wiki:Q49845 wikivoc:name 'Mail' .
+wiki:Q2294894 wiki_prop:P279 mathco:automated_message .
+wiki:Q2294894 wikivoc:name 'Bots' .
+mathco:automated_message mathcovoc:name "'automated message'" .
+wiki:Q361 wiki_prop:P156 wiki:Q362 .
+wiki:Q361 wikivoc:name "'World War I'" .
+wiki:Q362 wikivoc:name "'World War II'" .
+wiki:Q362 wiki_prop:P155 wiki:Q361 .
+wiki:Q918 wiki_prop:P1889 wiki:Q355 .
+wiki:Q918 wikivoc:name 'Twitter' .
+wiki:Q355 wikivoc:name 'Facebook' .
+wiki:Q355 wiki_prop:P1889 wiki:Q918 .
+wiki:Q294433 wiki_prop:P527 mathco:B.B.Fit .
+wiki:Q294433 wikivoc:name 'Fit' .
+mathco:B.B.Fit mathcovoc:name 'B.B.Fit' .
+mathco:B.B.Fit "wiki_prop:member of" wiki:Q294433 .
+wiki:Q95 "wiki_prop:owner of" wiki:Q187639 .
+wiki:Q95 wikivoc:name 'Google' .
+wiki:Q187639 wikivoc:name 'Chrome' .
+wiki:Q187639 wiki_prop:P178 wiki:Q95 .
+wiki:Q523402 wiki_prop:P1269 wiki:Q12147 .
+wiki:Q523402 wikivoc:name 'Fitness' .
+wiki:Q12147 wikivoc:name 'Health' .
+wiki:Q692 "wiki_prop:notable work" wiki:Q730212 .
+wiki:Q692 wikivoc:name "'William Shakespeare'" .
+wiki:Q730212 wikivoc:name 'Cymbeline' .
+wiki:Q730212 wiki_prop:P50 wiki:Q692 .
+mathco:step_counting wiki_prop:P279 wiki:Q1128697 .
+mathco:step_counting mathcovoc:name "'step counting'" .
+wiki:Q1128697 wikivoc:name 'Contest' .
+wiki:Q49117 wiki_prop:subsidiary wiki:Q1329269 .
+wiki:Q49117 wikivoc:name "'University of Pennsylvania'" .
+wiki:Q1329269 wikivoc:name "'Wharton School of the University of Pennsylvania'" .
+wiki:Q1329269 "wiki_prop:parent organization" wiki:Q49117 .
+mathco:track_their_steps wiki_prop:P279 wiki:Q6537379 .
+mathco:track_their_steps mathcovoc:name "'track their steps'" .
+wiki:Q6537379 wikivoc:name 'Walking' .
+mathco:ChemCo wiki_prop:P1056 mathco:counting_and_reporting_their_steps .
+mathco:ChemCo mathcovoc:name 'ChemCo' .
+mathco:counting_and_reporting_their_steps mathcovoc:name "'counting and reporting their steps'" .
+wiki:Q289 wiki_prop:P527 wiki:Q83760 .
+wiki:Q289 wikivoc:name 'Television' .
+wiki:Q83760 wiki_prop:P361 wiki:Q289 .
+wiki:Q202833 wiki_prop:P31 wiki:Q109406 .
+wiki:Q202833 wikivoc:name "'Social media'" .
+wiki:Q109406 wikivoc:name 'Network' .
+wiki:Q294433 wiki_prop:P1056 wiki:Q17126099 .
+wiki:Q17126099 wikivoc:name "'Health and usage monitoring systems'" .
+wiki:Q456120 wiki_prop:P1056 wiki:Q49008 .
+wiki:Q456120 wikivoc:name 'Amazon' .
+wiki:Q49008 wikivoc:name "'Prime number'" .
+wiki:Q49008 "wiki_prop:owned by" wiki:Q456120 .
+wiki:Q8074 wiki_prop:P279 wiki:Q42848 .
+wiki:Q126793 wiki_prop:P527 wiki:Q1137469 .
+wiki:Q126793 wikivoc:name 'Retail' .
+wiki:Q1137469 wiki_prop:P361 wiki:Q126793 .
+wiki:Q858810 wiki_prop:P31 wiki:Q6554155 .
+wiki:Q858810 wikivoc:name "'Big data'" .
+wiki:Q6554155 wikivoc:name 'Challenge' .
+wiki:Q42848 wiki_prop:P2579 mathco:analysed .
+mathco:analysed mathcovoc:name 'analysed' .
+mathco:analysed wiki_prop:studies wiki:Q42848 .
+wiki:Q233269 wiki_prop:P279 wiki:Q2085877 .
+wiki:Q233269 wikivoc:name 'Promotion' .
+wiki:Q2085877 wikivoc:name 'Offers' .
+mathco:sales_numbers wiki_prop:P31 wiki:Q235660 .
+mathco:sales_numbers mathcovoc:name "'sales numbers'" .
+wiki:Q235660 wikivoc:name 'Metric' .
+wiki:Q3335 "wiki_prop:notable work" wiki:Q208460 .
+wiki:Q3335 wikivoc:name "'George Orwell'" .
+wiki:Q208460 wikivoc:name "'Nineteen Eighty-Four'" .
+wiki:Q208460 wiki_prop:P50 wiki:Q3335 .
+wiki:Q19931398 wiki_prop:P31 wiki:Q7390 .
+wiki:Q19931398 wikivoc:name "'Excuse Me'" .
+wiki:Q7390 wikivoc:name "'Human voice'" .
+wiki:Q9696 "wiki_prop:significant event" wiki:Q3882219 .
+wiki:Q9696 wikivoc:name "'John F. Kennedy'" .
+wiki:Q3882219 wikivoc:name 'Assassination' .
+wiki:Q3882219 wiki_prop:P1269 wiki:Q9696 .
+wiki:Q1406 wiki_prop:P31 wiki:Q9135 .
+wiki:Q1406 wikivoc:name "'Microsoft Windows'" .
+wiki:Q9135 wikivoc:name "'Operating system'" .
+wiki:Q486487 wiki_prop:P31 wiki:Q9135 .
+wiki:Q486487 wikivoc:name "'Windows NT'" .
+wiki:Q9135 wiki_prop:P527 wiki:Q42848 .
+wiki:Q42848 wiki_prop:P361 wiki:Q9135 .
+wiki:Q42848 wiki_prop:P361 wiki:Q1201101 .
+wiki:Q1201101 wikivoc:name 'Fields' .
+wiki:Q1201101 wiki_prop:P527 wiki:Q42848 .
+wiki:Q2233315 wiki_prop:P361 wiki:Q82604 .
+wiki:Q2233315 wikivoc:name 'Schema' .
+wiki:Q82604 wikivoc:name 'Design' .
+mathco:No_sequel wiki_prop:presenter wiki:Q5669212 .
+mathco:No_sequel mathcovoc:name "'No sequel'" .
+wiki:Q5669212 wikivoc:name 'Analyst' .
+wiki:Q47607 wiki_prop:P1535 wiki:Q400708 .
+wiki:Q42848 wiki_prop:P1535 wiki:Q8513 .
+wiki:Q8513 wiki_prop:P2283 wiki:Q42848 .
+wiki:Q11272 wiki_prop:P1889 mathco:up_for_it .
+wiki:Q11272 wikivoc:name "'Microsoft Excel'" .
+mathco:up_for_it mathcovoc:name "'up for it'" .
+mathco:up_for_it wiki_prop:P1889 wiki:Q11272 .
+wiki:Q82231 wiki_prop:P279 wiki:Q8513 .
+wiki:Q82231 wikivoc:name 'NoSQL' .
+mathco:Ohhh wiki_prop:performer wiki:Q398635 .
+mathco:Ohhh mathcovoc:name 'Ohhh' .
+wiki:Q398635 wikivoc:name 'Charlie' .
+mathco:non-relational wiki_prop:P461 wiki:Q192588 .
+mathco:non-relational mathcovoc:name 'non-relational' .
+wiki:Q192588 wikivoc:name "'Relational database'" .
+wiki:Q192588 wiki_prop:P461 mathco:non-relational .
+wiki:Q47607 wiki_prop:P31 wiki:Q845739 .
+wiki:Q845739 wikivoc:name "'Query language'" .
+wiki:Q236973 wiki_prop:P279 wiki:Q1141900 .
+wiki:Q236973 wikivoc:name 'Semi' .
+wiki:Q1141900 wikivoc:name "'Unstructured data'" .
+wiki:Q14749 wiki_prop:P527 wiki:Q4817 .
+mathco:rows wiki_prop:P361 wiki:Q14749 .
+mathco:rows mathcovoc:name 'rows' .
+wiki:Q192588 wiki_prop:P461 mathco:NoSQL_database .
+mathco:NoSQL_database mathcovoc:name "'NoSQL database'" .
+mathco:NoSQL_database wiki_prop:P461 wiki:Q192588 .
+mathco:Werent_you_the_one_just_going_off_about_how_you_were_unable_to_think_about_storing_customer_data wiki_prop:P1889 mathco:how_you_were_unable_to_think_about_storing_customer_data .
+mathco:Werent_you_the_one_just_going_off_about_how_you_were_unable_to_think_about_storing_customer_data mathcovoc:name "'Werent you the one just going off about how you were unable to think about storing customer data'" .
+mathco:how_you_were_unable_to_think_about_storing_customer_data mathcovoc:name "'how you were unable to think about storing customer data'" .
+mathco:how_you_were_unable_to_think_about_storing_customer_data wiki_prop:P1889 mathco:Werent_you_the_one_just_going_off_about_how_you_were_unable_to_think_about_storing_customer_data .
+mathco:rows wiki_prop:P461 wiki:Q4817 .
+wiki:Q4817 wiki_prop:P461 mathco:rows .
+wiki:Q192588 wiki_prop:P279 wiki:Q166142 .
+wiki:Q166142 wikivoc:name "'Application software'" .
+wiki:Q2011843 wiki_prop:P1535 wiki:Q3679160 .
+wiki:Q2011843 wikivoc:name 'Object' .
+wiki:Q3679160 wikivoc:name 'Class' .
+wiki:Q3679160 wiki_prop:P527 wiki:Q2011843 .
+wiki:Q226611 wiki_prop:P279 wiki:Q42848 .
+wiki:Q226611 wikivoc:name 'Attribute' .
+wiki:Q2233315 wiki_prop:P1269 wiki:Q192588 .
+wiki:Q14749 wiki_prop:P361 wiki:Q192588 .
+wiki:Q4817 wiki_prop:P361 wiki:Q192588 .
+mathco:tabular_data wiki_prop:P279 wiki:Q6671777 .
+mathco:tabular_data mathcovoc:name "'tabular data'" .
+wiki:Q6671777 wikivoc:name 'Structure' .
+mathco:wide-column_format "wiki_prop:has parts of the class" wiki:Q241124 .
+mathco:wide-column_format mathcovoc:name "'wide-column format'" .
+wiki:Q241124 wikivoc:name 'Row' .
+wiki:Q241124 wiki_prop:P361 mathco:wide-column_format .
+wiki:Q4818718 wiki_prop:P527 wiki:Q188675 .
+wiki:Q4818718 wikivoc:name "'Name–value pair'" .
+wiki:Q188675 wikivoc:name 'Signature' .
+wiki:Q4818718 wiki_prop:P527 wiki:Q299807 .
+wiki:Q299807 wikivoc:name 'Hash' .
+wiki:Q188675 wiki_prop:P361 wiki:Q4818718 .
+wiki:Q299807 wiki_prop:P361 wiki:Q4818718 .
+wiki:Q281876 "wiki_prop:based on" wiki:Q2115 .
+wiki:Q281876 wikivoc:name 'YAML' .
+wiki:Q2115 wikivoc:name 'XML' .
+mathco:tabular_format wiki_prop:P279 mathco:translatable .
+mathco:tabular_format mathcovoc:name "'tabular format'" .
+mathco:translatable mathcovoc:name 'translatable' .
+mathco:specialized_database wiki_prop:P279 wiki:Q8513 .
+mathco:specialized_database mathcovoc:name "'specialized database'" .
+wiki:Q82231 wiki_prop:P460 mathco:better_or_worse? .
+mathco:better_or_worse? mathcovoc:name "'better or worse?'" .
+mathco:better_or_worse? wiki_prop:P460 wiki:Q82231 .
+wiki:Q25294 wiki_prop:P1889 wiki:Q161071 .
+wiki:Q25294 wikivoc:name 'Hammer' .
+wiki:Q161071 wikivoc:name 'Screwdriver' .
+wiki:Q161071 wiki_prop:P1889 wiki:Q25294 .
+wiki:Q294834 wiki_prop:P527 wiki:Q8513 .
+mathco:Atomic,_Consistent,_Isolated_and wiki_prop:P279 wiki:Q279242 .
+mathco:Atomic,_Consistent,_Isolated_and mathcovoc:name "'Atomic, Consistent, Isolated and'" .
+wiki:Q279242 wikivoc:name 'Transaction' .
+wiki:Q10269116 wiki_prop:P279 wiki:Q279242 .
+wiki:Q10269116 wikivoc:name 'Durability' .
+mathco:BASE_Basic_Availability,_Soft-State,_Eventual_Consistency wiki_prop:P279 wiki:Q82231 .
+mathco:BASE_Basic_Availability,_Soft-State,_Eventual_Consistency mathcovoc:name "'BASE Basic Availability, Soft-State, Eventual Consistency'" .
+wiki:Q1319773 wiki_prop:P279 wiki:Q8513 .
+wiki:Q1319773 wikivoc:name 'Consistency' .
+wiki:Q384871 wiki_prop:P279 wiki:Q8513 .
+wiki:Q384871 wikivoc:name 'Availability' .
+wiki:Q298708 wiki_prop:P279 wiki:Q8513 .
+wiki:Q298708 wikivoc:name 'Partition' .
+wiki:Q856032 wiki_prop:P31 wiki:Q65943 .
+wiki:Q856032 wikivoc:name "'CAP theorem'" .
+wiki:Q65943 wikivoc:name 'Theorem' .
+mathco:transactional_consistency wiki_prop:P279 wiki:Q82231 .
+mathco:transactional_consistency mathcovoc:name "'transactional consistency'" .
+wiki:Q39546 wiki_prop:P366 mathco:right_job .
+mathco:right_job mathcovoc:name "'right job'" .
+mathco:right_job "wiki_prop:item operated" wiki:Q39546 .
+wiki:Q192588 wiki_prop:P461 wiki:Q82231 .
+wiki:Q82231 wiki_prop:P461 wiki:Q192588 .
+wiki:Q60 "wiki_prop:twinned administrative body" wiki:Q84 .
+wiki:Q60 wikivoc:name "'New York City'" .
+wiki:Q84 wikivoc:name 'London' .
+wiki:Q60 "wiki_prop:twinned administrative body" wiki:Q90 .
+wiki:Q90 wikivoc:name 'Paris' .
+wiki:Q84 "wiki_prop:twinned administrative body" wiki:Q60 .
+wiki:Q84 "wiki_prop:twinned administrative body" wiki:Q90 .
+wiki:Q90 "wiki_prop:twinned administrative body" wiki:Q60 .
+wiki:Q90 "wiki_prop:twinned administrative body" wiki:Q84 .
+wiki:Q25110688 wiki_prop:P279 mathco:storage_technologies .
+wiki:Q25110688 wikivoc:name "'Polyglot persistence'" .
+mathco:storage_technologies mathcovoc:name "'storage technologies'" .
+wiki:Q8513 wiki_prop:P31 wiki:Q15663256 .
+wiki:Q15663256 wikivoc:name 'Lit' .
+wiki:Q1000371 wiki_prop:P1269 wiki:Q258567 .
+wiki:Q1000371 wikivoc:name 'Personalization' .
+wiki:Q258567 wikivoc:name 'User' .
+wiki:Q37732 wiki_prop:P279 wiki:Q2438718 .
+wiki:Q37732 wikivoc:name 'Demography' .
+wiki:Q2438718 wikivoc:name 'Datapoint' .
+wiki:Q7574031 wiki_prop:P279 wiki:Q2438718 .
+wiki:Q7574031 wikivoc:name 'Spatial' .
+wiki:Q9332 wiki_prop:P279 wiki:Q2438718 .
+wiki:Q9332 wikivoc:name 'Behavior' .
+wiki:Q165596 wiki_prop:P279 wiki:Q166142 .
+wiki:Q165596 wikivoc:name "'Cache (computing)'" .
+wiki:Q165596 wiki_prop:P1269 mathco:application_object .
+mathco:application_object mathcovoc:name "'application object'" .
+wiki:Q485396 wiki_prop:studies wiki:Q42848 .
+wiki:Q485396 wikivoc:name 'Analytics' .
+wiki:Q42848 wiki_prop:P2579 wiki:Q485396 .
+mathco:unstructured wiki_prop:P279 wiki:Q42848 .
+mathco:unstructured mathcovoc:name 'unstructured' .
+mathco:voice_input wiki_prop:P279 mathco:Data_capture .
+mathco:voice_input mathcovoc:name "'voice input'" .
+mathco:Data_capture mathcovoc:name "'Data capture'" .
+wiki:Q8513 wiki_prop:P279 wiki:Q82231 .
+mathco:Product_in_Practice wiki_prop:P279 wiki:Q3401405 .
+mathco:Product_in_Practice mathcovoc:name "'Product in Practice'" .
+wiki:Q3401405 wikivoc:name 'Practice' .
+wiki:Q26256512 wiki_prop:P460 wiki:Q190258 .
+wiki:Q26256512 wikivoc:name 'Want' .
+wiki:Q190258 wikivoc:name 'Need' .
+wiki:Q190258 wiki_prop:P460 wiki:Q26256512 .
+wiki:Q1796457 wiki_prop:P1542 wiki:Q2097626 .
+wiki:Q2097626 wikivoc:name 'Delivered' .
+wiki:Q2097626 wiki_prop:P828 wiki:Q1796457 .
+wiki:Q5418725 wiki_prop:P1269 mathco:evolve_over_time .
+wiki:Q5418725 wikivoc:name 'Evolve' .
+mathco:evolve_over_time mathcovoc:name "'evolve over time'" .
+wiki:Q164359 wiki_prop:P279 wiki:Q205961 .
+wiki:Q164359 wikivoc:name 'Experience' .
+wiki:Q205961 wikivoc:name 'Skill' .
+wiki:Q82604 wiki_prop:P1889 wiki:Q1002975 .
+wiki:Q1002975 wikivoc:name 'Build' .
+wiki:Q11424 wiki_prop:P279 wiki:Q1780667 .
+wiki:Q11424 wikivoc:name 'Film' .
+wiki:Q1780667 wikivoc:name "'Product management'" .
+wiki:Q79759 "wiki_prop:notable work" wiki:Q28754 .
+wiki:Q79759 wikivoc:name "'John Milton'" .
+wiki:Q28754 wikivoc:name "'Paradise Lost'" .
+wiki:Q28754 wiki_prop:P50 wiki:Q79759 .
+mathco:Visualize_it wiki_prop:P460 mathco:break_it .
+mathco:Visualize_it mathcovoc:name "'Visualize it'" .
+mathco:break_it mathcovoc:name "'break it'" .
+mathco:break_it wiki_prop:P460 mathco:Visualize_it .
+mathco:Rome_wasnt_built_in_a_day wiki_prop:P1889 wiki:Q3612216 .
+mathco:Rome_wasnt_built_in_a_day mathcovoc:name "'Rome wasnt built in a day'" .
+wiki:Q3612216 wikivoc:name "'All at Once'" .
+wiki:Q3612216 wiki_prop:P1889 mathco:Rome_wasnt_built_in_a_day .
+wiki:Q1344886 wiki_prop:P921 wiki:Q269608 .
+wiki:Q1344886 wikivoc:name 'Paycheck' .
+wiki:Q269608 wikivoc:name "'Reverse engineering'" .
+mathco:predict_the_future_accurately wiki_prop:P279 mathco:accurately .
+mathco:predict_the_future_accurately mathcovoc:name "'predict the future accurately'" .
+mathco:accurately mathcovoc:name 'accurately' .
+wiki:Q3 wiki_prop:P527 wiki:Q316 .
+wiki:Q3 wikivoc:name 'Life' .
+wiki:Q316 wikivoc:name 'Love' .
+wiki:Q316 wiki_prop:P361 wiki:Q3 .
+mathco:the_future_would_be_like wiki_prop:P31 wiki:Q1714531 .
+mathco:the_future_would_be_like mathcovoc:name "'the future would be like'" .
+wiki:Q1714531 wikivoc:name 'Vision' .
+mathco:Breaking_it_into_smaller_components wiki_prop:P279 wiki:Q403758 .
+mathco:Breaking_it_into_smaller_components mathcovoc:name "'Breaking it into smaller components'" .
+wiki:Q403758 wikivoc:name "'Milestone (disambiguation)'" .
+wiki:Q269608 wiki_prop:P2283 mathco:items_that_will_help .
+mathco:items_that_will_help mathcovoc:name "'items that will help'" .
+mathco:items_that_will_help wiki_prop:P1535 wiki:Q269608 .
+wiki:Q901875 wiki_prop:P279 wiki:Q4503831 .
+wiki:Q901875 wikivoc:name "'Step by Step'" .
+wiki:Q4503831 wikivoc:name 'Goal' .
+mathco:grand_vision wiki_prop:P1269 mathco:business_leaders .
+mathco:grand_vision mathcovoc:name "'grand vision'" .
+mathco:business_leaders mathcovoc:name "'business leaders'" .
+wiki:Q323 wiki_prop:P1542 wiki:Q3705086 .
+wiki:Q323 wikivoc:name "'Big Bang'" .
+wiki:Q3705086 wikivoc:name 'Delivery' .
+wiki:Q37813 wiki_prop:P279 wiki:Q1796457 .
+wiki:Q37813 wikivoc:name 'Ecosystem' .
+wiki:Q652965 wiki_prop:P1269 wiki:Q1543216 .
+wiki:Q652965 wikivoc:name "'Most valuable player'" .
+wiki:Q1543216 wikivoc:name "'Iterative and incremental development'" .
+wiki:Q11424 wiki_prop:P527 wiki:Q11424 .
+wiki:Q11424 wiki_prop:P179 wiki:Q11424 .
+mathco:VyowPMW7U48 wiki_prop:P31 wiki:Q230175 .
+mathco:VyowPMW7U48 mathcovoc:name 'VyowPMW7U48' .
+wiki:Q230175 wikivoc:name 'Trailer' .
+wiki:Q8045802 wiki_prop:P460 wiki:Q299427 .
+wiki:Q8045802 wikivoc:name 'Y?' .
+wiki:Q299427 wikivoc:name 'Big' .
+wiki:Q299427 wiki_prop:P460 wiki:Q8045802 .
+wiki:Q29915750 "wiki_prop:located in the administrative territorial entity" wiki:Q2397602 .
+wiki:Q29915750 wikivoc:name "'List of Baahubali characters'" .
+wiki:Q2397602 wikivoc:name 'Bahubali' .
+wiki:Q6331071 "wiki_prop:language used" wiki:Q85782922 .
+wiki:Q6331071 wikivoc:name 'KYUN' .
+wiki:Q85782922 wikivoc:name 'Maara' .
+mathco:the_question_that_perplexed_a_lot_of_brains_for_almost_two_years wiki_prop:P527 mathco:almost_two_years .
+mathco:the_question_that_perplexed_a_lot_of_brains_for_almost_two_years mathcovoc:name "'the question that perplexed a lot of brains for almost two years'" .
+mathco:almost_two_years mathcovoc:name "'almost two years'" .
+mathco:almost_two_years wiki_prop:P361 mathco:the_question_that_perplexed_a_lot_of_brains_for_almost_two_years .
+wiki:Q460387 wiki_prop:P361 mathco:product_team .
+wiki:Q460387 wikivoc:name "'Scrum (software development)'" .
+mathco:product_team mathcovoc:name "'product team'" .
+mathco:product_team wiki_prop:P527 wiki:Q460387 .
+wiki:Q258567 wiki_prop:P2283 wiki:Q1796457 .
+wiki:Q1796457 wiki_prop:P1535 wiki:Q258567 .
+mathco:Why_they_do_what_they_do wiki_prop:P279 wiki:Q1382703 .
+mathco:Why_they_do_what_they_do mathcovoc:name "'Why they do what they do'" .
+wiki:Q1382703 wikivoc:name 'Context' .
+wiki:Q1796457 wiki_prop:P1535 wiki:Q852835 .
+wiki:Q852835 wikivoc:name 'Customer' .
+wiki:Q852835 wiki_prop:P2283 wiki:Q1796457 .
+wiki:Q258567 wiki_prop:P527 wiki:Q1796457 .
+wiki:Q1796457 wiki_prop:P361 wiki:Q258567 .
+wiki:Q203363 wiki_prop:P279 wiki:Q6136054 .
+wiki:Q203363 wikivoc:name 'No' .
+wiki:Q6136054 wikivoc:name 'Guessing' .
+mathco:VG62HrubdD6o "wiki_prop:number of episodes" wiki:Q201 .
+mathco:VG62HrubdD6o mathcovoc:name 'VG62HrubdD6o' .
+wiki:Q201 wikivoc:name '3' .
+mathco:Cross-functional wiki_prop:P279 wiki:Q7669922 .
+mathco:Cross-functional mathcovoc:name 'Cross-functional' .
+wiki:Q7669922 wikivoc:name 'TEAMS' .
+wiki:Q188561 wiki_prop:P1269 wiki:Q188561 .
+wiki:Q188561 wikivoc:name 'Work' .
+wiki:Q847 wiki_prop:P2283 wiki:Q41487 .
+wiki:Q847 wikivoc:name 'Tennis' .
+wiki:Q41487 wikivoc:name 'Court' .
+wiki:Q41487 wiki_prop:sport wiki:Q847 .
+mathco:bun_dresser wiki_prop:P279 mathco:multi_mixer .
+mathco:bun_dresser mathcovoc:name "'bun dresser'" .
+mathco:multi_mixer mathcovoc:name "'multi mixer'" .
+wiki:Q60 "wiki_prop:contains administrative territorial entity" wiki:Q11299 .
+wiki:Q11299 wikivoc:name 'Manhattan' .
+wiki:Q11299 "wiki_prop:located in the administrative territorial entity" wiki:Q60 .
+wiki:Q82604 wiki_prop:P361 wiki:Q11023 .
+wiki:Q742736 wiki_prop:P279 mathco:blinkered .
+wiki:Q742736 wikivoc:name 'Bias' .
+mathco:blinkered mathcovoc:name 'blinkered' .
+mathco:who_are_these_brothers? wiki_prop:P360 wiki:Q10861465 .
+mathco:who_are_these_brothers? mathcovoc:name "'who are these brothers?'" .
+wiki:Q10861465 wikivoc:name 'Brother' .
+mathco:VAX2uz2XYkbo "wiki_prop:number of episodes" wiki:Q202 .
+mathco:VAX2uz2XYkbo mathcovoc:name 'VAX2uz2XYkbo' .
+wiki:Q202 wikivoc:name '4' .
+wiki:Q194112 wiki_prop:P1269 wiki:Q445415 .
+wiki:Q194112 wikivoc:name "'Value (ethics and social sciences)'" .
+wiki:Q445415 wikivoc:name 'True' .
+wiki:Q404866 wiki_prop:P425 wiki:Q5372 .
+wiki:Q404866 wikivoc:name 'Coach' .
+wiki:Q5372 wikivoc:name 'Basketball' .
+mathco:best_we_can_be wiki_prop:P31 mathco:truest_values .
+mathco:best_we_can_be mathcovoc:name "'best we can be'" .
+mathco:truest_values mathcovoc:name "'truest values'" .
+mathco:Product_team wiki_prop:P1056 wiki:Q1796457 .
+mathco:Product_team mathcovoc:name "'Product team'" .
+wiki:Q1796457 wiki_prop:P176 mathco:Product_team .
+mathco:big_why wiki_prop:P1269 wiki:Q7981 .
+mathco:big_why mathcovoc:name "'big why'" .
+wiki:Q7981 wikivoc:name "'Lluís Companys'" .
+mathco:product_decisions wiki_prop:P1542 mathco:interactions_with_your_customers .
+mathco:product_decisions mathcovoc:name "'product decisions'" .
+mathco:interactions_with_your_customers mathcovoc:name "'interactions with your customers'" .
+mathco:interactions_with_your_customers wiki_prop:P828 mathco:product_decisions .
+wiki:Q404866 wiki_prop:P425 wiki:Q353589 .
+wiki:Q353589 wikivoc:name 'Player' .
+wiki:Q353589 wiki_prop:P3095 wiki:Q404866 .
+mathco:VznyAnWUYf2g "wiki_prop:number of episodes" wiki:Q203 .
+mathco:VznyAnWUYf2g mathcovoc:name 'VznyAnWUYf2g' .
+mathco:cut_the_waste wiki_prop:P1269 wiki:Q45701 .
+mathco:cut_the_waste mathcovoc:name "'cut the waste'" .
+wiki:Q45701 wikivoc:name 'Waste' .
+wiki:Q233269 wiki_prop:P461 wiki:Q7312191 .
+wiki:Q7312191 wikivoc:name 'Removal' .
+wiki:Q7312191 wiki_prop:P461 wiki:Q233269 .
+wiki:Q1796457 wiki_prop:P361 wiki:Q327245 .
+wiki:Q327245 wikivoc:name 'Team' .
+wiki:Q327245 wiki_prop:P1056 wiki:Q1796457 .
+wiki:Q16782317 wiki_prop:P361 wiki:Q82604 .
+wiki:Q16782317 wikivoc:name 'Feature' .
+wiki:Q258567 wiki_prop:P1889 wiki:Q852835 .
+wiki:Q852835 wiki_prop:P1889 wiki:Q258567 .
+wiki:Q146654 wiki_prop:P461 wiki:Q730920 .
+wiki:Q730920 wikivoc:name "'Problem solving'" .
+wiki:Q730920 wiki_prop:P461 wiki:Q146654 .
+wiki:Q852835 wiki_prop:P527 wiki:Q3049084 .
+wiki:Q3049084 wikivoc:name 'Effort' .
+wiki:Q3049084 wiki_prop:P361 wiki:Q852835 .
+wiki:Q1624317 wiki_prop:P1269 mathco:up_to_you .
+wiki:Q1624317 wikivoc:name "'English modal verbs'" .
+mathco:up_to_you mathcovoc:name "'up to you'" .
+mathco:Adapt,_Survive,_Succeed wiki_prop:P460 wiki:Q190580 .
+mathco:Adapt,_Survive,_Succeed mathcovoc:name "'Adapt, Survive, Succeed'" .
+wiki:Q190580 wikivoc:name 'As' .
+wiki:Q190580 wiki_prop:P460 mathco:Adapt,_Survive,_Succeed .
+wiki:Q483921 wiki_prop:P279 wiki:Q104482419 .
+wiki:Q483921 wikivoc:name 'Adaptation' .
+wiki:Q104482419 wikivoc:name 'Survival' .
+mathco:Spearing_fish wiki_prop:P279 mathco:making_fires .
+mathco:Spearing_fish mathcovoc:name "'Spearing fish'" .
+mathco:making_fires mathcovoc:name "'making fires'" .
+wiki:Q1663740 wiki_prop:P279 wiki:Q16782317 .
+wiki:Q1663740 wikivoc:name 'Incrementalism' .
+mathco:Product_leader wiki_prop:P425 mathco:user_feedback .
+mathco:Product_leader mathcovoc:name "'Product leader'" .
+mathco:user_feedback mathcovoc:name "'user feedback'" .
+mathco:user_feedback wiki_prop:P3095 mathco:Product_leader .
+wiki:Q913709 wiki_prop:P279 wiki:Q42240 .
+wiki:Q913709 wikivoc:name "'Market research'" .
+wiki:Q42240 wikivoc:name 'Research' .
+wiki:Q218734 wiki_prop:P31 wiki:Q11424 .
+wiki:Q218734 wikivoc:name 'If' .
+wiki:Q1165897 wiki_prop:P31 wiki:Q11424 .
+wiki:Q1165897 wikivoc:name 'You' .
+mathco:V2TWYDogv4WQ "wiki_prop:number of episodes" wiki:Q23350 .
+mathco:V2TWYDogv4WQ mathcovoc:name 'V2TWYDogv4WQ' .
+mathco:Embrace_the_power_of_stories wiki_prop:P1269 wiki:Q958511 .
+mathco:Embrace_the_power_of_stories mathcovoc:name "'Embrace the power of stories'" .
+wiki:Q958511 wikivoc:name 'Story' .
+mathco:theres_nothing_more_powerful_than_a_good_story wiki_prop:P31 wiki:Q958511 .
+mathco:theres_nothing_more_powerful_than_a_good_story mathcovoc:name "'theres nothing more powerful than a good story'" .
+mathco:the_greatest_story wiki_prop:P1269 wiki:Q189233 .
+mathco:the_greatest_story mathcovoc:name "'the greatest story'" .
+wiki:Q189233 wikivoc:name 'Throne' .
+wiki:Q33742 wiki_prop:P1535 wiki:Q2429814 .
+wiki:Q33742 wikivoc:name "'Natural language'" .
+wiki:Q2429814 wikivoc:name "'Software system'" .
+wiki:Q2429814 wiki_prop:P2283 wiki:Q33742 .
+mathco:technical_risk wiki_prop:P279 wiki:Q104493 .
+mathco:technical_risk mathcovoc:name "'technical risk'" .
+wiki:Q104493 wikivoc:name 'Risk' .
+wiki:Q1337875 wiki_prop:P279 wiki:Q104493 .
+wiki:Q1337875 wikivoc:name "'Financial risk'" .
+wiki:Q832045 wiki_prop:P279 wiki:Q104493 .
+wiki:Q832045 wikivoc:name "'Business risks'" .
+mathco:The_closing_thought wiki_prop:P50 wiki:Q9696 .
+mathco:The_closing_thought mathcovoc:name "'The closing thought'" .
+mathco:compelling_story wiki_prop:P279 wiki:Q958511 .
+mathco:compelling_story mathcovoc:name "'compelling story'" .
+wiki:Q327245 wiki_prop:P527 wiki:Q1796457 .
+wiki:Q852835 wiki_prop:P1542 mathco:respond_accordingly .
+mathco:respond_accordingly mathcovoc:name "'respond accordingly'" .
+mathco:respond_accordingly wiki_prop:P1269 wiki:Q852835 .
+mathco:market_innovations wiki_prop:P279 wiki:Q476300 .
+mathco:market_innovations mathcovoc:name "'market innovations'" .
+wiki:Q476300 wikivoc:name 'Competition' .
+wiki:Q7247761 wiki_prop:P279 wiki:Q11023 .
+wiki:Q7247761 wikivoc:name "'Product engineering'" .
+mathco:All_About_DevOps wiki_prop:P921 wiki:Q3025536 .
+mathco:All_About_DevOps mathcovoc:name "'All About DevOps'" .
+wiki:Q3025536 wikivoc:name 'DevOps' .
+wiki:Q3025536 wiki_prop:P361 wiki:Q209577 .
+wiki:Q209577 wiki_prop:P527 wiki:Q3025536 .
+wiki:Q3025536 wiki_prop:P361 wiki:Q340724 .
+wiki:Q3025536 wiki_prop:P31 wiki:Q11042 .
+wiki:Q11042 wikivoc:name 'Culture' .
+mathco:Early_release_cycles wiki_prop:P156 wiki:Q298021 .
+mathco:Early_release_cycles mathcovoc:name "'Early release cycles'" .
+wiki:Q298021 wikivoc:name 'Long' .
+wiki:Q298021 wiki_prop:P155 mathco:Early_release_cycles .
+wiki:Q409857 wiki_prop:P1889 wiki:Q209577 .
+wiki:Q409857 wikivoc:name 'Developer' .
+wiki:Q209577 wiki_prop:P1889 wiki:Q409857 .
+wiki:Q408125 wiki_prop:P461 wiki:Q859392 .
+wiki:Q408125 wikivoc:name 'Dev' .
+wiki:Q859392 wikivoc:name 'Ops' .
+wiki:Q859392 wiki_prop:P461 wiki:Q408125 .
+wiki:Q351889 wiki_prop:P361 wiki:Q3025536 .
+wiki:Q351889 wikivoc:name 'Release' .
+wiki:Q3025536 wiki_prop:P279 wiki:Q184199 .
+wiki:Q184199 wikivoc:name 'Automation' .
+wiki:Q965769 wiki_prop:P361 wiki:Q2507377 .
+wiki:Q965769 wikivoc:name "'Continuous integration'" .
+wiki:Q2507377 wikivoc:name "'Continuous delivery'" .
+wiki:Q965769 wiki_prop:P2283 mathco:CICD_Pipeline .
+mathco:CICD_Pipeline mathcovoc:name "'CICD Pipeline'" .
+wiki:Q439664 wiki_prop:P361 wiki:Q3025536 .
+wiki:Q382618 wiki_prop:P460 mathco:continuous_software_development .
+wiki:Q382618 wikivoc:name 'Continuity' .
+mathco:continuous_software_development mathcovoc:name "'continuous software development'" .
+mathco:continuous_software_development wiki_prop:P460 wiki:Q382618 .
+wiki:Q2507377 wiki_prop:P279 wiki:Q184199 .
+mathco:Continuous_Integration_CI wiki_prop:P31 wiki:Q219118 .
+mathco:Continuous_Integration_CI mathcovoc:name "'Continuous Integration CI'" .
+wiki:Q219118 wikivoc:name 'CI' .
+wiki:Q965769 wiki_prop:P361 wiki:Q30232 .
+wiki:Q30232 wikivoc:name "'Agile software development'" .
+wiki:Q1475717 wiki_prop:P366 wiki:Q1002975 .
+wiki:Q1475717 wikivoc:name "'Test automation'" .
+wiki:Q382618 wiki_prop:P279 wiki:Q1002975 .
+wiki:Q2507377 wiki_prop:P1056 wiki:Q34467 .
+wiki:Q34467 wikivoc:name "'Compact disc'" .
+wiki:Q219118 wiki_prop:P366 mathco:automated_release .
+mathco:automated_release mathcovoc:name "'automated release'" .
+mathco:commits wiki_prop:P1269 mathco:continuously_integrated .
+mathco:commits mathcovoc:name 'commits' .
+mathco:continuously_integrated mathcovoc:name "'continuously integrated'" .
+wiki:Q3055454 wiki_prop:P461 wiki:Q3055454 .
+wiki:Q3055454 wikivoc:name "'Deployment environment'" .
+mathco:feature_update wiki_prop:P361 wiki:Q351889 .
+mathco:feature_update mathcovoc:name "'feature update'" .
+wiki:Q2507377 wiki_prop:P460 mathco:deployment_to_production .
+mathco:deployment_to_production mathcovoc:name "'deployment to production'" .
+mathco:deployment_to_production wiki_prop:P460 wiki:Q2507377 .
+wiki:Q224615 wiki_prop:P361 wiki:Q1002975 .
+wiki:Q224615 wikivoc:name 'Test' .
+wiki:Q183635 wiki_prop:P1269 wiki:Q340724 .
+wiki:Q183635 wikivoc:name 'Feedback' .
+mathco:DevOps_Research_and_Assessment_DORA_report wiki_prop:P921 wiki:Q3025536 .
+mathco:DevOps_Research_and_Assessment_DORA_report mathcovoc:name "'DevOps Research and Assessment DORA report'" .
+mathco:changefailure wiki_prop:P1269 wiki:Q7397 .
+mathco:changefailure mathcovoc:name 'changefailure' .
+wiki:Q7397 wikivoc:name 'Software' .
+mathco:high_performers wiki_prop:P461 mathco:low_performers .
+mathco:high_performers mathcovoc:name "'high performers'" .
+mathco:low_performers mathcovoc:name "'low performers'" .
+mathco:low_performers wiki_prop:P461 mathco:high_performers .
+wiki:Q1510180 wiki_prop:participant wiki:Q2095962 .
+wiki:Q1510180 wikivoc:name 'Survey' .
+wiki:Q2095962 wikivoc:name "'Puppet (software)'" .
+mathco:High-performing_organizations wiki_prop:P527 wiki:Q392536 .
+mathco:High-performing_organizations mathcovoc:name "'High-performing organizations'" .
+wiki:Q392536 wikivoc:name 'Stability' .
+wiki:Q16782317 wiki_prop:P361 wiki:Q188889 .
+mathco:High_performers wiki_prop:P461 mathco:low_performers .
+mathco:High_performers mathcovoc:name "'High performers'" .
+mathco:low_performers wiki_prop:P461 mathco:High_performers .
+mathco:deployment_speed wiki_prop:P1269 mathco:App_deployment .
+mathco:deployment_speed mathcovoc:name "'deployment speed'" .
+mathco:App_deployment mathcovoc:name "'App deployment'" .
+mathco:High_performers wiki_prop:P461 wiki:Q231459 .
+wiki:Q231459 wikivoc:name 'Low' .
+wiki:Q231459 wiki_prop:P461 mathco:High_performers .
+wiki:Q3025536 wiki_prop:P279 wiki:Q1318104 .
+wiki:Q1318104 wikivoc:name "'Continual improvement process'" .
+mathco:DevOps_Research_and_Assessment "wiki_prop:founded by" mathco:Jez_Humble .
+mathco:DevOps_Research_and_Assessment mathcovoc:name "'DevOps Research and Assessment'" .
+mathco:Jez_Humble mathcovoc:name "'Jez Humble'" .
+wiki:Q1417134 wiki_prop:P366 wiki:Q386824 .
+wiki:Q1417134 wikivoc:name 'Dashboard' .
+wiki:Q386824 wikivoc:name "'Data integration'" .
+wiki:Q2374463 wiki_prop:studies wiki:Q42848 .
+wiki:Q42848 wiki_prop:P2579 wiki:Q2374463 .
+wiki:Q7075 wiki_prop:P361 wiki:Q3055454 .
+wiki:Q7075 wikivoc:name 'Library' .
+wiki:Q17004273 wiki_prop:P361 wiki:Q3055454 .
+wiki:Q17004273 wikivoc:name "'List of toolkits'" .
+wiki:Q3055454 wiki_prop:P527 wiki:Q7075 .
+wiki:Q3055454 wiki_prop:P527 wiki:Q17004273 .
+wiki:Q747452 wiki_prop:P366 wiki:Q2539 .
+wiki:Q9852 wiki_prop:P366 wiki:Q2539 .
+wiki:Q9852 wikivoc:name 'R' .
+wiki:Q219113 wiki_prop:P279 wiki:Q2374463 .
+wiki:Q186290 wiki_prop:P279 wiki:Q1553259 .
+wiki:Q186290 wikivoc:name 'Correlation' .
+wiki:Q1553259 wikivoc:name 'Insight' .
+wiki:Q33602 wiki_prop:P366 mathco:visualize_data .
+wiki:Q33602 wikivoc:name "'Giant panda'" .
+mathco:visualize_data mathcovoc:name "'visualize data'" .
+wiki:Q343131 wiki_prop:P366 mathco:visualize_data .
+wiki:Q23542287 wiki_prop:P366 mathco:visualize_data .
+wiki:Q23542287 wikivoc:name "'Microsoft Power BI'" .
+wiki:Q197536 wiki_prop:P279 wiki:Q2539 .
+wiki:Q197536 wikivoc:name "'Deep learning'" .
+wiki:Q219113 wiki_prop:studies wiki:Q1979154 .
+wiki:Q1979154 wiki_prop:P2579 wiki:Q219113 .
+wiki:Q1071806 wiki_prop:P361 wiki:Q3025536 .
+wiki:Q1071806 wikivoc:name "'Provisioning (telecommunications)'" .
+wiki:Q292434 wiki_prop:P361 wiki:Q3025536 .
+wiki:Q292434 wikivoc:name 'Configuration' .
+wiki:Q661613 wiki_prop:P279 mathco:terminate_post_execution .
+wiki:Q661613 wikivoc:name "'Batch processing'" .
+mathco:terminate_post_execution mathcovoc:name "'terminate post execution'" .
+wiki:Q2404880 wiki_prop:P279 wiki:Q184199 .
+wiki:Q2404880 wikivoc:name 'Termination' .
+wiki:Q651022 wiki_prop:P279 mathco:Machine_learning_development .
+wiki:Q651022 wikivoc:name 'Iteration' .
+mathco:Machine_learning_development mathcovoc:name "'Machine learning development'" .
+wiki:Q1979154 wiki_prop:P361 wiki:Q219113 .
+wiki:Q965769 wiki_prop:P366 mathco:ML_lifecycle .
+mathco:ML_lifecycle mathcovoc:name "'ML lifecycle'" .
+wiki:Q250434 wiki_prop:P361 wiki:Q3025536 .
+wiki:Q250434 wikivoc:name 'Pipeline' .
+wiki:Q3025536 wiki_prop:P1269 wiki:Q727490 .
+wiki:Q727490 wikivoc:name 'Scalability' .
+wiki:Q22661306 wiki_prop:P31 mathco:orchestration_engine .
+wiki:Q22661306 wikivoc:name 'Kubernetes' .
+mathco:orchestration_engine mathcovoc:name "'orchestration engine'" .
+mathco:container_management wiki_prop:P1269 wiki:Q987767 .
+mathco:container_management mathcovoc:name "'container management'" .
+wiki:Q3025536 wiki_prop:P527 wiki:Q1071806 .
+wiki:Q3025536 wiki_prop:P1269 wiki:Q2539 .
+wiki:Q3025536 wiki_prop:P3095 wiki:Q2374463 .
+wiki:Q2374463 wiki_prop:P425 wiki:Q3025536 .
+wiki:Q2374463 wiki_prop:P425 mathco:data_operator .
+mathco:data_operator mathcovoc:name "'data operator'" .
+mathco:data_operator wiki_prop:P3095 wiki:Q2374463 .
+wiki:Q11024 wiki_prop:P1542 mathco:business_outcome .
+wiki:Q11024 wikivoc:name 'Communication' .
+mathco:business_outcome mathcovoc:name "'business outcome'" .
+mathco:business_outcome wiki_prop:P828 wiki:Q11024 .
+wiki:Q7669922 wiki_prop:P1889 wiki:Q1208467 .
+wiki:Q1208467 wikivoc:name 'Silos' .
+wiki:Q1208467 wiki_prop:P1889 wiki:Q7669922 .
+wiki:Q352888 "wiki_prop:notable work" mathco:how_do_you_work? .
+wiki:Q352888 wikivoc:name 'Alexa' .
+mathco:how_do_you_work? mathcovoc:name "'how do you work?'" .
+mathco:how_do_you_work? "wiki_prop:named after" wiki:Q352888 .
+wiki:Q11016 wiki_prop:P527 wiki:Q174165 .
+wiki:Q174165 wikivoc:name 'Innovation' .
+wiki:Q174165 wiki_prop:P361 wiki:Q11016 .
+wiki:Q352888 wiki_prop:P31 mathco:virtual_voice_assistant .
+mathco:virtual_voice_assistant mathcovoc:name "'virtual voice assistant'" .
+wiki:Q95 wiki_prop:P1056 wiki:Q361991 .
+wiki:Q361991 wikivoc:name 'Assistant' .
+wiki:Q361991 wiki_prop:P178 wiki:Q95 .
+wiki:Q582159 wiki_prop:P178 wiki:Q89 .
+wiki:Q582159 wikivoc:name 'Siri' .
+wiki:Q89 wikivoc:name 'Apple' .
+wiki:Q16033350 wiki_prop:P178 wiki:Q2283 .
+wiki:Q16033350 wikivoc:name 'Cortana' .
+wiki:Q2283 wikivoc:name 'Microsoft' .
+wiki:Q352888 wiki_prop:P366 wiki:Q189756 .
+wiki:Q189756 wikivoc:name 'Question' .
+mathco:weather_like_in_Bangalore wiki_prop:P1269 wiki:Q352888 .
+mathco:weather_like_in_Bangalore mathcovoc:name "'weather like in Bangalore'" .
+mathco:How_does_this_work? wiki_prop:P31 wiki:Q8366 .
+mathco:How_does_this_work? mathcovoc:name "'How does this work?'" .
+wiki:Q8366 wikivoc:name 'Algorithm' .
+mathco:ASR_Automatic_Speech_Recognition wiki_prop:P1535 wiki:Q352888 .
+mathco:ASR_Automatic_Speech_Recognition mathcovoc:name "'ASR Automatic Speech Recognition'" .
+wiki:Q227935 wiki_prop:P361 wiki:Q30642 .
+wiki:Q227935 wikivoc:name 'NLP' .
+wiki:Q30642 wikivoc:name "'Natural language processing'" .
+mathco:Architecture_of_Alexa wiki_prop:P1269 wiki:Q352888 .
+mathco:Architecture_of_Alexa mathcovoc:name "'Architecture of Alexa'" .
+wiki:Q352888 wiki_prop:P2283 mathco:7_speakers .
+mathco:7_speakers mathcovoc:name "'7 speakers'" .
+mathco:7_speakers wiki_prop:P1535 wiki:Q352888 .
+mathco:wake_word wiki_prop:P1535 wiki:Q352888 .
+mathco:wake_word mathcovoc:name "'wake word'" .
+wiki:Q352888 wiki_prop:P31 mathco:programmed_to_something_else .
+mathco:programmed_to_something_else mathcovoc:name "'programmed to something else'" .
+wiki:Q255390 wiki_prop:P366 wiki:Q189436 .
+wiki:Q255390 wikivoc:name 'AVS' .
+wiki:Q189436 wikivoc:name "'Speech recognition'" .
+wiki:Q1671839 wiki_prop:P1542 wiki:Q258403 .
+wiki:Q1671839 wikivoc:name 'Invocation' .
+wiki:Q258403 wikivoc:name 'Utterance' .
+wiki:Q258403 wiki_prop:P828 wiki:Q1671839 .
+mathco:Invocation_Name wiki_prop:P31 wiki:Q258403 .
+mathco:Invocation_Name mathcovoc:name "'Invocation Name'" .
+mathco:invocated wiki_prop:P279 wiki:Q205961 .
+mathco:invocated mathcovoc:name 'invocated' .
+wiki:Q258403 wiki_prop:P279 wiki:Q187931 .
+wiki:Q187931 wikivoc:name 'Phrase' .
+wiki:Q1355 wiki_prop:country wiki:Q668 .
+wiki:Q1355 wikivoc:name 'Bangalore' .
+wiki:Q258403 wiki_prop:P1535 wiki:Q352888 .
+wiki:Q193424 wiki_prop:P527 wiki:Q3480072 .
+wiki:Q193424 wikivoc:name "'Web service'" .
+wiki:Q3480072 wikivoc:name 'Server' .
+wiki:Q3480072 wiki_prop:P361 wiki:Q193424 .
+wiki:Q52946 wiki_prop:P279 wiki:Q1650182 .
+wiki:Q52946 wikivoc:name 'Speech' .
+wiki:Q1650182 wikivoc:name 'Response' .
+wiki:Q352888 wiki_prop:P31 wiki:Q205961 .
+mathco:Uber_skill wiki_prop:platform wiki:Q352888 .
+mathco:Uber_skill mathcovoc:name "'Uber skill'" .
+wiki:Q32907 wiki_prop:P1056 wiki:Q177 .
+wiki:Q32907 wikivoc:name 'Dominoes' .
+wiki:Q177 wikivoc:name 'Pizza' .
+wiki:Q18511815 wiki_prop:P156 wiki:Q18511815 .
+wiki:Q18511815 wikivoc:name "'Amazon Echo'" .
+wiki:Q18511815 wiki_prop:P155 wiki:Q18511815 .
+wiki:Q352888 wiki_prop:P366 mathco:diagnostic_suggestions .
+mathco:diagnostic_suggestions mathcovoc:name "'diagnostic suggestions'" .
+wiki:Q11190 wiki_prop:P3095 wiki:Q39631 .
+wiki:Q11190 wikivoc:name 'Medicine' .
+wiki:Q39631 wikivoc:name 'Physician' .
+wiki:Q39631 wiki_prop:P425 wiki:Q11190 .
+wiki:Q1441305 wiki_prop:P279 wiki:Q177719 .
+wiki:Q1441305 wikivoc:name "'Signs and symptoms'" .
+wiki:Q177719 wikivoc:name "'Medical diagnosis'" .
+wiki:Q352888 "wiki_prop:field of work" wiki:Q31207 .
+wiki:Q31207 wikivoc:name "'Health care'" .
+mathco:predict_if_a_user_has_a_cold wiki_prop:P1269 wiki:Q352888 .
+mathco:predict_if_a_user_has_a_cold mathcovoc:name "'predict if a user has a cold'" .
+wiki:Q224013 wiki_prop:P527 wiki:Q780687 .
+wiki:Q224013 wikivoc:name 'Yes' .
+wiki:Q780687 wikivoc:name 'Rights' .
+wiki:Q780687 wiki_prop:P361 wiki:Q224013 .
+wiki:Q352888 wiki_prop:P527 wiki:Q7390 .
+wiki:Q456120 wiki_prop:P1056 wiki:Q182767 .
+wiki:Q182767 wikivoc:name 'Echo' .
+wiki:Q182767 wiki_prop:P178 wiki:Q456120 .
+wiki:Q352888 wiki_prop:P366 wiki:Q485396 .
+wiki:Q782543 wiki_prop:P279 wiki:Q782543 .
+wiki:Q782543 wikivoc:name "'Graphical user interface'" .
+wiki:Q343131 wiki_prop:P366 wiki:Q782543 .
+wiki:Q1696827 wiki_prop:P279 wiki:Q782543 .
+wiki:Q1417134 wiki_prop:P279 wiki:Q782543 .
+wiki:Q3467906 wiki_prop:P2283 wiki:Q7390 .
+wiki:Q3467906 wikivoc:name "'Virtual assistant'" .
+wiki:Q7390 wiki_prop:P1535 wiki:Q3467906 .
+wiki:Q456120 wiki_prop:P1056 wiki:Q352888 .
+mathco:sales_numbers wiki_prop:P279 wiki:Q1696827 .
+wiki:Q10870555 wiki_prop:P361 wiki:Q1417134 .
+wiki:Q10870555 wikivoc:name 'Report' .
+wiki:Q352888 wiki_prop:P366 mathco:voice_analytics .
+mathco:voice_analytics mathcovoc:name "'voice analytics'" .
+wiki:Q352888 wiki_prop:P31 mathco:intelligent_personal_assistants .
+mathco:intelligent_personal_assistants mathcovoc:name "'intelligent personal assistants'" .
+wiki:Q7860 wiki_prop:P279 wiki:Q352720 .
+wiki:Q7860 wikivoc:name 'Nature' .
+wiki:Q352720 wikivoc:name 'Interaction' .
+mathco:A_Picture_is_Worth_a_Thousand_Words wiki_prop:P2283 wiki:Q167555 .
+mathco:A_Picture_is_Worth_a_Thousand_Words mathcovoc:name "'A Picture is Worth a Thousand Words'" .
+wiki:Q167555 wikivoc:name "'Optical character recognition'" .
+wiki:Q37260 wiki_prop:P279 mathco:machine-readable_text .
+wiki:Q37260 wikivoc:name 'Writing' .
+mathco:machine-readable_text mathcovoc:name "'machine-readable text'" .
+wiki:Q42848 wiki_prop:P361 wiki:Q4830453 .
+wiki:Q4830453 wikivoc:name 'Business' .
+wiki:Q42962 wiki_prop:P527 wiki:Q42848 .
+wiki:Q42962 wikivoc:name 'Oil' .
+wiki:Q257927 wiki_prop:P527 wiki:Q410715 .
+wiki:Q257927 wikivoc:name 'Industry' .
+wiki:Q410715 wikivoc:name 'Vertical' .
+wiki:Q410715 wiki_prop:P361 wiki:Q257927 .
+wiki:Q843958 wiki_prop:P1542 wiki:Q8513 .
+wiki:Q843958 wikivoc:name 'Digitization' .
+wiki:Q8513 wiki_prop:P828 wiki:Q843958 .
+wiki:Q870780 wiki_prop:P279 wiki:Q217602 .
+wiki:Q870780 wikivoc:name 'Chatbot' .
+mathco:The_Problem_with_the_Problem_Statement wiki_prop:P31 mathco:Extracting_text_from_an_image .
+mathco:The_Problem_with_the_Problem_Statement mathcovoc:name "'The Problem with the Problem Statement'" .
+mathco:Extracting_text_from_an_image mathcovoc:name "'Extracting text from an image'" .
+mathco:How_to_Begin wiki_prop:P279 mathco:solution_to_these_kinds_of_problems .
+mathco:How_to_Begin mathcovoc:name "'How to Begin'" .
+mathco:solution_to_these_kinds_of_problems mathcovoc:name "'solution to these kinds of problems'" .
+mathco:solution_to_these_kinds_of_problems wiki_prop:P527 mathco:how_to_begin .
+mathco:how_to_begin mathcovoc:name "'how to begin'" .
+wiki:Q1289773 wiki_prop:P279 wiki:Q245962 .
+wiki:Q1289773 wikivoc:name 'Framework' .
+wiki:Q245962 wikivoc:name 'Implementation' .
+wiki:Q38022 "wiki_prop:located in the administrative territorial entity" wiki:Q1581 .
+wiki:Q38022 wikivoc:name "'St. Louis'" .
+wiki:Q1581 wikivoc:name 'Missouri' .
+wiki:Q1581 "wiki_prop:contains administrative territorial entity" wiki:Q38022 .
+wiki:Q918385 wiki_prop:P1269 wiki:Q613417 .
+wiki:Q918385 wikivoc:name 'Training' .
+wiki:Q613417 wikivoc:name "'Use case'" .
+wiki:Q42944 wiki_prop:country wiki:Q39 .
+wiki:Q42944 wikivoc:name 'CERN' .
+wiki:Q39 wikivoc:name 'Switzerland' .
+wiki:Q39 "wiki_prop:contains administrative territorial entity" wiki:Q42944 .
+wiki:Q404273 wiki_prop:P279 wiki:Q613417 .
+wiki:Q404273 wikivoc:name 'OCR' .
+mathco:solutioning_process wiki_prop:P1269 wiki:Q404273 .
+mathco:solutioning_process mathcovoc:name "'solutioning process'" .
+wiki:Q918333 wiki_prop:P279 mathco:scanned .
+wiki:Q918333 wikivoc:name 'Preprocessor' .
+mathco:scanned mathcovoc:name 'scanned' .
+wiki:Q478798 wiki_prop:P527 wiki:Q1128596 .
+wiki:Q1128596 wikivoc:name 'Content' .
+wiki:Q1128596 wiki_prop:P361 wiki:Q478798 .
+wiki:Q918333 wiki_prop:P279 wiki:Q298413 .
+wiki:Q298413 wikivoc:name 'Quality' .
+wiki:Q165277 wiki_prop:P366 mathco:image_pre-processing .
+wiki:Q165277 wikivoc:name 'OpenCV' .
+mathco:image_pre-processing mathcovoc:name "'image pre-processing'" .
+wiki:Q918333 wiki_prop:P279 wiki:Q211857 .
+wiki:Q211857 wikivoc:name 'Technique' .
+wiki:Q11352 wiki_prop:P279 mathco:rotated .
+wiki:Q11352 wikivoc:name 'Angle' .
+mathco:rotated mathcovoc:name 'rotated' .
+wiki:Q167555 wiki_prop:P2283 wiki:Q478798 .
+wiki:Q864118 wiki_prop:P279 mathco:pixel_image .
+wiki:Q864118 wikivoc:name "'Binary image'" .
+mathco:pixel_image mathcovoc:name "'pixel image'" .
+mathco:base_size wiki_prop:P1269 wiki:Q404273 .
+mathco:base_size mathcovoc:name "'base size'" .
+wiki:Q581861 wiki_prop:P279 wiki:Q234757 .
+wiki:Q581861 wikivoc:name "'Noise reduction'" .
+wiki:Q234757 wikivoc:name 'Transformation' .
+mathco:Simple_operations wiki_prop:P2283 mathco:image_shaping .
+mathco:Simple_operations mathcovoc:name "'Simple operations'" .
+mathco:image_shaping mathcovoc:name "'image shaping'" .
+mathco:image_shaping wiki_prop:P366 mathco:Simple_operations .
+mathco:Text_Detection wiki_prop:P279 wiki:Q167676 .
+mathco:Text_Detection mathcovoc:name "'Text Detection'" .
+wiki:Q167676 wikivoc:name 'Sensor' .
+wiki:Q6865426 wiki_prop:P279 wiki:Q11500 .
+wiki:Q6865426 wikivoc:name "'Minimum bounding box'" .
+wiki:Q11500 wikivoc:name 'Area' .
+wiki:Q604973 wiki_prop:P1889 wiki:Q8171 .
+wiki:Q604973 wikivoc:name "'Experience point'" .
+wiki:Q8171 wikivoc:name 'Word' .
+wiki:Q8171 wiki_prop:P1889 wiki:Q604973 .
+wiki:Q165277 wiki_prop:P2283 mathco:Character_Region_Awareness_for_Text_Detection .
+mathco:Character_Region_Awareness_for_Text_Detection mathcovoc:name "'Character Region Awareness for Text Detection'" .
+mathco:Character_Region_Awareness_for_Text_Detection wiki_prop:P1535 wiki:Q165277 .
+wiki:Q165277 wiki_prop:P366 mathco:detected .
+mathco:detected mathcovoc:name 'detected' .
+wiki:Q6865426 wiki_prop:P527 wiki:Q1129031 .
+wiki:Q1129031 wikivoc:name 'Contour' .
+wiki:Q1259977 wiki_prop:P2283 wiki:Q6865426 .
+wiki:Q1259977 wikivoc:name 'Extract' .
+wiki:Q351017 wiki_prop:P31 mathco:text_detector .
+wiki:Q351017 wikivoc:name "'Craft (disambiguation)'" .
+mathco:text_detector mathcovoc:name "'text detector'" .
+mathco:binary_map wiki_prop:P527 mathco:character_region .
+mathco:binary_map mathcovoc:name "'binary map'" .
+mathco:character_region mathcovoc:name "'character region'" .
+mathco:character_region wiki_prop:P361 mathco:binary_map .
+wiki:Q86920 wiki_prop:P527 wiki:Q6865426 .
+wiki:Q86920 wikivoc:name "'Text file'" .
+wiki:Q173882 "wiki_prop:located in the administrative territorial entity" wiki:Q36091 .
+wiki:Q173882 wikivoc:name "'St Paul's Cathedral'" .
+wiki:Q36091 wikivoc:name 'Minneapolis' .
+wiki:Q173882 "wiki_prop:located in the administrative territorial entity" wiki:Q1527 .
+wiki:Q1527 wikivoc:name 'Minnesota' .
+wiki:Q36091 "wiki_prop:capital of" wiki:Q1527 .
+wiki:Q1527 wiki_prop:capital wiki:Q173882 .
+wiki:Q1527 wiki_prop:capital wiki:Q36091 .
+mathco:area_of_interest wiki_prop:P279 wiki:Q6865426 .
+mathco:area_of_interest mathcovoc:name "'area of interest'" .
+mathco:PyTesseract wiki_prop:P366 mathco:extracting_text .
+mathco:PyTesseract mathcovoc:name 'PyTesseract' .
+mathco:extracting_text mathcovoc:name "'extracting text'" .
+wiki:Q12142 wiki_prop:P178 wiki:Q961680 .
+wiki:Q12142 wikivoc:name 'Tesseract' .
+wiki:Q961680 wikivoc:name "'Google (disambiguation)'" .
+wiki:Q531164 wiki_prop:P279 wiki:Q176467 .
+wiki:Q531164 wikivoc:name 'Different' .
+wiki:Q176467 wikivoc:name 'Extraction' .
+wiki:Q4818718 wiki_prop:P361 wiki:Q8513 .
+wiki:Q404273 wiki_prop:P279 wiki:Q176467 .
+wiki:Q235660 wiki_prop:P366 wiki:Q5720030 .
+wiki:Q5720030 wikivoc:name 'Detection' .
+wiki:Q1570376 wiki_prop:P361 wiki:Q227935 .
+wiki:Q1570376 wikivoc:name 'Sample' .
+wiki:Q8171 wiki_prop:P1889 wiki:Q11563 .
+wiki:Q11563 wikivoc:name 'Number' .
+wiki:Q11563 wiki_prop:P1889 wiki:Q8171 .
+wiki:Q197536 wiki_prop:P279 wiki:Q1979154 .
+mathco:different_types_of_images wiki_prop:P279 wiki:Q478798 .
+mathco:different_types_of_images mathcovoc:name "'different types of images'" .
+wiki:Q1413083 wiki_prop:P361 wiki:Q188889 .
+wiki:Q1413083 wikivoc:name 'Parameter' .
+wiki:Q2393642 wiki_prop:P279 wiki:Q1235072 .
+wiki:Q2393642 wikivoc:name 'Handwriting' .
+wiki:Q1235072 wikivoc:name 'Form' .
+wiki:Q4868296 wiki_prop:P361 wiki:Q9779 .
+wiki:Q4868296 wikivoc:name 'Font' .
+wiki:Q9779 wikivoc:name 'Alphabet' .
+wiki:Q13218767 wiki_prop:P31 wiki:Q207829 .
+wiki:Q13218767 wikivoc:name "'Stack overflow'" .
+wiki:Q207829 wikivoc:name 'Forum' .
+mathco:Pyimagesearch wiki_prop:P366 wiki:Q404273 .
+mathco:Pyimagesearch mathcovoc:name 'Pyimagesearch' .
+mathco:Ask_a_Question wiki_prop:P31 wiki:Q207829 .
+mathco:Ask_a_Question mathcovoc:name "'Ask a Question'" .
+mathco:Extracting_text_from_PDF wiki_prop:P279 wiki:Q404273 .
+mathco:Extracting_text_from_PDF mathcovoc:name "'Extracting text from PDF'" .
+wiki:Q42332 wiki_prop:P527 wiki:Q1689278 .
+wiki:Q42332 wikivoc:name 'PDF' .
+wiki:Q1689278 wikivoc:name 'Text' .
+wiki:Q42332 wiki_prop:P527 wiki:Q478798 .
+wiki:Q1689278 wiki_prop:P361 wiki:Q42332 .
+wiki:Q478798 wiki_prop:P361 wiki:Q42332 .
+mathco:extraction_for_PDFs wiki_prop:P1889 mathco:extraction_for_images .
+mathco:extraction_for_PDFs mathcovoc:name "'extraction for PDFs'" .
+mathco:extraction_for_images mathcovoc:name "'extraction for images'" .
+mathco:extraction_for_images wiki_prop:P1889 mathco:extraction_for_PDFs .
+mathco:prioritize_extraction wiki_prop:P1269 wiki:Q613417 .
+mathco:prioritize_extraction mathcovoc:name "'prioritize extraction'" .
+wiki:Q42332 wiki_prop:P279 wiki:Q407770 .
+wiki:Q407770 wikivoc:name 'Package' .
+mathco:PyPDF2 wiki_prop:P366 wiki:Q15300189 .
+mathco:PyPDF2 mathcovoc:name 'PyPDF2' .
+wiki:Q15300189 wikivoc:name 'Extracted' .
+wiki:Q3528387 wiki_prop:P366 wiki:Q15300189 .
+wiki:Q3528387 wikivoc:name 'Tika' .
+mathco:PDFMiner wiki_prop:P366 wiki:Q15300189 .
+mathco:PDFMiner mathcovoc:name 'PDFMiner' .
+wiki:Q538665 wiki_prop:P366 wiki:Q14749 .
+wiki:Q538665 wikivoc:name 'Tabula' .
+wiki:Q220437 wiki_prop:P366 wiki:Q14749 .
+wiki:Q220437 wikivoc:name 'Camelot' .
+mathco:pdf-table-extract wiki_prop:P366 wiki:Q14749 .
+mathco:pdf-table-extract mathcovoc:name 'pdf-table-extract' .
+wiki:Q110551915 wiki_prop:P361 wiki:Q1289773 .
+wiki:Q110551915 wikivoc:name 'Dataframe' .
+wiki:Q1289773 wiki_prop:P527 wiki:Q110551915 .
+wiki:Q403574 wiki_prop:P366 mathco:Entity_Identification .
+wiki:Q403574 wikivoc:name "'Named-entity recognition'" .
+mathco:Entity_Identification mathcovoc:name "'Entity Identification'" .
+mathco:What_is_it? wiki_prop:P31 wiki:Q11424 .
+mathco:What_is_it? mathcovoc:name "'What is it?'" .
+wiki:Q410715 wiki_prop:P279 wiki:Q294834 .
+mathco:entitiessubject wiki_prop:P361 wiki:Q42848 .
+mathco:entitiessubject mathcovoc:name 'entitiessubject' .
+wiki:Q42848 wiki_prop:P527 mathco:entitiessubject .
+wiki:Q31487 wiki_prop:country wiki:Q36 .
+wiki:Q31487 wikivoc:name 'Kraków' .
+wiki:Q36 wikivoc:name 'Poland' .
+wiki:Q36 wiki_prop:capital wiki:Q31487 .
+mathco:first_step_to_solve_this_problem wiki_prop:P1269 wiki:Q570443 .
+mathco:first_step_to_solve_this_problem mathcovoc:name "'first step to solve this problem'" .
+wiki:Q570443 wikivoc:name 'Answer' .
+wiki:Q570443 wiki_prop:P1269 mathco:first_step_to_solve_this_problem .
+wiki:Q35120 wiki_prop:P1542 wiki:Q925322 .
+wiki:Q35120 wikivoc:name 'Entity' .
+wiki:Q925322 wikivoc:name 'Identified' .
+wiki:Q925322 wiki_prop:P828 wiki:Q35120 .
+wiki:Q2221906 wiki_prop:P1269 wiki:Q1071 .
+wiki:Q2221906 wikivoc:name 'Location' .
+wiki:Q1071 wikivoc:name 'Geography' .
+wiki:Q16997 wiki_prop:P361 wiki:Q1689278 .
+wiki:Q16997 wikivoc:name 'Date' .
+mathco:Named_Entity wiki_prop:P279 wiki:Q13725110 .
+mathco:Named_Entity mathcovoc:name "'Named Entity'" .
+wiki:Q13725110 wikivoc:name 'Recognition' .
+wiki:Q403574 wiki_prop:P1269 wiki:Q403574 .
+mathco:above_example wiki_prop:P31 wiki:Q11032 .
+mathco:above_example mathcovoc:name "'above example'" .
+wiki:Q11032 wikivoc:name 'Newspaper' .
+wiki:Q6671777 wiki_prop:P1889 mathco:unstructured_text .
+mathco:unstructured_text mathcovoc:name "'unstructured text'" .
+mathco:selling_on_the_applications wiki_prop:P279 wiki:Q194189 .
+mathco:selling_on_the_applications mathcovoc:name "'selling on the applications'" .
+wiki:Q194189 wikivoc:name 'Sales' .
+mathco:How_does_this_thing_actually_work? wiki_prop:P31 wiki:Q7889 .
+mathco:How_does_this_thing_actually_work? mathcovoc:name "'How does this thing actually work?'" .
+wiki:Q918385 wiki_prop:P1269 wiki:Q55624999 .
+mathco:NER_process wiki_prop:P279 wiki:Q13690522 .
+mathco:NER_process mathcovoc:name "'NER process'" .
+wiki:Q13690522 wikivoc:name "'Irreducible representation'" .
+wiki:Q28406945 wiki_prop:P366 mathco:Entity_Recognizer .
+wiki:Q28406945 wikivoc:name 'SpaCy' .
+mathco:Entity_Recognizer mathcovoc:name "'Entity Recognizer'" .
+wiki:Q52 "wiki_prop:field of work" wiki:Q1071 .
+wiki:Q52 wikivoc:name 'Wikipedia' .
+wiki:Q531429 wiki_prop:P460 wiki:Q3235413 .
+wiki:Q531429 wikivoc:name 'Better' .
+wiki:Q3235413 wikivoc:name "'List of logic symbols'" .
+wiki:Q3235413 wiki_prop:P460 wiki:Q531429 .
+wiki:Q28406945 wiki_prop:P366 wiki:Q403574 .
+wiki:Q4833645 wiki_prop:P1269 wiki:Q415905 .
+wiki:Q4833645 wikivoc:name "'Subject-matter expert'" .
+wiki:Q415905 wikivoc:name 'NER' .
+wiki:Q1233264 wiki_prop:P2579 wiki:Q208697 .
+wiki:Q1233264 wikivoc:name "'Asset (disambiguation)'" .
+wiki:Q208697 wikivoc:name "'Financial market'" .
+mathco:FACTORS wiki_prop:P2579 wiki:Q208697 .
+mathco:FACTORS mathcovoc:name 'FACTORS' .
+wiki:Q208697 wiki_prop:studies wiki:Q1233264 .
+wiki:Q208697 wiki_prop:studies mathco:FACTORS .
+wiki:Q722218 wiki_prop:P361 wiki:Q1689278 .
+wiki:Q722218 wikivoc:name 'Label' .
+wiki:Q28406945 wiki_prop:P366 wiki:Q1960028 .
+wiki:Q1960028 wikivoc:name "'NER model'" .
+wiki:Q28406945 wiki_prop:P279 wiki:Q415905 .
+mathco:Loop_over wiki_prop:P279 wiki:Q1979154 .
+mathco:Loop_over mathcovoc:name "'Loop over'" .
+mathco:Save_the_model wiki_prop:P279 wiki:Q846574 .
+mathco:Save_the_model mathcovoc:name "'Save the model'" .
+wiki:Q846574 wikivoc:name 'Reuse' .
+wiki:Q37156 wiki_prop:subsidiary wiki:Q3146518 .
+wiki:Q37156 wikivoc:name 'IBM' .
+wiki:Q3146518 wikivoc:name "'IBM Research'" .
+wiki:Q3146518 "wiki_prop:parent organization" wiki:Q37156 .
+wiki:Q950511 wiki_prop:P279 wiki:Q49848 .
+wiki:Q950511 wikivoc:name 'Résumé' .
+wiki:Q49848 wikivoc:name 'Document' .
+wiki:Q3985153 wiki_prop:P279 wiki:Q35120 .
+wiki:Q2385804 wiki_prop:P279 wiki:Q43229 .
+wiki:Q2385804 wikivoc:name "'Educational institution'" .
+wiki:Q43229 wikivoc:name 'Organization' .
+wiki:Q950511 wiki_prop:P527 wiki:Q35120 .
+wiki:Q35120 wiki_prop:P361 wiki:Q950511 .
+wiki:Q126793 wiki_prop:P527 wiki:Q22855 .
+wiki:Q22855 wikivoc:name 'Consumer' .
+wiki:Q22855 wiki_prop:P361 wiki:Q126793 .
+mathco:Topic_modelling wiki_prop:P279 wiki:Q1979154 .
+mathco:Topic_modelling mathcovoc:name "'Topic modelling'" .
+wiki:Q1060653 wiki_prop:P1269 mathco:product_or_service .
+wiki:Q1060653 wikivoc:name "'Customer service'" .
+mathco:product_or_service mathcovoc:name "'product or service'" .
+wiki:Q11707 wiki_prop:P3095 wiki:Q3499072 .
+wiki:Q11707 wikivoc:name 'Restaurant' .
+wiki:Q3499072 wikivoc:name 'Chef' .
+wiki:Q3499072 wiki_prop:P425 wiki:Q11707 .
+wiki:Q730920 wiki_prop:studies wiki:Q35120 .
+wiki:Q35120 wiki_prop:P2579 wiki:Q730920 .
+mathco:entity_recognition wiki_prop:P1269 wiki:Q35120 .
+mathco:entity_recognition mathcovoc:name "'entity recognition'" .
+mathco:NERs wiki_prop:P279 wiki:Q294834 .
+mathco:NERs mathcovoc:name 'NERs' .
+wiki:Q294834 wiki_prop:P527 wiki:Q1796457 .
+wiki:Q1796457 wiki_prop:P361 wiki:Q294834 .
+mathco:Live_NER_model wiki_prop:P178 wiki:Q41506 .
+mathco:Live_NER_model mathcovoc:name "'Live NER model'" .
+wiki:Q41506 wikivoc:name "'Stanford University'" .
+mathco:TheMathCompany.nlp.edu "wiki_prop:owner of" mathco:8080nerprocess .
+mathco:TheMathCompany.nlp.edu mathcovoc:name 'TheMathCompany.nlp.edu' .
+mathco:8080nerprocess mathcovoc:name '8080nerprocess' .
+mathco:8080nerprocess "wiki_prop:owned by" mathco:TheMathCompany.nlp.edu .
+wiki:Q6673524 wiki_prop:P279 mathco:Sequence_Modelling .
+wiki:Q6673524 wikivoc:name "'Long short-term memory'" .
+mathco:Sequence_Modelling mathcovoc:name "'Sequence Modelling'" .
+wiki:Q6673524 wiki_prop:P279 wiki:Q1798344 .
+wiki:Q1798344 wikivoc:name 'LSM' .
+wiki:Q2234476 wiki_prop:P279 wiki:Q748250 .
+wiki:Q2234476 wikivoc:name 'Forecast' .
+wiki:Q748250 wikivoc:name 'Prediction' .
+wiki:Q6673524 wiki_prop:P1889 wiki:Q841402 .
+wiki:Q841402 wikivoc:name "'Silver bullet'" .
+wiki:Q841402 wiki_prop:P1889 wiki:Q6673524 .
+mathco:forecasting_problem wiki_prop:P279 wiki:Q186588 .
+mathco:forecasting_problem mathcovoc:name "'forecasting problem'" .
+wiki:Q186588 wikivoc:name "'Time series'" .
+wiki:Q2566298 wiki_prop:P31 wiki:Q3339222 .
+wiki:Q2566298 wikivoc:name "'Autoregressive integrated moving average'" .
+wiki:Q3339222 wikivoc:name "'Linear model'" .
+wiki:Q237028 wiki_prop:P279 mathco:Feed_forward_Neural_Networks .
+wiki:Q237028 wikivoc:name 'MLP' .
+mathco:Feed_forward_Neural_Networks mathcovoc:name "'Feed forward Neural Networks'" .
+mathco:Sequence_prediction_model wiki_prop:P279 mathco:prediction_model .
+mathco:Sequence_prediction_model mathcovoc:name "'Sequence prediction model'" .
+mathco:prediction_model mathcovoc:name "'prediction model'" .
+mathco:LSTMs_Long_Short_Term_Memory wiki_prop:P279 mathco:Recurrent_Neural_Network_Architectures .
+mathco:LSTMs_Long_Short_Term_Memory mathcovoc:name "'LSTMs Long Short Term Memory'" .
+mathco:Recurrent_Neural_Network_Architectures mathcovoc:name "'Recurrent Neural Network Architectures'" .
+wiki:Q13611879 wiki_prop:P361 mathco:SEQUENCE .
+wiki:Q13611879 wikivoc:name "'Unit of observation'" .
+mathco:SEQUENCE mathcovoc:name 'SEQUENCE' .
+mathco:SEQUENCE wiki_prop:P527 wiki:Q13611879 .
+mathco:Recurrent_network wiki_prop:P461 mathco:short-term .
+mathco:Recurrent_network mathcovoc:name "'Recurrent network'" .
+mathco:short-term mathcovoc:name 'short-term' .
+mathco:short-term wiki_prop:P461 mathco:Recurrent_network .
+mathco:short-term wiki_prop:P461 mathco:long-term .
+mathco:long-term mathcovoc:name 'long-term' .
+mathco:long-term wiki_prop:P461 mathco:Recurrent_network .
+mathco:long-term wiki_prop:P461 mathco:short-term .
+wiki:Q1382703 wiki_prop:P527 wiki:Q3799056 .
+wiki:Q3799056 wikivoc:name 'Input' .
+wiki:Q3799056 wiki_prop:P361 wiki:Q1382703 .
+wiki:Q1382703 wiki_prop:P361 wiki:Q18599 .
+wiki:Q18599 wikivoc:name "'Short-term memory'" .
+wiki:Q18599 wiki_prop:P527 wiki:Q1382703 .
+mathco:Feedforward_network wiki_prop:P279 wiki:Q232632 .
+mathco:Feedforward_network mathcovoc:name "'Feedforward network'" .
+wiki:Q232632 wikivoc:name 'Loop' .
+wiki:Q183635 wiki_prop:P361 wiki:Q109406 .
+wiki:Q492 wiki_prop:P366 wiki:Q133500 .
+wiki:Q133500 wikivoc:name 'Learning' .
+wiki:Q1457734 wiki_prop:P279 wiki:Q133500 .
+wiki:Q1457734 wikivoc:name "'Recurrent neural network'" .
+mathco:recurrent_connection wiki_prop:P361 wiki:Q43054 .
+mathco:recurrent_connection mathcovoc:name "'recurrent connection'" .
+wiki:Q43054 wikivoc:name 'Neuron' .
+mathco:vanishing_and_exploding_gradients wiki_prop:P279 wiki:Q3928345 .
+mathco:vanishing_and_exploding_gradients mathcovoc:name "'vanishing and exploding gradients'" .
+wiki:Q3928345 wikivoc:name 'RNN' .
+mathco:Time_Series_forecasting wiki_prop:P279 wiki:Q6673524 .
+mathco:Time_Series_forecasting mathcovoc:name "'Time Series forecasting'" .
+wiki:Q1406 wiki_prop:P527 wiki:Q3569290 .
+wiki:Q3569290 wikivoc:name "'Windows 8.1'" .
+wiki:Q3569290 wiki_prop:P179 wiki:Q1406 .
+mathco:Image_Caption_generation wiki_prop:P361 wiki:Q200 .
+mathco:Image_Caption_generation mathcovoc:name "'Image Caption generation'" .
+wiki:Q200 wikivoc:name '2' .
+mathco:Text_Translation wiki_prop:P279 wiki:Q7553 .
+mathco:Text_Translation mathcovoc:name "'Text Translation'" .
+wiki:Q7553 wikivoc:name 'Translation' .
+mathco:Text_and_Speech_Generation "wiki_prop:publication date" wiki:Q202 .
+mathco:Text_and_Speech_Generation mathcovoc:name "'Text and Speech Generation'" .
+mathco:Natural_Language_modeling wiki_prop:P527 mathco:Limitations_of_LSTMs .
+mathco:Natural_Language_modeling mathcovoc:name "'Natural Language modeling'" .
+mathco:Limitations_of_LSTMs mathcovoc:name "'Limitations of LSTMs'" .
+mathco:Limitations_of_LSTMs wiki_prop:P361 mathco:Natural_Language_modeling .
+wiki:Q6673524 wiki_prop:P1889 wiki:Q1798344 .
+wiki:Q1798344 wiki_prop:P1889 wiki:Q6673524 .
+wiki:Q492 wiki_prop:P31 wiki:Q1590843 .
+wiki:Q1590843 wikivoc:name 'Limitation' .
+wiki:Q492 wiki_prop:P527 wiki:Q13611879 .
+wiki:Q13611879 wiki_prop:P361 wiki:Q492 .
+wiki:Q6047630 wiki_prop:P279 wiki:Q10954303 .
+wiki:Q6047630 wikivoc:name 'Internal' .
+wiki:Q10954303 wikivoc:name 'Variable' .
+wiki:Q592860 wiki_prop:P361 wiki:Q237028 .
+wiki:Q592860 wikivoc:name "'Sliding window protocol'" .
+mathco:Sequence_Prediction_problems wiki_prop:P279 wiki:Q7246945 .
+mathco:Sequence_Prediction_problems mathcovoc:name "'Sequence Prediction problems'" .
+wiki:Q7246945 wikivoc:name "'Problem (disambiguation)'" .
+mathco:4_categories wiki_prop:P360 mathco:sequence_prediction_problems .
+mathco:4_categories mathcovoc:name "'4 categories'" .
+mathco:sequence_prediction_problems mathcovoc:name "'sequence prediction problems'" .
+mathco:Sequence_Prediction wiki_prop:P527 mathco:Input_Sequence .
+mathco:Sequence_Prediction mathcovoc:name "'Sequence Prediction'" .
+mathco:Input_Sequence mathcovoc:name "'Input Sequence'" .
+mathco:Sequence_Prediction wiki_prop:P527 mathco:Output_Sequence .
+mathco:Output_Sequence mathcovoc:name "'Output Sequence'" .
+mathco:Input_Sequence wiki_prop:P361 mathco:Sequence_Prediction .
+mathco:Output_Sequence wiki_prop:P361 mathco:Sequence_Prediction .
+wiki:Q11663 wiki_prop:P2579 wiki:Q7216332 .
+wiki:Q11663 wikivoc:name 'Weather' .
+wiki:Q7216332 wiki_prop:studies wiki:Q11663 .
+wiki:Q225529 wiki_prop:P366 wiki:Q2271421 .
+wiki:Q225529 wikivoc:name 'Anomaly' .
+wiki:Q2271421 wikivoc:name "'Sentiment analysis'" .
+mathco:Sequence_Generation wiki_prop:P527 mathco:Output_Sequence .
+mathco:Sequence_Generation mathcovoc:name "'Sequence Generation'" .
+mathco:Output_Sequence wiki_prop:P361 mathco:Sequence_Generation .
+mathco:Image_Caption_generation wiki_prop:P361 mathco:Text_and_Music_Generation .
+mathco:Text_and_Music_Generation mathcovoc:name "'Text and Music Generation'" .
+mathco:Sequence_to_Sequence_Prediction wiki_prop:P921 wiki:Q133250 .
+mathco:Sequence_to_Sequence_Prediction mathcovoc:name "'Sequence to Sequence Prediction'" .
+wiki:Q133250 wikivoc:name 'Sequence' .
+wiki:Q133250 wiki_prop:P527 mathco:Output_Sequence .
+mathco:Output_Sequence wiki_prop:P361 wiki:Q133250 .
+wiki:Q248604 wiki_prop:P156 wiki:Q369577 .
+wiki:Q248604 wikivoc:name 'Normalization' .
+wiki:Q369577 wikivoc:name 'Standardization' .
+mathco:hot_encoded wiki_prop:P279 wiki:Q2285707 .
+mathco:hot_encoded mathcovoc:name "'hot encoded'" .
+wiki:Q2285707 wikivoc:name "'Categorical variable'" .
+mathco:integer_encoded wiki_prop:P279 wiki:Q2285707 .
+mathco:integer_encoded mathcovoc:name "'integer encoded'" .
+wiki:Q42848 wiki_prop:P361 wiki:Q1979154 .
+wiki:Q1979154 wiki_prop:P527 wiki:Q42848 .
+mathco:TimeseriesGenerator wiki_prop:P361 wiki:Q28470421 .
+mathco:TimeseriesGenerator mathcovoc:name 'TimeseriesGenerator' .
+wiki:Q28470421 wikivoc:name 'Keras' .
+wiki:Q393899 wiki_prop:P279 wiki:Q293588 .
+wiki:Q393899 wikivoc:name 'Manual' .
+wiki:Q293588 wikivoc:name 'Pad' .
+wiki:Q860609 wiki_prop:P279 wiki:Q788331 .
+wiki:Q860609 wikivoc:name "'Generating function'" .
+wiki:Q1979154 wiki_prop:P279 wiki:Q101072 .
+wiki:Q101072 wikivoc:name 'Definition' .
+wiki:Q28470421 wiki_prop:P527 mathco:Sequential_class .
+mathco:Sequential_class mathcovoc:name "'Sequential class'" .
+mathco:Sequential_class wiki_prop:P361 wiki:Q28470421 .
+wiki:Q6673524 wiki_prop:P279 wiki:Q254549 .
+wiki:Q254549 wikivoc:name 'Layer' .
+mathco:TimeseriesGenerator wiki_prop:P366 wiki:Q1979154 .
+wiki:Q507810 wiki_prop:P361 mathco:initial_discovery_phase .
+wiki:Q507810 wikivoc:name 'Epoch' .
+mathco:initial_discovery_phase mathcovoc:name "'initial discovery phase'" .
+mathco:initial_discovery_phase wiki_prop:P527 wiki:Q507810 .
+mathco:Loss_plot wiki_prop:P361 mathco:feedforward_network .
+mathco:Loss_plot mathcovoc:name "'Loss plot'" .
+mathco:feedforward_network mathcovoc:name "'feedforward network'" .
+wiki:Q5532625 wiki_prop:P527 mathco:Natual_Language_Model .
+wiki:Q5532625 wikivoc:name "'Generative model'" .
+mathco:Natual_Language_Model mathcovoc:name "'Natual Language Model'" .
+mathco:Natual_Language_Model wiki_prop:P279 wiki:Q5532625 .
+wiki:Q6673524 wiki_prop:P361 mathco:Neural-Network-for-Time-Series .
+mathco:Neural-Network-for-Time-Series mathcovoc:name 'Neural-Network-for-Time-Series' .
+mathco:Neural-Network-for-Time-Series wiki_prop:P527 wiki:Q6673524 .
+mathco:Jason_Brownlees_Textbook wiki_prop:P277 wiki:Q747452 .
+mathco:Jason_Brownlees_Textbook mathcovoc:name "'Jason Brownlees Textbook'" .
+wiki:Q83790 wiki_prop:P527 mathco:Deep_Learning_from_Scratch .
+wiki:Q83790 wikivoc:name 'Textbook' .
+mathco:Deep_Learning_from_Scratch mathcovoc:name "'Deep Learning from Scratch'" .
+mathco:Deep_Learning_from_Scratch wiki_prop:P361 wiki:Q83790 .
+mathco:David_Fosters_Textbook wiki_prop:P921 wiki:Q197536 .
+mathco:David_Fosters_Textbook mathcovoc:name "'David Fosters Textbook'" .
+mathco:TheMathCompany "wiki_prop:founded by" mathco:Srivatsa_Kanchibotla .
+mathco:TheMathCompany mathcovoc:name 'TheMathCompany' .
+mathco:Srivatsa_Kanchibotla mathcovoc:name "'Srivatsa Kanchibotla'" .
+mathco:Azure_Security_Tips wiki_prop:P31 mathco:Security_Tips .
+mathco:Azure_Security_Tips mathcovoc:name "'Azure Security Tips'" .
+mathco:Security_Tips mathcovoc:name "'Security Tips'" .
+mathco:Microsoft_cloud_security_benchmark wiki_prop:P178 wiki:Q2283 .
+mathco:Microsoft_cloud_security_benchmark mathcovoc:name "'Microsoft cloud security benchmark'" .
+mathco:security_best_practices wiki_prop:P1269 wiki:Q2526135 .
+mathco:security_best_practices mathcovoc:name "'security best practices'" .
+wiki:Q2526135 wikivoc:name 'Security' .
+wiki:Q830382 wiki_prop:P1269 wiki:Q2526135 .
+wiki:Q830382 wikivoc:name "'Best practice'" .
+mathco:security_operations wiki_prop:P1269 wiki:Q2526135 .
+mathco:security_operations mathcovoc:name "'security operations'" .
+mathco:RaMP wiki_prop:P366 mathco:Zero_Trust .
+mathco:RaMP mathcovoc:name 'RaMP' .
+mathco:Zero_Trust mathcovoc:name "'Zero Trust'" .
+mathco:lnkd wiki_prop:P366 wiki:Q456632 .
+mathco:lnkd mathcovoc:name 'lnkd' .
+wiki:Q456632 wikivoc:name "'Information privacy'" .
+wiki:Q725967 wiki_prop:P31 mathco:cloud_providers .
+wiki:Q725967 wikivoc:name "'Microsoft Azure'" .
+mathco:cloud_providers mathcovoc:name "'cloud providers'" .
+wiki:Q219275 wiki_prop:P279 wiki:Q989632 .
+wiki:Q219275 wikivoc:name 'NS' .
+wiki:Q989632 wikivoc:name "'Network security'" .
+mathco:Security_baseline wiki_prop:P279 mathco:standardized_document .
+mathco:Security_baseline mathcovoc:name "'Security baseline'" .
+mathco:standardized_document mathcovoc:name "'standardized document'" .
+mathco:baseline_mapping wiki_prop:P1269 wiki:Q2526135 .
+mathco:baseline_mapping mathcovoc:name "'baseline mapping'" .
+mathco:Cloud_Adoption_Framework wiki_prop:P366 mathco:getting_started_guide .
+mathco:Cloud_Adoption_Framework mathcovoc:name "'Cloud Adoption Framework'" .
+mathco:getting_started_guide mathcovoc:name "'getting started guide'" .
+wiki:Q370563 wiki_prop:P279 wiki:Q2526135 .
+wiki:Q370563 wikivoc:name "'Cloud computing security'" .
+mathco:TKgmBcV wiki_prop:P31 wiki:Q2136722 .
+mathco:TKgmBcV mathcovoc:name 'TKgmBcV' .
+wiki:Q2136722 wikivoc:name "'Reference implementation'" .
+mathco:Cloud_Adoption wiki_prop:P279 mathco:Security_Journey .
+mathco:Cloud_Adoption mathcovoc:name "'Cloud Adoption'" .
+mathco:Security_Journey mathcovoc:name "'Security Journey'" .
+mathco:security_posture wiki_prop:P1269 wiki:Q2526135 .
+mathco:security_posture mathcovoc:name "'security posture'" .
+mathco:Zero_Trust wiki_prop:P366 mathco:security_program_modernization .
+mathco:security_program_modernization mathcovoc:name "'security program modernization'" .
+wiki:Q3702971 wiki_prop:P279 wiki:Q564306 .
+wiki:Q3702971 wikivoc:name "'Personal data'" .
+wiki:Q564306 wikivoc:name 'PII' .
+mathco:Content_platform wiki_prop:P527 wiki:Q258567 .
+mathco:Content_platform mathcovoc:name "'Content platform'" .
+wiki:Q258567 wiki_prop:P361 mathco:Content_platform .
+mathco:personalised_ads "wiki_prop:replaced by" wiki:Q404112 .
+mathco:personalised_ads mathcovoc:name "'personalised ads'" .
+wiki:Q404112 wikivoc:name 'DCR' .
+wiki:Q404112 wiki_prop:replaces mathco:personalised_ads .
+wiki:Q1172506 wiki_prop:P527 mathco:Third-Party_Cookies_system .
+wiki:Q1172506 wikivoc:name "'General Data Protection Regulation'" .
+mathco:Third-Party_Cookies_system mathcovoc:name "'Third-Party Cookies system'" .
+wiki:Q1172506 wiki_prop:P527 mathco:data_sharing_in_general .
+mathco:data_sharing_in_general mathcovoc:name "'data sharing in general'" .
+mathco:Third-Party_Cookies_system wiki_prop:P361 wiki:Q1172506 .
+mathco:data_sharing_in_general wiki_prop:P361 wiki:Q1172506 .
+wiki:Q564306 wiki_prop:P279 wiki:Q42848 .
+mathco:aggregated wiki_prop:P279 wiki:Q42848 .
+mathco:aggregated mathcovoc:name 'aggregated' .
+mathco:Third-Party_cookie wiki_prop:P1889 mathco:First-Party_cookie .
+mathco:Third-Party_cookie mathcovoc:name "'Third-Party cookie'" .
+mathco:First-Party_cookie mathcovoc:name "'First-Party cookie'" .
+mathco:First-Party_cookie wiki_prop:P1889 mathco:Third-Party_cookie .
+wiki:Q13266 wiki_prop:P361 wiki:Q35127 .
+wiki:Q13266 wikivoc:name 'Cookie' .
+mathco:Third-Party_cookie wiki_prop:P279 wiki:Q13266 .
+mathco:Third-Party_cookies "wiki_prop:replaced by" mathco:First-Party .
+mathco:Third-Party_cookies mathcovoc:name "'Third-Party cookies'" .
+mathco:First-Party mathcovoc:name 'First-Party' .
+mathco:First-Party wiki_prop:replaces mathco:Third-Party_cookies .
+mathco:Data_Clean_Room wiki_prop:P1889 wiki:Q248579 .
+mathco:Data_Clean_Room mathcovoc:name "'Data Clean Room'" .
+wiki:Q248579 wikivoc:name 'CDP' .
+wiki:Q248579 wiki_prop:P1889 mathco:Data_Clean_Room .
+wiki:Q2394135 wiki_prop:P1269 wiki:Q679087 .
+wiki:Q2394135 wikivoc:name 'Targeting' .
+wiki:Q679087 wikivoc:name 'Campaign' .
+wiki:Q404112 wiki_prop:P1889 mathco:third_party_solution .
+mathco:third_party_solution mathcovoc:name "'third party solution'" .
+mathco:third_party_solution wiki_prop:P1889 wiki:Q404112 .
+wiki:Q248579 "wiki_prop:field of work" wiki:Q404112 .
+mathco:Identity_Resolution_with_Clean_Room wiki_prop:P1269 wiki:Q794827 .
+mathco:Identity_Resolution_with_Clean_Room mathcovoc:name "'Identity Resolution with Clean Room'" .
+wiki:Q794827 wikivoc:name 'Cleanroom' .
+mathco:Alibi_Alibi_Detect wiki_prop:P277 wiki:Q747452 .
+mathco:Alibi_Alibi_Detect mathcovoc:name "'Alibi Alibi Detect'" .
+wiki:Q10928179 wiki_prop:P279 wiki:Q167676 .
+wiki:Q10928179 wikivoc:name "'Online and offline'" .
+wiki:Q186588 wiki_prop:P279 wiki:Q42848 .
+wiki:Q47509047 wiki_prop:P2283 wiki:Q21447895 .
+wiki:Q47509047 wikivoc:name 'PyTorch' .
+wiki:Q21447895 wikivoc:name 'TensorFlow' .
+mathco:classification_model wiki_prop:P279 wiki:Q210832 .
+mathco:classification_model mathcovoc:name "'classification model'" .
+wiki:Q210832 wikivoc:name "'Statistical hypothesis testing'" .
+mathco:Kolmogorov-Smirnov_Cramr-von_Mises_Fishers_Exact_Test_Maximum_Mean_Discrepancy_MMD_Learned_Kernel_MMD_Context-aware wiki_prop:P31 wiki:Q224615 .
+mathco:Kolmogorov-Smirnov_Cramr-von_Mises_Fishers_Exact_Test_Maximum_Mean_Discrepancy_MMD_Learned_Kernel_MMD_Context-aware mathcovoc:name "'Kolmogorov-Smirnov Cramr-von Mises Fishers Exact Test Maximum Mean Discrepancy MMD Learned Kernel MMD Context-aware'" .
+mathco:Spot-the-diff_Classifier wiki_prop:P279 wiki:Q4223015 .
+mathco:Spot-the-diff_Classifier mathcovoc:name "'Spot-the-diff Classifier'" .
+wiki:Q4223015 wikivoc:name 'Classifier' .
+mathco:Uncertainty_Regressor_Uncertainty_Installation wiki_prop:P279 wiki:Q4223015 .
+mathco:Uncertainty_Regressor_Uncertainty_Installation mathcovoc:name "'Uncertainty Regressor Uncertainty Installation'" .
+wiki:Q47509047 wiki_prop:P366 mathco:backend_install_alibi_detect .
+mathco:backend_install_alibi_detect mathcovoc:name "'backend install alibi detect'" .
+mathco:pip_install_alibi-detecttorch wiki_prop:P366 wiki:Q21447895 .
+mathco:pip_install_alibi-detecttorch mathcovoc:name "'pip install alibi-detecttorch'" .
+mathco:pip_install_alibi-detecttensorflow wiki_prop:P366 wiki:Q21447895 .
+mathco:pip_install_alibi-detecttensorflow mathcovoc:name "'pip install alibi-detecttensorflow'" .
+mathco:keOps wiki_prop:P366 mathco:MMD_test .
+mathco:keOps mathcovoc:name 'keOps' .
+mathco:MMD_test mathcovoc:name "'MMD test'" .
+wiki:Q468947 wiki_prop:P2283 wiki:Q197520 .
+wiki:Q468947 wikivoc:name 'Alibi' .
+wiki:Q197520 wikivoc:name 'NumPy' .
+wiki:Q20992161 wiki_prop:P31 wiki:Q1172284 .
+wiki:Q20992161 wikivoc:name 'CarPrice' .
+wiki:Q3036835 wiki_prop:P156 mathco:new_data_next .
+wiki:Q3036835 wikivoc:name "'Reference data'" .
+mathco:new_data_next mathcovoc:name "'new data next'" .
+mathco:new_data_next wiki_prop:P155 wiki:Q3036835 .
+wiki:Q1302249 wiki_prop:P361 wiki:Q197520 .
+wiki:Q1302249 wikivoc:name 'Cross-reference' .
+wiki:Q233727 wiki_prop:P527 wiki:Q1641420 .
+wiki:Q1641420 wikivoc:name 'Delimiter' .
+wiki:Q121769 wiki_prop:P279 wiki:Q42848 .
+wiki:Q121769 wikivoc:name 'Reference' .
+wiki:Q9893 wiki_prop:P31 mathco:categoricalfeaturename .
+wiki:Q9893 wikivoc:name 'I' .
+mathco:categoricalfeaturename mathcovoc:name 'categoricalfeaturename' .
+mathco:refdfiencodedref wiki_prop:P527 mathco:inplaceTrue .
+mathco:refdfiencodedref mathcovoc:name 'refdfiencodedref' .
+mathco:inplaceTrue mathcovoc:name 'inplaceTrue' .
+mathco:inplaceTrue wiki_prop:P361 mathco:refdfiencodedref .
+mathco:Running_the_test wiki_prop:P1269 wiki:Q224615 .
+mathco:Running_the_test mathcovoc:name "'Running the test'" .
+mathco:test_class wiki_prop:P527 wiki:Q2011843 .
+mathco:test_class mathcovoc:name "'test class'" .
+wiki:Q1302249 wiki_prop:P279 wiki:Q357818 .
+wiki:Q357818 wikivoc:name 'Array' .
+mathco:KSDriftxref wiki_prop:P366 mathco:predict_method .
+mathco:KSDriftxref mathcovoc:name 'KSDriftxref' .
+mathco:predict_method mathcovoc:name "'predict method'" .
+mathco:KS_distance wiki_prop:P1269 wiki:Q258098 .
+mathco:KS_distance mathcovoc:name "'KS distance'" .
+wiki:Q258098 wikivoc:name 'Drift' .
+mathco:sample_output wiki_prop:P279 wiki:Q2042052 .
+mathco:sample_output mathcovoc:name "'sample output'" .
+wiki:Q2042052 wikivoc:name 'Output' .
+wiki:Q235342 wiki_prop:P361 wiki:Q6366844 .
+wiki:Q235342 wikivoc:name 'STAT' .
+wiki:Q6366844 wikivoc:name 'Kaplan–Sheinwold' .
+mathco:featurename9 wiki_prop:P527 mathco:statval .
+mathco:featurename9 mathcovoc:name 'featurename9' .
+mathco:statval mathcovoc:name 'statval' .
+mathco:featurename9 wiki_prop:P527 mathco:pval .
+mathco:pval mathcovoc:name 'pval' .
+mathco:statval wiki_prop:P361 mathco:featurename9 .
+mathco:pval wiki_prop:P361 mathco:featurename9 .
+mathco:pval9 wiki_prop:P527 mathco:printffname .
+mathco:pval9 mathcovoc:name 'pval9' .
+mathco:printffname mathcovoc:name 'printffname' .
+mathco:printffname wiki_prop:P361 mathco:pval9 .
+mathco:statval wiki_prop:P527 mathco:pval .
+mathco:pval wiki_prop:P361 mathco:statval .
+mathco:Kolmogorov-Smirnov_pval wiki_prop:P31 mathco:Detector_Parameter .
+mathco:Kolmogorov-Smirnov_pval mathcovoc:name "'Kolmogorov-Smirnov pval'" .
+mathco:Detector_Parameter mathcovoc:name "'Detector Parameter'" .
+mathco:xrefpreprocessed wiki_prop:P279 mathco:preprocessed .
+mathco:xrefpreprocessed mathcovoc:name 'xrefpreprocessed' .
+mathco:preprocessed mathcovoc:name 'preprocessed' .
+wiki:Q7705759 wiki_prop:P279 wiki:Q28838080 .
+wiki:Q7705759 wikivoc:name "'Test data'" .
 wiki:Q28838080 wikivoc:name 'Preprocessing' .
-wiki:Q5432696 "wiki_prop:parent taxon" wiki:Q858572 .
+mathco:Updatexref wiki_prop:P366 wiki:Q3036835 .
+mathco:Updatexref mathcovoc:name 'Updatexref' .
+wiki:Q3045002 wiki_prop:P279 wiki:Q42848 .
+wiki:Q3045002 wikivoc:name "'Concept drift'" .
+wiki:Q1952580 wiki_prop:P31 mathco:Correction_type .
+wiki:Q1952580 wikivoc:name "'Multivariate statistics'" .
+mathco:Correction_type mathcovoc:name "'Correction type'" .
+wiki:Q5432696 wiki_prop:P1269 wiki:Q858572 .
 wiki:Q5432696 wikivoc:name "'False discovery rate'" .
 wiki:Q858572 wikivoc:name "'Carlo Emilio Bonferroni'" .
+wiki:Q6366844 wiki_prop:P366 wiki:Q575766 .
+wiki:Q575766 wikivoc:name "'Kolmogorov–Smirnov test'" .
+mathco:inputshape wiki_prop:P279 mathco:Shape_of_input_data .
+mathco:inputshape mathcovoc:name 'inputshape' .
+mathco:Shape_of_input_data mathcovoc:name "'Shape of input data'" .
+wiki:Q190087 wiki_prop:P361 wiki:Q180160 .
+wiki:Q190087 wikivoc:name "'Data type'" .
+wiki:Q180160 wikivoc:name 'Metadata' .
+wiki:Q180160 wiki_prop:P527 wiki:Q190087 .
+wiki:Q14749 wiki_prop:P279 wiki:Q478798 .
+mathco:Cramr-von_Mises_pval wiki_prop:P31 wiki:Q359787 .
+mathco:Cramr-von_Mises_pval mathcovoc:name "'Cramr-von Mises pval'" .
+wiki:Q359787 wikivoc:name 'Threshold' .
+mathco:Fishers_Exact_Test wiki_prop:P2283 mathco:threshold_for_p-value_preprocessatinit .
+mathco:Fishers_Exact_Test mathcovoc:name "'Fishers Exact Test'" .
+mathco:threshold_for_p-value_preprocessatinit mathcovoc:name "'threshold for p-value preprocessatinit'" .
+mathco:threshold_for_p-value_preprocessatinit wiki_prop:P1535 mathco:Fishers_Exact_Test .
+mathco:Maximum_Mean_Discrepancy wiki_prop:P366 mathco:MMD_backend .
+mathco:Maximum_Mean_Discrepancy mathcovoc:name "'Maximum Mean Discrepancy'" .
+mathco:MMD_backend mathcovoc:name "'MMD backend'" .
+wiki:Q2285199 wiki_prop:P279 wiki:Q253255 .
+wiki:Q2285199 wikivoc:name 'Significance' .
+wiki:Q253255 wikivoc:name 'P-value' .
+mathco:preprocessatinit wiki_prop:P366 wiki:Q28838080 .
+mathco:preprocessatinit mathcovoc:name 'preprocessatinit' .
+wiki:Q396049 wiki_prop:P306 wiki:Q388 .
+wiki:Q396049 wikivoc:name 'MMD' .
+wiki:Q388 wikivoc:name 'Linux' .
+wiki:Q7280263 wiki_prop:P279 wiki:Q6151773 .
+wiki:Q7280263 wikivoc:name "'Radial basis function kernel'" .
+wiki:Q6151773 wikivoc:name "'List of things named after Carl Friedrich Gauss'" .
+wiki:Q202400 wiki_prop:P527 mathco:np.ndarray .
+wiki:Q202400 wikivoc:name 'Kernel' .
+mathco:np.ndarray mathcovoc:name 'np.ndarray' .
+mathco:np.ndarray wiki_prop:P361 wiki:Q202400 .
+wiki:Q201413 wiki_prop:P366 wiki:Q167676 .
+wiki:Q201413 wikivoc:name 'Heuristic' .
+wiki:Q161519 wiki_prop:P1535 wiki:Q108839445 .
+wiki:Q161519 wikivoc:name 'Permutation' .
+wiki:Q108839445 wikivoc:name "'Permutation test'" .
+wiki:Q108839445 wiki_prop:P2283 wiki:Q161519 .
+mathco:Optionally_pass wiki_prop:P279 wiki:Q219320 .
+mathco:Optionally_pass mathcovoc:name "'Optionally pass'" .
+wiki:Q219320 wikivoc:name 'Input/output' .
+wiki:Q47509047 wiki_prop:P277 wiki:Q21447895 .
+wiki:Q47509047 wiki_prop:P279 wiki:Q21447895 .
+wiki:Q21447895 wiki_prop:P279 wiki:Q349724 .
+wiki:Q349724 wikivoc:name 'Default' .
+wiki:Q7280263 wiki_prop:P279 mathco:ckernel .
+mathco:ckernel mathcovoc:name 'ckernel' .
+wiki:Q202400 wiki_prop:P361 wiki:Q1382703 .
+wiki:Q7280263 wiki_prop:P279 mathco:npermutation .
+mathco:npermutation mathcovoc:name 'npermutation' .
+wiki:Q5188207 wiki_prop:P279 wiki:Q421316 .
+wiki:Q5188207 wikivoc:name 'Cross-validation' .
+wiki:Q421316 wikivoc:name 'Regularization' .
+wiki:Q395712 wiki_prop:P279 mathco:MMDs .
+wiki:Q395712 wikivoc:name 'None' .
+mathco:MMDs mathcovoc:name 'MMDs' .
+wiki:Q292434 wiki_prop:P366 wiki:Q81673 .
+wiki:Q81673 wikivoc:name 'Print' .
+wiki:Q1054475 wiki_prop:P31 wiki:Q393585 .
+wiki:Q1054475 wikivoc:name "'Gaussian function'" .
+wiki:Q393585 wikivoc:name 'Bandwidth' .
+wiki:Q1054475 wiki_prop:P1269 mathco:LSDD .
+mathco:LSDD mathcovoc:name 'LSDD' .
+mathco:120th wiki_prop:P279 wiki:Q3036835 .
+mathco:120th mathcovoc:name '120th' .
+wiki:Q10897 wiki_prop:P31 mathco:regularization_parameter .
+mathco:regularization_parameter mathcovoc:name "'regularization parameter'" .
+mathco:Chi-Squared_pval wiki_prop:P31 wiki:Q359787 .
+mathco:Chi-Squared_pval mathcovoc:name "'Chi-Squared pval'" .
+mathco:preprocessatinit wiki_prop:P279 wiki:Q28838080 .
+wiki:Q5432696 wiki_prop:parent_taxon wiki:Q858572 .
 mathco:Chi-Squared_test wiki_prop:P31 wiki:Q16782317 .
 mathco:Chi-Squared_test mathcovoc:name "'Chi-Squared test'" .
-wiki:Q16782317 wikivoc:name 'Feature' .
 mathco:Chi-Squared_test wiki_prop:P2283 mathco:pval .
-mathco:pval mathcovoc:name 'pval' .
 mathco:feature_column_index wiki_prop:P361 wiki:Q23622 .
 mathco:feature_column_index mathcovoc:name "'feature column index'" .
 wiki:Q23622 wikivoc:name 'Dictionary' .
 wiki:Q843558 wiki_prop:P1269 wiki:Q575766 .
 wiki:Q843558 wikivoc:name "'Alternative hypothesis'" .
-wiki:Q575766 wikivoc:name "'Kolmogorov–Smirnov test'" .
 mathco:Chi-Squared wiki_prop:P2283 wiki:Q6366844 .
 mathco:Chi-Squared mathcovoc:name 'Chi-Squared' .
-wiki:Q6366844 wikivoc:name 'Kaplan–Sheinwold' .
 wiki:Q21447895 wiki_prop:P366 mathco:Classifier_backend .
-wiki:Q21447895 wikivoc:name 'TensorFlow' .
 mathco:Classifier_backend mathcovoc:name "'Classifier backend'" .
 wiki:Q47509047 wiki_prop:P366 mathco:Classifier_backend .
-wiki:Q47509047 wikivoc:name 'PyTorch' .
 wiki:Q1026367 wiki_prop:P366 mathco:Classifier_backend .
 wiki:Q1026367 wikivoc:name 'Scikit-learn' .
 wiki:Q1289773 wiki_prop:P361 wiki:Q1979154 .
-wiki:Q1289773 wikivoc:name 'Framework' .
-wiki:Q1979154 wikivoc:name 'Model' .
 wiki:Q1979154 wiki_prop:P527 wiki:Q1289773 .
 mathco:pval wiki_prop:P31 mathco:p-value_threshold .
 mathco:p-value_threshold mathcovoc:name "'p-value threshold'" .
-wiki:Q47509047 wiki_prop:P2283 wiki:Q21447895 .
 mathco:discrepancy_on_soft wiki_prop:P31 mathco:test_for_discrepancy_on_soft .
 mathco:discrepancy_on_soft mathcovoc:name "'discrepancy on soft'" .
 mathco:test_for_discrepancy_on_soft mathcovoc:name "'test for discrepancy on soft'" .
@@ -3484,13 +5220,11 @@ wiki:Q236339 wiki_prop:P361 wiki:Q575766 .
 wiki:Q236339 wikivoc:name 'False' .
 mathco:trainsize wiki_prop:P361 wiki:Q1172284 .
 mathco:trainsize mathcovoc:name 'trainsize' .
-wiki:Q1172284 wikivoc:name "'Data set'" .
 mathco:nfolds wiki_prop:P31 wiki:Q202805 .
 mathco:nfolds mathcovoc:name 'nfolds' .
 wiki:Q202805 wikivoc:name 'Combination' .
 mathco:stratified_folds wiki_prop:P366 wiki:Q918385 .
 mathco:stratified_folds mathcovoc:name "'stratified folds'" .
-wiki:Q918385 wikivoc:name 'Training' .
 mathco:trainsize wiki_prop:P1889 mathco:nfold .
 mathco:nfold mathcovoc:name 'nfold' .
 mathco:nfold wiki_prop:P1889 mathco:trainsize .
@@ -3499,10 +5233,8 @@ wiki:Q1886131 wikivoc:name "'Random seed'" .
 mathco:fold_selection mathcovoc:name "'fold selection'" .
 mathco:fold_selection wiki_prop:P2283 wiki:Q1886131 .
 wiki:Q918385 wiki_prop:P1269 wiki:Q4223015 .
-wiki:Q4223015 wikivoc:name 'Classifier' .
 mathco:Learning_rate_for_the_optimizer wiki_prop:P1269 wiki:Q141495 .
 mathco:Learning_rate_for_the_optimizer mathcovoc:name "'Learning rate for the optimizer'" .
-wiki:Q47509047 wiki_prop:P279 wiki:Q21447895 .
 mathco:training_epoch wiki_prop:P1269 wiki:Q4223015 .
 mathco:training_epoch mathcovoc:name "'training epoch'" .
 wiki:Q345281 wiki_prop:P1889 mathco:nfold .
@@ -3517,27 +5249,18 @@ mathco:TFDataset wiki_prop:P527 mathco:tf.utils.keras .
 mathco:TFDataset mathcovoc:name 'TFDataset' .
 mathco:tf.utils.keras mathcovoc:name 'tf.utils.keras' .
 mathco:tf.utils.keras wiki_prop:P361 mathco:TFDataset .
-wiki:Q21447895 "wiki_prop:based on" wiki:Q133250 .
-wiki:Q133250 wikivoc:name 'Sequence' .
+wiki:Q21447895 wiki_prop:based_on wiki:Q133250 .
 wiki:Q14749 wiki_prop:P31 wiki:Q190087 .
-wiki:Q14749 wikivoc:name 'Table' .
-wiki:Q190087 wikivoc:name "'Data type'" .
 wiki:Q478798 wiki_prop:P31 wiki:Q190087 .
-wiki:Q478798 wikivoc:name 'Image' .
 wiki:Q186588 wiki_prop:P31 wiki:Q190087 .
-wiki:Q186588 wikivoc:name "'Time series'" .
 wiki:Q468947 wiki_prop:P527 mathco:Repos_azure .
-wiki:Q468947 wikivoc:name 'Alibi' .
 mathco:Repos_azure mathcovoc:name "'Repos azure'" .
 mathco:Repos_azure wiki_prop:P361 wiki:Q468947 .
 mathco:Evidently_AI wiki_prop:P277 wiki:Q747452 .
 mathco:Evidently_AI mathcovoc:name "'Evidently AI'" .
-wiki:Q747452 wikivoc:name 'Python' .
 wiki:Q14749 wiki_prop:P279 wiki:Q1689278 .
-wiki:Q1689278 wikivoc:name 'Text' .
 mathco:feature_distribution wiki_prop:P279 wiki:Q210832 .
 mathco:feature_distribution mathcovoc:name "'feature distribution'" .
-wiki:Q210832 wikivoc:name "'Statistical hypothesis testing'" .
 mathco:KolmogorovSmirnov_K-S_Population_Stability_Index_PSI_Wasserstein_distance_normed wiki_prop:P31 wiki:Q210832 .
 mathco:KolmogorovSmirnov_K-S_Population_Stability_Index_PSI_Wasserstein_distance_normed mathcovoc:name "'KolmogorovSmirnov K-S Population Stability Index PSI Wasserstein distance normed'" .
 mathco:Epps_Singleton_T-test wiki_prop:P31 wiki:Q897827 .
@@ -3568,20 +5291,16 @@ mathco:Pandas_DataFrame wiki_prop:P366 mathco:datasets .
 mathco:Pandas_DataFrame mathcovoc:name "'Pandas DataFrame'" .
 mathco:datasets mathcovoc:name 'datasets' .
 wiki:Q33602 wiki_prop:P527 mathco:DataFrame .
-wiki:Q33602 wikivoc:name "'Giant panda'" .
 mathco:DataFrame mathcovoc:name 'DataFrame' .
 mathco:DataFrame wiki_prop:P361 wiki:Q33602 .
 wiki:Q33602 wiki_prop:P527 wiki:Q218723 .
 wiki:Q218723 wikivoc:name 'PD' .
 wiki:Q218723 wiki_prop:P361 wiki:Q33602 .
-wiki:Q20992161 wiki_prop:P31 wiki:Q1172284 .
-wiki:Q20992161 wikivoc:name 'CarPrice' .
 mathco:CSV_Column_mapping wiki_prop:P31 mathco:Column_mapping .
 mathco:CSV_Column_mapping mathcovoc:name "'CSV Column mapping'" .
 mathco:Column_mapping mathcovoc:name "'Column mapping'" .
 wiki:Q2004833 wiki_prop:P279 wiki:Q4817 .
 wiki:Q2004833 wikivoc:name 'Numerical' .
-wiki:Q4817 wikivoc:name 'Column' .
 mathco:DateTime wiki_prop:P31 wiki:Q4817 .
 mathco:DateTime mathcovoc:name 'DateTime' .
 wiki:Q5051808 wiki_prop:P279 wiki:Q4817 .
@@ -3597,15 +5316,12 @@ mathco:drift_score mathcovoc:name "'drift score'" .
 wiki:Q225802 wikivoc:name 'Distribution' .
 mathco:drifted_features wiki_prop:P279 wiki:Q11563 .
 mathco:drifted_features mathcovoc:name "'drifted features'" .
-wiki:Q11563 wikivoc:name 'Number' .
 mathco:truefalse wiki_prop:P1269 wiki:Q258098 .
 mathco:truefalse mathcovoc:name 'truefalse' .
-wiki:Q258098 wikivoc:name 'Drift' .
 mathco:TrueFalse wiki_prop:P31 mathco:drift_score .
 mathco:TrueFalse mathcovoc:name 'TrueFalse' .
 wiki:Q4817 wiki_prop:P1269 wiki:Q3045002 .
-wiki:Q3045002 wikivoc:name "'Concept drift'" .
-wiki:Q41984 "wiki_prop:headquarters location" wiki:Q1741 .
+wiki:Q41984 wiki_prop:headquarters_location wiki:Q1741 .
 wiki:Q41984 wikivoc:name "'International Atomic Energy Agency'" .
 wiki:Q1741 wikivoc:name 'Vienna' .
 wiki:Q41984 wiki_prop:country wiki:Q40 .
@@ -3622,12 +5338,9 @@ mathco:stattestthreshold wiki_prop:P279 mathco:drift_threshold .
 mathco:stattestthreshold mathcovoc:name 'stattestthreshold' .
 mathco:drift_threshold mathcovoc:name "'drift threshold'" .
 wiki:Q253255 wiki_prop:P1269 wiki:Q210832 .
-wiki:Q253255 wikivoc:name 'P-value' .
 mathco:Dataset_Drift wiki_prop:P31 wiki:Q235660 .
 mathco:Dataset_Drift mathcovoc:name "'Dataset Drift'" .
-wiki:Q235660 wikivoc:name 'Metric' .
 wiki:Q359787 wiki_prop:P279 mathco:drift_method .
-wiki:Q359787 wikivoc:name 'Threshold' .
 mathco:drift_method mathcovoc:name "'drift method'" .
 mathco:drift_method wiki_prop:P279 wiki:Q359787 .
 mathco:percolumnstattest wiki_prop:P31 mathco:drift_method .
@@ -3652,14 +5365,12 @@ mathco:independent_variablex wiki_prop:P461 mathco:dependent_variabley .
 wiki:Q320723 wiki_prop:P461 wiki:Q320723 .
 wiki:Q320723 wikivoc:name "'Dependent and independent variables'" .
 wiki:Q3045002 wiki_prop:P2579 wiki:Q167676 .
-wiki:Q167676 wikivoc:name 'Sensor' .
 wiki:Q167676 wiki_prop:studies wiki:Q3045002 .
 mathco:Statistical_Tests_Classification_Models wiki_prop:P1269 mathco:Statistical_Tests .
 mathco:Statistical_Tests_Classification_Models mathcovoc:name "'Statistical Tests Classification Models'" .
 mathco:Statistical_Tests mathcovoc:name "'Statistical Tests'" .
 mathco:Brief_about_this_test wiki_prop:P360 wiki:Q224615 .
 mathco:Brief_about_this_test mathcovoc:name "'Brief about this test'" .
-wiki:Q224615 wikivoc:name 'Test' .
 mathco:KolmogorovSmirnov_K-S wiki_prop:P31 wiki:Q210832 .
 mathco:KolmogorovSmirnov_K-S mathcovoc:name "'KolmogorovSmirnov K-S'" .
 mathco:cumulative_distribution_CDF wiki_prop:P1269 wiki:Q83021 .
@@ -3677,7 +5388,6 @@ wiki:Q5423634 wiki_prop:P31 wiki:Q2463013 .
 wiki:Q5423634 wikivoc:name 'F-divergence' .
 wiki:Q2463013 wikivoc:name 'Type' .
 wiki:Q254390 wiki_prop:P1269 wiki:Q200726 .
-wiki:Q254390 wikivoc:name 'Similarity' .
 wiki:Q200726 wikivoc:name "'Probability distribution'" .
 mathco:KullbackLeibler_divergence wiki_prop:P31 wiki:Q6889351 .
 mathco:KullbackLeibler_divergence mathcovoc:name "'KullbackLeibler divergence'" .
@@ -3713,7 +5423,7 @@ wiki:Q7604392 wiki_prop:P1269 wiki:Q225802 .
 mathco:AI_Alibi_Deepchecks wiki_prop:P2283 mathco:Epps-Singleton_test .
 mathco:Epps-Singleton_test mathcovoc:name "'Epps-Singleton test'" .
 mathco:Epps-Singleton_test wiki_prop:P1535 mathco:AI_Alibi_Deepchecks .
-mathco:Epps-Singleton_test "wiki_prop:based on" wiki:Q309479 .
+mathco:Epps-Singleton_test wiki_prop:based_on wiki:Q309479 .
 wiki:Q309479 wikivoc:name "'Student's t-test'" .
 mathco:Alibi_Deepchecks wiki_prop:P31 wiki:Q11660 .
 mathco:Alibi_Deepchecks mathcovoc:name "'Alibi Deepchecks'" .
@@ -3723,14 +5433,10 @@ wiki:Q11052334 wiki_prop:P1535 wiki:Q224615 .
 wiki:Q2796622 wiki_prop:P1269 wiki:Q42848 .
 wiki:Q2796622 wikivoc:name 'Mean' .
 wiki:Q1570376 wiki_prop:P527 wiki:Q2438718 .
-wiki:Q1570376 wikivoc:name 'Sample' .
-wiki:Q2438718 wikivoc:name 'Datapoint' .
 wiki:Q2438718 wiki_prop:P361 wiki:Q1570376 .
 mathco:Alibi_Deepchecks wiki_prop:P1269 wiki:Q11660 .
 mathco:Fishers_Exact_Test wiki_prop:P31 wiki:Q210832 .
-mathco:Fishers_Exact_Test mathcovoc:name "'Fishers Exact Test'" .
 wiki:Q225802 wiki_prop:P279 wiki:Q2285707 .
-wiki:Q2285707 wikivoc:name "'Categorical variable'" .
 wiki:Q126017 wiki_prop:P1269 wiki:Q200726 .
 wiki:Q126017 wikivoc:name 'Distance' .
 wiki:Q21856745 wiki_prop:P461 wiki:Q200125 .
@@ -3738,7 +5444,6 @@ wiki:Q21856745 wikivoc:name "'Realization (probability)'" .
 wiki:Q200125 wikivoc:name "'Expected value'" .
 wiki:Q200125 wiki_prop:P461 wiki:Q21856745 .
 mathco:AI_Alibi_Deepchecks wiki_prop:P2283 mathco:Maximum_Mean_Discrepancy .
-mathco:Maximum_Mean_Discrepancy mathcovoc:name "'Maximum Mean Discrepancy'" .
 mathco:Maximum_Mean_Discrepancy wiki_prop:P1535 mathco:AI_Alibi_Deepchecks .
 wiki:Q9946 wiki_prop:P31 wiki:Q225802 .
 wiki:Q9946 wikivoc:name 'P' .
@@ -3750,7 +5455,6 @@ mathco:embeddings mathcovoc:name 'embeddings' .
 wiki:Q866012 wiki_prop:P366 mathco:embeddings .
 wiki:Q866012 wikivoc:name "'University of Queensland'" .
 wiki:Q202400 wiki_prop:P361 wiki:Q190056 .
-wiki:Q202400 wikivoc:name 'Kernel' .
 wiki:Q190056 wikivoc:name "'Hilbert space'" .
 wiki:Q190056 wiki_prop:P527 wiki:Q202400 .
 mathco:pointwise_difference wiki_prop:P1269 wiki:Q225802 .
@@ -3766,7 +5470,6 @@ mathco:cumulative mathcovoc:name 'cumulative' .
 mathco:cumulative wiki_prop:P461 wiki:Q5374243 .
 mathco:Empirical_Distribution_function wiki_prop:P31 wiki:Q788331 .
 mathco:Empirical_Distribution_function mathcovoc:name "'Empirical Distribution function'" .
-wiki:Q788331 wikivoc:name 'Function' .
 mathco:cumulative wiki_prop:P279 wiki:Q20736000 .
 wiki:Q20736000 wikivoc:name "'Probability distribution function'" .
 mathco:cumulative wiki_prop:P279 wiki:Q200726 .
@@ -3825,11 +5528,7 @@ mathco:bin_10 mathcovoc:name "'bin 10'" .
 wiki:Q1166637 wiki_prop:P361 mathco:bin_10 .
 mathco:bin_10-20 wiki_prop:P361 wiki:Q3036835 .
 mathco:bin_10-20 mathcovoc:name "'bin 10-20'" .
-wiki:Q3036835 wikivoc:name "'Reference data'" .
 wiki:Q3036835 wiki_prop:P527 mathco:bin_10-20 .
-wiki:Q8567 wiki_prop:P585 wiki:Q2004 .
-wiki:Q8567 wikivoc:name "'2008 Summer Olympics'" .
-wiki:Q2004 wikivoc:name '2008' .
 wiki:Q11191244 wiki_prop:P361 wiki:Q11191244 .
 wiki:Q11191244 wiki_prop:P527 wiki:Q11191244 .
 mathco:PSI_Sum wiki_prop:P31 wiki:Q7435328 .
@@ -3859,17 +5558,10 @@ wiki:Q7590 wikivoc:name 'Transport' .
 wiki:Q11423 wiki_prop:P279 wiki:Q126017 .
 wiki:Q7451046 wiki_prop:P279 mathco:drift_score .
 wiki:Q7451046 wikivoc:name 'Sensitive' .
-wiki:Q8567 wiki_prop:location wiki:Q956 .
-wiki:Q956 wikivoc:name 'Beijing' .
-wiki:Q8567 wiki_prop:country wiki:Q148 .
-wiki:Q148 wikivoc:name 'China' .
-wiki:Q956 wiki_prop:country wiki:Q148 .
-wiki:Q148 wiki_prop:capital wiki:Q956 .
 mathco:shape_of_distribution wiki_prop:P1889 wiki:Q225802 .
 wiki:Q225802 wiki_prop:P1889 mathco:shape_of_distribution .
 wiki:Q7543639 wiki_prop:P279 wiki:Q194112 .
 wiki:Q7543639 wikivoc:name 'Smaller' .
-wiki:Q194112 wikivoc:name "'Value (ethics and social sciences)'" .
 mathco:Min_drift_score wiki_prop:P279 wiki:Q126017 .
 mathco:Repos_azure wiki_prop:P31 wiki:Q768993 .
 mathco:categorical_features wiki_prop:P279 wiki:Q2004833 .
@@ -3881,14 +5573,14 @@ wiki:Q258098 wiki_prop:P1269 wiki:Q1172284 .
 mathco:Drift_score wiki_prop:P1269 wiki:Q1172284 .
 mathco:minimum_value wiki_prop:P1269 wiki:Q258098 .
 mathco:minimum_value mathcovoc:name "'minimum value'" .
-mathco:Jensen-Shannon_distance "wiki_prop:based on" wiki:Q255166 .
+mathco:Jensen-Shannon_distance wiki_prop:based_on wiki:Q255166 .
 mathco:Jensen-Shannon_distance mathcovoc:name "'Jensen-Shannon distance'" .
 mathco:JensenShannon_divergence wiki_prop:P1269 wiki:Q254390 .
 mathco:JensenShannon_divergence mathcovoc:name "'JensenShannon divergence'" .
-wiki:Q189000 "wiki_prop:named after" mathco:KullbackLeibler .
+wiki:Q189000 wiki_prop:named_after mathco:KullbackLeibler .
 wiki:Q189000 wikivoc:name 'Divergence' .
 mathco:KullbackLeibler mathcovoc:name 'KullbackLeibler' .
-mathco:Jensen-Shannon_test "wiki_prop:based on" mathco:Kullback-Leiber_divergence .
+mathco:Jensen-Shannon_test wiki_prop:based_on mathco:Kullback-Leiber_divergence .
 mathco:Jensen-Shannon_test mathcovoc:name "'Jensen-Shannon test'" .
 mathco:Kullback-Leiber_divergence mathcovoc:name "'Kullback-Leiber divergence'" .
 mathco:Jensen_Shannon_distance wiki_prop:P1269 wiki:Q1347572 .
@@ -3913,7 +5605,7 @@ wiki:Q159791 wikivoc:name "'Anno Domini'" .
 wiki:Q258098 wiki_prop:P279 wiki:Q16782317 .
 mathco:wasserstein_test wiki_prop:P2283 mathco:shape_of_distribution .
 mathco:wasserstein_test mathcovoc:name "'wasserstein test'" .
-wiki:Q491401 "wiki_prop:based on" mathco:Cramer-Von-Mises_test .
+wiki:Q491401 wiki_prop:based_on mathco:Cramer-Von-Mises_test .
 wiki:Q5374243 wiki_prop:P461 wiki:Q5194184 .
 wiki:Q5194184 wikivoc:name "'Cumulative frequency'" .
 wiki:Q5194184 wiki_prop:P461 wiki:Q5374243 .
@@ -3931,10 +5623,7 @@ wiki:Q224825 wikivoc:name 'GN' .
 wiki:Q1339385 wikivoc:name "'Empirical distribution function'" .
 wiki:Q9946 wiki_prop:P1269 wiki:Q9492 .
 wiki:Q258098 wiki_prop:P31 wiki:Q360446 .
-wiki:Q437 wiki_prop:country wiki:Q215 .
-wiki:Q437 wikivoc:name 'Ljubljana' .
-wiki:Q215 wikivoc:name 'Slovenia' .
-wiki:Q215 "wiki_prop:contains administrative territorial entity" wiki:Q437 .
+wiki:Q215 wiki_prop:contains_administrative_territorial_entity wiki:Q437 .
 mathco:Repos_azure wiki_prop:P361 wiki:Q1347572 .
 wiki:Q167 wiki_prop:P1889 wiki:Q202742 .
 wiki:Q167 wikivoc:name 'Pi' .
@@ -3993,7 +5682,6 @@ mathco:increase_in_drift mathcovoc:name "'increase in drift'" .
 wiki:Q81365 wiki_prop:P279 wiki:Q16782317 .
 wiki:Q81365 wikivoc:name 'Decimal' .
 wiki:Q13611879 wiki_prop:P361 mathco:number_of_data_points .
-wiki:Q13611879 wikivoc:name "'Unit of observation'" .
 mathco:number_of_data_points mathcovoc:name "'number of data points'" .
 wiki:Q7667935 wiki_prop:P527 wiki:Q159375 .
 wiki:Q7667935 wikivoc:name 'T-statistic' .
@@ -4021,14 +5709,14 @@ wiki:Q762856 wikivoc:name "'Frequency (statistics)'" .
 wiki:Q253255 wiki_prop:P1269 wiki:Q5454860 .
 wiki:Q5454860 wikivoc:name "'Fisher test'" .
 mathco:Min_drift_score wiki_prop:P361 wiki:Q1347572 .
-mathco:Repos_azure "wiki_prop:based on" mathco:Fishers_Exact_test .
+mathco:Repos_azure wiki_prop:based_on mathco:Fishers_Exact_test .
 mathco:categorical_features wiki_prop:P279 wiki:Q16782317 .
 wiki:Q253255 wiki_prop:P527 mathco:g_value .
 mathco:g_value mathcovoc:name "'g value'" .
 mathco:g_value wiki_prop:P361 wiki:Q253255 .
 wiki:Q246639 wiki_prop:P1269 wiki:Q258098 .
 wiki:Q246639 wikivoc:name 'Limit' .
-wiki:Q152087 "wiki_prop:located in the administrative territorial entity" mathco:Humboldt,_Germany .
+wiki:Q152087 wiki_prop:located_in_the_administrative_territorial_entity mathco:Humboldt,_Germany .
 wiki:Q152087 wikivoc:name "'Humboldt University of Berlin'" .
 mathco:Humboldt,_Germany mathcovoc:name "'Humboldt, Germany'" .
 mathco:drift_score wiki_prop:P1269 wiki:Q1172284 .
@@ -4059,19 +5747,15 @@ wiki:Q1744625 wiki_prop:P2283 mathco:Classification_Model .
 wiki:Q253255 wiki_prop:P1269 wiki:Q258098 .
 mathco:random_state wiki_prop:P1542 wiki:Q2042052 .
 mathco:random_state mathcovoc:name "'random state'" .
-wiki:Q2042052 wikivoc:name 'Output' .
 mathco:Repos_azure wiki_prop:platform wiki:Q468947 .
-mathco:DevOps_starter_guide "wiki_prop:publication date" wiki:Q199 .
+mathco:DevOps_starter_guide wiki_prop:publication_date wiki:Q199 .
 mathco:DevOps_starter_guide mathcovoc:name "'DevOps starter guide'" .
 wiki:Q199 wikivoc:name '1' .
-wiki:Q3025536 "wiki_prop:influenced by" wiki:Q393742 .
-wiki:Q3025536 wikivoc:name 'DevOps' .
+wiki:Q3025536 wiki_prop:influenced_by wiki:Q393742 .
 wiki:Q393742 wikivoc:name 'Agile' .
 wiki:Q965769 wiki_prop:P527 mathco:Continuous_Testing .
-wiki:Q965769 wikivoc:name "'Continuous integration'" .
 mathco:Continuous_Testing mathcovoc:name "'Continuous Testing'" .
 wiki:Q965769 wiki_prop:P527 wiki:Q2507377 .
-wiki:Q2507377 wikivoc:name "'Continuous delivery'" .
 wiki:Q965769 wiki_prop:P527 mathco:Continuous_Deployment .
 mathco:Continuous_Deployment mathcovoc:name "'Continuous Deployment'" .
 mathco:Continuous_Testing wiki_prop:P361 wiki:Q965769 .
@@ -4089,11 +5773,7 @@ wiki:Q3025536 wiki_prop:P279 wiki:Q638608 .
 wiki:Q638608 wikivoc:name "'Software development'" .
 wiki:Q2507377 wiki_prop:P1269 wiki:Q58778 .
 wiki:Q58778 wikivoc:name 'System' .
-wiki:Q3025536 wiki_prop:P361 wiki:Q209577 .
-wiki:Q209577 wikivoc:name 'Operation' .
 wiki:Q39546 wiki_prop:P1889 wiki:Q3401405 .
-wiki:Q39546 wikivoc:name 'Tool' .
-wiki:Q3401405 wikivoc:name 'Practice' .
 wiki:Q3401405 wiki_prop:P1889 wiki:Q39546 .
 wiki:Q3025536 wiki_prop:P31 mathco:cultural_shift .
 mathco:cultural_shift mathcovoc:name "'cultural shift'" .
@@ -4101,8 +5781,6 @@ wiki:Q3025536 wiki_prop:P1269 wiki:Q2297740 .
 wiki:Q2297740 wikivoc:name "'Software deployment'" .
 mathco:Collaboration_Collaboration wiki_prop:P361 wiki:Q3025536 .
 mathco:Collaboration_Collaboration mathcovoc:name "'Collaboration Collaboration'" .
-wiki:Q3025536 wiki_prop:P361 wiki:Q340724 .
-wiki:Q340724 wikivoc:name 'Development' .
 wiki:Q340724 wiki_prop:P361 wiki:Q2904257 .
 wiki:Q2904257 wikivoc:name "'Software development process'" .
 wiki:Q209577 wiki_prop:P361 wiki:Q2904257 .
@@ -4110,15 +5788,11 @@ wiki:Q2904257 wiki_prop:P527 wiki:Q340724 .
 wiki:Q2904257 wiki_prop:P527 wiki:Q209577 .
 wiki:Q3025536 wiki_prop:P1269 wiki:Q2904257 .
 wiki:Q409857 wiki_prop:P1056 wiki:Q188889 .
-wiki:Q409857 wikivoc:name 'Developer' .
-wiki:Q188889 wikivoc:name 'Code' .
 wiki:Q188889 wiki_prop:P1535 wiki:Q409857 .
 wiki:Q184199 wiki_prop:P361 mathco:CICD_pipeline .
-wiki:Q184199 wikivoc:name 'Automation' .
 mathco:CICD_pipeline mathcovoc:name "'CICD pipeline'" .
 mathco:CICD_pipeline wiki_prop:P527 wiki:Q184199 .
 wiki:Q1318104 wiki_prop:P279 mathco:automated_procedures .
-wiki:Q1318104 wikivoc:name "'Continual improvement process'" .
 mathco:automated_procedures mathcovoc:name "'automated procedures'" .
 wiki:Q1318104 wiki_prop:P279 wiki:Q1076390 .
 wiki:Q1076390 wikivoc:name "'Stargate SG-1 (season 4)'" .
@@ -4126,7 +5800,6 @@ mathco:code_changes wiki_prop:P1269 mathco:development_efficiency .
 mathco:code_changes mathcovoc:name "'code changes'" .
 mathco:development_efficiency mathcovoc:name "'development efficiency'" .
 wiki:Q852835 wiki_prop:P527 wiki:Q528074 .
-wiki:Q852835 wikivoc:name 'Customer' .
 wiki:Q528074 wikivoc:name "'End user'" .
 wiki:Q528074 wiki_prop:P361 wiki:Q852835 .
 mathco:live_monitoring wiki_prop:P361 wiki:Q3025536 .
@@ -4134,12 +5807,10 @@ mathco:live_monitoring mathcovoc:name "'live monitoring'" .
 mathco:Holist_Understanding_of_the_solution wiki_prop:P1269 wiki:Q3025536 .
 mathco:Holist_Understanding_of_the_solution mathcovoc:name "'Holist Understanding of the solution'" .
 wiki:Q3025536 wiki_prop:P527 wiki:Q245962 .
-wiki:Q245962 wikivoc:name 'Implementation' .
 wiki:Q245962 wiki_prop:P361 wiki:Q3025536 .
 wiki:Q3025536 wiki_prop:P279 wiki:Q2321565 .
 wiki:Q2321565 wikivoc:name "'Iterative method'" .
 wiki:Q211857 wiki_prop:P1889 mathco:development_strategy .
-wiki:Q211857 wikivoc:name 'Technique' .
 mathco:development_strategy mathcovoc:name "'development strategy'" .
 mathco:development_strategy wiki_prop:P1889 wiki:Q211857 .
 mathco:scrum_method wiki_prop:P31 mathco:frameworks_of_practice .
@@ -4158,18 +5829,13 @@ wiki:Q965769 wiki_prop:P2283 mathco:automated_builds .
 mathco:automated_builds mathcovoc:name "'automated builds'" .
 mathco:automated_builds wiki_prop:P1535 wiki:Q965769 .
 wiki:Q219118 wiki_prop:P366 wiki:Q965769 .
-wiki:Q219118 wikivoc:name 'CI' .
 mathco:detect_and_fix_issues wiki_prop:P1269 mathco:quality_of_software .
 mathco:detect_and_fix_issues mathcovoc:name "'detect and fix issues'" .
 mathco:quality_of_software mathcovoc:name "'quality of software'" .
 mathco:Continuous_Testing wiki_prop:P279 wiki:Q1475717 .
-wiki:Q1475717 wikivoc:name "'Test automation'" .
 wiki:Q250434 wiki_prop:P1269 wiki:Q7397 .
-wiki:Q250434 wikivoc:name 'Pipeline' .
-wiki:Q7397 wikivoc:name 'Software' .
 wiki:Q2507377 wiki_prop:P279 wiki:Q965769 .
 mathco:automated_release wiki_prop:P527 wiki:Q1475717 .
-mathco:automated_release mathcovoc:name "'automated release'" .
 wiki:Q362334 wiki_prop:P1269 wiki:Q2507377 .
 wiki:Q362334 wikivoc:name 'Everyday' .
 mathco:every_week wiki_prop:P1269 wiki:Q2507377 .
@@ -4190,7 +5856,6 @@ mathco:DevOps_lifecycle mathcovoc:name "'DevOps lifecycle'" .
 mathco:DevOps_lifecycle wiki_prop:P361 wiki:Q3025536 .
 wiki:Q11465 wiki_prop:P361 wiki:Q298413 .
 wiki:Q11465 wikivoc:name 'Velocity' .
-wiki:Q298413 wikivoc:name 'Quality' .
 wiki:Q298413 wiki_prop:P527 wiki:Q11465 .
 wiki:Q3025536 wiki_prop:P527 mathco:Discover_phase .
 mathco:Discover_phase mathcovoc:name "'Discover phase'" .
@@ -4211,12 +5876,10 @@ mathco:iterative_approach wiki_prop:P361 wiki:Q179012 .
 mathco:iterative_approach mathcovoc:name "'iterative approach'" .
 wiki:Q179012 wikivoc:name "'Project management'" .
 wiki:Q340724 wiki_prop:P1056 wiki:Q1796457 .
-wiki:Q1796457 wikivoc:name 'Product' .
 wiki:Q638608 wiki_prop:P425 mathco:development_process .
 mathco:development_process mathcovoc:name "'development process'" .
 mathco:development_process wiki_prop:P3095 wiki:Q638608 .
 wiki:Q327245 wiki_prop:P527 wiki:Q7602551 .
-wiki:Q327245 wikivoc:name 'Team' .
 wiki:Q7602551 wikivoc:name 'Member' .
 wiki:Q7602551 wiki_prop:P361 wiki:Q327245 .
 wiki:Q42903497 wiki_prop:P366 wiki:Q3025536 .
@@ -4229,14 +5892,10 @@ wiki:Q907375 wiki_prop:P279 mathco:automated_procedure .
 wiki:Q907375 wikivoc:name "'Unit testing'" .
 mathco:automated_procedure mathcovoc:name "'automated procedure'" .
 wiki:Q1002975 wiki_prop:P527 wiki:Q224615 .
-wiki:Q1002975 wikivoc:name 'Build' .
-wiki:Q224615 wiki_prop:P361 wiki:Q1002975 .
 wiki:Q907375 wiki_prop:P279 wiki:Q224615 .
 mathco:staging_environment wiki_prop:P366 wiki:Q439664 .
 mathco:staging_environment mathcovoc:name "'staging environment'" .
-wiki:Q439664 wikivoc:name 'Deployment' .
 wiki:Q184199 wiki_prop:P1269 wiki:Q3055454 .
-wiki:Q3055454 wikivoc:name "'Deployment environment'" .
 mathco:build_artifact wiki_prop:P366 wiki:Q439664 .
 mathco:build_artifact mathcovoc:name "'build artifact'" .
 wiki:Q234013 wiki_prop:P279 mathco:breaking_issues .
@@ -4253,16 +5912,12 @@ wiki:Q5375774 wikivoc:name 'End-to-end' .
 wiki:Q11661 wikivoc:name "'Information technology'" .
 wiki:Q594593 wiki_prop:P361 wiki:Q4830453 .
 wiki:Q594593 wikivoc:name "'IT infrastructure'" .
-wiki:Q4830453 wikivoc:name 'Business' .
 wiki:Q184199 wiki_prop:P361 wiki:Q3025536 .
 wiki:Q3025536 wiki_prop:studies wiki:Q439664 .
 wiki:Q439664 wiki_prop:P2579 wiki:Q3025536 .
 wiki:Q183635 wiki_prop:P1269 wiki:Q16278284 .
-wiki:Q183635 wikivoc:name 'Feedback' .
-wiki:Q16278284 wikivoc:name 'Client' .
 wiki:Q780067 wiki_prop:P1269 wiki:Q1060653 .
 wiki:Q780067 wikivoc:name 'Triage' .
-wiki:Q1060653 wikivoc:name "'Customer service'" .
 wiki:Q183635 wiki_prop:P361 wiki:Q340724 .
 wiki:Q2552738 wiki_prop:P361 mathco:development_team .
 mathco:development_team mathcovoc:name "'development team'" .
@@ -4288,12 +5943,11 @@ mathco:Zoho_Projects wiki_prop:P1056 wiki:Q1904950 .
 wiki:Q46794 wiki_prop:P366 mathco:Source_Control .
 wiki:Q46794 wikivoc:name "'Apache Subversion'" .
 mathco:Source_Control mathcovoc:name "'Source Control'" .
-wiki:Q401091 "wiki_prop:based on" mathco:GCP.NET .
+wiki:Q401091 wiki_prop:based_on mathco:GCP.NET .
 wiki:Q401091 wikivoc:name 'Azure' .
 mathco:GCP.NET mathcovoc:name 'GCP.NET' .
 mathco:Cloud_Source_Repositories wiki_prop:P178 wiki:Q95 .
 mathco:Cloud_Source_Repositories mathcovoc:name "'Cloud Source Repositories'" .
-wiki:Q95 wikivoc:name 'Google' .
 mathco:Infra_as_code wiki_prop:P31 wiki:Q188889 .
 mathco:Infra_as_code mathcovoc:name "'Infra as code'" .
 wiki:Q117272797 wiki_prop:P361 wiki:Q401091 .
@@ -4310,9 +5964,9 @@ wiki:Q343542 wiki_prop:P361 wiki:Q364 .
 mathco:TravisCI wiki_prop:P178 wiki:Q2493781 .
 mathco:TravisCI mathcovoc:name 'TravisCI' .
 wiki:Q2493781 wikivoc:name 'Bitbucket' .
-wiki:Q237509 "wiki_prop:owned by" wiki:Q95 .
-wiki:Q95 "wiki_prop:owner of" wiki:Q237509 .
-mathco:Kobiton "wiki_prop:parent taxon" wiki:Q876 .
+wiki:Q237509 wiki_prop:owned_by wiki:Q95 .
+wiki:Q95 wiki_prop:owner_of wiki:Q237509 .
+mathco:Kobiton wiki_prop:parent_taxon wiki:Q876 .
 mathco:Kobiton mathcovoc:name 'Kobiton' .
 wiki:Q876 wikivoc:name 'Selenium' .
 wiki:Q7838011 wiki_prop:P366 wiki:Q3025536 .
@@ -4337,25 +5991,22 @@ mathco:just_starting_out mathcovoc:name "'just starting out'" .
 wiki:Q2507377 wiki_prop:P279 mathco:leading_the_process .
 mathco:leading_the_process mathcovoc:name "'leading the process'" .
 wiki:Q3025536 wiki_prop:P31 wiki:Q43229 .
-wiki:Q43229 wikivoc:name 'Organization' .
 mathco:learn-from-mistake wiki_prop:P1269 wiki:Q439664 .
 mathco:learn-from-mistake mathcovoc:name 'learn-from-mistake' .
 mathco:3_Age-old_practices wiki_prop:P1269 mathco:age-old_practices .
 mathco:3_Age-old_practices mathcovoc:name "'3 Age-old practices'" .
 mathco:age-old_practices mathcovoc:name "'age-old practices'" .
 wiki:Q3025536 wiki_prop:P527 wiki:Q439664 .
-wiki:Q439664 wiki_prop:P361 wiki:Q3025536 .
 wiki:Q856122 wiki_prop:replaces mathco:legacy_processes .
 wiki:Q856122 wikivoc:name "'Modernization theory'" .
 mathco:legacy_processes mathcovoc:name "'legacy processes'" .
-mathco:legacy_processes "wiki_prop:replaced by" wiki:Q856122 .
+mathco:legacy_processes wiki_prop:replaced_by wiki:Q856122 .
 mathco:Using_Inconsistent_Environments wiki_prop:P527 mathco:4_Using_Inconsistent_Environments .
 mathco:Using_Inconsistent_Environments mathcovoc:name "'Using Inconsistent Environments'" .
 mathco:4_Using_Inconsistent_Environments mathcovoc:name "'4 Using Inconsistent Environments'" .
 mathco:4_Using_Inconsistent_Environments wiki_prop:P361 mathco:Using_Inconsistent_Environments .
 wiki:Q224615 wiki_prop:P361 wiki:Q340724 .
 wiki:Q7397 wiki_prop:P1889 wiki:Q224617 .
-wiki:Q224617 wikivoc:name 'Platform' .
 wiki:Q224617 wiki_prop:P1889 wiki:Q7397 .
 wiki:Q188889 wiki_prop:P361 wiki:Q1572519 .
 wiki:Q1572519 wikivoc:name 'Environment' .
@@ -4364,7 +6015,6 @@ mathco:5_Redundant_automations wiki_prop:P279 mathco:Redundant_automations .
 mathco:5_Redundant_automations mathcovoc:name "'5 Redundant automations'" .
 mathco:Redundant_automations mathcovoc:name "'Redundant automations'" .
 wiki:Q3499072 wiki_prop:P366 wiki:Q3025536 .
-wiki:Q3499072 wikivoc:name 'Chef' .
 wiki:Q352231 wiki_prop:P279 wiki:Q229289 .
 wiki:Q352231 wikivoc:name 'Bottleneck' .
 wiki:Q229289 wikivoc:name 'Process' .
@@ -4376,7 +6026,6 @@ mathco:AZURE mathcovoc:name 'AZURE' .
 wiki:Q59350 wikivoc:name 'App' .
 mathco:Azure_App_Service wiki_prop:P31 wiki:Q483639 .
 mathco:Azure_App_Service mathcovoc:name "'Azure App Service'" .
-wiki:Q483639 wikivoc:name "'Cloud computing'" .
 wiki:Q483639 wiki_prop:P279 wiki:Q179310 .
 wiki:Q179310 wikivoc:name 'Computing' .
 wiki:Q483639 wiki_prop:P279 mathco:on-demand_availability .
@@ -4384,26 +6033,18 @@ mathco:on-demand_availability mathcovoc:name "'on-demand availability'" .
 wiki:Q75 wiki_prop:P527 wiki:Q671224 .
 wiki:Q671224 wikivoc:name "'Data center'" .
 wiki:Q3480072 wiki_prop:P361 wiki:Q8074 .
-wiki:Q3480072 wikivoc:name 'Server' .
-wiki:Q8074 wikivoc:name 'Cloud' .
 wiki:Q483639 wiki_prop:P361 wiki:Q75 .
 wiki:Q8074 wiki_prop:P31 wiki:Q18534 .
 wiki:Q18534 wikivoc:name 'Metaphor' .
 wiki:Q483639 wiki_prop:P279 wiki:Q232576 .
-wiki:Q232576 wikivoc:name 'Service' .
 wiki:Q1346018 wiki_prop:P460 wiki:Q1346018 .
 wiki:Q1346018 wikivoc:name "'Infrastructure as a service'" .
 wiki:Q1153767 wiki_prop:P279 wiki:Q1153767 .
 wiki:Q1153767 wikivoc:name "'Platform as a service'" .
 wiki:Q1153767 wiki_prop:P1269 wiki:Q9135 .
-wiki:Q9135 wikivoc:name "'Operating system'" .
 wiki:Q234328 wiki_prop:P279 wiki:Q294834 .
-wiki:Q294834 wikivoc:name 'Application' .
 wiki:Q2291388 wiki_prop:P279 wiki:Q292434 .
-wiki:Q2291388 wikivoc:name 'Scaling' .
-wiki:Q292434 wikivoc:name 'Configuration' .
 wiki:Q1254596 wiki_prop:P279 wiki:Q1254596 .
-wiki:Q1254596 wikivoc:name "'Software as a service'" .
 wiki:Q1254596 wiki_prop:P279 wiki:Q1200992 .
 wiki:Q1200992 wikivoc:name "'Abstraction layer'" .
 mathco:scaling_up wiki_prop:P1269 wiki:Q209577 .
@@ -4412,11 +6053,9 @@ wiki:Q401091 wiki_prop:P31 wiki:Q483639 .
 mathco:Azure_App_Service wiki_prop:P31 mathco:App_Service .
 mathco:App_Service mathcovoc:name "'App Service'" .
 wiki:Q35127 wiki_prop:P527 wiki:Q189210 .
-wiki:Q35127 wikivoc:name 'Website' .
 wiki:Q189210 wikivoc:name "'Web application'" .
 wiki:Q189210 wiki_prop:P361 wiki:Q35127 .
 mathco:Azure_App_Service wiki_prop:P306 wiki:Q1406 .
-wiki:Q1406 wikivoc:name "'Microsoft Windows'" .
 wiki:Q186055 wiki_prop:P366 wiki:Q57261400 .
 wiki:Q186055 wikivoc:name 'Git' .
 wiki:Q57261400 wikivoc:name "'Continuous deployment'" .
@@ -4434,11 +6073,9 @@ mathco:Azure_PowerShell wiki_prop:P31 wiki:Q189053 .
 mathco:Azure_PowerShell mathcovoc:name "'Azure PowerShell'" .
 wiki:Q189053 wikivoc:name "'Command-line interface'" .
 wiki:Q393899 wiki_prop:P279 wiki:Q7429728 .
-wiki:Q393899 wikivoc:name 'Manual' .
 wiki:Q7429728 wikivoc:name "'Scale up'" .
 mathco:App_Service_SLA wiki_prop:P178 wiki:Q2283 .
 mathco:App_Service_SLA mathcovoc:name "'App Service SLA'" .
-wiki:Q2283 wikivoc:name 'Microsoft' .
 wiki:Q230273 wiki_prop:P279 wiki:Q1120538 .
 wiki:Q230273 wikivoc:name 'Script' .
 wiki:Q1120538 wikivoc:name "'Snippet (programming)'" .
@@ -4447,7 +6084,6 @@ wiki:Q134067 wikivoc:name "'Visual Studio'" .
 wiki:Q845566 wikivoc:name 'Debugging' .
 mathco:Azure_App_Service wiki_prop:P366 wiki:Q439664 .
 mathco:Azure_App_Service wiki_prop:P306 wiki:Q388 .
-wiki:Q388 wikivoc:name 'Linux' .
 wiki:Q231766 wiki_prop:P279 wiki:Q343238 .
 wiki:Q231766 wikivoc:name 'Free' .
 wiki:Q343238 wikivoc:name 'Premium' .
@@ -4498,7 +6134,7 @@ wiki:Q10781077 wikivoc:name 'Command' .
 wiki:Q189210 wiki_prop:P527 mathco:webapp_up .
 mathco:webapp_up mathcovoc:name "'webapp up'" .
 mathco:webapp_up wiki_prop:P361 wiki:Q189210 .
-wiki:Q1968 "wiki_prop:sports league level" wiki:Q199 .
+wiki:Q1968 wiki_prop:sports_league_level wiki:Q199 .
 wiki:Q1968 wikivoc:name "'Formula One'" .
 mathco:centralus wiki_prop:P361 wiki:Q401091 .
 mathco:centralus mathcovoc:name 'centralus' .
@@ -4564,7 +6200,7 @@ mathco:Docker_container mathcovoc:name "'Docker container'" .
 mathco:Docker_image mathcovoc:name "'Docker image'" .
 mathco:App_Service wiki_prop:P366 mathco:docker_image .
 mathco:docker_image mathcovoc:name "'docker image'" .
-mathco:git_clone "wiki_prop:based on" wiki:Q186055 .
+mathco:git_clone wiki_prop:based_on wiki:Q186055 .
 mathco:git_clone mathcovoc:name "'git clone'" .
 wiki:Q15206305 wiki_prop:P361 wiki:Q910577 .
 wiki:Q15206305 wikivoc:name "'Docker (software)'" .
@@ -4601,7 +6237,6 @@ mathco:create_--name wiki_prop:P361 wiki:Q5183420 .
 mathco:myResourceGroup wiki_prop:P31 mathco:resource_group .
 mathco:myResourceGroup mathcovoc:name 'myResourceGroup' .
 wiki:Q2063 wiki_prop:P527 wiki:Q7387 .
-wiki:Q2063 wikivoc:name 'JSON' .
 wiki:Q7387 wikivoc:name "'Property (disambiguation)'" .
 wiki:Q7387 wiki_prop:P361 wiki:Q2063 .
 mathco:Azure_Container_Registry wiki_prop:P31 wiki:Q847805 .
@@ -4681,9 +6316,7 @@ wiki:Q65048974 wiki_prop:P366 wiki:Q2670993 .
 wiki:Q2670993 wikivoc:name "'Orchestration (computing)'" .
 mathco:MLflow wiki_prop:P277 wiki:Q747452 .
 wiki:Q65048974 wiki_prop:P366 wiki:Q22661306 .
-wiki:Q22661306 wikivoc:name 'Kubernetes' .
-mathco:MLflow "wiki_prop:field of work" wiki:Q2374463 .
-wiki:Q2374463 wikivoc:name "'Data science'" .
+mathco:MLflow wiki_prop:field_of_work wiki:Q2374463 .
 mathco:MLflow wiki_prop:P366 mathco:ML_experiments .
 mathco:ML_experiments mathcovoc:name "'ML experiments'" .
 wiki:Q65048974 wiki_prop:P31 mathco:unnecessarily_complex_tool .
@@ -4701,7 +6334,6 @@ wiki:Q258408 wiki_prop:P366 wiki:Q1988917 .
 wiki:Q258408 wikivoc:name 'EDA' .
 wiki:Q1988917 wikivoc:name "'Data analysis'" .
 wiki:Q65048974 wiki_prop:P366 wiki:Q180160 .
-wiki:Q180160 wikivoc:name 'Metadata' .
 mathco:technological_knowledge wiki_prop:P279 wiki:Q9081 .
 mathco:technological_knowledge mathcovoc:name "'technological knowledge'" .
 wiki:Q9081 wikivoc:name 'Knowledge' .
@@ -4710,7 +6342,6 @@ wiki:Q3363481 wikivoc:name 'Parallel' .
 mathco:sequential_jobs mathcovoc:name "'sequential jobs'" .
 mathco:sequential_jobs wiki_prop:P461 wiki:Q3363481 .
 wiki:Q65048974 wiki_prop:P366 wiki:Q219113 .
-wiki:Q219113 wikivoc:name 'ML' .
 wiki:Q1979154 wiki_prop:P361 wiki:Q185451 .
 wiki:Q185451 wikivoc:name 'Strategy' .
 wiki:Q65048974 wiki_prop:P366 wiki:Q42903497 .
@@ -4730,7 +6361,6 @@ mathco:model_lineage mathcovoc:name "'model lineage'" .
 wiki:Q1979154 wiki_prop:P527 mathco:model_lineage .
 mathco:model_lineage wiki_prop:P361 wiki:Q1979154 .
 wiki:Q456120 wiki_prop:P31 wiki:Q8074 .
-wiki:Q456120 wikivoc:name 'Amazon' .
 wiki:Q749568 wiki_prop:P279 wiki:Q165194 .
 wiki:Q749568 wikivoc:name "'Representational state transfer'" .
 wiki:Q165194 wikivoc:name 'API' .
@@ -4762,7 +6392,6 @@ mathco:E2-standard-32 wiki_prop:P176 wiki:Q95 .
 mathco:E2-standard-32 mathcovoc:name 'E2-standard-32' .
 wiki:Q5300 wiki_prop:P461 wiki:Q492 .
 wiki:Q5300 wikivoc:name "'Central processing unit'" .
-wiki:Q492 wikivoc:name 'Memory' .
 wiki:Q492 wiki_prop:P461 wiki:Q5300 .
 mathco:spark_jobs wiki_prop:P279 wiki:Q11019 .
 mathco:spark_jobs mathcovoc:name "'spark jobs'" .
@@ -4792,7 +6421,7 @@ wiki:Q26806595 wiki_prop:P527 wiki:Q1690962 .
 wiki:Q26806595 wikivoc:name "'Parallel processing'" .
 wiki:Q1690962 wikivoc:name 'Jobs' .
 wiki:Q1690962 wiki_prop:P361 wiki:Q26806595 .
-wiki:Q29120 "wiki_prop:number of CPUs" wiki:Q4635004 .
+wiki:Q29120 wiki_prop:number_of_CPUs wiki:Q4635004 .
 wiki:Q29120 wikivoc:name "'Apache Hadoop'" .
 wiki:Q4635004 wikivoc:name '32' .
 mathco:Yarn_deamons wiki_prop:P361 wiki:Q29120 .
@@ -4813,8 +6442,6 @@ mathco:worker_machine mathcovoc:name "'worker machine'" .
 mathco:worker_machine wiki_prop:P527 wiki:Q492 .
 wiki:Q492 wiki_prop:P1535 wiki:Q654437 .
 wiki:Q95 wiki_prop:P1056 wiki:Q187639 .
-wiki:Q187639 wikivoc:name 'Chrome' .
-wiki:Q187639 wiki_prop:P178 wiki:Q95 .
 wiki:Q176477 wiki_prop:P31 wiki:Q4388733 .
 wiki:Q176477 wikivoc:name 'Gyan' .
 wiki:Q4388733 wikivoc:name 'Resolution' .
@@ -4889,7 +6516,6 @@ wiki:Q243457 wiki_prop:P527 mathco:3.2.1 .
 mathco:3.2.1 mathcovoc:name '3.2.1' .
 mathco:3.2.1 wiki_prop:P179 wiki:Q243457 .
 wiki:Q226733 wiki_prop:P527 wiki:Q243457 .
-wiki:Q226733 wikivoc:name 'Driver' .
 wiki:Q226733 wiki_prop:P527 wiki:Q654437 .
 wiki:Q654437 wiki_prop:P361 wiki:Q226733 .
 mathco:out_of_memory_error wiki_prop:P1269 mathco:drivers_available_memory .
@@ -4941,14 +6567,12 @@ mathco:code_level_optimization wiki_prop:P1269 wiki:Q243457 .
 mathco:code_level_optimization mathcovoc:name "'code level optimization'" .
 mathco:Data_Platforms wiki_prop:P361 wiki:Q248579 .
 mathco:Data_Platforms mathcovoc:name "'Data Platforms'" .
-wiki:Q248579 wikivoc:name 'CDP' .
 wiki:Q248579 wiki_prop:P527 mathco:Data_Platforms .
 mathco:CDPC360 wiki_prop:P366 wiki:Q1323528 .
 mathco:CDPC360 mathcovoc:name 'CDPC360' .
 wiki:Q1323528 wikivoc:name "'Digital marketing'" .
 wiki:Q39809 wiki_prop:P527 wiki:Q2085877 .
 wiki:Q39809 wikivoc:name 'Marketing' .
-wiki:Q2085877 wikivoc:name 'Offers' .
 wiki:Q2085877 wiki_prop:P361 wiki:Q39809 .
 wiki:Q18636415 wiki_prop:P361 mathco:Rudderstack .
 wiki:Q18636415 wikivoc:name 'Tealium' .
@@ -4980,7 +6604,6 @@ wiki:Q850210 wikivoc:name 'Revenue' .
 wiki:Q2112047 wikivoc:name 'Profit' .
 wiki:Q2112047 wiki_prop:P828 wiki:Q850210 .
 wiki:Q39809 wiki_prop:P1269 wiki:Q194189 .
-wiki:Q194189 wikivoc:name 'Sales' .
 wiki:Q2920921 wiki_prop:P1269 wiki:Q852835 .
 wiki:Q2920921 wikivoc:name 'Management' .
 mathco:Hub_Spot wiki_prop:P178 wiki:Q217123 .
@@ -4991,10 +6614,9 @@ mathco:direct_touch-points mathcovoc:name "'direct touch-points'" .
 wiki:Q56278300 wikivoc:name "'Customer data'" .
 wiki:Q1628411 wiki_prop:P279 wiki:Q679087 .
 wiki:Q1628411 wikivoc:name "'Targeted advertising'" .
-wiki:Q679087 wikivoc:name 'Campaign' .
 wiki:Q21447895 wiki_prop:P277 wiki:Q2407 .
 wiki:Q2407 wikivoc:name 'C++' .
-wiki:Q2407 "wiki_prop:influenced by" wiki:Q21447895 .
+wiki:Q2407 wiki_prop:influenced_by wiki:Q21447895 .
 wiki:Q248579 wiki_prop:P1889 wiki:Q418090 .
 wiki:Q418090 wikivoc:name 'DMP' .
 wiki:Q418090 wiki_prop:P1889 wiki:Q248579 .
@@ -5008,19 +6630,16 @@ wiki:Q252500 wikivoc:name "'User profile'" .
 mathco:sales_team wiki_prop:P1056 wiki:Q122270 .
 mathco:sales_team mathcovoc:name "'sales team'" .
 wiki:Q258480 wiki_prop:P279 wiki:Q1000371 .
-wiki:Q1000371 wikivoc:name 'Personalization' .
 wiki:Q11574 wiki_prop:P156 mathco:third_Party_data .
 wiki:Q11574 wikivoc:name 'Second' .
 mathco:third_Party_data mathcovoc:name "'third Party data'" .
 mathco:third_Party_data wiki_prop:P155 wiki:Q11574 .
 mathco:Data_Clean_Room wiki_prop:P1269 mathco:Digital-marketing .
-mathco:Data_Clean_Room mathcovoc:name "'Data Clean Room'" .
 mathco:Digital-marketing mathcovoc:name 'Digital-marketing' .
 wiki:Q131508 wiki_prop:P366 wiki:Q251616 .
 wiki:Q131508 wikivoc:name "'Enterprise resource planning'" .
 wiki:Q251616 wikivoc:name 'ERP' .
 wiki:Q131508 wiki_prop:P527 wiki:Q8513 .
-wiki:Q8513 wikivoc:name 'Database' .
 wiki:Q8513 wiki_prop:P361 wiki:Q131508 .
 wiki:Q4045248 wiki_prop:P178 wiki:Q552581 .
 wiki:Q4045248 wikivoc:name 'NetSuite' .
@@ -5031,7 +6650,7 @@ wiki:Q492886 wikivoc:name "'Supply chain management'" .
 mathco:MDMC360 wiki_prop:P178 wiki:Q190349 .
 mathco:MDMC360 mathcovoc:name 'MDMC360' .
 wiki:Q190349 wikivoc:name "'Master data management'" .
-wiki:Q5968866 "wiki_prop:based on" mathco:Informatica_MDM .
+wiki:Q5968866 wiki_prop:based_on mathco:Informatica_MDM .
 wiki:Q5968866 wikivoc:name "'IBM InfoSphere DataStage'" .
 mathco:Informatica_MDM mathcovoc:name "'Informatica MDM'" .
 wiki:Q39809 wiki_prop:P527 wiki:Q56278300 .
@@ -5041,9 +6660,7 @@ wiki:Q79531 wiki_prop:P178 wiki:Q95 .
 wiki:Q30849 wiki_prop:P279 wiki:Q35127 .
 wiki:Q30849 wikivoc:name 'Blog' .
 wiki:Q199 wiki_prop:P156 wiki:Q200 .
-wiki:Q200 wikivoc:name '2' .
 wiki:Q200 wiki_prop:P156 wiki:Q201 .
-wiki:Q201 wikivoc:name '3' .
 mathco:Web_Scrapping wiki_prop:P366 mathco:proxy_management .
 mathco:Web_Scrapping mathcovoc:name "'Web Scrapping'" .
 mathco:proxy_management mathcovoc:name "'proxy management'" .
@@ -5081,7 +6698,6 @@ mathco:proxy_management_system wiki_prop:P1889 mathco:proxy_management_service .
 wiki:Q250199 wiki_prop:P279 wiki:Q450164 .
 wiki:Q250199 wikivoc:name 'Concurrency' .
 wiki:Q450164 wikivoc:name 'Sessions' .
-wiki:Q215 wiki_prop:capital wiki:Q437 .
 mathco:Data-centre_IP wiki_prop:P279 mathco:residential_IP .
 mathco:Data-centre_IP mathcovoc:name "'Data-centre IP'" .
 mathco:residential_IP mathcovoc:name "'residential IP'" .
