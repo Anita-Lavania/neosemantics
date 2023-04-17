@@ -6063,7 +6063,7 @@ mathco:FLASKAPP mathcovoc:name 'FLASKAPP' .
 wiki:Q183545 wikivoc:name 'Dependency' .
 wiki:Q4227578 wiki_prop:P31 wiki:Q59350 .
 wiki:Q131303 wiki_prop:P31 wiki:Q59350 .
-wiki:Q131303 wikivoc:name "'""Hello, World!"" program'" .
+wiki:Q131303 wikivoc:name "Hello world" .
 mathco:CtrlC wiki_prop:P361 wiki:Q210481 .
 mathco:CtrlC mathcovoc:name 'CtrlC' .
 wiki:Q8074 wiki_prop:P279 wiki:Q294834 .
