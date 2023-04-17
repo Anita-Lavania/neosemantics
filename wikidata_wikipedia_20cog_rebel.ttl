@@ -3911,13 +3911,9 @@ wiki:Q25294 wikivoc:name 'Hammer' .
 wiki:Q161071 wikivoc:name 'Screwdriver' .
 wiki:Q161071 wiki_prop:P1889 wiki:Q25294 .
 wiki:Q294834 wiki_prop:P527 wiki:Q8513 .
-mathco:Atomic,_Consistent,_Isolated_and wiki_prop:P279 wiki:Q279242 .
-mathco:Atomic,_Consistent,_Isolated_and mathcovoc:name "'Atomic, Consistent, Isolated and'" .
 wiki:Q279242 wikivoc:name 'Transaction' .
 wiki:Q10269116 wiki_prop:P279 wiki:Q279242 .
 wiki:Q10269116 wikivoc:name 'Durability' .
-mathco:BASE_Basic_Availability,_Soft-State,_Eventual_Consistency wiki_prop:P279 wiki:Q82231 .
-mathco:BASE_Basic_Availability,_Soft-State,_Eventual_Consistency mathcovoc:name "'BASE Basic Availability, Soft-State, Eventual Consistency'" .
 wiki:Q1319773 wiki_prop:P279 wiki:Q8513 .
 wiki:Q1319773 wikivoc:name 'Consistency' .
 wiki:Q384871 wiki_prop:P279 wiki:Q8513 .
