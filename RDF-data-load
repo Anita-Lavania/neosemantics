@@ -2,9 +2,9 @@ CREATE CONSTRAINT n10s_unique_uri ON (r:Resource) ASSERT r.uri IS UNIQUE;
 
 CALL n10s.graphconfig.init();
 
-CALL n10s.rdf.import.fetch("https://raw.githubusercontent.com/Anita-Lavania/neosemantics/main/wikidata_wikipedia_cognition_rebel.ttl","Turtle");
+CALL n10s.rdf.import.fetch("https://raw.githubusercontent.com/Anita-Lavania/neosemantics/main/wikidata_wikipedia_20cog_rebel.ttl","Turtle");
 
-LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/Anita-Lavania/neosemantics/main/cognition_rebel_entities.csv' AS row
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/Anita-Lavania/neosemantics/main/20cogdoc_rebel_entities.csv' AS row
 WITH row.entity_uri AS entity_uri, row.asset_name AS asset_name
 MERGE (r:Resource {uri: entity_uri})
 MERGE (a:Article {name: asset_name})
