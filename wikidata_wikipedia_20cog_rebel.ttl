@@ -3903,9 +3903,9 @@ mathco:tabular_format mathcovoc:name "'tabular format'" .
 mathco:translatable mathcovoc:name 'translatable' .
 mathco:specialized_database wiki_prop:P279 wiki:Q8513 .
 mathco:specialized_database mathcovoc:name "'specialized database'" .
-wiki:Q82231 wiki_prop:P460 mathco:better_or_worse? .
-mathco:better_or_worse? mathcovoc:name "'better or worse?'" .
-mathco:better_or_worse? wiki_prop:P460 wiki:Q82231 .
+wiki:Q82231 wiki_prop:P460 mathco:better_or_worse .
+mathco:better_or_worse mathcovoc:name "'better or worse?'" .
+mathco:better_or_worse wiki_prop:P460 wiki:Q82231 .
 wiki:Q25294 wiki_prop:P1889 wiki:Q161071 .
 wiki:Q25294 wikivoc:name 'Hammer' .
 wiki:Q161071 wikivoc:name 'Screwdriver' .
