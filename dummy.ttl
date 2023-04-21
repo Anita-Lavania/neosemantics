@@ -1,4 +1,0 @@
-@prefix wiki: <http://www.wikidata.org/wiki/> .
-@prefix wikivoc: <http://www.wikidata.org/Label/> .
-
-wiki:Q42848 wikivoc:name 'Data' .
