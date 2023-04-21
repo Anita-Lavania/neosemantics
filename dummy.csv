@@ -1,0 +1,3 @@
+source_uri,source_name,edge,target_uri,target_name
+http://www.themathcompany.com/cognition/Co.dex, Co.dex, P31, http://www.wikidata.org/wiki/Q8513, Database
+http://www.wikidata.org/wiki/Q2374463, Data science, P279, http://www.wikidata.org/wiki/Q294834, Application
