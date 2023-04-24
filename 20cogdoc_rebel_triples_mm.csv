@@ -1,0 +1,15 @@
+source_uri,source_name,edge_pcode,edge_name,target_uri,target_name
+http://www.themathcompany.com/cognition/CO.DEX,CO.DEX,P31,instance of,http://www.themathcompany.com/cognition/On_-_premise,On - premise
+http://www.themathcompany.com/cognition/TheMathCompany,TheMathCompany,P1056,product or material produced,http://www.themathcompany.com/cognition/TheMathMarket,TheMathMarket
+http://www.themathcompany.com/cognition/TheMathMarket,TheMathMarket,P178,developer,http://www.themathcompany.com/cognition/TheMathCompany,TheMathCompany
+http://www.themathcompany.com/cognition/Co.dex_DS,Co.dex DS,P366,use,http://www.themathcompany.com/cognition/TheMathMarket,TheMathMarket
+http://www.themathcompany.com/cognition/CO.DEX,CO.DEX,P366,use,http://www.themathcompany.com/cognition/automates,automates
+http://www.themathcompany.com/cognition/TheMathMarket,TheMathMarket,P361,part of,http://www.themathcompany.com/cognition/Co.dex,Co.dex
+http://www.themathcompany.com/cognition/Co.dex,Co.dex,P527,has part,http://www.themathcompany.com/cognition/TheMathMarket,TheMathMarket
+http://www.themathcompany.com/cognition/CO.DEX,CO.DEX,P366,use,http://www.themathcompany.com/cognition/On_-_premise,On - premise
+http://www.themathcompany.com/cognition/CO.DEX,CO.DEX,P366,use,http://www.themathcompany.com/cognition/data_Scientists,data Scientists
+http://www.themathcompany.com/cognition/CO.DEX,CO.DEX,P178,developer,http://www.themathcompany.com/cognition/TheMathMarket,TheMathMarket
+http://www.themathcompany.com/cognition/TheMathMarket,TheMathMarket,P1056,product or material produced,http://www.themathcompany.com/cognition/CO.DEX,CO.DEX
+http://www.themathcompany.com/cognition/CO.DEX,CO.DEX,P366,use,http://www.themathcompany.com/cognition/TheMathMarket,TheMathMarket
+http://www.themathcompany.com/cognition/Srivatsathemath,Srivatsathemath,pcode,sibling,http://www.themathcompany.com/cognition/Shridharthemath,Shridharthemath
+http://www.themathcompany.com/cognition/Shridharthemath,Shridharthemath,pcode,sibling,http://www.themathcompany.com/cognition/Srivatsathemath,Srivatsathemath

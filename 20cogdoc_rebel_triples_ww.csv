@@ -1,0 +1,15 @@
+source_uri,source_name,edge_pcode,edge_name,target_uri,target_name
+http://www.wikidata.org/wiki/Q22245680,Feature Engineering,P279,subclass of,http://www.wikidata.org/wiki/Q11023,engineering
+http://www.wikidata.org/wiki/Q39546,tools,P279,subclass of,http://www.wikidata.org/wiki/Q11016,technologies
+http://www.wikidata.org/wiki/Q439664,deployment,P361,part of,http://www.wikidata.org/wiki/Q209577,operations
+http://www.wikidata.org/wiki/Q8074,Cloud,P279,subclass of,http://www.wikidata.org/wiki/Q121359,Infrastructure
+http://www.wikidata.org/wiki/Q7216332,Forecasting,P527,has part,http://www.wikidata.org/wiki/Q16782463,forecasting model
+http://www.wikidata.org/wiki/Q16782463,forecasting model,P361,part of,http://www.wikidata.org/wiki/Q7216332,Forecasting
+http://www.wikidata.org/wiki/Q43967068,AutoML,P366,use,http://www.wikidata.org/wiki/Q2374463,Data Science
+http://www.wikidata.org/wiki/Q483639,Cloud service,P279,subclass of,http://www.wikidata.org/wiki/Q1796457,Products
+http://www.wikidata.org/wiki/Q483639,Cloud service,P279,subclass of,http://www.wikidata.org/wiki/Q7252538,providers
+http://www.wikidata.org/wiki/Q483639,Cloud service,P279,subclass of,http://www.wikidata.org/wiki/Q2169973,service provider
+http://www.wikidata.org/wiki/Q8074,Cloud,P279,subclass of,http://www.wikidata.org/wiki/Q2169973,service provider
+http://www.wikidata.org/wiki/Q2374463,data scientist,P425,field of this occupation,http://www.wikidata.org/wiki/Q2374463,Data Science
+http://www.wikidata.org/wiki/Q2374463,Data Science,P3095,practiced by,http://www.wikidata.org/wiki/Q2374463,data scientist
+http://www.wikidata.org/wiki/Q4043142,modules,P277,programming language,http://www.wikidata.org/wiki/Q747452,Python

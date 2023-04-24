@@ -1,0 +1,17 @@
+source_uri,source_name,edge_pcode,edge_name,target_uri,target_name
+http://www.themathcompany.com/cognition/CO.DEX,CO.DEX,P366,use,http://www.wikidata.org/wiki/Q2374463,Data Science
+http://www.themathcompany.com/cognition/On_-_premise,On - premise,P279,subclass of,http://www.wikidata.org/wiki/Q121359,Infrastructure
+http://www.themathcompany.com/cognition/On_-_premise,On - premise,P279,subclass of,http://www.wikidata.org/wiki/Q121359,infrastructure
+http://www.themathcompany.com/cognition/CO.DEX,CO.DEX,P31,instance of,http://www.wikidata.org/wiki/Q1254596,SaaS
+http://www.themathcompany.com/cognition/CO.DEX,CO.DEX,P31,instance of,http://www.wikidata.org/wiki/Q294834,application
+http://www.themathcompany.com/cognition/CO.DEX,CO.DEX,P31,instance of,http://www.wikidata.org/wiki/Q165194,API
+http://www.themathcompany.com/cognition/Model_Validation,Model Validation,P361,part of,http://www.wikidata.org/wiki/Q2374463,Data Science
+http://www.themathcompany.com/cognition/forecasting_techniques,forecasting techniques,P366,use,http://www.wikidata.org/wiki/Q7216332,Forecasting
+http://www.themathcompany.com/cognition/Co.dex_DS,Co.dex DS,P31,instance of,http://www.wikidata.org/wiki/Q2425187,code base
+http://www.themathcompany.com/cognition/CO.DEX,CO.DEX,P366,use,http://www.wikidata.org/wiki/Q43967068,AutoML
+http://www.themathcompany.com/cognition/On_-_premise,On - premise,P279,subclass of,http://www.wikidata.org/wiki/Q8074,Cloud
+http://www.themathcompany.com/cognition/CO.DEX,CO.DEX,P31,instance of,http://www.wikidata.org/wiki/Q8351206,firewall
+http://www.themathcompany.com/cognition/CO.DEX,CO.DEX,P366,use,http://www.wikidata.org/wiki/Q219113,ML
+http://www.themathcompany.com/cognition/TheMathMarket,TheMathMarket,P366,use,http://www.wikidata.org/wiki/Q218846,enterprise
+http://www.themathcompany.com/cognition/Srivatsathemathcompany.com,Srivatsathemathcompany.com,P277,programming language,http://www.wikidata.org/wiki/Q747452,Python
+http://www.themathcompany.com/cognition/Shridharthemathcompany.com,Shridharthemathcompany.com,P277,programming language,http://www.wikidata.org/wiki/Q747452,Python
