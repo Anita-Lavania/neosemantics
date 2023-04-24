@@ -1,0 +1,48 @@
+source_uri,source_name,edge_pcode,edge_name,target_uri,target_name
+http://www.themathcompany.com/cognition/CO.DEX,CO.DEX,P366,use,http://www.wikidata.org/wiki/Q2374463,Data Science
+http://www.wikidata.org/wiki/Q22245680,Feature Engineering,P279,subclass of,http://www.wikidata.org/wiki/Q11023,engineering
+http://www.wikidata.org/wiki/Q39546,tools,P279,subclass of,http://www.wikidata.org/wiki/Q11016,technologies
+http://www.wikidata.org/wiki/Q439664,deployment,P361,part of,http://www.wikidata.org/wiki/Q209577,operations
+http://www.wikidata.org/wiki/Q8074,Cloud,P279,subclass of,http://www.wikidata.org/wiki/Q121359,Infrastructure
+http://www.themathcompany.com/cognition/On_-_premise,On - premise,P279,subclass of,http://www.wikidata.org/wiki/Q121359,Infrastructure
+http://www.themathcompany.com/cognition/On_-_premise,On - premise,P279,subclass of,http://www.wikidata.org/wiki/Q121359,infrastructure
+http://www.themathcompany.com/cognition/CO.DEX,CO.DEX,P31,instance of,http://www.themathcompany.com/cognition/On_-_premise,On - premise
+http://www.themathcompany.com/cognition/CO.DEX,CO.DEX,P31,instance of,http://www.wikidata.org/wiki/Q1254596,SaaS
+http://www.themathcompany.com/cognition/CO.DEX,CO.DEX,P31,instance of,http://www.wikidata.org/wiki/Q294834,application
+http://www.themathcompany.com/cognition/CO.DEX,CO.DEX,P31,instance of,http://www.wikidata.org/wiki/Q165194,API
+http://www.wikidata.org/wiki/Q8513,database,P366,use,http://www.themathcompany.com/cognition/store_data,store data
+http://www.wikidata.org/wiki/Q7216332,Forecasting,P527,has part,http://www.wikidata.org/wiki/Q16782463,forecasting model
+http://www.wikidata.org/wiki/Q16782463,forecasting model,P361,part of,http://www.wikidata.org/wiki/Q7216332,Forecasting
+http://www.themathcompany.com/cognition/TheMathCompany,TheMathCompany,P1056,product or material produced,http://www.themathcompany.com/cognition/TheMathMarket,TheMathMarket
+http://www.themathcompany.com/cognition/TheMathMarket,TheMathMarket,P178,developer,http://www.themathcompany.com/cognition/TheMathCompany,TheMathCompany
+http://www.themathcompany.com/cognition/Model_Validation,Model Validation,P361,part of,http://www.wikidata.org/wiki/Q2374463,Data Science
+http://www.themathcompany.com/cognition/forecasting_techniques,forecasting techniques,P366,use,http://www.wikidata.org/wiki/Q7216332,Forecasting
+http://www.themathcompany.com/cognition/Co.dex_DS,Co.dex DS,P366,use,http://www.themathcompany.com/cognition/TheMathMarket,TheMathMarket
+http://www.themathcompany.com/cognition/Co.dex_DS,Co.dex DS,P31,instance of,http://www.wikidata.org/wiki/Q2425187,code base
+http://www.themathcompany.com/cognition/CO.DEX,CO.DEX,P366,use,http://www.themathcompany.com/cognition/automates,automates
+http://www.themathcompany.com/cognition/CO.DEX,CO.DEX,P366,use,http://www.wikidata.org/wiki/Q43967068,AutoML
+http://www.wikidata.org/wiki/Q43967068,AutoML,P1535,used by,http://www.themathcompany.com/cognition/CO.DEX,CO.DEX
+http://www.wikidata.org/wiki/Q43967068,AutoML,P366,use,http://www.themathcompany.com/cognition/CO.DEX,CO.DEX
+http://www.themathcompany.com/cognition/TheMathMarket,TheMathMarket,P361,part of,http://www.themathcompany.com/cognition/Co.dex,Co.dex
+http://www.themathcompany.com/cognition/Co.dex,Co.dex,P527,has part,http://www.themathcompany.com/cognition/TheMathMarket,TheMathMarket
+http://www.wikidata.org/wiki/Q43967068,AutoML,P366,use,http://www.wikidata.org/wiki/Q2374463,Data Science
+http://www.wikidata.org/wiki/Q483639,Cloud service,P279,subclass of,http://www.wikidata.org/wiki/Q1796457,Products
+http://www.wikidata.org/wiki/Q483639,Cloud service,P279,subclass of,http://www.wikidata.org/wiki/Q7252538,providers
+http://www.wikidata.org/wiki/Q483639,Cloud service,P279,subclass of,http://www.wikidata.org/wiki/Q2169973,service provider
+http://www.wikidata.org/wiki/Q8074,Cloud,P279,subclass of,http://www.wikidata.org/wiki/Q2169973,service provider
+http://www.themathcompany.com/cognition/On_-_premise,On - premise,P279,subclass of,http://www.wikidata.org/wiki/Q8074,Cloud
+http://www.themathcompany.com/cognition/CO.DEX,CO.DEX,P366,use,http://www.themathcompany.com/cognition/On_-_premise,On - premise
+http://www.themathcompany.com/cognition/CO.DEX,CO.DEX,P31,instance of,http://www.wikidata.org/wiki/Q8351206,firewall
+http://www.themathcompany.com/cognition/CO.DEX,CO.DEX,P366,use,http://www.themathcompany.com/cognition/data_Scientists,data Scientists
+http://www.themathcompany.com/cognition/CO.DEX,CO.DEX,P366,use,http://www.wikidata.org/wiki/Q219113,ML
+http://www.wikidata.org/wiki/Q2374463,data scientist,P425,field of this occupation,http://www.wikidata.org/wiki/Q2374463,Data Science
+http://www.wikidata.org/wiki/Q2374463,Data Science,P3095,practiced by,http://www.wikidata.org/wiki/Q2374463,data scientist
+http://www.themathcompany.com/cognition/TheMathMarket,TheMathMarket,P366,use,http://www.wikidata.org/wiki/Q218846,enterprise
+http://www.themathcompany.com/cognition/CO.DEX,CO.DEX,P178,developer,http://www.themathcompany.com/cognition/TheMathMarket,TheMathMarket
+http://www.themathcompany.com/cognition/TheMathMarket,TheMathMarket,P1056,product or material produced,http://www.themathcompany.com/cognition/CO.DEX,CO.DEX
+http://www.themathcompany.com/cognition/CO.DEX,CO.DEX,P366,use,http://www.themathcompany.com/cognition/TheMathMarket,TheMathMarket
+http://www.wikidata.org/wiki/Q4043142,modules,P277,programming language,http://www.wikidata.org/wiki/Q747452,Python
+http://www.themathcompany.com/cognition/Srivatsathemathcompany.com,Srivatsathemathcompany.com,P277,programming language,http://www.wikidata.org/wiki/Q747452,Python
+http://www.themathcompany.com/cognition/Shridharthemathcompany.com,Shridharthemathcompany.com,P277,programming language,http://www.wikidata.org/wiki/Q747452,Python
+http://www.themathcompany.com/cognition/Srivatsathemath,Srivatsathemath,pcode,sibling,http://www.themathcompany.com/cognition/Shridharthemath,Shridharthemath
+http://www.themathcompany.com/cognition/Shridharthemath,Shridharthemath,pcode,sibling,http://www.themathcompany.com/cognition/Srivatsathemath,Srivatsathemath
