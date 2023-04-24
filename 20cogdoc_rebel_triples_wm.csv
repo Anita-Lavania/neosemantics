@@ -1,4 +1,0 @@
-source_uri,source_name,edge_pcode,edge_name,target_uri,target_name
-http://www.wikidata.org/wiki/Q8513,database,P366,use,http://www.themathcompany.com/cognition/store_data,store data
-http://www.wikidata.org/wiki/Q43967068,AutoML,P1535,used by,http://www.themathcompany.com/cognition/CO.DEX,CO.DEX
-http://www.wikidata.org/wiki/Q43967068,AutoML,P366,use,http://www.themathcompany.com/cognition/CO.DEX,CO.DEX
