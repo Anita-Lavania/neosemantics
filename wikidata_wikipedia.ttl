@@ -1,0 +1,3432 @@
+@prefix wiki: <http://www.wikidata.org/wiki/> .
+@prefix wiki_prop: <http://www.wikidata.org/wiki/Property:> .
+@prefix wikivoc: <http://www.wikidata.org/Label/> .
+
+wiki:Q2539 wikivoc:name "Machine learning" .
+wiki:Q2539 wiki_prop:P31 wiki:Q11862829 .
+wiki:Q11862829 wikivoc:name "Academic discipline" .
+wiki:Q2539 wiki_prop:P2283 wiki:Q483639 .
+wiki:Q483639 wikivoc:name "Cloud computing" .
+wiki:Q2539 wiki_prop:P361 wiki:Q11660 .
+wiki:Q11660 wikivoc:name "Artificial intelligence" .
+wiki:Q2539 wiki_prop:P279 wiki:Q21198 .
+wiki:Q21198 wikivoc:name "Computer science" .
+wiki:Q2539 wiki_prop:P279 wiki:Q11660 .
+wiki:Q2539 wiki_prop:P527 wiki:Q7094097 .
+wiki:Q7094097 wikivoc:name "Online machine learning" .
+wiki:Q2539 wiki_prop:P527 wiki:Q334384 .
+wiki:Q334384 wikivoc:name "Supervised learning" .
+wiki:Q2539 wiki_prop:P527 wiki:Q1152135 .
+wiki:Q1152135 wikivoc:name "Unsupervised learning" .
+wiki:Q2539 wiki_prop:P527 wiki:Q830687 .
+wiki:Q830687 wikivoc:name "Reinforcement learning" .
+wiki:Q483639 wiki_prop:P2283 wiki:Q75 .
+wiki:Q75 wikivoc:name 'Internet' .
+wiki:Q483639 wiki_prop:P2283 wiki:Q12725 .
+wiki:Q12725 wikivoc:name 'Electricity' .
+wiki:Q483639 wiki_prop:P279 wiki:Q771906 .
+wiki:Q771906 wikivoc:name "System resource" .
+wiki:Q483639 wiki_prop:P279 wiki:Q241317 .
+wiki:Q241317 wikivoc:name "Computing platform" .
+wiki:Q830687 wiki_prop:P31 wiki:Q2695280 .
+wiki:Q2695280 wikivoc:name 'Technique' .
+wiki:Q11862829 wiki_prop:P31 wiki:Q110402867 .
+wiki:Q110402867 wikivoc:name "Classification system of knowledge" .
+wiki:Q11862829 wiki_prop:P279 wiki:Q1047113 .
+wiki:Q1047113 wikivoc:name 'Specialty' .
+wiki:Q11660 wiki_prop:P31 wiki:Q268592 .
+wiki:Q268592 wikivoc:name 'Industry' .
+wiki:Q11660 wiki_prop:P31 wiki:Q112057532 .
+wiki:Q112057532 wikivoc:name "Type of technology" .
+wiki:Q11660 wiki_prop:P361 wiki:Q21198 .
+wiki:Q11660 wiki_prop:P361 wiki:Q147638 .
+wiki:Q147638 wikivoc:name "Cognitive science" .
+wiki:Q11660 wiki_prop:P279 wiki:Q21198 .
+wiki:Q11660 wiki_prop:P279 wiki:Q120208 .
+wiki:Q120208 wikivoc:name "Emerging technology" .
+wiki:Q11660 wiki_prop:P527 wiki:Q5514059 .
+wiki:Q5514059 wikivoc:name "Symbolic artificial intelligence" .
+wiki:Q11660 wiki_prop:P527 wiki:Q203790 .
+wiki:Q203790 wikivoc:name 'Connectionism' .
+wiki:Q11660 wiki_prop:P366 wiki:Q4182287 .
+wiki:Q4182287 wikivoc:name "Web search engine" .
+wiki:Q11660 wiki_prop:P366 wiki:Q554950 .
+wiki:Q554950 wikivoc:name "Recommender system" .
+wiki:Q11660 wiki_prop:P366 wiki:Q1078276 .
+wiki:Q1078276 wikivoc:name "Natural language understanding" .
+wiki:Q11660 wiki_prop:P366 wiki:Q741490 .
+wiki:Q741490 wikivoc:name "Autonomous car" .
+wiki:Q11660 wiki_prop:P366 wiki:Q108704339 .
+wiki:Q108704339 wikivoc:name "Automated decision-making" .
+wiki:Q1152135 wiki_prop:P31 wiki:Q1799072 .
+wiki:Q1799072 wikivoc:name 'Method' .
+wiki:Q1152135 wiki_prop:P2283 wiki:Q5532625 .
+wiki:Q5532625 wikivoc:name "Generative model" .
+wiki:Q1152135 wiki_prop:P361 wiki:Q113127963 .
+wiki:Q113127963 wikivoc:name "Semi-supervised and unsupervised learning" .
+wiki:Q1152135 wiki_prop:P279 wiki:Q111862379 .
+wiki:Q111862379 wikivoc:name "Machine learning method" .
+wiki:Q21198 wiki_prop:P31 wiki:Q4671286 .
+wiki:Q4671286 wikivoc:name "Academic major" .
+wiki:Q21198 wiki_prop:P31 wiki:Q189533 .
+wiki:Q189533 wikivoc:name "Academic degree" .
+wiki:Q21198 wiki_prop:P279 wiki:Q816264 .
+wiki:Q816264 wikivoc:name "Formal science" .
+wiki:Q21198 wiki_prop:P279 wiki:Q13420675 .
+wiki:Q13420675 wikivoc:name "Library and information science" .
+wiki:Q21198 wiki_prop:P527 wiki:Q2878974 .
+wiki:Q2878974 wikivoc:name "Theoretical computer science" .
+wiki:Q21198 wiki_prop:P527 wiki:Q538722 .
+wiki:Q538722 wikivoc:name "Applied computer science" .
+wiki:Q21198 wiki_prop:P527 wiki:Q844718 .
+wiki:Q844718 wikivoc:name "Theory of computation" .
+wiki:Q334384 wiki_prop:P31 wiki:Q8366 .
+wiki:Q8366 wikivoc:name 'Algorithm' .
+wiki:Q334384 wiki_prop:P2283 wiki:Q5282087 .
+wiki:Q5282087 wikivoc:name "Discriminative model" .
+wiki:Q334384 wiki_prop:P279 wiki:Q111862379 .
+wiki:Q110402867 wiki_prop:P31 wiki:Q19361238 .
+wiki:Q19361238 wikivoc:name "Wikidata metaclass" .
+wiki:Q110402867 wiki_prop:P279 wiki:Q5962346 .
+wiki:Q5962346 wikivoc:name "Classification system" .
+wiki:Q110402867 wiki_prop:P279 wiki:Q19361238 .
+wiki:Q2695280 wiki_prop:P361 wiki:Q11016 .
+wiki:Q11016 wikivoc:name 'Technology' .
+wiki:Q2695280 wiki_prop:P279 wiki:Q12894677 .
+wiki:Q12894677 wikivoc:name 'Means' .
+wiki:Q2695280 wiki_prop:P279 wiki:Q1799072 .
+wiki:Q108704339 wiki_prop:P31 wiki:Q205663 .
+wiki:Q205663 wikivoc:name 'Process' .
+wiki:Q108704339 wiki_prop:P361 wiki:Q31728 .
+wiki:Q31728 wikivoc:name "Public administration" .
+wiki:Q108704339 wiki_prop:P279 wiki:Q16686448 .
+wiki:Q16686448 wikivoc:name "Artificial entity" .
+wiki:Q108704339 wiki_prop:P279 wiki:Q1331926 .
+wiki:Q1331926 wikivoc:name "Decision making" .
+wiki:Q108704339 wiki_prop:P279 wiki:Q184199 .
+wiki:Q184199 wikivoc:name 'Automation' .
+wiki:Q4671286 wiki_prop:P279 wiki:Q627436 .
+wiki:Q627436 wikivoc:name "Field of work" .
+wiki:Q113127963 wiki_prop:P527 wiki:Q1041418 .
+wiki:Q1041418 wikivoc:name "Semi-supervised learning" .
+wiki:Q75 wiki_prop:P31 wiki:Q11224256 .
+wiki:Q11224256 wikivoc:name "Ip network" .
+wiki:Q75 wiki_prop:P31 wiki:Q1301371 .
+wiki:Q1301371 wikivoc:name "Computer network" .
+wiki:Q75 wiki_prop:P31 wiki:Q14208553 .
+wiki:Q14208553 wikivoc:name 'Invention' .
+wiki:Q75 wiki_prop:P2283 wiki:Q8795 .
+wiki:Q8795 wikivoc:name "Internet protocol" .
+wiki:Q75 wiki_prop:P279 wiki:Q1068715 .
+wiki:Q1068715 wikivoc:name "Telecommunications network" .
+wiki:Q75 wiki_prop:P279 wiki:Q151885 .
+wiki:Q151885 wikivoc:name 'Concept' .
+wiki:Q554950 wiki_prop:P31 wiki:Q7397 .
+wiki:Q7397 wikivoc:name 'Software' .
+wiki:Q554950 wiki_prop:P279 wiki:Q6031077 .
+wiki:Q6031077 wikivoc:name "Information filtering system" .
+wiki:Q554950 wiki_prop:P279 wiki:Q4485156 .
+wiki:Q4485156 wikivoc:name "Software feature" .
+wiki:Q554950 wiki_prop:P366 wiki:Q241317 .
+wiki:Q554950 wiki_prop:P366 wiki:Q63241860 .
+wiki:Q63241860 wikivoc:name "Streaming service" .
+wiki:Q12725 wiki_prop:P31 wiki:Q1293220 .
+wiki:Q1293220 wikivoc:name "Physical phenomenon" .
+wiki:Q12725 wiki_prop:P361 wiki:Q11406 .
+wiki:Q11406 wikivoc:name 'Electromagnetism' .
+wiki:Q12725 wiki_prop:P279 wiki:Q11379 .
+wiki:Q11379 wikivoc:name 'Energy' .
+wiki:Q12725 wiki_prop:P279 wiki:Q1522115 .
+wiki:Q1522115 wikivoc:name "Energy source" .
+wiki:Q844718 wiki_prop:P31 wiki:Q17737 .
+wiki:Q17737 wikivoc:name 'Theory' .
+wiki:Q844718 wiki_prop:P361 wiki:Q16387 .
+wiki:Q16387 wikivoc:name "Information science" .
+wiki:Q844718 wiki_prop:P279 wiki:Q17737 .
+wiki:Q844718 wiki_prop:P527 wiki:Q13636890 .
+wiki:Q13636890 wikivoc:name 'Algorithmics' .
+wiki:Q1047113 wiki_prop:P279 wiki:Q9081 .
+wiki:Q9081 wikivoc:name 'Knowledge' .
+wiki:Q1047113 wiki_prop:P279 wiki:Q105948247 .
+wiki:Q105948247 wikivoc:name "Knowledge system" .
+wiki:Q1047113 wiki_prop:P279 wiki:Q110403031 .
+wiki:Q110403031 wikivoc:name "Knowledge type" .
+wiki:Q5282087 wiki_prop:P279 wiki:Q486902 .
+wiki:Q486902 wikivoc:name "Mathematical model" .
+wiki:Q13420675 wiki_prop:P31 wiki:Q189533 .
+wiki:Q13420675 wiki_prop:P279 wiki:Q16387 .
+wiki:Q13420675 wiki_prop:P279 wiki:Q199655 .
+wiki:Q199655 wikivoc:name "Library science" .
+wiki:Q13420675 wiki_prop:P527 wiki:Q16387 .
+wiki:Q13420675 wiki_prop:P527 wiki:Q199655 .
+wiki:Q241317 wiki_prop:P279 wiki:Q2424752 .
+wiki:Q2424752 wikivoc:name 'Product' .
+wiki:Q241317 wiki_prop:P279 wiki:Q58778 .
+wiki:Q58778 wikivoc:name 'System' .
+wiki:Q112057532 wiki_prop:P31 wiki:Q19361238 .
+wiki:Q112057532 wiki_prop:P279 wiki:Q21146257 .
+wiki:Q21146257 wikivoc:name 'Type' .
+wiki:Q189533 wiki_prop:P279 wiki:Q3529618 .
+wiki:Q3529618 wikivoc:name "Academic title" .
+wiki:Q538722 wiki_prop:P31 wiki:Q28797 .
+wiki:Q28797 wikivoc:name "Applied science" .
+wiki:Q538722 wiki_prop:P279 wiki:Q11016 .
+wiki:Q4182287 wiki_prop:P279 wiki:Q7000900 .
+wiki:Q7000900 wikivoc:name "Network search engine" .
+wiki:Q4182287 wiki_prop:P279 wiki:Q193424 .
+wiki:Q193424 wikivoc:name "Web service" .
+wiki:Q4182287 wiki_prop:P279 wiki:Q19541 .
+wiki:Q19541 wikivoc:name "Search engine" .
+wiki:Q741490 wiki_prop:P279 wiki:Q1420 .
+wiki:Q1420 wikivoc:name "Motor car" .
+wiki:Q741490 wiki_prop:P279 wiki:Q3509172 .
+wiki:Q3509172 wikivoc:name "Automatic transport system" .
+wiki:Q741490 wiki_prop:P279 wiki:Q116285085 .
+wiki:Q116285085 wikivoc:name "Autonomous vehicle" .
+wiki:Q111862379 wiki_prop:P279 wiki:Q8366 .
+wiki:Q8366 wiki_prop:P361 wiki:Q13636890 .
+wiki:Q8366 wiki_prop:P361 wiki:Q395 .
+wiki:Q395 wikivoc:name 'Mathematics' .
+wiki:Q8366 wiki_prop:P279 wiki:Q41689629 .
+wiki:Q41689629 wikivoc:name 'Procedure' .
+wiki:Q8366 wiki_prop:P279 wiki:Q386724 .
+wiki:Q386724 wikivoc:name 'Work' .
+wiki:Q1078276 wiki_prop:P279 wiki:Q30642 .
+wiki:Q30642 wikivoc:name "Natural language processing" .
+wiki:Q816264 wiki_prop:P31 wiki:Q2465832 .
+wiki:Q2465832 wikivoc:name "Branch of science" .
+wiki:Q816264 wiki_prop:P279 wiki:Q475023 .
+wiki:Q475023 wikivoc:name "Exact science" .
+wiki:Q816264 wiki_prop:P527 wiki:Q395 .
+wiki:Q816264 wiki_prop:P527 wiki:Q8078 .
+wiki:Q8078 wikivoc:name 'Logic' .
+wiki:Q816264 wiki_prop:P527 wiki:Q12483 .
+wiki:Q12483 wikivoc:name 'Statistics' .
+wiki:Q816264 wiki_prop:P527 wiki:Q44455 .
+wiki:Q44455 wikivoc:name "Game theory" .
+wiki:Q816264 wiki_prop:P527 wiki:Q269699 .
+wiki:Q269699 wikivoc:name "Systems theory" .
+wiki:Q816264 wiki_prop:P527 wiki:Q2878974 .
+wiki:Q120208 wiki_prop:P279 wiki:Q11016 .
+wiki:Q120208 wiki_prop:P366 wiki:Q1395034 .
+wiki:Q1395034 wikivoc:name "New product development" .
+wiki:Q1799072 wiki_prop:P279 wiki:Q104637332 .
+wiki:Q104637332 wikivoc:name "Planned process" .
+wiki:Q1799072 wiki_prop:P279 wiki:Q16686448 .
+wiki:Q2878974 wiki_prop:P279 wiki:Q580234 .
+wiki:Q580234 wikivoc:name "Fundamental science" .
+wiki:Q2878974 wiki_prop:P279 wiki:Q395 .
+wiki:Q2878974 wiki_prop:P527 wiki:Q13636890 .
+wiki:Q2878974 wiki_prop:P527 wiki:Q4809258 .
+wiki:Q4809258 wikivoc:name "Database theory" .
+wiki:Q2878974 wiki_prop:P527 wiki:Q214526 .
+wiki:Q214526 wikivoc:name "Automata theory" .
+wiki:Q203790 wiki_prop:P31 wiki:Q17737 .
+wiki:Q5532625 wiki_prop:P279 wiki:Q3284399 .
+wiki:Q3284399 wikivoc:name "Statistical model" .
+wiki:Q268592 wiki_prop:P31 wiki:Q29028649 .
+wiki:Q29028649 wikivoc:name "Economic concept" .
+wiki:Q268592 wiki_prop:P361 wiki:Q3958441 .
+wiki:Q3958441 wikivoc:name "Economic sector" .
+wiki:Q268592 wiki_prop:P279 wiki:Q58778 .
+wiki:Q268592 wiki_prop:P279 wiki:Q16887380 .
+wiki:Q16887380 wikivoc:name 'Group' .
+wiki:Q147638 wiki_prop:P31 wiki:Q1665984 .
+wiki:Q1665984 wikivoc:name "Interdisciplinary science" .
+wiki:Q147638 wiki_prop:P279 wiki:Q9418 .
+wiki:Q9418 wikivoc:name 'Psychology' .
+wiki:Q147638 wiki_prop:P279 wiki:Q23407 .
+wiki:Q23407 wikivoc:name "Philosophy of mind" .
+wiki:Q147638 wiki_prop:P279 wiki:Q8162 .
+wiki:Q8162 wikivoc:name 'Linguistics' .
+wiki:Q147638 wiki_prop:P279 wiki:Q23404 .
+wiki:Q23404 wikivoc:name 'Anthropology' .
+wiki:Q147638 wiki_prop:P279 wiki:Q207011 .
+wiki:Q207011 wikivoc:name 'Neuroscience' .
+wiki:Q147638 wiki_prop:P527 wiki:Q9471 .
+wiki:Q9471 wikivoc:name 'Epistemology' .
+wiki:Q147638 wiki_prop:P527 wiki:Q23373 .
+wiki:Q23373 wikivoc:name "Cognitive psychology" .
+wiki:Q147638 wiki_prop:P527 wiki:Q660910 .
+wiki:Q660910 wikivoc:name 'Neurophysiology' .
+wiki:Q147638 wiki_prop:P527 wiki:Q508969 .
+wiki:Q508969 wikivoc:name "Cognitive linguistics" .
+wiki:Q147638 wiki_prop:P527 wiki:Q207125 .
+wiki:Q207125 wikivoc:name "Nonverbal communication" .
+wiki:Q771906 wiki_prop:P279 wiki:Q31464082 .
+wiki:Q31464082 wikivoc:name 'Source' .
+wiki:Q8162 wiki_prop:P361 wiki:Q6486703 .
+wiki:Q6486703 wikivoc:name "Language arts" .
+wiki:Q8162 wiki_prop:P279 wiki:Q80083 .
+wiki:Q80083 wikivoc:name 'Humanities' .
+wiki:Q8162 wiki_prop:P279 wiki:Q34749 .
+wiki:Q34749 wikivoc:name "Social science" .
+wiki:Q8162 wiki_prop:P527 wiki:Q40998 .
+wiki:Q40998 wikivoc:name 'Phonology' .
+wiki:Q8162 wiki_prop:P527 wiki:Q38311 .
+wiki:Q38311 wikivoc:name 'Morphology' .
+wiki:Q8162 wiki_prop:P527 wiki:Q37437 .
+wiki:Q37437 wikivoc:name 'Syntax' .
+wiki:Q8162 wiki_prop:P527 wiki:Q39645 .
+wiki:Q39645 wikivoc:name 'Semantics' .
+wiki:Q8162 wiki_prop:P527 wiki:Q181839 .
+wiki:Q181839 wikivoc:name 'Pragmatics' .
+wiki:Q8162 wiki_prop:P527 wiki:Q35395 .
+wiki:Q35395 wikivoc:name 'Phonetics' .
+wiki:Q8162 wiki_prop:P527 wiki:Q661093 .
+wiki:Q661093 wikivoc:name 'Morphophonology' .
+wiki:Q8162 wiki_prop:P527 wiki:Q1428721 .
+wiki:Q1428721 wikivoc:name 'Morphosyntax' .
+wiki:Q8162 wiki_prop:P527 wiki:Q8091 .
+wiki:Q8091 wikivoc:name 'Grammar' .
+wiki:Q199655 wiki_prop:P31 wiki:Q627436 .
+wiki:Q199655 wiki_prop:P361 wiki:Q856625 .
+wiki:Q856625 wikivoc:name "Branch of libraries" .
+wiki:Q199655 wiki_prop:P361 wiki:Q3523102 .
+wiki:Q3523102 wikivoc:name "Source of information" .
+wiki:Q199655 wiki_prop:P279 wiki:Q16387 .
+wiki:Q199655 wiki_prop:P527 wiki:Q3535655 .
+wiki:Q3535655 wikivoc:name 'Cataloging' .
+wiki:Q199655 wiki_prop:P527 wiki:Q57699384 .
+wiki:Q57699384 wikivoc:name "Reference service" .
+wiki:Q199655 wiki_prop:P527 wiki:Q49848 .
+wiki:Q49848 wikivoc:name 'Document' .
+wiki:Q199655 wiki_prop:P527 wiki:Q3567214 .
+wiki:Q3567214 wikivoc:name "Library collection development" .
+wiki:Q199655 wiki_prop:P527 wiki:Q59309634 .
+wiki:Q59309634 wikivoc:name "Library service" .
+wiki:Q44455 wiki_prop:P31 wiki:Q1936384 .
+wiki:Q1936384 wikivoc:name "Area of mathematics" .
+wiki:Q44455 wiki_prop:P279 wiki:Q177571 .
+wiki:Q177571 wikivoc:name "Decision theory" .
+wiki:Q19541 wiki_prop:P2283 wiki:Q755673 .
+wiki:Q755673 wikivoc:name "Search algorithm" .
+wiki:Q19541 wiki_prop:P279 wiki:Q7397 .
+wiki:Q19541 wiki_prop:P366 wiki:Q816826 .
+wiki:Q816826 wikivoc:name "Information retrieval" .
+wiki:Q9471 wiki_prop:P31 wiki:Q22811234 .
+wiki:Q22811234 wikivoc:name "Branch of philosophy" .
+wiki:Q9471 wiki_prop:P279 wiki:Q5891 .
+wiki:Q5891 wikivoc:name 'Philosophy' .
+wiki:Q58778 wiki_prop:P31 wiki:Q96251598 .
+wiki:Q96251598 wikivoc:name "Type of object" .
+wiki:Q58778 wiki_prop:P279 wiki:Q99527517 .
+wiki:Q99527517 wikivoc:name "Collective entity" .
+wiki:Q58778 wiki_prop:P527 wiki:Q1310239 .
+wiki:Q1310239 wikivoc:name 'Component' .
+wiki:Q58778 wiki_prop:P527 wiki:Q2362312 .
+wiki:Q2362312 wikivoc:name 'Subsystem' .
+wiki:Q58778 wiki_prop:P527 wiki:Q1151067 .
+wiki:Q1151067 wikivoc:name 'Rule' .
+wiki:Q58778 wiki_prop:P527 wiki:Q52948 .
+wiki:Q52948 wikivoc:name 'Interaction' .
+wiki:Q386724 wiki_prop:P361 wiki:Q11042 .
+wiki:Q11042 wikivoc:name 'Culture' .
+wiki:Q386724 wiki_prop:P361 wiki:Q336 .
+wiki:Q336 wikivoc:name 'Science' .
+wiki:Q386724 wiki_prop:P361 wiki:Q2668072 .
+wiki:Q2668072 wikivoc:name 'Collection' .
+wiki:Q386724 wiki_prop:P279 wiki:Q15401930 .
+wiki:Q15401930 wikivoc:name 'Product' .
+wiki:Q207011 wiki_prop:P361 wiki:Q11190 .
+wiki:Q11190 wikivoc:name 'Medicine' .
+wiki:Q207011 wiki_prop:P361 wiki:Q9418 .
+wiki:Q207011 wiki_prop:P361 wiki:Q420 .
+wiki:Q420 wikivoc:name 'Biology' .
+wiki:Q207011 wiki_prop:P279 wiki:Q336 .
+wiki:Q207011 wiki_prop:P527 wiki:Q660910 .
+wiki:Q207011 wiki_prop:P527 wiki:Q1138951 .
+wiki:Q1138951 wikivoc:name "Cognitive neuroscience" .
+wiki:Q3284399 wiki_prop:P279 wiki:Q486902 .
+wiki:Q3958441 wiki_prop:P31 wiki:Q5962346 .
+wiki:Q3958441 wiki_prop:P31 wiki:Q29028649 .
+wiki:Q3958441 wiki_prop:P361 wiki:Q159810 .
+wiki:Q159810 wikivoc:name 'Economy' .
+wiki:Q207125 wiki_prop:P31 wiki:Q38786485 .
+wiki:Q38786485 wikivoc:name "Form of communication" .
+wiki:Q207125 wiki_prop:P279 wiki:Q11024 .
+wiki:Q11024 wikivoc:name 'Communication' .
+wiki:Q627436 wiki_prop:P31 wiki:Q19478619 .
+wiki:Q19478619 wikivoc:name 'Metaclass' .
+wiki:Q151885 wiki_prop:P31 wiki:Q23958852 .
+wiki:Q23958852 wikivoc:name "Variable-order class" .
+wiki:Q151885 wiki_prop:P279 wiki:Q2145290 .
+wiki:Q2145290 wikivoc:name "Mental representation" .
+wiki:Q151885 wiki_prop:P279 wiki:Q7184903 .
+wiki:Q7184903 wikivoc:name "Abstract object" .
+wiki:Q151885 wiki_prop:P279 wiki:Q1347367 .
+wiki:Q1347367 wikivoc:name 'Aptitude' .
+wiki:Q3509172 wiki_prop:P279 wiki:Q2516436 .
+wiki:Q2516436 wikivoc:name "Transportation system" .
+wiki:Q2424752 wiki_prop:P31 wiki:Q29028649 .
+wiki:Q2424752 wiki_prop:P279 wiki:Q15401930 .
+wiki:Q11379 wiki_prop:P361 wiki:Q35875 .
+wiki:Q35875 wikivoc:name "Mass–energy equivalence" .
+wiki:Q11379 wiki_prop:P361 wiki:Q1 .
+wiki:Q1 wikivoc:name 'Universe' .
+wiki:Q11379 wiki_prop:P279 wiki:Q107715 .
+wiki:Q107715 wikivoc:name "Physical quantity" .
+wiki:Q11379 wiki_prop:P279 wiki:Q181175 .
+wiki:Q181175 wikivoc:name "Scalar quantity" .
+wiki:Q11379 wiki_prop:P279 wiki:Q3386703 .
+wiki:Q3386703 wikivoc:name "Extensive quantity" .
+wiki:Q16887380 wiki_prop:P31 wiki:Q19478619 .
+wiki:Q16887380 wiki_prop:P279 wiki:Q28813620 .
+wiki:Q28813620 wikivoc:name 'Set' .
+wiki:Q16887380 wiki_prop:P527 wiki:Q35120 .
+wiki:Q35120 wikivoc:name 'Entity' .
+wiki:Q16887380 wiki_prop:P527 wiki:Q36809769 .
+wiki:Q36809769 wikivoc:name "Object of group" .
+wiki:Q11406 wiki_prop:P31 wiki:Q4162444 .
+wiki:Q4162444 wikivoc:name "Branch of physics" .
+wiki:Q11406 wiki_prop:P361 wiki:Q413 .
+wiki:Q413 wikivoc:name 'Physics' .
+wiki:Q3529618 wiki_prop:P279 wiki:Q16023913 .
+wiki:Q16023913 wikivoc:name "Professional certification" .
+wiki:Q3529618 wiki_prop:P279 wiki:Q618779 .
+wiki:Q618779 wikivoc:name 'Award' .
+wiki:Q486902 wiki_prop:P2283 wiki:Q24034552 .
+wiki:Q24034552 wikivoc:name "Mathematical concept" .
+wiki:Q486902 wiki_prop:P2283 wiki:Q1140046 .
+wiki:Q1140046 wikivoc:name "Mathematical notation" .
+wiki:Q486902 wiki_prop:P279 wiki:Q2623243 .
+wiki:Q2623243 wikivoc:name "Conceptual model" .
+wiki:Q486902 wiki_prop:P279 wiki:Q15621286 .
+wiki:Q15621286 wikivoc:name "Intellectual work" .
+wiki:Q1293220 wiki_prop:P361 wiki:Q7860 .
+wiki:Q7860 wikivoc:name 'Nature' .
+wiki:Q1293220 wiki_prop:P279 wiki:Q483247 .
+wiki:Q483247 wikivoc:name 'Phenomenon' .
+wiki:Q31728 wiki_prop:P31 wiki:Q11771944 .
+wiki:Q11771944 wikivoc:name "Civil service" .
+wiki:Q31728 wiki_prop:P361 wiki:Q7275 .
+wiki:Q7275 wikivoc:name 'State' .
+wiki:Q31728 wiki_prop:P361 wiki:Q1200977 .
+wiki:Q1200977 wikivoc:name "Quaternary sector of the economy" .
+wiki:Q31728 wiki_prop:P279 wiki:Q3754526 .
+wiki:Q3754526 wikivoc:name 'Administration' .
+wiki:Q31728 wiki_prop:P527 wiki:Q294414 .
+wiki:Q294414 wikivoc:name "Public office" .
+wiki:Q31728 wiki_prop:P527 wiki:Q218810 .
+wiki:Q218810 wikivoc:name "Zollwesen (customs administration)" .
+wiki:Q31728 wiki_prop:P527 wiki:Q699386 .
+wiki:Q699386 wikivoc:name "Statutory corporation" .
+wiki:Q110403031 wiki_prop:P31 wiki:Q19361238 .
+wiki:Q110403031 wiki_prop:P279 wiki:Q21146257 .
+wiki:Q11224256 wiki_prop:P2283 wiki:Q81414 .
+wiki:Q81414 wikivoc:name "Internet protocol suite" .
+wiki:Q11224256 wiki_prop:P279 wiki:Q1301371 .
+wiki:Q1420 wiki_prop:P2283 wiki:Q12757 .
+wiki:Q12757 wikivoc:name "Internal combustion engine" .
+wiki:Q1420 wiki_prop:P2283 wiki:Q72313 .
+wiki:Q72313 wikivoc:name "Electric motor" .
+wiki:Q1420 wiki_prop:P361 wiki:Q516739 .
+wiki:Q516739 wikivoc:name "Road transport" .
+wiki:Q1420 wiki_prop:P279 wiki:Q752870 .
+wiki:Q752870 wikivoc:name "Motor vehicle" .
+wiki:Q1420 wiki_prop:P279 wiki:Q12060681 .
+wiki:Q12060681 wikivoc:name "Multi-track vehicle" .
+wiki:Q1420 wiki_prop:P279 wiki:Q1515493 .
+wiki:Q1515493 wikivoc:name "Road vehicle" .
+wiki:Q1420 wiki_prop:P527 wiki:Q44167 .
+wiki:Q44167 wikivoc:name 'Engine' .
+wiki:Q1420 wiki_prop:P527 wiki:Q679300 .
+wiki:Q679300 wikivoc:name "Steering wheel" .
+wiki:Q1420 wiki_prop:P527 wiki:Q188209 .
+wiki:Q188209 wikivoc:name 'Axle' .
+wiki:Q1420 wiki_prop:P527 wiki:Q1411232 .
+wiki:Q1411232 wikivoc:name "Fuel tank" .
+wiki:Q1420 wiki_prop:P527 wiki:Q583488 .
+wiki:Q583488 wikivoc:name "Air filter" .
+wiki:Q1420 wiki_prop:P527 wiki:Q286588 .
+wiki:Q286588 wikivoc:name "Oxygen sensor" .
+wiki:Q1420 wiki_prop:P527 wiki:Q211251 .
+wiki:Q211251 wikivoc:name "Shock absorber" .
+wiki:Q1420 wiki_prop:P527 wiki:Q17015073 .
+wiki:Q17015073 wikivoc:name "Ball joint" .
+wiki:Q1420 wiki_prop:P527 wiki:Q165435 .
+wiki:Q165435 wikivoc:name 'Carburetor' .
+wiki:Q1420 wiki_prop:P527 wiki:Q2207370 .
+wiki:Q2207370 wikivoc:name 'Seat' .
+wiki:Q1420 wiki_prop:P527 wiki:Q1276284 .
+wiki:Q1276284 wikivoc:name "Vehicle door" .
+wiki:Q1420 wiki_prop:P527 wiki:Q1417134 .
+wiki:Q1417134 wikivoc:name 'Dashboard' .
+wiki:Q1420 wiki_prop:P527 wiki:Q1208529 .
+wiki:Q1208529 wikivoc:name "Manual transmission" .
+wiki:Q1420 wiki_prop:P527 wiki:Q24578007 .
+wiki:Q24578007 wikivoc:name "Fuel door" .
+wiki:Q1420 wiki_prop:P527 wiki:Q786732 .
+wiki:Q786732 wikivoc:name "Car wheel" .
+wiki:Q1420 wiki_prop:P527 wiki:Q1415117 .
+wiki:Q1415117 wikivoc:name "Glove compartment" .
+wiki:Q1420 wiki_prop:P527 wiki:Q13693 .
+wiki:Q13693 wikivoc:name 'Windshield' .
+wiki:Q1420 wiki_prop:P527 wiki:Q843592 .
+wiki:Q843592 wikivoc:name "Automatic transmission" .
+wiki:Q1420 wiki_prop:P527 wiki:Q2998736 .
+wiki:Q2998736 wikivoc:name "Reduction drive" .
+wiki:Q1420 wiki_prop:P527 wiki:Q194302 .
+wiki:Q194302 wikivoc:name 'Clutch' .
+wiki:Q1420 wiki_prop:P527 wiki:Q193137 .
+wiki:Q193137 wikivoc:name 'Differential' .
+wiki:Q1420 wiki_prop:P527 wiki:Q6304756 .
+wiki:Q6304756 wikivoc:name "Drive shaft" .
+wiki:Q1420 wiki_prop:P527 wiki:Q609111 .
+wiki:Q609111 wikivoc:name 'Powertrain' .
+wiki:Q1420 wiki_prop:P527 wiki:Q27206 .
+wiki:Q27206 wikivoc:name 'Hood' .
+wiki:Q1420 wiki_prop:P527 wiki:Q1588072 .
+wiki:Q1588072 wikivoc:name 'Coach' .
+wiki:Q1420 wiki_prop:P527 wiki:Q731988 .
+wiki:Q731988 wikivoc:name "Rolling chassis" .
+wiki:Q1420 wiki_prop:P366 wiki:Q107128937 .
+wiki:Q107128937 wikivoc:name "Motorized private transport" .
+wiki:Q1420 wiki_prop:P366 wiki:Q82650 .
+wiki:Q82650 wikivoc:name 'Taxi' .
+wiki:Q1420 wiki_prop:P366 wiki:Q7590 .
+wiki:Q7590 wikivoc:name 'Transport' .
+wiki:Q1420 wiki_prop:P366 wiki:Q87410777 .
+wiki:Q87410777 wikivoc:name "Passenger transportation" .
+wiki:Q17737 wiki_prop:P279 wiki:Q131841 .
+wiki:Q131841 wikivoc:name 'Idea' .
+wiki:Q17737 wiki_prop:P527 wiki:Q72867640 .
+wiki:Q72867640 wikivoc:name "Hypothetical event" .
+wiki:Q17737 wiki_prop:P527 wiki:Q7958 .
+wiki:Q7958 wikivoc:name 'Explanation' .
+wiki:Q31464082 wiki_prop:P31 wiki:Q4897819 .
+wiki:Q4897819 wikivoc:name 'Role' .
+wiki:Q31464082 wiki_prop:P31 wiki:Q613930 .
+wiki:Q613930 wikivoc:name "Thematic relation" .
+wiki:Q31464082 wiki_prop:P279 wiki:Q488383 .
+wiki:Q488383 wikivoc:name 'Object' .
+wiki:Q1301371 wiki_prop:P2283 wiki:Q132364 .
+wiki:Q132364 wikivoc:name "Communication protocol" .
+wiki:Q1301371 wiki_prop:P279 wiki:Q1900326 .
+wiki:Q1900326 wikivoc:name 'Network' .
+wiki:Q1301371 wiki_prop:P279 wiki:Q1068715 .
+wiki:Q1301371 wiki_prop:P527 wiki:Q5747224 .
+wiki:Q5747224 wikivoc:name "Heterogeneous network" .
+wiki:Q1301371 wiki_prop:P366 wiki:Q7126717 .
+wiki:Q7126717 wikivoc:name 'Download' .
+wiki:Q1301371 wiki_prop:P366 wiki:Q7126699 .
+wiki:Q7126699 wikivoc:name 'Upload' .
+wiki:Q8078 wiki_prop:P31 wiki:Q15831325 .
+wiki:Q15831325 wikivoc:name "Class used in universal decimal classification" .
+wiki:Q8078 wiki_prop:P31 wiki:Q22811234 .
+wiki:Q8078 wiki_prop:P361 wiki:Q395 .
+wiki:Q8078 wiki_prop:P527 wiki:Q236975 .
+wiki:Q236975 wikivoc:name "Classical logic" .
+wiki:Q8078 wiki_prop:P527 wiki:Q224821 .
+wiki:Q224821 wikivoc:name "Fuzzy logic" .
+wiki:Q8078 wiki_prop:P527 wiki:Q1206311 .
+wiki:Q1206311 wikivoc:name "Quantum logic" .
+wiki:Q8078 wiki_prop:P527 wiki:Q200694 .
+wiki:Q200694 wikivoc:name "Propositional calculus" .
+wiki:Q8078 wiki_prop:P527 wiki:Q35148 .
+wiki:Q35148 wikivoc:name "Predicate logic" .
+wiki:Q8078 wiki_prop:P527 wiki:Q210841 .
+wiki:Q210841 wikivoc:name "Modal logic" .
+wiki:Q8078 wiki_prop:P527 wiki:Q484511 .
+wiki:Q484511 wikivoc:name "Inductive reasoning" .
+wiki:Q8078 wiki_prop:P527 wiki:Q484284 .
+wiki:Q484284 wikivoc:name "Deductive reasoning" .
+wiki:Q8078 wiki_prop:P527 wiki:Q179289 .
+wiki:Q179289 wikivoc:name 'Causality' .
+wiki:Q205663 wiki_prop:P31 wiki:Q66747126 .
+wiki:Q66747126 wikivoc:name "Computer science term" .
+wiki:Q205663 wiki_prop:P31 wiki:Q116505632 .
+wiki:Q116505632 wikivoc:name "Type of process" .
+wiki:Q205663 wiki_prop:P279 wiki:Q7397 .
+wiki:Q205663 wiki_prop:P279 wiki:Q67518233 .
+wiki:Q67518233 wikivoc:name 'Process' .
+wiki:Q508969 wiki_prop:P31 wiki:Q1665984 .
+wiki:Q508969 wiki_prop:P279 wiki:Q23373 .
+wiki:Q184199 wiki_prop:P31 wiki:Q11016 .
+wiki:Q184199 wiki_prop:P279 wiki:Q1914636 .
+wiki:Q1914636 wikivoc:name 'Activity' .
+wiki:Q184199 wiki_prop:P279 wiki:Q10843872 .
+wiki:Q10843872 wikivoc:name 'Process' .
+wiki:Q184199 wiki_prop:P279 wiki:Q5268834 .
+wiki:Q5268834 wikivoc:name "Information and communications technology" .
+wiki:Q1041418 wiki_prop:P279 wiki:Q65044138 .
+wiki:Q65044138 wikivoc:name "Weakly supervised learning" .
+wiki:Q475023 wiki_prop:P31 wiki:Q2465832 .
+wiki:Q475023 wiki_prop:P279 wiki:Q336 .
+wiki:Q21146257 wiki_prop:P31 wiki:Q19478619 .
+wiki:Q21146257 wiki_prop:P279 wiki:Q16889133 .
+wiki:Q16889133 wikivoc:name 'Class' .
+wiki:Q23407 wiki_prop:P31 wiki:Q22811234 .
+wiki:Q23407 wiki_prop:P361 wiki:Q77468620 .
+wiki:Q77468620 wikivoc:name "Psychology terminology" .
+wiki:Q580234 wiki_prop:P361 wiki:Q336 .
+wiki:Q580234 wiki_prop:P279 wiki:Q336 .
+wiki:Q5962346 wiki_prop:P31 wiki:Q23958852 .
+wiki:Q5962346 wiki_prop:P31 wiki:Q96116695 .
+wiki:Q96116695 wikivoc:name "Type of system" .
+wiki:Q5962346 wiki_prop:P279 wiki:Q6423319 .
+wiki:Q6423319 wikivoc:name "Knowledge organization system" .
+wiki:Q5962346 wiki_prop:P527 wiki:Q188619 .
+wiki:Q188619 wikivoc:name 'Hierarchy' .
+wiki:Q5962346 wiki_prop:P527 wiki:Q19478619 .
+wiki:Q6031077 wiki_prop:P279 wiki:Q121182 .
+wiki:Q121182 wikivoc:name "Information system" .
+wiki:Q269699 wiki_prop:P361 wiki:Q113208892 .
+wiki:Q113208892 wikivoc:name "Calculus of variations, systems theory and control theory" .
+wiki:Q269699 wiki_prop:P279 wiki:Q1665984 .
+wiki:Q14208553 wiki_prop:P31 wiki:Q170658 .
+wiki:Q170658 wikivoc:name 'Creativity' .
+wiki:Q14208553 wiki_prop:P279 wiki:Q174165 .
+wiki:Q174165 wikivoc:name 'Innovation' .
+wiki:Q14208553 wiki_prop:P279 wiki:Q451967 .
+wiki:Q451967 wikivoc:name "Intentional human activity" .
+wiki:Q14208553 wiki_prop:P279 wiki:Q1656682 .
+wiki:Q1656682 wikivoc:name 'Event' .
+wiki:Q14208553 wiki_prop:P279 wiki:Q6958747 .
+wiki:Q6958747 wikivoc:name 'Work' .
+wiki:Q30642 wiki_prop:P279 wiki:Q182557 .
+wiki:Q182557 wikivoc:name "Computational linguistics" .
+wiki:Q30642 wiki_prop:P279 wiki:Q8148 .
+wiki:Q8148 wikivoc:name "Industrial sector" .
+wiki:Q23404 wiki_prop:P361 wiki:Q34749 .
+wiki:Q23404 wiki_prop:P279 wiki:Q34749 .
+wiki:Q2465832 wiki_prop:P361 wiki:Q336 .
+wiki:Q2465832 wiki_prop:P279 wiki:Q336 .
+wiki:Q12894677 wiki_prop:P279 wiki:Q2574811 .
+wiki:Q2574811 wikivoc:name 'Cause' .
+wiki:Q116285085 wiki_prop:P279 wiki:Q42889 .
+wiki:Q42889 wikivoc:name 'Vehicle' .
+wiki:Q116285085 wiki_prop:P279 wiki:Q11012 .
+wiki:Q11012 wikivoc:name 'Robot' .
+wiki:Q4485156 wiki_prop:P361 wiki:Q7397 .
+wiki:Q4485156 wiki_prop:P279 wiki:Q1347367 .
+wiki:Q1665984 wiki_prop:P279 wiki:Q336 .
+wiki:Q9418 wiki_prop:P31 wiki:Q336 .
+wiki:Q9418 wiki_prop:P279 wiki:Q1587903 .
+wiki:Q1587903 wikivoc:name "Human science" .
+wiki:Q9418 wiki_prop:P279 wiki:Q843601 .
+wiki:Q843601 wikivoc:name "Health sciences" .
+wiki:Q9418 wiki_prop:P527 wiki:Q60680430 .
+wiki:Q60680430 wikivoc:name "Branch of psychology" .
+wiki:Q19361238 wiki_prop:P31 wiki:Q24017465 .
+wiki:Q24017465 wikivoc:name "Third-order class" .
+wiki:Q19361238 wiki_prop:P279 wiki:Q19478619 .
+wiki:Q19361238 wiki_prop:P279 wiki:Q21522864 .
+wiki:Q21522864 wikivoc:name "Class or metaclass of wikidata ontology" .
+wiki:Q193424 wiki_prop:P31 wiki:Q17155032 .
+wiki:Q17155032 wikivoc:name "Software category" .
+wiki:Q193424 wiki_prop:P279 wiki:Q1220872 .
+wiki:Q1220872 wikivoc:name 'Service' .
+wiki:Q16686448 wiki_prop:P31 wiki:Q96251598 .
+wiki:Q16686448 wiki_prop:P279 wiki:Q488383 .
+wiki:Q11016 wiki_prop:P361 wiki:Q1881523 .
+wiki:Q1881523 wikivoc:name "Stem fields" .
+wiki:Q11016 wiki_prop:P361 wiki:Q994895 .
+wiki:Q994895 wikivoc:name "Technical system" .
+wiki:Q11016 wiki_prop:P279 wiki:Q28797 .
+wiki:Q660910 wiki_prop:P361 wiki:Q521 .
+wiki:Q521 wikivoc:name 'Physiology' .
+wiki:Q660910 wiki_prop:P279 wiki:Q521 .
+wiki:Q104637332 wiki_prop:P31 wiki:Q116505632 .
+wiki:Q104637332 wiki_prop:P2283 wiki:Q1371819 .
+wiki:Q1371819 wikivoc:name 'Plan' .
+wiki:Q104637332 wiki_prop:P279 wiki:Q3249551 .
+wiki:Q3249551 wikivoc:name 'Process' .
+wiki:Q105948247 wiki_prop:P31 wiki:Q96116695 .
+wiki:Q105948247 wiki_prop:P279 wiki:Q28813620 .
+wiki:Q105948247 wiki_prop:P279 wiki:Q9081 .
+wiki:Q16387 wiki_prop:P279 wiki:Q336 .
+wiki:Q16387 wiki_prop:P527 wiki:Q2405713 .
+wiki:Q2405713 wikivoc:name "Administrative organisation" .
+wiki:Q8795 wiki_prop:P31 wiki:Q290378 .
+wiki:Q290378 wikivoc:name "Internet standard" .
+wiki:Q8795 wiki_prop:P2283 wiki:Q193446 .
+wiki:Q193446 wikivoc:name "Packet switching" .
+wiki:Q8795 wiki_prop:P2283 wiki:Q727896 .
+wiki:Q727896 wikivoc:name "Connectionless communication" .
+wiki:Q8795 wiki_prop:P361 wiki:Q81414 .
+wiki:Q8795 wiki_prop:P279 wiki:Q15836568 .
+wiki:Q15836568 wikivoc:name "Computer network protocol" .
+wiki:Q395 wiki_prop:P361 wiki:Q1881523 .
+wiki:Q395 wiki_prop:P527 wiki:Q12479 .
+wiki:Q12479 wikivoc:name "Number theory" .
+wiki:Q395 wiki_prop:P527 wiki:Q8087 .
+wiki:Q8087 wikivoc:name 'Geometry' .
+wiki:Q395 wiki_prop:P527 wiki:Q3968 .
+wiki:Q3968 wikivoc:name 'Algebra' .
+wiki:Q395 wiki_prop:P527 wiki:Q217413 .
+wiki:Q217413 wikivoc:name "Category theory" .
+wiki:Q395 wiki_prop:P527 wiki:Q12482 .
+wiki:Q12482 wikivoc:name "Set theory" .
+wiki:Q395 wiki_prop:P527 wiki:Q12483 .
+wiki:Q395 wiki_prop:P527 wiki:Q5862903 .
+wiki:Q5862903 wikivoc:name "Probability theory" .
+wiki:Q395 wiki_prop:P527 wiki:Q42989 .
+wiki:Q42989 wikivoc:name 'Topology' .
+wiki:Q395 wiki_prop:P527 wiki:Q7754 .
+wiki:Q7754 wikivoc:name "Mathematical analysis" .
+wiki:Q395 wiki_prop:P527 wiki:Q76592 .
+wiki:Q76592 wikivoc:name 'Combinatorics' .
+wiki:Q395 wiki_prop:P527 wiki:Q1166618 .
+wiki:Q1166618 wikivoc:name "Mathematical logic" .
+wiki:Q395 wiki_prop:P527 wiki:Q11205 .
+wiki:Q11205 wikivoc:name 'Arithmetic' .
+wiki:Q395 wiki_prop:P366 wiki:Q336 .
+wiki:Q395 wiki_prop:P366 wiki:Q12121859 .
+wiki:Q12121859 wikivoc:name "Mathematical modelling" .
+wiki:Q395 wiki_prop:P366 wiki:Q11023 .
+wiki:Q11023 wikivoc:name 'Engineering' .
+wiki:Q395 wiki_prop:P366 wiki:Q43015 .
+wiki:Q43015 wikivoc:name 'Finance' .
+wiki:Q395 wiki_prop:P366 wiki:Q12525525 .
+wiki:Q12525525 wikivoc:name 'Computation' .
+wiki:Q12483 wiki_prop:P361 wiki:Q8134 .
+wiki:Q8134 wikivoc:name 'Economics' .
+wiki:Q12483 wiki_prop:P527 wiki:Q380344 .
+wiki:Q380344 wikivoc:name "Descriptive statistics" .
+wiki:Q12483 wiki_prop:P527 wiki:Q28873772 .
+wiki:Q28873772 wikivoc:name "Inferential statistics" .
+wiki:Q28797 wiki_prop:P279 wiki:Q336 .
+wiki:Q9081 wiki_prop:P31 wiki:Q33104279 .
+wiki:Q33104279 wikivoc:name "Philosophical concept" .
+wiki:Q9081 wiki_prop:P31 wiki:Q54989186 .
+wiki:Q54989186 wikivoc:name "Mental state" .
+wiki:Q9081 wiki_prop:P279 wiki:Q104127086 .
+wiki:Q104127086 wikivoc:name 'Memory' .
+wiki:Q1395034 wiki_prop:P31 wiki:Q116505632 .
+wiki:Q1395034 wiki_prop:P279 wiki:Q3249551 .
+wiki:Q1395034 wiki_prop:P279 wiki:Q1914636 .
+wiki:Q1068715 wiki_prop:P279 wiki:Q1900326 .
+wiki:Q1068715 wiki_prop:P279 wiki:Q577764 .
+wiki:Q577764 wikivoc:name "Communications system" .
+wiki:Q1068715 wiki_prop:P279 wiki:Q121359 .
+wiki:Q121359 wikivoc:name 'Infrastructure' .
+wiki:Q1068715 wiki_prop:P527 wiki:Q798444 .
+wiki:Q798444 wikivoc:name 'Backhaul' .
+wiki:Q13636890 wiki_prop:P527 wiki:Q50122285 .
+wiki:Q50122285 wikivoc:name "Algorithmic accountability" .
+wiki:Q13636890 wiki_prop:P527 wiki:Q50122569 .
+wiki:Q50122569 wikivoc:name "Algorithmic transparency" .
+wiki:Q13636890 wiki_prop:P527 wiki:Q141495 .
+wiki:Q141495 wikivoc:name "Mathematical optimization" .
+wiki:Q1522115 wiki_prop:P31 wiki:Q112234259 .
+wiki:Q112234259 wikivoc:name "Source type" .
+wiki:Q1522115 wiki_prop:P279 wiki:Q1554231 .
+wiki:Q1554231 wikivoc:name 'Resource' .
+wiki:Q63241860 wiki_prop:P279 wiki:Q19307174 .
+wiki:Q19307174 wikivoc:name "Digital distribution platform" .
+wiki:Q63241860 wiki_prop:P279 wiki:Q1668024 .
+wiki:Q1668024 wikivoc:name "Service on internet" .
+wiki:Q1331926 wiki_prop:P279 wiki:Q781413 .
+wiki:Q781413 wikivoc:name "Mental process" .
+wiki:Q1331926 wiki_prop:P279 wiki:Q12888920 .
+wiki:Q12888920 wikivoc:name 'Choice' .
+wiki:Q23373 wiki_prop:P31 wiki:Q60680430 .
+wiki:Q23373 wiki_prop:P361 wiki:Q77468620 .
+wiki:Q7397 wiki_prop:P361 wiki:Q68 .
+wiki:Q68 wikivoc:name 'Computer' .
+wiki:Q7397 wiki_prop:P279 wiki:Q17537576 .
+wiki:Q17537576 wikivoc:name "Creative work" .
+wiki:Q7397 wiki_prop:P279 wiki:Q47461344 .
+wiki:Q47461344 wikivoc:name "Written work" .
+wiki:Q7397 wiki_prop:P527 wiki:Q40056 .
+wiki:Q40056 wikivoc:name "Computer program" .
+wiki:Q7397 wiki_prop:P527 wiki:Q494756 .
+wiki:Q494756 wikivoc:name 'Data' .
+wiki:Q286588 wiki_prop:P31 wiki:Q1924397 .
+wiki:Q1924397 wikivoc:name "Measurement technique" .
+wiki:Q286588 wiki_prop:P361 wiki:Q12757 .
+wiki:Q7754 wiki_prop:P31 wiki:Q20026918 .
+wiki:Q20026918 wikivoc:name "Mathematical theory" .
+wiki:Q7754 wiki_prop:P279 wiki:Q837863 .
+wiki:Q837863 wikivoc:name "Pure mathematics" .
+wiki:Q7754 wiki_prop:P527 wiki:Q149972 .
+wiki:Q149972 wikivoc:name 'Calculus' .
+wiki:Q7754 wiki_prop:P527 wiki:Q190549 .
+wiki:Q190549 wikivoc:name "Functional analysis" .
+wiki:Q7754 wiki_prop:P527 wiki:Q193756 .
+wiki:Q193756 wikivoc:name "Complex analysis" .
+wiki:Q7754 wiki_prop:P527 wiki:Q854531 .
+wiki:Q854531 wikivoc:name "Real analysis" .
+wiki:Q7754 wiki_prop:P527 wiki:Q28575007 .
+wiki:Q28575007 wikivoc:name "Theory of differential equations" .
+wiki:Q7754 wiki_prop:P527 wiki:Q580101 .
+wiki:Q580101 wikivoc:name "Integral equation" .
+wiki:Q7754 wiki_prop:P527 wiki:Q216861 .
+wiki:Q216861 wikivoc:name "Calculus of variations" .
+wiki:Q7754 wiki_prop:P527 wiki:Q876215 .
+wiki:Q876215 wikivoc:name "Harmonic analysis" .
+wiki:Q7754 wiki_prop:P527 wiki:Q3174497 .
+wiki:Q3174497 wikivoc:name "Dynamical systems theory" .
+wiki:Q7754 wiki_prop:P527 wiki:Q5498822 .
+wiki:Q5498822 wikivoc:name "Ergodic theory" .
+wiki:Q7754 wiki_prop:P527 wiki:Q17017346 .
+wiki:Q17017346 wikivoc:name "Global analysis" .
+wiki:Q7754 wiki_prop:P527 wiki:Q1503766 .
+wiki:Q1503766 wikivoc:name "Nonstandard analysis" .
+wiki:Q7754 wiki_prop:P527 wiki:Q3979448 .
+wiki:Q3979448 wikivoc:name "Convergence test" .
+wiki:Q49848 wiki_prop:P279 wiki:Q37866906 .
+wiki:Q37866906 wikivoc:name "Information resource" .
+wiki:Q49848 wiki_prop:P279 wiki:Q15621286 .
+wiki:Q49848 wiki_prop:P279 wiki:Q286583 .
+wiki:Q286583 wikivoc:name 'Manifestation' .
+wiki:Q49848 wiki_prop:P527 wiki:Q59157099 .
+wiki:Q59157099 wikivoc:name "Document-type information" .
+wiki:Q49848 wiki_prop:P527 wiki:Q340169 .
+wiki:Q340169 wikivoc:name 'Media' .
+wiki:Q49848 wiki_prop:P527 wiki:Q3529597 .
+wiki:Q3529597 wikivoc:name 'Heading' .
+wiki:Q786732 wiki_prop:P31 wiki:Q811909 .
+wiki:Q811909 wikivoc:name "Technological component" .
+wiki:Q786732 wiki_prop:P361 wiki:Q446 .
+wiki:Q446 wikivoc:name 'Wheel' .
+wiki:Q786732 wiki_prop:P279 wiki:Q811909 .
+wiki:Q786732 wiki_prop:P279 wiki:Q446 .
+wiki:Q786732 wiki_prop:P279 wiki:Q46765731 .
+wiki:Q46765731 wikivoc:name "Automotive part" .
+wiki:Q44167 wiki_prop:P361 wiki:Q609111 .
+wiki:Q44167 wiki_prop:P279 wiki:Q11019 .
+wiki:Q11019 wikivoc:name 'Machine' .
+wiki:Q44167 wiki_prop:P279 wiki:Q2583685 .
+wiki:Q2583685 wikivoc:name 'Propulsion' .
+wiki:Q4897819 wiki_prop:P279 wiki:Q35120 .
+wiki:Q59309634 wiki_prop:P279 wiki:Q7406919 .
+wiki:Q7406919 wikivoc:name 'Service' .
+wiki:Q8134 wiki_prop:P31 wiki:Q2267705 .
+wiki:Q2267705 wikivoc:name "Field of study" .
+wiki:Q8134 wiki_prop:P361 wiki:Q3475802 .
+wiki:Q3475802 wikivoc:name "Economic and social sciences" .
+wiki:Q8134 wiki_prop:P361 wiki:Q34749 .
+wiki:Q8134 wiki_prop:P279 wiki:Q34749 .
+wiki:Q8134 wiki_prop:P527 wiki:Q39072 .
+wiki:Q39072 wikivoc:name 'Microeconomics' .
+wiki:Q8134 wiki_prop:P527 wiki:Q39680 .
+wiki:Q39680 wikivoc:name 'Macroeconomics' .
+wiki:Q8134 wiki_prop:P527 wiki:Q160039 .
+wiki:Q160039 wikivoc:name 'Econometrics' .
+wiki:Q8134 wiki_prop:P527 wiki:Q2248246 .
+wiki:Q2248246 wikivoc:name "Public economics" .
+wiki:Q8134 wiki_prop:P527 wiki:Q861689 .
+wiki:Q861689 wikivoc:name "Education economics" .
+wiki:Q8134 wiki_prop:P527 wiki:Q28161 .
+wiki:Q28161 wikivoc:name "Labour economics" .
+wiki:Q8134 wiki_prop:P527 wiki:Q1127188 .
+wiki:Q1127188 wikivoc:name "Development economics" .
+wiki:Q8134 wiki_prop:P527 wiki:Q47417 .
+wiki:Q47417 wikivoc:name "International economics" .
+wiki:Q8134 wiki_prop:P527 wiki:Q753291 .
+wiki:Q753291 wikivoc:name "Environmental economics" .
+wiki:Q8134 wiki_prop:P527 wiki:Q1118654 .
+wiki:Q1118654 wikivoc:name "Institutional economics" .
+wiki:Q8134 wiki_prop:P527 wiki:Q1411783 .
+wiki:Q1411783 wikivoc:name "Industrial organization" .
+wiki:Q8134 wiki_prop:P527 wiki:Q31218 .
+wiki:Q31218 wikivoc:name "Health economics" .
+wiki:Q8134 wiki_prop:P527 wiki:Q47398 .
+wiki:Q47398 wikivoc:name "Economic history" .
+wiki:Q8134 wiki_prop:P527 wiki:Q3578710 .
+wiki:Q3578710 wikivoc:name "Organizational economics" .
+wiki:Q8134 wiki_prop:P527 wiki:Q660564 .
+wiki:Q660564 wikivoc:name "Transport economics" .
+wiki:Q8134 wiki_prop:P527 wiki:Q385256 .
+wiki:Q385256 wikivoc:name "Urban economics" .
+wiki:Q8134 wiki_prop:P527 wiki:Q3578760 .
+wiki:Q3578760 wikivoc:name "Geographical economy" .
+wiki:Q8134 wiki_prop:P527 wiki:Q396340 .
+wiki:Q396340 wikivoc:name "Agricultural economics" .
+wiki:Q8134 wiki_prop:P527 wiki:Q56557294 .
+wiki:Q56557294 wikivoc:name "Resource economics" .
+wiki:Q577764 wiki_prop:P31 wiki:Q96116695 .
+wiki:Q577764 wiki_prop:P279 wiki:Q106865223 .
+wiki:Q106865223 wikivoc:name "Engineered system" .
+wiki:Q577764 wiki_prop:P366 wiki:Q11024 .
+wiki:Q218810 wiki_prop:P31 wiki:Q327333 .
+wiki:Q327333 wikivoc:name "Government agency" .
+wiki:Q218810 wiki_prop:P31 wiki:Q35798 .
+wiki:Q35798 wikivoc:name "Executive branch" .
+wiki:Q218810 wiki_prop:P527 wiki:Q218662 .
+wiki:Q218662 wikivoc:name "Customs dog training school" .
+wiki:Q336 wiki_prop:P2283 wiki:Q46857 .
+wiki:Q46857 wikivoc:name "Scientific method" .
+wiki:Q336 wiki_prop:P361 wiki:Q1881523 .
+wiki:Q336 wiki_prop:P527 wiki:Q12132639 .
+wiki:Q12132639 wikivoc:name "Scientific worldview" .
+wiki:Q336 wiki_prop:P527 wiki:Q901 .
+wiki:Q901 wikivoc:name 'Scientist' .
+wiki:Q336 wiki_prop:P527 wiki:Q7991 .
+wiki:Q7991 wikivoc:name "Natural science" .
+wiki:Q336 wiki_prop:P527 wiki:Q34749 .
+wiki:Q336 wiki_prop:P527 wiki:Q5769081 .
+wiki:Q5769081 wikivoc:name "Experimental science" .
+wiki:Q336 wiki_prop:P527 wiki:Q6045936 .
+wiki:Q6045936 wikivoc:name "Scientific knowledge" .
+wiki:Q336 wiki_prop:P527 wiki:Q42240 .
+wiki:Q42240 wikivoc:name 'Research' .
+wiki:Q236975 wiki_prop:P279 wiki:Q17488292 .
+wiki:Q17488292 wikivoc:name "Logical system" .
+wiki:Q40056 wiki_prop:P2283 wiki:Q55813 .
+wiki:Q55813 wikivoc:name "Machine code" .
+wiki:Q40056 wiki_prop:P361 wiki:Q1143070 .
+wiki:Q1143070 wikivoc:name "Software suite" .
+wiki:Q40056 wiki_prop:P361 wiki:Q56822593 .
+wiki:Q56822593 wikivoc:name "Program file" .
+wiki:Q40056 wiki_prop:P279 wiki:Q4303335 .
+wiki:Q4303335 wikivoc:name 'Program' .
+wiki:Q40056 wiki_prop:P279 wiki:Q17638537 .
+wiki:Q17638537 wikivoc:name 'Routine' .
+wiki:Q24017465 wiki_prop:P31 wiki:Q24027474 .
+wiki:Q24027474 wikivoc:name "Fourth-order class" .
+wiki:Q24017465 wiki_prop:P279 wiki:Q23959932 .
+wiki:Q23959932 wikivoc:name "Fixed-order class" .
+wiki:Q613930 wiki_prop:P31 wiki:Q980357 .
+wiki:Q980357 wikivoc:name "Grammatical category" .
+wiki:Q613930 wiki_prop:P361 wiki:Q1437428 .
+wiki:Q1437428 wikivoc:name "Programming language semantics" .
+wiki:Q613930 wiki_prop:P361 wiki:Q37437 .
+wiki:Q613930 wiki_prop:P279 wiki:Q930933 .
+wiki:Q930933 wikivoc:name 'Relation' .
+wiki:Q3249551 wiki_prop:P361 wiki:Q2377160 .
+wiki:Q2377160 wikivoc:name "Systems biology ontology" .
+wiki:Q3249551 wiki_prop:P279 wiki:Q1150070 .
+wiki:Q1150070 wikivoc:name 'Change' .
+wiki:Q3249551 wiki_prop:P279 wiki:Q20937557 .
+wiki:Q20937557 wikivoc:name 'Series' .
+wiki:Q3249551 wiki_prop:P279 wiki:Q67518978 .
+wiki:Q67518978 wikivoc:name 'Occurrent' .
+wiki:Q3249551 wiki_prop:P527 wiki:Q529711 .
+wiki:Q529711 wikivoc:name 'Beginning' .
+wiki:Q3249551 wiki_prop:P527 wiki:Q17525443 .
+wiki:Q17525443 wikivoc:name 'Middle' .
+wiki:Q3249551 wiki_prop:P527 wiki:Q12769393 .
+wiki:Q12769393 wikivoc:name 'End' .
+wiki:Q50122569 wiki_prop:P279 wiki:Q2798912 .
+wiki:Q2798912 wikivoc:name 'Accountability' .
+wiki:Q188209 wiki_prop:P361 wiki:Q592289 .
+wiki:Q592289 wikivoc:name "Wheel and axle" .
+wiki:Q188209 wiki_prop:P279 wiki:Q839546 .
+wiki:Q839546 wikivoc:name "Machine element" .
+wiki:Q15401930 wiki_prop:P31 wiki:Q33104279 .
+wiki:Q15401930 wiki_prop:P279 wiki:Q1150771 .
+wiki:Q1150771 wikivoc:name 'Output' .
+wiki:Q3523102 wiki_prop:P31 wiki:Q112234259 .
+wiki:Q6958747 wiki_prop:P31 wiki:Q33104129 .
+wiki:Q33104129 wikivoc:name "Sociological concept" .
+wiki:Q6958747 wiki_prop:P279 wiki:Q451967 .
+wiki:Q1276284 wiki_prop:P279 wiki:Q36794 .
+wiki:Q36794 wikivoc:name 'Door' .
+wiki:Q1276284 wiki_prop:P279 wiki:Q46765731 .
+wiki:Q193446 wiki_prop:P2283 wiki:Q214111 .
+wiki:Q214111 wikivoc:name 'Packet' .
+wiki:Q193446 wiki_prop:P279 wiki:Q1207505 .
+wiki:Q1207505 wikivoc:name 'Quality' .
+wiki:Q193446 wiki_prop:P279 wiki:Q222903 .
+wiki:Q222903 wikivoc:name 'Multiplexing' .
+wiki:Q193446 wiki_prop:P279 wiki:Q389772 .
+wiki:Q389772 wikivoc:name "Data transmission" .
+wiki:Q16889133 wiki_prop:P31 wiki:Q19478619 .
+wiki:Q16889133 wiki_prop:P279 wiki:Q99527517 .
+wiki:Q87410777 wiki_prop:P31 wiki:Q8187769 .
+wiki:Q8187769 wikivoc:name "Economic activity" .
+wiki:Q87410777 wiki_prop:P279 wiki:Q7590 .
+wiki:Q87410777 wiki_prop:P527 wiki:Q87410971 .
+wiki:Q87410971 wikivoc:name "Passenger vehicle operator" .
+wiki:Q87410777 wiki_prop:P527 wiki:Q87410987 .
+wiki:Q87410987 wikivoc:name "Passenger vehicle" .
+wiki:Q87410777 wiki_prop:P527 wiki:Q319604 .
+wiki:Q319604 wikivoc:name 'Passenger' .
+wiki:Q1166618 wiki_prop:P31 wiki:Q1936384 .
+wiki:Q1166618 wiki_prop:P31 wiki:Q20026918 .
+wiki:Q1166618 wiki_prop:P361 wiki:Q112955904 .
+wiki:Q112955904 wikivoc:name "Mathematical logic, set theory, lattices and universal algebra" .
+wiki:Q699386 wiki_prop:P361 wiki:Q207892 .
+wiki:Q207892 wikivoc:name "Public law" .
+wiki:Q699386 wiki_prop:P279 wiki:Q7604698 .
+wiki:Q7604698 wikivoc:name "Statutory authority" .
+wiki:Q699386 wiki_prop:P279 wiki:Q167037 .
+wiki:Q167037 wikivoc:name 'Corporation' .
+wiki:Q699386 wiki_prop:P279 wiki:Q10541491 .
+wiki:Q10541491 wikivoc:name "Legal form" .
+wiki:Q2362312 wiki_prop:P31 wiki:Q96116695 .
+wiki:Q35148 wiki_prop:P31 wiki:Q20026918 .
+wiki:Q35148 wiki_prop:P2283 wiki:Q592911 .
+wiki:Q592911 wikivoc:name 'Quantifier' .
+wiki:Q35148 wiki_prop:P279 wiki:Q17488292 .
+wiki:Q35148 wiki_prop:P527 wiki:Q4055684 .
+wiki:Q4055684 wikivoc:name "First-order logic" .
+wiki:Q35148 wiki_prop:P527 wiki:Q1644136 .
+wiki:Q1644136 wikivoc:name "Higher-order logic" .
+wiki:Q177571 wiki_prop:P361 wiki:Q1888684 .
+wiki:Q1888684 wikivoc:name "Practical philosophy" .
+wiki:Q177571 wiki_prop:P279 wiki:Q3919817 .
+wiki:Q3919817 wikivoc:name "Behavioral sciences" .
+wiki:Q177571 wiki_prop:P279 wiki:Q5862903 .
+wiki:Q798444 wiki_prop:P279 wiki:Q15989253 .
+wiki:Q15989253 wikivoc:name 'Part' .
+wiki:Q752870 wiki_prop:P31 wiki:Q334166 .
+wiki:Q334166 wikivoc:name "Mode of transport" .
+wiki:Q752870 wiki_prop:P279 wiki:Q42889 .
+wiki:Q483247 wiki_prop:P279 wiki:Q67518978 .
+wiki:Q193137 wiki_prop:P279 wiki:Q82412 .
+wiki:Q82412 wikivoc:name "Epicyclic gearing" .
+wiki:Q37437 wiki_prop:P31 wiki:Q66745531 .
+wiki:Q66745531 wikivoc:name "Language subsystem" .
+wiki:Q210841 wiki_prop:P31 wiki:Q20026918 .
+wiki:Q210841 wiki_prop:P279 wiki:Q17488292 .
+wiki:Q107128937 wiki_prop:P279 wiki:Q1661652 .
+wiki:Q1661652 wikivoc:name "Private transport" .
+wiki:Q451967 wiki_prop:P279 wiki:Q61788060 .
+wiki:Q61788060 wikivoc:name "Human activity" .
+wiki:Q1347367 wiki_prop:P279 wiki:Q1207505 .
+wiki:Q23958852 wiki_prop:P279 wiki:Q23960977 .
+wiki:Q23960977 wikivoc:name 'Meta' .
+wiki:Q516739 wiki_prop:P279 wiki:Q4323994 .
+wiki:Q4323994 wikivoc:name 'Traffic' .
+wiki:Q516739 wiki_prop:P279 wiki:Q4354683 .
+wiki:Q4354683 wikivoc:name "Land transport" .
+wiki:Q5268834 wiki_prop:P361 wiki:Q1047251 .
+wiki:Q1047251 wikivoc:name "Information infrastructure" .
+wiki:Q5268834 wiki_prop:P279 wiki:Q8148 .
+wiki:Q24578007 wiki_prop:P279 wiki:Q2488579 .
+wiki:Q2488579 wikivoc:name 'Lid' .
+wiki:Q994895 wiki_prop:P527 wiki:Q811909 .
+wiki:Q11024 wiki_prop:P31 wiki:Q1413287 .
+wiki:Q1413287 wikivoc:name "Social skill" .
+wiki:Q11024 wiki_prop:P31 wiki:Q61788060 .
+wiki:Q11024 wiki_prop:P31 wiki:Q921513 .
+wiki:Q921513 wikivoc:name "Social behavior" .
+wiki:Q11024 wiki_prop:P31 wiki:Q1473480 .
+wiki:Q1473480 wikivoc:name "Core business" .
+wiki:Q11024 wiki_prop:P279 wiki:Q6031064 .
+wiki:Q6031064 wikivoc:name "Information exchange" .
+wiki:Q11024 wiki_prop:P279 wiki:Q2305441 .
+wiki:Q2305441 wikivoc:name "Social process" .
+wiki:Q11024 wiki_prop:P527 wiki:Q1066689 .
+wiki:Q1066689 wikivoc:name "Human communication" .
+wiki:Q1411232 wiki_prop:P279 wiki:Q1047832 .
+wiki:Q1047832 wikivoc:name 'Reservoir' .
+wiki:Q3567214 wiki_prop:P31 wiki:Q851587 .
+wiki:Q851587 wikivoc:name "Business process" .
+wiki:Q3567214 wiki_prop:P279 wiki:Q116754571 .
+wiki:Q116754571 wikivoc:name "Collection development" .
+wiki:Q38311 wiki_prop:P31 wiki:Q66745531 .
+wiki:Q11012 wiki_prop:P279 wiki:Q1274979 .
+wiki:Q1274979 wikivoc:name 'Creature' .
+wiki:Q11012 wiki_prop:P279 wiki:Q11019 .
+wiki:Q11012 wiki_prop:P279 wiki:Q107307291 .
+wiki:Q107307291 wikivoc:name "Artificially intelligent entity" .
+wiki:Q11012 wiki_prop:P279 wiki:Q24229398 .
+wiki:Q24229398 wikivoc:name 'Agent' .
+wiki:Q11012 wiki_prop:P527 wiki:Q423488 .
+wiki:Q423488 wikivoc:name 'Actuator' .
+wiki:Q11012 wiki_prop:P527 wiki:Q68 .
+wiki:Q11012 wiki_prop:P527 wiki:Q167676 .
+wiki:Q167676 wikivoc:name 'Sensor' .
+wiki:Q182557 wiki_prop:P279 wiki:Q15727633 .
+wiki:Q15727633 wikivoc:name "Mathematical linguistics" .
+wiki:Q80083 wiki_prop:P31 wiki:Q28813620 .
+wiki:Q80083 wiki_prop:P527 wiki:Q23498 .
+wiki:Q23498 wikivoc:name 'Archaeology' .
+wiki:Q80083 wiki_prop:P527 wiki:Q841090 .
+wiki:Q841090 wikivoc:name 'Classics' .
+wiki:Q80083 wiki_prop:P527 wiki:Q309 .
+wiki:Q309 wikivoc:name 'History' .
+wiki:Q80083 wiki_prop:P527 wiki:Q179805 .
+wiki:Q179805 wikivoc:name "Political philosophy" .
+wiki:Q80083 wiki_prop:P527 wiki:Q459381 .
+wiki:Q459381 wikivoc:name "Literary theory" .
+wiki:Q80083 wiki_prop:P527 wiki:Q5891 .
+wiki:Q80083 wiki_prop:P527 wiki:Q34187 .
+wiki:Q34187 wikivoc:name "Religious studies" .
+wiki:Q80083 wiki_prop:P527 wiki:Q2018526 .
+wiki:Q2018526 wikivoc:name 'Arts' .
+wiki:Q12757 wiki_prop:P2283 wiki:Q337540 .
+wiki:Q337540 wikivoc:name "Motor fuel" .
+wiki:Q12757 wiki_prop:P279 wiki:Q6018565 .
+wiki:Q6018565 wikivoc:name "Combustion engine" .
+wiki:Q67518233 wiki_prop:P279 wiki:Q67518978 .
+wiki:Q67518233 wiki_prop:P279 wiki:Q20937557 .
+wiki:Q8087 wiki_prop:P31 wiki:Q1936384 .
+wiki:Q2145290 wiki_prop:P361 wiki:Q77468620 .
+wiki:Q2145290 wiki_prop:P279 wiki:Q4393498 .
+wiki:Q4393498 wikivoc:name 'Representation' .
+wiki:Q141495 wiki_prop:P279 wiki:Q24476018 .
+wiki:Q24476018 wikivoc:name 'Optimization' .
+wiki:Q35395 wiki_prop:P31 wiki:Q66745531 .
+wiki:Q35395 wiki_prop:P361 wiki:Q82811 .
+wiki:Q82811 wikivoc:name 'Acoustics' .
+wiki:Q35395 wiki_prop:P279 wiki:Q110761784 .
+wiki:Q110761784 wikivoc:name "Phonetics and speech science" .
+wiki:Q843601 wiki_prop:P31 wiki:Q2267705 .
+wiki:Q843601 wiki_prop:P279 wiki:Q864928 .
+wiki:Q864928 wikivoc:name "Life sciences" .
+wiki:Q290378 wiki_prop:P279 wiki:Q317623 .
+wiki:Q317623 wikivoc:name "Technical standard" .
+wiki:Q290378 wiki_prop:P279 wiki:Q681263 .
+wiki:Q681263 wikivoc:name "Open standard" .
+wiki:Q104127086 wiki_prop:P279 wiki:Q11028 .
+wiki:Q11028 wikivoc:name 'Information' .
+wiki:Q104127086 wiki_prop:P279 wiki:Q12488383 .
+wiki:Q12488383 wikivoc:name 'Content' .
+wiki:Q21522864 wiki_prop:P279 wiki:Q35120 .
+wiki:Q21522864 wiki_prop:P279 wiki:Q19478619 .
+wiki:Q21522864 wiki_prop:P366 wiki:Q324254 .
+wiki:Q324254 wikivoc:name 'Ontology' .
+wiki:Q7184903 wiki_prop:P361 wiki:Q18205125 .
+wiki:Q18205125 wikivoc:name "Abstract and concrete" .
+wiki:Q7184903 wiki_prop:P279 wiki:Q35120 .
+wiki:Q7184903 wiki_prop:P279 wiki:Q488383 .
+wiki:Q11205 wiki_prop:P31 wiki:Q1936384 .
+wiki:Q11205 wiki_prop:P361 wiki:Q3284266 .
+wiki:Q3284266 wikivoc:name "Elementary mathematics" .
+wiki:Q8148 wiki_prop:P279 wiki:Q1914636 .
+wiki:Q194302 wiki_prop:P31 wiki:Q44409287 .
+wiki:Q44409287 wikivoc:name "Type of machine element" .
+wiki:Q194302 wiki_prop:P361 wiki:Q11019 .
+wiki:Q194302 wiki_prop:P279 wiki:Q839546 .
+wiki:Q7590 wiki_prop:P2283 wiki:Q12748 .
+wiki:Q12748 wikivoc:name "Fossil fuel" .
+wiki:Q7590 wiki_prop:P2283 wiki:Q24229398 .
+wiki:Q7590 wiki_prop:P279 wiki:Q4284762 .
+wiki:Q4284762 wikivoc:name "Material flow" .
+wiki:Q7590 wiki_prop:P279 wiki:Q8187769 .
+wiki:Q7590 wiki_prop:P527 wiki:Q334166 .
+wiki:Q7590 wiki_prop:P366 wiki:Q61509 .
+wiki:Q61509 wikivoc:name 'Travel' .
+wiki:Q7590 wiki_prop:P366 wiki:Q177777 .
+wiki:Q177777 wikivoc:name 'Logistics' .
+wiki:Q211251 wiki_prop:P279 wiki:Q1183543 .
+wiki:Q1183543 wikivoc:name 'Appliance' .
+wiki:Q211251 wiki_prop:P527 wiki:Q3710326 .
+wiki:Q3710326 wikivoc:name 'Dashpot' .
+wiki:Q211251 wiki_prop:P527 wiki:Q102836 .
+wiki:Q102836 wikivoc:name 'Spring' .
+wiki:Q211251 wiki_prop:P366 wiki:Q898440 .
+wiki:Q898440 wikivoc:name 'Dissipation' .
+wiki:Q679300 wiki_prop:P361 wiki:Q18891017 .
+wiki:Q18891017 wikivoc:name 'Steering' .
+wiki:Q679300 wiki_prop:P279 wiki:Q10273457 .
+wiki:Q10273457 wikivoc:name 'Equipment' .
+wiki:Q679300 wiki_prop:P279 wiki:Q47146 .
+wiki:Q47146 wikivoc:name "User interface" .
+wiki:Q679300 wiki_prop:P279 wiki:Q64830866 .
+wiki:Q64830866 wikivoc:name "Physical interface" .
+wiki:Q679300 wiki_prop:P527 wiki:Q99905 .
+wiki:Q99905 wikivoc:name 'Airbag' .
+wiki:Q679300 wiki_prop:P527 wiki:Q239001 .
+wiki:Q239001 wikivoc:name "Control panel" .
+wiki:Q12121859 wiki_prop:P279 wiki:Q1116876 .
+wiki:Q1116876 wikivoc:name "Scientific modeling" .
+wiki:Q15831325 wiki_prop:P361 wiki:Q243350 .
+wiki:Q243350 wikivoc:name "Universal decimal classification" .
+wiki:Q1 wiki_prop:P31 wiki:Q36906466 .
+wiki:Q36906466 wikivoc:name 'Universe' .
+wiki:Q1 wiki_prop:P361 wiki:Q3327819 .
+wiki:Q3327819 wikivoc:name 'Multiverse' .
+wiki:Q1 wiki_prop:P527 wiki:Q133327 .
+wiki:Q133327 wikivoc:name 'Spacetime' .
+wiki:Q1 wiki_prop:P527 wiki:Q221392 .
+wiki:Q221392 wikivoc:name "Observable universe" .
+wiki:Q1 wiki_prop:P527 wiki:Q1133705 .
+wiki:Q1133705 wikivoc:name "Galaxy filament" .
+wiki:Q11771944 wiki_prop:P279 wiki:Q43229 .
+wiki:Q43229 wikivoc:name 'Organization' .
+wiki:Q11771944 wiki_prop:P279 wiki:Q1914636 .
+wiki:Q11771944 wiki_prop:P279 wiki:Q4164871 .
+wiki:Q4164871 wikivoc:name 'Position' .
+wiki:Q11771944 wiki_prop:P527 wiki:Q294414 .
+wiki:Q11771944 wiki_prop:P366 wiki:Q29627 .
+wiki:Q29627 wikivoc:name "Public interest" .
+wiki:Q12482 wiki_prop:P31 wiki:Q1936384 .
+wiki:Q12482 wiki_prop:P31 wiki:Q20026918 .
+wiki:Q12482 wiki_prop:P361 wiki:Q112955904 .
+wiki:Q12482 wiki_prop:P361 wiki:Q114705834 .
+wiki:Q114705834 wikivoc:name "Theory of sets, relations and functions" .
+wiki:Q17015073 wiki_prop:P279 wiki:Q526016 .
+wiki:Q526016 wikivoc:name "Kinematic pair" .
+wiki:Q132364 wiki_prop:P279 wiki:Q317623 .
+wiki:Q132364 wiki_prop:P279 wiki:Q6046311 .
+wiki:Q6046311 wikivoc:name "Interface standard" .
+wiki:Q1310239 wiki_prop:P279 wiki:Q15989253 .
+wiki:Q1310239 wiki_prop:P279 wiki:Q337060 .
+wiki:Q337060 wikivoc:name "Perceptible object" .
+wiki:Q3535655 wiki_prop:P31 wiki:Q1914636 .
+wiki:Q3535655 wiki_prop:P279 wiki:Q4903305 .
+wiki:Q4903305 wikivoc:name "Bibliographic control" .
+wiki:Q1515493 wiki_prop:P2283 wiki:Q10390031 .
+wiki:Q10390031 wikivoc:name "Public road" .
+wiki:Q1515493 wiki_prop:P279 wiki:Q1301433 .
+wiki:Q1301433 wikivoc:name "Land vehicle" .
+wiki:Q35875 wiki_prop:P31 wiki:Q24034552 .
+wiki:Q35875 wiki_prop:P31 wiki:Q33104303 .
+wiki:Q33104303 wikivoc:name "Concept in physics" .
+wiki:Q35875 wiki_prop:P366 wiki:Q12802 .
+wiki:Q12802 wikivoc:name "Nuclear weapon" .
+wiki:Q35875 wiki_prop:P366 wiki:Q12739 .
+wiki:Q12739 wikivoc:name "Nuclear power" .
+wiki:Q17155032 wiki_prop:P31 wiki:Q19478619 .
+wiki:Q13693 wiki_prop:P31 wiki:Q60673395 .
+wiki:Q60673395 wikivoc:name "Vehicle component" .
+wiki:Q13693 wiki_prop:P361 wiki:Q194156 .
+wiki:Q194156 wikivoc:name "Aircraft cockpit" .
+wiki:Q13693 wiki_prop:P279 wiki:Q1426151 .
+wiki:Q1426151 wikivoc:name "Sheet glass" .
+wiki:Q13693 wiki_prop:P279 wiki:Q506095 .
+wiki:Q506095 wikivoc:name "Car glass" .
+wiki:Q13693 wiki_prop:P279 wiki:Q46765731 .
+wiki:Q47461344 wiki_prop:P2283 wiki:Q8192 .
+wiki:Q8192 wikivoc:name "Writing system" .
+wiki:Q28813620 wiki_prop:P279 wiki:Q99527517 .
+wiki:Q28813620 wiki_prop:P527 wiki:Q36808958 .
+wiki:Q36808958 wikivoc:name "Element of set" .
+wiki:Q17537576 wiki_prop:P2283 wiki:Q170658 .
+wiki:Q7275 wiki_prop:P31 wiki:Q106589826 .
+wiki:Q106589826 wikivoc:name "Finnish national land survey place type" .
+wiki:Q7275 wiki_prop:P279 wiki:Q177634 .
+wiki:Q177634 wikivoc:name 'Community' .
+wiki:Q7275 wiki_prop:P279 wiki:Q155076 .
+wiki:Q155076 wikivoc:name "Juridical person" .
+wiki:Q7275 wiki_prop:P279 wiki:Q1048835 .
+wiki:Q1048835 wikivoc:name "Political territorial entity" .
+wiki:Q7275 wiki_prop:P279 wiki:Q1896989 .
+wiki:Q1896989 wikivoc:name "Subject of international law" .
+wiki:Q7275 wiki_prop:P279 wiki:Q96196009 .
+wiki:Q96196009 wikivoc:name "State (former or current)" .
+wiki:Q7275 wiki_prop:P527 wiki:Q3917681 .
+wiki:Q3917681 wikivoc:name 'Embassy' .
+wiki:Q1588072 wiki_prop:P361 wiki:Q42889 .
+wiki:Q1588072 wiki_prop:P279 wiki:Q46765731 .
+wiki:Q1588072 wiki_prop:P527 wiki:Q1500340 .
+wiki:Q1500340 wikivoc:name 'Fender' .
+wiki:Q1588072 wiki_prop:P527 wiki:Q27206 .
+wiki:Q34749 wiki_prop:P279 wiki:Q33122512 .
+wiki:Q33122512 wikivoc:name "Human and social sciences" .
+wiki:Q34749 wiki_prop:P279 wiki:Q1999851 .
+wiki:Q1999851 wikivoc:name "Normative science" .
+wiki:Q34749 wiki_prop:P527 wiki:Q36442 .
+wiki:Q36442 wikivoc:name "Political science" .
+wiki:Q34749 wiki_prop:P527 wiki:Q21201 .
+wiki:Q21201 wikivoc:name 'Sociology' .
+wiki:Q34749 wiki_prop:P527 wiki:Q3274962 .
+wiki:Q3274962 wikivoc:name "Social statistics" .
+wiki:Q34749 wiki_prop:P527 wiki:Q187084 .
+wiki:Q187084 wikivoc:name "Newspaper studies" .
+wiki:Q661093 wiki_prop:P527 wiki:Q40998 .
+wiki:Q36809769 wiki_prop:P279 wiki:Q15989253 .
+wiki:Q6486703 wiki_prop:P279 wiki:Q2018526 .
+wiki:Q6486703 wiki_prop:P527 wiki:Q8242 .
+wiki:Q8242 wikivoc:name 'Literature' .
+wiki:Q113208892 wiki_prop:P279 wiki:Q33521 .
+wiki:Q33521 wikivoc:name "Applied mathematics" .
+wiki:Q113208892 wiki_prop:P527 wiki:Q216861 .
+wiki:Q113208892 wiki_prop:P527 wiki:Q6501221 .
+wiki:Q6501221 wikivoc:name "Control theory" .
+wiki:Q380344 wiki_prop:P361 wiki:Q730675 .
+wiki:Q730675 wikivoc:name "Quantitative research" .
+wiki:Q856625 wiki_prop:P279 wiki:Q43229 .
+wiki:Q856625 wiki_prop:P279 wiki:Q101542346 .
+wiki:Q101542346 wikivoc:name "Cultural facility" .
+wiki:Q1914636 wiki_prop:P279 wiki:Q20937557 .
+wiki:Q1914636 wiki_prop:P279 wiki:Q1190554 .
+wiki:Q1190554 wikivoc:name 'Occurrence' .
+wiki:Q1914636 wiki_prop:P527 wiki:Q4026292 .
+wiki:Q4026292 wikivoc:name 'Action' .
+wiki:Q19478619 wiki_prop:P31 wiki:Q19868531 .
+wiki:Q19868531 wikivoc:name "Formal ontology concept" .
+wiki:Q19478619 wiki_prop:P361 wiki:Q324254 .
+wiki:Q19478619 wiki_prop:P279 wiki:Q5127848 .
+wiki:Q5127848 wikivoc:name 'Class' .
+wiki:Q4162444 wiki_prop:P31 wiki:Q109542218 .
+wiki:Q109542218 wikivoc:name "Class of parts" .
+wiki:Q4162444 wiki_prop:P361 wiki:Q413 .
+wiki:Q1417134 wiki_prop:P31 wiki:Q2995263 .
+wiki:Q2995263 wikivoc:name "Motorcycle component" .
+wiki:Q1417134 wiki_prop:P279 wiki:Q47146 .
+wiki:Q1417134 wiki_prop:P279 wiki:Q239001 .
+wiki:Q2623243 wiki_prop:P361 wiki:Q193946 .
+wiki:Q193946 wikivoc:name "Scientific model" .
+wiki:Q2623243 wiki_prop:P279 wiki:Q6423319 .
+wiki:Q27206 wiki_prop:P279 wiki:Q46765731 .
+wiki:Q5747224 wiki_prop:P279 wiki:Q928498 .
+wiki:Q928498 wikivoc:name 'Heterogeneity' .
+wiki:Q22811234 wiki_prop:P31 wiki:Q109542218 .
+wiki:Q22811234 wiki_prop:P361 wiki:Q5891 .
+wiki:Q727896 wiki_prop:P2283 wiki:Q22725 .
+wiki:Q22725 wikivoc:name 'Routing' .
+wiki:Q727896 wiki_prop:P279 wiki:Q389772 .
+wiki:Q81414 wiki_prop:P31 wiki:Q67080166 .
+wiki:Q67080166 wikivoc:name "Protocol suite" .
+wiki:Q81414 wiki_prop:P2283 wiki:Q11103 .
+wiki:Q11103 wikivoc:name "Internet protocol version 4" .
+wiki:Q81414 wiki_prop:P2283 wiki:Q2551624 .
+wiki:Q2551624 wikivoc:name 'Ipv6' .
+wiki:Q81414 wiki_prop:P361 wiki:Q1233025 .
+wiki:Q1233025 wikivoc:name "Tcp/ip model" .
+wiki:Q81414 wiki_prop:P279 wiki:Q15836568 .
+wiki:Q81414 wiki_prop:P527 wiki:Q8803 .
+wiki:Q8803 wikivoc:name "Transmission control protocol" .
+wiki:Q294414 wiki_prop:P279 wiki:Q4164871 .
+wiki:Q484511 wiki_prop:P279 wiki:Q1156402 .
+wiki:Q1156402 wikivoc:name 'Reasoning' .
+wiki:Q35120 wiki_prop:P31 wiki:Q78754808 .
+wiki:Q78754808 wikivoc:name "Counting unit" .
+wiki:Q413 wiki_prop:P361 wiki:Q14632398 .
+wiki:Q14632398 wikivoc:name "Physical sciences" .
+wiki:Q413 wiki_prop:P279 wiki:Q7991 .
+wiki:Q413 wiki_prop:P527 wiki:Q37547 .
+wiki:Q37547 wikivoc:name 'Astrophysics' .
+wiki:Q413 wiki_prop:P527 wiki:Q18366 .
+wiki:Q18366 wikivoc:name "Experimental physics" .
+wiki:Q1415117 wiki_prop:P31 wiki:Q46765731 .
+wiki:Q1415117 wiki_prop:P279 wiki:Q9158768 .
+wiki:Q9158768 wikivoc:name 'Storage' .
+wiki:Q179289 wiki_prop:P361 wiki:Q18121382 .
+wiki:Q18121382 wikivoc:name "Multiple causes" .
+wiki:Q179289 wiki_prop:P279 wiki:Q930933 .
+wiki:Q179289 wiki_prop:P527 wiki:Q2574811 .
+wiki:Q179289 wiki_prop:P527 wiki:Q261155 .
+wiki:Q261155 wikivoc:name 'Consequent' .
+wiki:Q179289 wiki_prop:P527 wiki:Q926230 .
+wiki:Q926230 wikivoc:name 'Effect' .
+wiki:Q494756 wiki_prop:P279 wiki:Q42848 .
+wiki:Q42848 wikivoc:name 'Data' .
+wiki:Q494756 wiki_prop:P279 wiki:Q286583 .
+wiki:Q1200977 wiki_prop:P361 wiki:Q55638 .
+wiki:Q55638 wikivoc:name "Tertiary sector of the economy" .
+wiki:Q1200977 wiki_prop:P279 wiki:Q55638 .
+wiki:Q1200977 wiki_prop:P527 wiki:Q1209283 .
+wiki:Q1209283 wikivoc:name "Electronic media" .
+wiki:Q1200977 wiki_prop:P527 wiki:Q276099 .
+wiki:Q276099 wikivoc:name "Research and development" .
+wiki:Q1200977 wiki_prop:P527 wiki:Q2089936 .
+wiki:Q2089936 wikivoc:name "Consulting company" .
+wiki:Q1200977 wiki_prop:P527 wiki:Q8434 .
+wiki:Q8434 wikivoc:name 'Education' .
+wiki:Q1200977 wiki_prop:P527 wiki:Q43015 .
+wiki:Q1200977 wiki_prop:P527 wiki:Q82604 .
+wiki:Q82604 wikivoc:name 'Design' .
+wiki:Q77468620 wiki_prop:P279 wiki:Q12132640 .
+wiki:Q12132640 wikivoc:name "Scientific terminology" .
+wiki:Q7126717 wiki_prop:P31 wiki:Q81941037 .
+wiki:Q81941037 wikivoc:name "Product distribution method" .
+wiki:Q7126717 wiki_prop:P279 wiki:Q1190554 .
+wiki:Q7126717 wiki_prop:P279 wiki:Q1724915 .
+wiki:Q1724915 wikivoc:name 'Use' .
+wiki:Q2574811 wiki_prop:P31 wiki:Q112234259 .
+wiki:Q6304756 wiki_prop:P279 wiki:Q309383 .
+wiki:Q309383 wikivoc:name 'Shaft' .
+wiki:Q6304756 wiki_prop:P527 wiki:Q18029395 .
+wiki:Q18029395 wikivoc:name "Drive shaft" .
+wiki:Q170658 wiki_prop:P279 wiki:Q781413 .
+wiki:Q11023 wiki_prop:P2283 wiki:Q2329 .
+wiki:Q2329 wikivoc:name 'Chemistry' .
+wiki:Q11023 wiki_prop:P361 wiki:Q1881523 .
+wiki:Q1206311 wiki_prop:P279 wiki:Q1005222 .
+wiki:Q1005222 wikivoc:name "Algebraic logic" .
+wiki:Q3754526 wiki_prop:P279 wiki:Q327333 .
+wiki:Q3754526 wiki_prop:P279 wiki:Q35798 .
+wiki:Q3754526 wiki_prop:P279 wiki:Q16334295 .
+wiki:Q16334295 wikivoc:name "Group of humans" .
+wiki:Q3754526 wiki_prop:P279 wiki:Q1752346 .
+wiki:Q1752346 wikivoc:name 'Assembly' .
+wiki:Q3754526 wiki_prop:P279 wiki:Q50412353 .
+wiki:Q50412353 wikivoc:name 'Administration' .
+wiki:Q3754526 wiki_prop:P279 wiki:Q43229 .
+wiki:Q10843872 wiki_prop:P31 wiki:Q116505632 .
+wiki:Q10843872 wiki_prop:P527 wiki:Q1816633 .
+wiki:Q1816633 wikivoc:name "Unit operation" .
+wiki:Q3386703 wiki_prop:P31 wiki:Q71758646 .
+wiki:Q71758646 wikivoc:name "General quantity" .
+wiki:Q3386703 wiki_prop:P31 wiki:Q96253971 .
+wiki:Q96253971 wikivoc:name "Type of property" .
+wiki:Q3386703 wiki_prop:P361 wiki:Q911916 .
+wiki:Q911916 wikivoc:name "Intensive or extensive property" .
+wiki:Q3386703 wiki_prop:P279 wiki:Q21855572 .
+wiki:Q21855572 wikivoc:name "Additive object" .
+wiki:Q3386703 wiki_prop:P279 wiki:Q107715 .
+wiki:Q3386703 wiki_prop:P279 wiki:Q28733284 .
+wiki:Q28733284 wikivoc:name "Scalar magnitude" .
+wiki:Q3386703 wiki_prop:P279 wiki:Q4373292 .
+wiki:Q4373292 wikivoc:name "Physical property" .
+wiki:Q3386703 wiki_prop:P279 wiki:Q71550118 .
+wiki:Q71550118 wikivoc:name "Individual quantity" .
+wiki:Q12060681 wiki_prop:P279 wiki:Q42889 .
+wiki:Q12479 wiki_prop:P31 wiki:Q1936384 .
+wiki:Q12479 wiki_prop:P361 wiki:Q837863 .
+wiki:Q2668072 wiki_prop:P31 wiki:Q1128340 .
+wiki:Q1128340 wikivoc:name "Subject heading" .
+wiki:Q2668072 wiki_prop:P279 wiki:Q61961344 .
+wiki:Q61961344 wikivoc:name "Group of physical objects" .
+wiki:Q2668072 wiki_prop:P527 wiki:Q18593264 .
+wiki:Q18593264 wikivoc:name "Item of collection or exhibition" .
+wiki:Q731988 wiki_prop:P361 wiki:Q42889 .
+wiki:Q731988 wiki_prop:P279 wiki:Q1068107 .
+wiki:Q1068107 wikivoc:name 'Chassis' .
+wiki:Q731988 wiki_prop:P527 wiki:Q272870 .
+wiki:Q272870 wikivoc:name 'Suspension' .
+wiki:Q731988 wiki_prop:P527 wiki:Q683005 .
+wiki:Q683005 wikivoc:name "Exhaust system" .
+wiki:Q217413 wiki_prop:P31 wiki:Q1936384 .
+wiki:Q217413 wiki_prop:P361 wiki:Q5758318 .
+wiki:Q5758318 wikivoc:name "Higher category theory" .
+wiki:Q217413 wiki_prop:P361 wiki:Q114705834 .
+wiki:Q217413 wiki_prop:P527 wiki:Q77544558 .
+wiki:Q77544558 wikivoc:name "Category theory terminology" .
+wiki:Q217413 wiki_prop:P366 wiki:Q2670534 .
+wiki:Q2670534 wikivoc:name "Programming language theory" .
+wiki:Q165435 wiki_prop:P279 wiki:Q1786017 .
+wiki:Q1786017 wikivoc:name "Engine fuel system" .
+wiki:Q165435 wiki_prop:P527 wiki:Q4180266 .
+wiki:Q4180266 wikivoc:name "Calibrated orifice" .
+wiki:Q165435 wiki_prop:P527 wiki:Q1389702 .
+wiki:Q1389702 wikivoc:name 'Economizer' .
+wiki:Q165435 wiki_prop:P527 wiki:Q492071 .
+wiki:Q492071 wikivoc:name "Metering pump" .
+wiki:Q165435 wiki_prop:P527 wiki:Q208443 .
+wiki:Q208443 wikivoc:name 'Valve' .
+wiki:Q165435 wiki_prop:P527 wiki:Q1224578 .
+wiki:Q1224578 wikivoc:name 'Diffuser' .
+wiki:Q165435 wiki_prop:P527 wiki:Q2513039 .
+wiki:Q2513039 wikivoc:name "Venturi tube" .
+wiki:Q1668024 wiki_prop:P279 wiki:Q1640628 .
+wiki:Q1640628 wikivoc:name "Network service" .
+wiki:Q1668024 wiki_prop:P279 wiki:Q340169 .
+wiki:Q1668024 wiki_prop:P279 wiki:Q1273271 .
+wiki:Q1273271 wikivoc:name 'E' .
+wiki:Q1151067 wiki_prop:P279 wiki:Q628523 .
+wiki:Q628523 wikivoc:name 'Message' .
+wiki:Q7958 wiki_prop:P279 wiki:Q2684591 .
+wiki:Q2684591 wikivoc:name 'Statement' .
+wiki:Q7958 wiki_prop:P366 wiki:Q352842 .
+wiki:Q352842 wikivoc:name 'Teaching' .
+wiki:Q60680430 wiki_prop:P279 wiki:Q2267705 .
+wiki:Q755673 wiki_prop:P279 wiki:Q816826 .
+wiki:Q11042 wiki_prop:P279 wiki:Q2515887 .
+wiki:Q2515887 wikivoc:name "Pattern of behavior" .
+wiki:Q11042 wiki_prop:P527 wiki:Q5193405 .
+wiki:Q5193405 wikivoc:name "Cultural rights" .
+wiki:Q11042 wiki_prop:P527 wiki:Q3769299 .
+wiki:Q3769299 wikivoc:name "Human behavior" .
+wiki:Q11042 wiki_prop:P527 wiki:Q8205328 .
+wiki:Q8205328 wikivoc:name "Artificial physical object" .
+wiki:Q11042 wiki_prop:P527 wiki:Q5390013 .
+wiki:Q5390013 wikivoc:name "Belief system" .
+wiki:Q43015 wiki_prop:P31 wiki:Q1474521 .
+wiki:Q1474521 wikivoc:name 'Function' .
+wiki:Q43015 wiki_prop:P279 wiki:Q18564125 .
+wiki:Q18564125 wikivoc:name "Business management" .
+wiki:Q43015 wiki_prop:P279 wiki:Q113141571 .
+wiki:Q113141571 wikivoc:name "Banking, finance and investment studies" .
+wiki:Q66747126 wiki_prop:P361 wiki:Q66747123 .
+wiki:Q66747123 wikivoc:name "Computer science terminology" .
+wiki:Q66747126 wiki_prop:P279 wiki:Q12812139 .
+wiki:Q12812139 wikivoc:name "Technical term" .
+wiki:Q618779 wiki_prop:P31 wiki:Q740464 .
+wiki:Q740464 wikivoc:name "Legal act" .
+wiki:Q618779 wiki_prop:P279 wiki:Q7302601 .
+wiki:Q7302601 wikivoc:name 'Recognition' .
+wiki:Q618779 wiki_prop:P527 wiki:Q38033430 .
+wiki:Q38033430 wikivoc:name "Class of award" .
+wiki:Q618779 wiki_prop:P366 wiki:Q7302601 .
+wiki:Q1900326 wiki_prop:P279 wiki:Q141488 .
+wiki:Q141488 wikivoc:name 'Graph' .
+wiki:Q1900326 wiki_prop:P527 wiki:Q173106 .
+wiki:Q173106 wikivoc:name 'Node' .
+wiki:Q1220872 wiki_prop:P361 wiki:Q477538 .
+wiki:Q477538 wikivoc:name "Systems architecture" .
+wiki:Q1220872 wiki_prop:P279 wiki:Q17176533 .
+wiki:Q17176533 wikivoc:name "Software component" .
+wiki:Q72313 wiki_prop:P279 wiki:Q951504 .
+wiki:Q951504 wikivoc:name "Electric machine" .
+wiki:Q72313 wiki_prop:P527 wiki:Q1713927 .
+wiki:Q1713927 wikivoc:name 'Brush' .
+wiki:Q72313 wiki_prop:P527 wiki:Q193466 .
+wiki:Q193466 wikivoc:name 'Rotor' .
+wiki:Q72313 wiki_prop:P527 wiki:Q190312 .
+wiki:Q190312 wikivoc:name 'Stator' .
+wiki:Q72313 wiki_prop:P366 wiki:Q557828 .
+wiki:Q557828 wikivoc:name 'Starter' .
+wiki:Q72313 wiki_prop:P366 wiki:Q6498398 .
+wiki:Q6498398 wikivoc:name "Mechanical fan" .
+wiki:Q72313 wiki_prop:P366 wiki:Q13629441 .
+wiki:Q13629441 wikivoc:name "Electric vehicle" .
+wiki:Q72313 wiki_prop:P366 wiki:Q11422 .
+wiki:Q11422 wikivoc:name 'Toy' .
+wiki:Q72313 wiki_prop:P366 wiki:Q2425052 .
+wiki:Q2425052 wikivoc:name "Electrical appliance" .
+wiki:Q72313 wiki_prop:P366 wiki:Q917912 .
+wiki:Q917912 wikivoc:name "Model building" .
+wiki:Q11190 wiki_prop:P31 wiki:Q2267705 .
+wiki:Q11190 wiki_prop:P361 wiki:Q864928 .
+wiki:Q11190 wiki_prop:P279 wiki:Q20532 .
+wiki:Q20532 wikivoc:name "Healing knowledge" .
+wiki:Q121359 wiki_prop:P361 wiki:Q159810 .
+wiki:Q121359 wiki_prop:P361 wiki:Q8425 .
+wiki:Q8425 wikivoc:name 'Society' .
+wiki:Q121359 wiki_prop:P279 wiki:Q6671777 .
+wiki:Q6671777 wikivoc:name 'Structure' .
+wiki:Q24034552 wiki_prop:P279 wiki:Q246672 .
+wiki:Q246672 wikivoc:name "Mathematical object" .
+wiki:Q7126699 wiki_prop:P361 wiki:Q7406919 .
+wiki:Q7126699 wiki_prop:P279 wiki:Q1724915 .
+wiki:Q843592 wiki_prop:P361 wiki:Q106225491 .
+wiki:Q106225491 wikivoc:name "Man sx 2000" .
+wiki:Q843592 wiki_prop:P361 wiki:Q106225495 .
+wiki:Q106225495 wikivoc:name "Mercedes-benz 300 gd" .
+wiki:Q843592 wiki_prop:P361 wiki:Q106225489 .
+wiki:Q106225489 wikivoc:name "Man fx 2000" .
+wiki:Q843592 wiki_prop:P361 wiki:Q106225490 .
+wiki:Q106225490 wikivoc:name "Man lx 2000" .
+wiki:Q843592 wiki_prop:P279 wiki:Q57833034 .
+wiki:Q57833034 wikivoc:name "Automobile transmission" .
+wiki:Q1656682 wiki_prop:P279 wiki:Q1190554 .
+wiki:Q609111 wiki_prop:P279 wiki:Q46765731 .
+wiki:Q609111 wiki_prop:P279 wiki:Q124192 .
+wiki:Q124192 wikivoc:name "Automotive engineering" .
+wiki:Q609111 wiki_prop:P527 wiki:Q1786258 .
+wiki:Q1786258 wikivoc:name 'Drivetrain' .
+wiki:Q488383 wiki_prop:P31 wiki:Q104093226 .
+wiki:Q104093226 wikivoc:name "Class that shouldnt be used as class" .
+wiki:Q488383 wiki_prop:P361 wiki:Q41798914 .
+wiki:Q41798914 wikivoc:name "Subject and object" .
+wiki:Q121182 wiki_prop:P527 wiki:Q66363184 .
+wiki:Q66363184 wikivoc:name "Information process" .
+wiki:Q121182 wiki_prop:P527 wiki:Q15141646 .
+wiki:Q15141646 wikivoc:name "Data storage" .
+wiki:Q121182 wiki_prop:P366 wiki:Q816826 .
+wiki:Q1554231 wiki_prop:P279 wiki:Q103940464 .
+wiki:Q103940464 wikivoc:name 'Continuant' .
+wiki:Q6423319 wiki_prop:P279 wiki:Q1979154 .
+wiki:Q1979154 wikivoc:name 'Model' .
+wiki:Q6423319 wiki_prop:P279 wiki:Q3622126 .
+wiki:Q3622126 wikivoc:name "Conceptual system" .
+wiki:Q6423319 wiki_prop:P527 wiki:Q72913400 .
+wiki:Q72913400 wikivoc:name "Classification scheme" .
+wiki:Q19307174 wiki_prop:P361 wiki:Q269415 .
+wiki:Q269415 wikivoc:name "Digital distribution" .
+wiki:Q19307174 wiki_prop:P279 wiki:Q1194970 .
+wiki:Q1194970 wikivoc:name "Dot-com company" .
+wiki:Q159810 wiki_prop:P279 wiki:Q1639378 .
+wiki:Q1639378 wikivoc:name "Social system" .
+wiki:Q200694 wiki_prop:P279 wiki:Q17488292 .
+wiki:Q1208529 wiki_prop:P279 wiki:Q57833034 .
+wiki:Q42889 wiki_prop:P361 wiki:Q4323994 .
+wiki:Q42889 wiki_prop:P279 wiki:Q11019 .
+wiki:Q42889 wiki_prop:P279 wiki:Q987767 .
+wiki:Q987767 wikivoc:name 'Container' .
+wiki:Q42889 wiki_prop:P279 wiki:Q106839123 .
+wiki:Q106839123 wikivoc:name "Means of transport" .
+wiki:Q42889 wiki_prop:P279 wiki:Q115797408 .
+wiki:Q115797408 wikivoc:name "Vehicles and vehicle parts product" .
+wiki:Q76592 wiki_prop:P31 wiki:Q1936384 .
+wiki:Q76592 wiki_prop:P31 wiki:Q20026918 .
+wiki:Q76592 wiki_prop:P361 wiki:Q121416 .
+wiki:Q121416 wikivoc:name "Discrete mathematics" .
+wiki:Q76592 wiki_prop:P279 wiki:Q1936384 .
+wiki:Q12888920 wiki_prop:P2283 wiki:Q878143 .
+wiki:Q878143 wikivoc:name 'Value' .
+wiki:Q12888920 wiki_prop:P279 wiki:Q12791748 .
+wiki:Q12791748 wikivoc:name 'Selection' .
+wiki:Q12888920 wiki_prop:P527 wiki:Q111986453 .
+wiki:Q111986453 wikivoc:name 'Option' .
+wiki:Q181839 wiki_prop:P31 wiki:Q66745531 .
+wiki:Q224821 wiki_prop:P279 wiki:Q185502 .
+wiki:Q185502 wikivoc:name "Many-valued logic" .
+wiki:Q12525525 wiki_prop:P279 wiki:Q622821 .
+wiki:Q622821 wikivoc:name 'Calculation' .
+wiki:Q5891 wiki_prop:P2283 wiki:Q7186193 .
+wiki:Q7186193 wikivoc:name "Philosophical method" .
+wiki:Q5891 wiki_prop:P527 wiki:Q44325 .
+wiki:Q44325 wikivoc:name 'Ontology' .
+wiki:Q5891 wiki_prop:P527 wiki:Q35277 .
+wiki:Q35277 wikivoc:name 'Metaphysics' .
+wiki:Q5891 wiki_prop:P527 wiki:Q59115 .
+wiki:Q59115 wikivoc:name "Philosophy of science" .
+wiki:Q5891 wiki_prop:P527 wiki:Q16669800 .
+wiki:Q16669800 wikivoc:name 'Predicador' .
+wiki:Q5891 wiki_prop:P527 wiki:Q2476757 .
+wiki:Q2476757 wikivoc:name "Philosophy of logic" .
+wiki:Q5891 wiki_prop:P527 wiki:Q35986 .
+wiki:Q35986 wikivoc:name 'Aesthetics' .
+wiki:Q16023913 wiki_prop:P279 wiki:Q196756 .
+wiki:Q196756 wikivoc:name 'Certificate' .
+wiki:Q131841 wiki_prop:P361 wiki:Q9420 .
+wiki:Q9420 wikivoc:name 'Thinking' .
+wiki:Q420 wiki_prop:P31 wiki:Q2267705 .
+wiki:Q420 wiki_prop:P279 wiki:Q7991 .
+wiki:Q420 wiki_prop:P527 wiki:Q183252 .
+wiki:Q183252 wikivoc:name 'Morphology' .
+wiki:Q420 wiki_prop:P527 wiki:Q7150 .
+wiki:Q7150 wikivoc:name 'Ecology' .
+wiki:Q420 wiki_prop:P527 wiki:Q441 .
+wiki:Q441 wikivoc:name 'Botany' .
+wiki:Q420 wiki_prop:P527 wiki:Q431 .
+wiki:Q431 wikivoc:name 'Zoology' .
+wiki:Q420 wiki_prop:P527 wiki:Q4785356 .
+wiki:Q4785356 wikivoc:name 'Archaeobiology' .
+wiki:Q420 wiki_prop:P527 wiki:Q514 .
+wiki:Q514 wikivoc:name 'Anatomy' .
+wiki:Q420 wiki_prop:P527 wiki:Q7175 .
+wiki:Q7175 wikivoc:name 'Mycology' .
+wiki:Q420 wiki_prop:P527 wiki:Q7162 .
+wiki:Q7162 wikivoc:name 'Genetics' .
+wiki:Q420 wiki_prop:P527 wiki:Q105582462 .
+wiki:Q105582462 wikivoc:name "Biology of colour" .
+wiki:Q420 wiki_prop:P527 wiki:Q7141 .
+wiki:Q7141 wikivoc:name "Cell biology" .
+wiki:Q420 wiki_prop:P527 wiki:Q840400 .
+wiki:Q840400 wikivoc:name "Evolutionary biology" .
+wiki:Q420 wiki_prop:P527 wiki:Q177005 .
+wiki:Q177005 wikivoc:name "Computational biology" .
+wiki:Q420 wiki_prop:P527 wiki:Q2728012 .
+wiki:Q2728012 wikivoc:name 'Neurobiology' .
+wiki:Q420 wiki_prop:P527 wiki:Q7193 .
+wiki:Q7193 wikivoc:name 'Microbiology' .
+wiki:Q107715 wiki_prop:P31 wiki:Q71758646 .
+wiki:Q107715 wiki_prop:P279 wiki:Q4373292 .
+wiki:Q107715 wiki_prop:P279 wiki:Q309314 .
+wiki:Q309314 wikivoc:name 'Quantity' .
+wiki:Q107715 wiki_prop:P279 wiki:Q71550118 .
+wiki:Q5862903 wiki_prop:P31 wiki:Q1936384 .
+wiki:Q5862903 wiki_prop:P31 wiki:Q20026918 .
+wiki:Q5862903 wiki_prop:P361 wiki:Q15614122 .
+wiki:Q15614122 wikivoc:name "Measure theory" .
+wiki:Q8091 wiki_prop:P279 wiki:Q367293 .
+wiki:Q367293 wikivoc:name 'Convention' .
+wiki:Q52948 wiki_prop:P279 wiki:Q4026292 .
+wiki:Q52948 wiki_prop:P527 wiki:Q104934 .
+wiki:Q104934 wikivoc:name "Fundamental interaction" .
+wiki:Q52948 wiki_prop:P527 wiki:Q751436 .
+wiki:Q751436 wikivoc:name "Inter-process communication" .
+wiki:Q1587903 wiki_prop:P279 wiki:Q33122512 .
+wiki:Q2207370 wiki_prop:P279 wiki:Q14745 .
+wiki:Q14745 wikivoc:name 'Furniture' .
+wiki:Q3968 wiki_prop:P31 wiki:Q1936384 .
+wiki:Q3968 wiki_prop:P31 wiki:Q20026918 .
+wiki:Q3968 wiki_prop:P279 wiki:Q1936384 .
+wiki:Q40998 wiki_prop:P31 wiki:Q66745531 .
+wiki:Q68 wiki_prop:P2283 wiki:Q11650 .
+wiki:Q11650 wikivoc:name 'Electronics' .
+wiki:Q68 wiki_prop:P2283 wiki:Q184550 .
+wiki:Q184550 wikivoc:name "Mechanical energy" .
+wiki:Q68 wiki_prop:P279 wiki:Q11019 .
+wiki:Q68 wiki_prop:P279 wiki:Q1662611 .
+wiki:Q1662611 wikivoc:name "It system" .
+wiki:Q68 wiki_prop:P279 wiki:Q115517465 .
+wiki:Q115517465 wikivoc:name "Computer file location" .
+wiki:Q68 wiki_prop:P279 wiki:Q3181395 .
+wiki:Q3181395 wikivoc:name "Information processor" .
+wiki:Q68 wiki_prop:P279 wiki:Q1172400 .
+wiki:Q1172400 wikivoc:name "Data terminal equipment" .
+wiki:Q68 wiki_prop:P279 wiki:Q1327500 .
+wiki:Q1327500 wikivoc:name "Electronic musical instrument" .
+wiki:Q68 wiki_prop:P527 wiki:Q2384798 .
+wiki:Q2384798 wikivoc:name "Input-output device" .
+wiki:Q68 wiki_prop:P527 wiki:Q3966 .
+wiki:Q3966 wikivoc:name "Computer hardware" .
+wiki:Q68 wiki_prop:P527 wiki:Q250 .
+wiki:Q250 wikivoc:name "Computer keyboard" .
+wiki:Q68 wiki_prop:P527 wiki:Q5300 .
+wiki:Q5300 wikivoc:name "Central processing unit" .
+wiki:Q68 wiki_prop:P527 wiki:Q183484 .
+wiki:Q183484 wikivoc:name "Graphics processing unit" .
+wiki:Q583488 wiki_prop:P31 wiki:Q46765731 .
+wiki:Q583488 wiki_prop:P279 wiki:Q736556 .
+wiki:Q736556 wikivoc:name 'Filter' .
+wiki:Q521 wiki_prop:P31 wiki:Q28598684 .
+wiki:Q28598684 wikivoc:name "Branch of biology" .
+wiki:Q82650 wiki_prop:P361 wiki:Q294362 .
+wiki:Q294362 wikivoc:name "Urban and regional transportation" .
+wiki:Q82650 wiki_prop:P361 wiki:Q1499585 .
+wiki:Q1499585 wikivoc:name "Non-scheduled transport" .
+wiki:Q82650 wiki_prop:P279 wiki:Q580939 .
+wiki:Q580939 wikivoc:name "Commercial vehicle" .
+wiki:Q82650 wiki_prop:P527 wiki:Q1135572 .
+wiki:Q1135572 wikivoc:name 'Taximeter' .
+wiki:Q82650 wiki_prop:P527 wiki:Q2961580 .
+wiki:Q2961580 wikivoc:name "Taxi driver" .
+wiki:Q82650 wiki_prop:P366 wiki:Q41222493 .
+wiki:Q41222493 wikivoc:name "Taxi service" .
+wiki:Q188619 wiki_prop:P31 wiki:Q111972893 .
+wiki:Q111972893 wikivoc:name "Type of structure" .
+wiki:Q188619 wiki_prop:P279 wiki:Q6671777 .
+wiki:Q188619 wiki_prop:P279 wiki:Q133250 .
+wiki:Q133250 wikivoc:name 'Sequence' .
+wiki:Q816826 wiki_prop:P279 wiki:Q11540953 .
+wiki:Q11540953 wikivoc:name 'Search' .
+wiki:Q816826 wiki_prop:P279 wiki:Q110458263 .
+wiki:Q110458263 wikivoc:name 'Taking' .
+wiki:Q484284 wiki_prop:P279 wiki:Q1156402 .
+wiki:Q174165 wiki_prop:P31 wiki:Q116505632 .
+wiki:Q174165 wiki_prop:P279 wiki:Q105606485 .
+wiki:Q105606485 wikivoc:name "Intellectual activity" .
+wiki:Q39645 wiki_prop:P31 wiki:Q66745531 .
+wiki:Q39645 wiki_prop:P361 wiki:Q60195 .
+wiki:Q60195 wikivoc:name 'Semiotics' .
+wiki:Q1140046 wiki_prop:P361 wiki:Q8192 .
+wiki:Q1140046 wiki_prop:P279 wiki:Q2001982 .
+wiki:Q2001982 wikivoc:name 'Notation' .
+wiki:Q1140046 wiki_prop:P279 wiki:Q2996214 .
+wiki:Q2996214 wikivoc:name "Mathematical convention" .
+wiki:Q1140046 wiki_prop:P527 wiki:Q21092339 .
+wiki:Q21092339 wikivoc:name "Mathematical symbol" .
+wiki:Q2516436 wiki_prop:P279 wiki:Q43229 .
+wiki:Q2516436 wiki_prop:P527 wiki:Q924286 .
+wiki:Q924286 wikivoc:name "Transport network" .
+wiki:Q57699384 wiki_prop:P31 wiki:Q7406919 .
+wiki:Q57699384 wiki_prop:P31 wiki:Q11492760 .
+wiki:Q11492760 wikivoc:name "Information services" .
+wiki:Q57699384 wiki_prop:P279 wiki:Q11492760 .
+wiki:Q781413 wiki_prop:P31 wiki:Q116505632 .
+wiki:Q781413 wiki_prop:P279 wiki:Q1168263 .
+wiki:Q1168263 wikivoc:name 'Function' .
+wiki:Q781413 wiki_prop:P279 wiki:Q12047513 .
+wiki:Q12047513 wikivoc:name "Psychological process" .
+wiki:Q42989 wiki_prop:P31 wiki:Q1936384 .
+wiki:Q42989 wiki_prop:P31 wiki:Q20026918 .
+wiki:Q72867640 wiki_prop:P279 wiki:Q1190554 .
+wiki:Q72867640 wiki_prop:P279 wiki:Q18706315 .
+wiki:Q18706315 wikivoc:name "Hypothetical entity" .
+wiki:Q181175 wiki_prop:P31 wiki:Q71758646 .
+wiki:Q181175 wiki_prop:P279 wiki:Q1289248 .
+wiki:Q1289248 wikivoc:name 'Scalar' .
+wiki:Q54989186 wiki_prop:P279 wiki:Q813912 .
+wiki:Q813912 wikivoc:name 'Condition' .
+wiki:Q1936384 wiki_prop:P31 wiki:Q24017414 .
+wiki:Q24017414 wikivoc:name "Second-order class" .
+wiki:Q104093226 wiki_prop:P31 wiki:Q24017414 .
+wiki:Q104093226 wiki_prop:P279 wiki:Q104086571 .
+wiki:Q104086571 wikivoc:name "First-order class" .
+wiki:Q1194970 wiki_prop:P279 wiki:Q4830453 .
+wiki:Q4830453 wikivoc:name 'Business' .
+wiki:Q1047832 wiki_prop:P279 wiki:Q987767 .
+wiki:Q1047832 wiki_prop:P279 wiki:Q811979 .
+wiki:Q811979 wikivoc:name "Architectural structure" .
+wiki:Q1047832 wiki_prop:P279 wiki:Q111366677 .
+wiki:Q111366677 wikivoc:name "Storage container" .
+wiki:Q1047832 wiki_prop:P279 wiki:Q111398534 .
+wiki:Q111398534 wikivoc:name 'Hardware' .
+wiki:Q1047832 wiki_prop:P366 wiki:Q9158768 .
+wiki:Q55638 wiki_prop:P361 wiki:Q1256893 .
+wiki:Q1256893 wikivoc:name "Three-sector model" .
+wiki:Q55638 wiki_prop:P527 wiki:Q19595701 .
+wiki:Q19595701 wikivoc:name "Entertainment industry" .
+wiki:Q55638 wiki_prop:P527 wiki:Q1431026 .
+wiki:Q1431026 wikivoc:name 'Horeca' .
+wiki:Q2384798 wiki_prop:P279 wiki:Q178648 .
+wiki:Q178648 wikivoc:name 'Peripheral' .
+wiki:Q5193405 wiki_prop:P361 wiki:Q3242046 .
+wiki:Q3242046 wikivoc:name "Economic, social and cultural rights" .
+wiki:Q5193405 wiki_prop:P279 wiki:Q8458 .
+wiki:Q8458 wikivoc:name "Human rights" .
+wiki:Q5193405 wiki_prop:P527 wiki:Q8434 .
+wiki:Q5193405 wiki_prop:P527 wiki:Q22692 .
+wiki:Q22692 wikivoc:name "Freedom of speech" .
+wiki:Q5193405 wiki_prop:P527 wiki:Q573756 .
+wiki:Q573756 wikivoc:name "Freedom of conscience" .
+wiki:Q841090 wiki_prop:P361 wiki:Q309 .
+wiki:Q841090 wiki_prop:P361 wiki:Q541923 .
+wiki:Q541923 wikivoc:name "Ancient literature" .
+wiki:Q841090 wiki_prop:P279 wiki:Q928786 .
+wiki:Q928786 wikivoc:name "Area studies" .
+wiki:Q841090 wiki_prop:P279 wiki:Q439072 .
+wiki:Q439072 wikivoc:name "Classical studies" .
+wiki:Q106225490 wiki_prop:P31 wiki:Q21546143 .
+wiki:Q21546143 wikivoc:name "Truck model" .
+wiki:Q106225490 wiki_prop:P279 wiki:Q18356126 .
+wiki:Q18356126 wikivoc:name "Man fx/lx" .
+wiki:Q2425052 wiki_prop:P279 wiki:Q1183543 .
+wiki:Q2425052 wiki_prop:P279 wiki:Q931447 .
+wiki:Q931447 wikivoc:name "Electrical load" .
+wiki:Q2425052 wiki_prop:P527 wiki:Q931447 .
+wiki:Q269415 wiki_prop:P31 wiki:Q81941037 .
+wiki:Q269415 wiki_prop:P279 wiki:Q867147 .
+wiki:Q867147 wikivoc:name 'Distribution' .
+wiki:Q7193 wiki_prop:P31 wiki:Q28598684 .
+wiki:Q7193 wiki_prop:P527 wiki:Q243748 .
+wiki:Q243748 wikivoc:name 'Bacteriology' .
+wiki:Q7193 wiki_prop:P527 wiki:Q7215 .
+wiki:Q7215 wikivoc:name 'Virology' .
+wiki:Q7193 wiki_prop:P527 wiki:Q2467781 .
+wiki:Q2467781 wikivoc:name 'Protistology' .
+wiki:Q628523 wiki_prop:P279 wiki:Q11028 .
+wiki:Q861689 wiki_prop:P279 wiki:Q3296256 .
+wiki:Q3296256 wikivoc:name "Applied economics" .
+wiki:Q33122512 wiki_prop:P527 wiki:Q21201 .
+wiki:Q33122512 wiki_prop:P527 wiki:Q43455 .
+wiki:Q43455 wikivoc:name 'Ethnology' .
+wiki:Q33122512 wiki_prop:P527 wiki:Q309 .
+wiki:Q33122512 wiki_prop:P527 wiki:Q1071 .
+wiki:Q1071 wikivoc:name 'Geography' .
+wiki:Q33122512 wiki_prop:P527 wiki:Q164204 .
+wiki:Q164204 wikivoc:name 'Musicology' .
+wiki:Q1499585 wiki_prop:P279 wiki:Q4323994 .
+wiki:Q12739 wiki_prop:P2283 wiki:Q6750062 .
+wiki:Q6750062 wikivoc:name "Nuclear binding energy" .
+wiki:Q12739 wiki_prop:P361 wiki:Q2151621 .
+wiki:Q2151621 wikivoc:name "Energy industry" .
+wiki:Q12739 wiki_prop:P361 wiki:Q19753332 .
+wiki:Q19753332 wikivoc:name "Nuclear program" .
+wiki:Q12739 wiki_prop:P366 wiki:Q898653 .
+wiki:Q898653 wikivoc:name "Climate change mitigation" .
+wiki:Q309314 wiki_prop:P31 wiki:Q96253971 .
+wiki:Q309314 wiki_prop:P279 wiki:Q937228 .
+wiki:Q937228 wikivoc:name 'Property' .
+wiki:Q309314 wiki_prop:P279 wiki:Q246672 .
+wiki:Q309314 wiki_prop:P279 wiki:Q10388960 .
+wiki:Q10388960 wikivoc:name "Numeric value" .
+wiki:Q352842 wiki_prop:P2283 wiki:Q1395149 .
+wiki:Q1395149 wikivoc:name 'Demonstration' .
+wiki:Q352842 wiki_prop:P279 wiki:Q4350200 .
+wiki:Q4350200 wikivoc:name "Information transfer" .
+wiki:Q352842 wiki_prop:P279 wiki:Q61788126 .
+wiki:Q61788126 wikivoc:name "Educational activity" .
+wiki:Q44325 wiki_prop:P361 wiki:Q35277 .
+wiki:Q38033430 wiki_prop:P31 wiki:Q24017414 .
+wiki:Q184550 wiki_prop:P31 wiki:Q3935690 .
+wiki:Q3935690 wikivoc:name "Form of energy" .
+wiki:Q878143 wiki_prop:P279 wiki:Q937228 .
+wiki:Q99905 wiki_prop:P31 wiki:Q60673395 .
+wiki:Q99905 wiki_prop:P279 wiki:Q2731198 .
+wiki:Q2731198 wikivoc:name "Occupant restraint system" .
+wiki:Q1786017 wiki_prop:P279 wiki:Q5156698 .
+wiki:Q5156698 wikivoc:name "Internal combustion engine component" .
+wiki:Q1133705 wiki_prop:P31 wiki:Q17444909 .
+wiki:Q17444909 wikivoc:name "Astronomical object type" .
+wiki:Q1133705 wiki_prop:P279 wiki:Q6671777 .
+wiki:Q1133705 wiki_prop:P279 wiki:Q6999 .
+wiki:Q6999 wikivoc:name "Astronomical object" .
+wiki:Q18891017 wiki_prop:P279 wiki:Q1544281 .
+wiki:Q1544281 wikivoc:name "Management cybernetics" .
+wiki:Q18891017 wiki_prop:P279 wiki:Q15297198 .
+wiki:Q15297198 wikivoc:name "Mechanical system" .
+wiki:Q18891017 wiki_prop:P527 wiki:Q47146 .
+wiki:Q18891017 wiki_prop:P527 wiki:Q1153014 .
+wiki:Q1153014 wikivoc:name 'Linkage' .
+wiki:Q18891017 wiki_prop:P366 wiki:Q29017603 .
+wiki:Q29017603 wikivoc:name 'Control' .
+wiki:Q72913400 wiki_prop:P279 wiki:Q12775893 .
+wiki:Q12775893 wikivoc:name 'Scheme' .
+wiki:Q44409287 wiki_prop:P31 wiki:Q24017414 .
+wiki:Q24027474 wiki_prop:P31 wiki:Q24027515 .
+wiki:Q24027515 wikivoc:name "Fifth-order class" .
+wiki:Q24027474 wiki_prop:P279 wiki:Q23959932 .
+wiki:Q133327 wiki_prop:P31 wiki:Q23956024 .
+wiki:Q23956024 wikivoc:name "Spacetime volume" .
+wiki:Q133327 wiki_prop:P31 wiki:Q1704572 .
+wiki:Q1704572 wikivoc:name 'Continuum' .
+wiki:Q133327 wiki_prop:P527 wiki:Q107 .
+wiki:Q107 wikivoc:name 'Space' .
+wiki:Q133327 wiki_prop:P527 wiki:Q11471 .
+wiki:Q11471 wikivoc:name 'Time' .
+wiki:Q1273271 wiki_prop:P279 wiki:Q7406919 .
+wiki:Q592911 wiki_prop:P279 wiki:Q3354588 .
+wiki:Q3354588 wikivoc:name 'Operator' .
+wiki:Q592911 wiki_prop:P527 wiki:Q773483 .
+wiki:Q773483 wikivoc:name "Existential quantification" .
+wiki:Q592911 wiki_prop:P527 wiki:Q126695 .
+wiki:Q126695 wikivoc:name "Universal quantification" .
+wiki:Q592911 wiki_prop:P366 wiki:Q27031342 .
+wiki:Q27031342 wikivoc:name 'Quantification' .
+wiki:Q214111 wiki_prop:P31 wiki:Q3550873 .
+wiki:Q3550873 wikivoc:name "Unit of information" .
+wiki:Q214111 wiki_prop:P31 wiki:Q2634565 .
+wiki:Q2634565 wikivoc:name "Protocol data unit" .
+wiki:Q239001 wiki_prop:P361 wiki:Q390516 .
+wiki:Q390516 wikivoc:name "Control room" .
+wiki:Q239001 wiki_prop:P361 wiki:Q194156 .
+wiki:Q239001 wiki_prop:P361 wiki:Q1418299 .
+wiki:Q1418299 wikivoc:name "Train drivers cab" .
+wiki:Q239001 wiki_prop:P361 wiki:Q846929 .
+wiki:Q846929 wikivoc:name 'Bridge' .
+wiki:Q239001 wiki_prop:P361 wiki:Q1882685 .
+wiki:Q1882685 wikivoc:name "Mechanical device" .
+wiki:Q239001 wiki_prop:P361 wiki:Q55417699 .
+wiki:Q55417699 wikivoc:name 'Console' .
+wiki:Q239001 wiki_prop:P279 wiki:Q1183543 .
+wiki:Q239001 wiki_prop:P527 wiki:Q64539065 .
+wiki:Q64539065 wikivoc:name "Indicator light" .
+wiki:Q239001 wiki_prop:P527 wiki:Q1183543 .
+wiki:Q239001 wiki_prop:P527 wiki:Q95953166 .
+wiki:Q95953166 wikivoc:name 'Bezel' .
+wiki:Q42240 wiki_prop:P279 wiki:Q21004260 .
+wiki:Q21004260 wikivoc:name 'Inquiry' .
+wiki:Q42240 wiki_prop:P527 wiki:Q46857 .
+wiki:Q42240 wiki_prop:P527 wiki:Q112666400 .
+wiki:Q112666400 wikivoc:name "Research process" .
+wiki:Q876215 wiki_prop:P361 wiki:Q4464 .
+wiki:Q4464 wikivoc:name "Advanced mathematics" .
+wiki:Q876215 wiki_prop:P279 wiki:Q1988917 .
+wiki:Q1988917 wikivoc:name "Data analysis" .
+wiki:Q1207505 wiki_prop:P31 wiki:Q96253971 .
+wiki:Q1207505 wiki_prop:P279 wiki:Q937228 .
+wiki:Q12812139 wiki_prop:P361 wiki:Q1391494 .
+wiki:Q1391494 wikivoc:name "Specialized terminology" .
+wiki:Q12812139 wiki_prop:P279 wiki:Q1969448 .
+wiki:Q1969448 wikivoc:name 'Term' .
+wiki:Q1639378 wiki_prop:P527 wiki:Q874405 .
+wiki:Q874405 wikivoc:name "Social group" .
+wiki:Q1639378 wiki_prop:P527 wiki:Q609298 .
+wiki:Q609298 wikivoc:name "Social interaction" .
+wiki:Q1639378 wiki_prop:P527 wiki:Q178706 .
+wiki:Q178706 wikivoc:name 'Institution' .
+wiki:Q1639378 wiki_prop:P527 wiki:Q211606 .
+wiki:Q211606 wikivoc:name "Social structure" .
+wiki:Q446 wiki_prop:P361 wiki:Q15618781 .
+wiki:Q15618781 wikivoc:name "Wheeled vehicle" .
+wiki:Q446 wiki_prop:P361 wiki:Q592289 .
+wiki:Q446 wiki_prop:P279 wiki:Q186713 .
+wiki:Q186713 wikivoc:name "Simple machine" .
+wiki:Q36808958 wiki_prop:P279 wiki:Q379825 .
+wiki:Q379825 wikivoc:name 'Element' .
+wiki:Q106225495 wiki_prop:P31 wiki:Q21546143 .
+wiki:Q106225495 wiki_prop:P279 wiki:Q2467617 .
+wiki:Q2467617 wikivoc:name "Tank transporter" .
+wiki:Q106225495 wiki_prop:P527 wiki:Q5348944 .
+wiki:Q5348944 wikivoc:name "Eight-wheel drive" .
+wiki:Q4164871 wiki_prop:P361 wiki:Q192581 .
+wiki:Q192581 wikivoc:name 'Job' .
+wiki:Q4164871 wiki_prop:P279 wiki:Q214339 .
+wiki:Q214339 wikivoc:name 'Role' .
+wiki:Q106865223 wiki_prop:P527 wiki:Q811909 .
+wiki:Q106865223 wiki_prop:P527 wiki:Q110558466 .
+wiki:Q110558466 wikivoc:name 'Interface' .
+wiki:Q107307291 wiki_prop:P279 wiki:Q24229398 .
+wiki:Q106589826 wiki_prop:P279 wiki:Q25894868 .
+wiki:Q25894868 wikivoc:name "Place type" .
+wiki:Q106589826 wiki_prop:P366 wiki:Q56169280 .
+wiki:Q56169280 wikivoc:name "Nls geographic names register" .
+wiki:Q19868531 wiki_prop:P361 wiki:Q324254 .
+wiki:Q1209283 wiki_prop:P279 wiki:Q340169 .
+wiki:Q1389702 wiki_prop:P279 wiki:Q189124 .
+wiki:Q189124 wikivoc:name "Heat exchanger" .
+wiki:Q851587 wiki_prop:P2283 wiki:Q451553 .
+wiki:Q451553 wikivoc:name 'Visualization' .
+wiki:Q5300 wiki_prop:P31 wiki:Q3966 .
+wiki:Q5300 wiki_prop:P279 wiki:Q1466064 .
+wiki:Q1466064 wikivoc:name 'Processor' .
+wiki:Q5300 wiki_prop:P527 wiki:Q1303814 .
+wiki:Q1303814 wikivoc:name "Processor design" .
+wiki:Q5300 wiki_prop:P527 wiki:Q352090 .
+wiki:Q352090 wikivoc:name "Cpu cache" .
+wiki:Q7302601 wiki_prop:P279 wiki:Q189970 .
+wiki:Q189970 wikivoc:name "Social status" .
+wiki:Q7302601 wiki_prop:P279 wiki:Q83493482 .
+wiki:Q83493482 wikivoc:name 'Thanking' .
+wiki:Q7302601 wiki_prop:P279 wiki:Q107329943 .
+wiki:Q107329943 wikivoc:name 'Acknowledgement' .
+wiki:Q11492760 wiki_prop:P279 wiki:Q7406919 .
+wiki:Q24017414 wiki_prop:P279 wiki:Q23959932 .
+wiki:Q529711 wiki_prop:P279 wiki:Q15989253 .
+wiki:Q529711 wiki_prop:P279 wiki:Q20203388 .
+wiki:Q20203388 wikivoc:name 'Extremity' .
+wiki:Q1274979 wiki_prop:P279 wiki:Q27043950 .
+wiki:Q27043950 wikivoc:name "Anatomical entity" .
+wiki:Q66747123 wiki_prop:P279 wiki:Q1391494 .
+wiki:Q6501221 wiki_prop:P31 wiki:Q682496 .
+wiki:Q682496 wikivoc:name "Systems engineering" .
+wiki:Q6501221 wiki_prop:P279 wiki:Q11984976 .
+wiki:Q11984976 wikivoc:name "Automatic control" .
+wiki:Q8205328 wiki_prop:P279 wiki:Q223557 .
+wiki:Q223557 wikivoc:name "Physical object" .
+wiki:Q7162 wiki_prop:P31 wiki:Q28598684 .
+wiki:Q813912 wiki_prop:P279 wiki:Q3505845 .
+wiki:Q3505845 wikivoc:name 'State' .
+wiki:Q12047513 wiki_prop:P279 wiki:Q2996394 .
+wiki:Q2996394 wikivoc:name "Biological process" .
+wiki:Q12047513 wiki_prop:P279 wiki:Q12047512 .
+wiki:Q12047512 wikivoc:name "Psychological phenomenon" .
+wiki:Q6498398 wiki_prop:P279 wiki:Q65115262 .
+wiki:Q65115262 wikivoc:name "Fluid accelerator" .
+wiki:Q6498398 wiki_prop:P279 wiki:Q11019 .
+wiki:Q6498398 wiki_prop:P527 wiki:Q15141537 .
+wiki:Q15141537 wikivoc:name 'Rotor' .
+wiki:Q6498398 wiki_prop:P527 wiki:Q1698700 .
+wiki:Q1698700 wikivoc:name 'Impeller' .
+wiki:Q6498398 wiki_prop:P366 wiki:Q584049 .
+wiki:Q584049 wikivoc:name 'Ventilation' .
+wiki:Q6046311 wiki_prop:P279 wiki:Q317623 .
+wiki:Q6046311 wiki_prop:P279 wiki:Q31479975 .
+wiki:Q31479975 wikivoc:name "Communication system" .
+wiki:Q441 wiki_prop:P31 wiki:Q28598684 .
+wiki:Q441 wiki_prop:P527 wiki:Q655362 .
+wiki:Q655362 wikivoc:name "Plant morphology" .
+wiki:Q441 wiki_prop:P527 wiki:Q2725616 .
+wiki:Q2725616 wikivoc:name "Plant reproduction" .
+wiki:Q441 wiki_prop:P527 wiki:Q185973 .
+wiki:Q185973 wikivoc:name "Plant physiology" .
+wiki:Q441 wiki_prop:P527 wiki:Q7201518 .
+wiki:Q7201518 wikivoc:name "Plant genetics" .
+wiki:Q441 wiki_prop:P527 wiki:Q591138 .
+wiki:Q591138 wikivoc:name "Plant evolutionary developmental biology" .
+wiki:Q441 wiki_prop:P527 wiki:Q1387972 .
+wiki:Q1387972 wikivoc:name "Plant ecology" .
+wiki:Q441 wiki_prop:P527 wiki:Q4021 .
+wiki:Q4021 wikivoc:name "Plant anatomy" .
+wiki:Q441 wiki_prop:P527 wiki:Q1138244 .
+wiki:Q1138244 wikivoc:name 'Phytosociology' .
+wiki:Q441 wiki_prop:P527 wiki:Q771220 .
+wiki:Q771220 wikivoc:name 'Phytogeography' .
+wiki:Q441 wiki_prop:P527 wiki:Q640068 .
+wiki:Q640068 wikivoc:name 'Phytochemistry' .
+wiki:Q441 wiki_prop:P527 wiki:Q272737 .
+wiki:Q272737 wikivoc:name 'Phenology' .
+wiki:Q441 wiki_prop:P527 wiki:Q212919 .
+wiki:Q212919 wikivoc:name 'Palynology' .
+wiki:Q441 wiki_prop:P527 wiki:Q192694 .
+wiki:Q192694 wikivoc:name 'Paleobotany' .
+wiki:Q557828 wiki_prop:P31 wiki:Q5156698 .
+wiki:Q921513 wiki_prop:P31 wiki:Q2996394 .
+wiki:Q921513 wiki_prop:P279 wiki:Q2990593 .
+wiki:Q2990593 wikivoc:name "Animal behaviour" .
+wiki:Q921513 wiki_prop:P279 wiki:Q22294683 .
+wiki:Q22294683 wikivoc:name "Biological process involved in intraspecies interaction between organisms" .
+wiki:Q921513 wiki_prop:P527 wiki:Q106667104 .
+wiki:Q106667104 wikivoc:name 'Bisociality' .
+wiki:Q921513 wiki_prop:P527 wiki:Q610757 .
+wiki:Q610757 wikivoc:name 'Homosociality' .
+wiki:Q921513 wiki_prop:P527 wiki:Q3733713 .
+wiki:Q3733713 wikivoc:name 'Heterosociality' .
+wiki:Q987767 wiki_prop:P279 wiki:Q39546 .
+wiki:Q39546 wikivoc:name 'Tool' .
+wiki:Q987767 wiki_prop:P279 wiki:Q9158768 .
+wiki:Q987767 wiki_prop:P527 wiki:Q3783831 .
+wiki:Q3783831 wikivoc:name 'Surface' .
+wiki:Q987767 wiki_prop:P527 wiki:Q28367692 .
+wiki:Q28367692 wikivoc:name 'Cavity' .
+wiki:Q987767 wiki_prop:P366 wiki:Q2534289 .
+wiki:Q2534289 wikivoc:name 'Storage' .
+wiki:Q514 wiki_prop:P31 wiki:Q28598684 .
+wiki:Q514 wiki_prop:P527 wiki:Q220384 .
+wiki:Q220384 wikivoc:name 'Zootomy' .
+wiki:Q514 wiki_prop:P527 wiki:Q4021 .
+wiki:Q514 wiki_prop:P527 wiki:Q819121 .
+wiki:Q819121 wikivoc:name 'Osteology' .
+wiki:Q222903 wiki_prop:P279 wiki:Q65560351 .
+wiki:Q65560351 wikivoc:name 'Coincidence' .
+wiki:Q9158768 wiki_prop:P366 wiki:Q2534289 .
+wiki:Q14632398 wiki_prop:P279 wiki:Q7991 .
+wiki:Q14632398 wiki_prop:P527 wiki:Q333 .
+wiki:Q333 wikivoc:name 'Astronomy' .
+wiki:Q14632398 wiki_prop:P527 wiki:Q2329 .
+wiki:Q14632398 wiki_prop:P527 wiki:Q8008 .
+wiki:Q8008 wikivoc:name "Earth science" .
+wiki:Q14632398 wiki_prop:P527 wiki:Q1195766 .
+wiki:Q1195766 wikivoc:name "Space science" .
+wiki:Q14632398 wiki_prop:P527 wiki:Q228736 .
+wiki:Q228736 wikivoc:name "Materials science" .
+wiki:Q14632398 wiki_prop:P527 wiki:Q160398 .
+wiki:Q160398 wikivoc:name 'Crystallography' .
+wiki:Q14632398 wiki_prop:P527 wiki:Q11650 .
+wiki:Q14632398 wiki_prop:P527 wiki:Q394 .
+wiki:Q394 wikivoc:name 'Metrology' .
+wiki:Q1183543 wiki_prop:P279 wiki:Q39546 .
+wiki:Q221392 wiki_prop:P31 wiki:Q28530079 .
+wiki:Q28530079 wikivoc:name "Observable universe" .
+wiki:Q221392 wiki_prop:P527 wiki:Q35758 .
+wiki:Q35758 wikivoc:name 'Matter' .
+wiki:Q221392 wiki_prop:P527 wiki:Q79925 .
+wiki:Q79925 wikivoc:name "Dark matter" .
+wiki:Q221392 wiki_prop:P527 wiki:Q18343 .
+wiki:Q18343 wikivoc:name "Dark energy" .
+wiki:Q221392 wiki_prop:P527 wiki:Q1139177 .
+wiki:Q1139177 wikivoc:name "Cfa2 great wall" .
+wiki:Q221392 wiki_prop:P527 wiki:Q24571 .
+wiki:Q24571 wikivoc:name "Pisces–cetus supercluster complex" .
+wiki:Q221392 wiki_prop:P527 wiki:Q2945326 .
+wiki:Q2945326 wikivoc:name "Large quasar group" .
+wiki:Q221392 wiki_prop:P527 wiki:Q23054687 .
+wiki:Q23054687 wikivoc:name "Boss great wall" .
+wiki:Q221392 wiki_prop:P527 wiki:Q497745 .
+wiki:Q497745 wikivoc:name "Sloan great wall" .
+wiki:Q221392 wiki_prop:P527 wiki:Q15241043 .
+wiki:Q15241043 wikivoc:name "Hercules-corona borealis great wall" .
+wiki:Q221392 wiki_prop:P527 wiki:Q3094136 .
+wiki:Q3094136 wikivoc:name 'Huge' .
+wiki:Q193466 wiki_prop:P31 wiki:Q839546 .
+wiki:Q193466 wiki_prop:P361 wiki:Q25841836 .
+wiki:Q25841836 wikivoc:name "Electric fan" .
+wiki:Q193466 wiki_prop:P279 wiki:Q15141537 .
+wiki:Q110761784 wiki_prop:P527 wiki:Q2313389 .
+wiki:Q2313389 wikivoc:name "Speech science" .
+wiki:Q431 wiki_prop:P31 wiki:Q28598684 .
+wiki:Q431 wiki_prop:P527 wiki:Q190993 .
+wiki:Q190993 wikivoc:name 'Malacology' .
+wiki:Q431 wiki_prop:P527 wiki:Q7173 .
+wiki:Q7173 wikivoc:name "Marine biology" .
+wiki:Q431 wiki_prop:P527 wiki:Q180502 .
+wiki:Q180502 wikivoc:name 'Parasitology' .
+wiki:Q431 wiki_prop:P527 wiki:Q318668 .
+wiki:Q318668 wikivoc:name 'Zooarchaeology' .
+wiki:Q431 wiki_prop:P527 wiki:Q44703 .
+wiki:Q44703 wikivoc:name 'Ornithology' .
+wiki:Q431 wiki_prop:P527 wiki:Q174416 .
+wiki:Q174416 wikivoc:name 'Herpetology' .
+wiki:Q431 wiki_prop:P527 wiki:Q60242 .
+wiki:Q60242 wikivoc:name 'Ichthyology' .
+wiki:Q431 wiki_prop:P527 wiki:Q39286 .
+wiki:Q39286 wikivoc:name 'Entomology' .
+wiki:Q431 wiki_prop:P527 wiki:Q183904 .
+wiki:Q183904 wikivoc:name 'Mammalogy' .
+wiki:Q431 wiki_prop:P527 wiki:Q1976068 .
+wiki:Q1976068 wikivoc:name 'Helminthology' .
+wiki:Q6018565 wiki_prop:P279 wiki:Q178185 .
+wiki:Q178185 wikivoc:name "Heat engine" .
+wiki:Q6018565 wiki_prop:P527 wiki:Q248382 .
+wiki:Q248382 wikivoc:name "Ignition system" .
+wiki:Q580939 wiki_prop:P366 wiki:Q1685754 .
+wiki:Q1685754 wikivoc:name "Commercial transportation" .
+wiki:Q105582462 wiki_prop:P31 wiki:Q170584 .
+wiki:Q170584 wikivoc:name 'Project' .
+wiki:Q592289 wiki_prop:P361 wiki:Q43483 .
+wiki:Q43483 wikivoc:name 'Well' .
+wiki:Q592289 wiki_prop:P279 wiki:Q173878 .
+wiki:Q173878 wikivoc:name "Lifting equipment" .
+wiki:Q592289 wiki_prop:P279 wiki:Q186713 .
+wiki:Q1233025 wiki_prop:P527 wiki:Q2891044 .
+wiki:Q2891044 wikivoc:name "Link layer" .
+wiki:Q1233025 wiki_prop:P527 wiki:Q2910948 .
+wiki:Q2910948 wikivoc:name "Internet layer" .
+wiki:Q1233025 wiki_prop:P527 wiki:Q209372 .
+wiki:Q209372 wikivoc:name "Transport layer" .
+wiki:Q1233025 wiki_prop:P527 wiki:Q12411691 .
+wiki:Q12411691 wikivoc:name "Application layer" .
+wiki:Q2001982 wiki_prop:P279 wiki:Q3622126 .
+wiki:Q2001982 wiki_prop:P279 wiki:Q7512598 .
+wiki:Q7512598 wikivoc:name "Sign system" .
+wiki:Q2001982 wiki_prop:P279 wiki:Q4393498 .
+wiki:Q33521 wiki_prop:P527 wiki:Q11216 .
+wiki:Q11216 wikivoc:name "Numerical analysis" .
+wiki:Q33521 wiki_prop:P527 wiki:Q156495 .
+wiki:Q156495 wikivoc:name "Mathematical physics" .
+wiki:Q33521 wiki_prop:P527 wiki:Q1122491 .
+wiki:Q1122491 wikivoc:name "Computational mathematics" .
+wiki:Q33521 wiki_prop:P527 wiki:Q117801 .
+wiki:Q117801 wikivoc:name "Computational science" .
+wiki:Q33521 wiki_prop:P527 wiki:Q2235851 .
+wiki:Q2235851 wikivoc:name "Engineering mathematics" .
+wiki:Q33521 wiki_prop:P527 wiki:Q2419229 .
+wiki:Q2419229 wikivoc:name "Theoretical biology" .
+wiki:Q33521 wiki_prop:P527 wiki:Q745328 .
+wiki:Q745328 wikivoc:name "Mathematical statistics" .
+wiki:Q33521 wiki_prop:P527 wiki:Q1128453 .
+wiki:Q1128453 wikivoc:name "Actuarial science" .
+wiki:Q33521 wiki_prop:P527 wiki:Q1430062 .
+wiki:Q1430062 wikivoc:name 'Cryptology' .
+wiki:Q33521 wiki_prop:P527 wiki:Q131476 .
+wiki:Q131476 wikivoc:name "Graph theory" .
+wiki:Q33521 wiki_prop:P527 wiki:Q1908389 .
+wiki:Q1908389 wikivoc:name "Mathematical psychology" .
+wiki:Q33521 wiki_prop:P527 wiki:Q815820 .
+wiki:Q815820 wikivoc:name "Computational fluid dynamics" .
+wiki:Q61961344 wiki_prop:P279 wiki:Q98119401 .
+wiki:Q98119401 wikivoc:name "Group or class of physical objects" .
+wiki:Q61961344 wiki_prop:P527 wiki:Q223557 .
+wiki:Q8192 wiki_prop:P527 wiki:Q63801299 .
+wiki:Q63801299 wikivoc:name 'Script' .
+wiki:Q8192 wiki_prop:P527 wiki:Q43091 .
+wiki:Q43091 wikivoc:name 'Orthography' .
+wiki:Q12791748 wiki_prop:P31 wiki:Q1724915 .
+wiki:Q12791748 wiki_prop:P2283 wiki:Q5282965 .
+wiki:Q5282965 wikivoc:name 'Distinction' .
+wiki:Q190549 wiki_prop:P31 wiki:Q20026918 .
+wiki:Q190549 wiki_prop:P279 wiki:Q837863 .
+wiki:Q190549 wiki_prop:P527 wiki:Q1892554 .
+wiki:Q1892554 wikivoc:name "Operator algebra" .
+wiki:Q114705834 wiki_prop:P31 wiki:Q20026918 .
+wiki:Q193756 wiki_prop:P31 wiki:Q20026918 .
+wiki:Q193756 wiki_prop:P361 wiki:Q114728138 .
+wiki:Q114728138 wikivoc:name "Complex analysis in several variables" .
+wiki:Q16334295 wiki_prop:P279 wiki:Q16334298 .
+wiki:Q16334298 wikivoc:name "Group of living things" .
+wiki:Q16334295 wiki_prop:P527 wiki:Q5 .
+wiki:Q5 wikivoc:name 'Human' .
+wiki:Q837863 wiki_prop:P279 wiki:Q964754 .
+wiki:Q964754 wikivoc:name "Basic research" .
+wiki:Q8803 wiki_prop:P31 wiki:Q385853 .
+wiki:Q385853 wikivoc:name "De facto standard" .
+wiki:Q8803 wiki_prop:P2283 wiki:Q79984 .
+wiki:Q79984 wikivoc:name 'Ethernet' .
+wiki:Q8803 wiki_prop:P2283 wiki:Q548838 .
+wiki:Q548838 wikivoc:name 'Handshaking' .
+wiki:Q8803 wiki_prop:P279 wiki:Q1172338 .
+wiki:Q1172338 wikivoc:name "Data exchange" .
+wiki:Q1896989 wiki_prop:P279 wiki:Q3778211 .
+wiki:Q3778211 wikivoc:name "Legal person" .
+wiki:Q1116876 wiki_prop:P279 wiki:Q4393498 .
+wiki:Q1116876 wiki_prop:P279 wiki:Q6888384 .
+wiki:Q6888384 wikivoc:name "Modeling and simulation" .
+wiki:Q319604 wiki_prop:P31 wiki:Q78754808 .
+wiki:Q319604 wiki_prop:P279 wiki:Q11998775 .
+wiki:Q11998775 wikivoc:name 'Rider' .
+wiki:Q319604 wiki_prop:P279 wiki:Q5 .
+wiki:Q1150771 wiki_prop:P279 wiki:Q2995644 .
+wiki:Q2995644 wikivoc:name 'Result' .
+wiki:Q41798914 wiki_prop:P31 wiki:Q21484471 .
+wiki:Q21484471 wikivoc:name "Wikipedia article covering multiple topics" .
+wiki:Q41798914 wiki_prop:P31 wiki:Q115158168 .
+wiki:Q115158168 wikivoc:name 'Duality' .
+wiki:Q41798914 wiki_prop:P31 wiki:Q2920592 .
+wiki:Q2920592 wikivoc:name "Binary opposition" .
+wiki:Q183252 wiki_prop:P31 wiki:Q28598684 .
+wiki:Q183252 wiki_prop:P527 wiki:Q655362 .
+wiki:Q183252 wiki_prop:P527 wiki:Q110974752 .
+wiki:Q110974752 wikivoc:name "Animal morphology" .
+wiki:Q183252 wiki_prop:P527 wiki:Q66568582 .
+wiki:Q66568582 wikivoc:name "Cell morphology" .
+wiki:Q3327819 wiki_prop:P31 wiki:Q3318059 .
+wiki:Q3318059 wikivoc:name "Cosmological model" .
+wiki:Q3327819 wiki_prop:P361 wiki:Q47488392 .
+wiki:Q47488392 wikivoc:name 'Megaverse' .
+wiki:Q3327819 wiki_prop:P361 wiki:Q3248845 .
+wiki:Q3248845 wikivoc:name 'Omniverse' .
+wiki:Q3327819 wiki_prop:P279 wiki:Q30126005 .
+wiki:Q30126005 wikivoc:name "Hypothetical scientific object" .
+wiki:Q3327819 wiki_prop:P527 wiki:Q2051667 .
+wiki:Q2051667 wikivoc:name "Parallel universe" .
+wiki:Q3327819 wiki_prop:P527 wiki:Q36906466 .
+wiki:Q3327819 wiki_prop:P527 wiki:Q106521687 .
+wiki:Q106521687 wikivoc:name 'Antiverse' .
+wiki:Q1474521 wiki_prop:P361 wiki:Q149584 .
+wiki:Q149584 wikivoc:name "Organizational theory" .
+wiki:Q1474521 wiki_prop:P279 wiki:Q1168263 .
+wiki:Q1474521 wiki_prop:P279 wiki:Q207449 .
+wiki:Q207449 wikivoc:name "Division of labour" .
+wiki:Q660564 wiki_prop:P279 wiki:Q2516517 .
+wiki:Q2516517 wikivoc:name "Transport sciences" .
+wiki:Q36906466 wiki_prop:P31 wiki:Q5127848 .
+wiki:Q36906466 wiki_prop:P279 wiki:Q16686022 .
+wiki:Q16686022 wikivoc:name "Natural physical object" .
+wiki:Q36906466 wiki_prop:P279 wiki:Q17334923 .
+wiki:Q17334923 wikivoc:name "Physical location" .
+wiki:Q196756 wiki_prop:P279 wiki:Q3150005 .
+wiki:Q3150005 wikivoc:name "Legal instrument" .
+wiki:Q1168263 wiki_prop:P279 wiki:Q1724915 .
+wiki:Q930933 wiki_prop:P31 wiki:Q96253971 .
+wiki:Q1301433 wiki_prop:P366 wiki:Q190291 .
+wiki:Q190291 wikivoc:name 'Displacement' .
+wiki:Q4373292 wiki_prop:P31 wiki:Q96253971 .
+wiki:Q4373292 wiki_prop:P361 wiki:Q223557 .
+wiki:Q4373292 wiki_prop:P279 wiki:Q937228 .
+wiki:Q4373292 wiki_prop:P279 wiki:Q38885242 .
+wiki:Q38885242 wikivoc:name "Physico-chemical property" .
+wiki:Q36442 wiki_prop:P361 wiki:Q15831440 .
+wiki:Q15831440 wikivoc:name "Political studies" .
+wiki:Q36442 wiki_prop:P279 wiki:Q15831440 .
+wiki:Q1048835 wiki_prop:P279 wiki:Q56061 .
+wiki:Q56061 wikivoc:name "Administrative territorial entity" .
+wiki:Q24229398 wiki_prop:P279 wiki:Q830077 .
+wiki:Q830077 wikivoc:name 'Subject' .
+wiki:Q77544558 wiki_prop:P279 wiki:Q77662910 .
+wiki:Q77662910 wikivoc:name "Algebra terminology" .
+wiki:Q41222493 wiki_prop:P31 wiki:Q2031007 .
+wiki:Q2031007 wikivoc:name "Two-sided market" .
+wiki:Q41222493 wiki_prop:P361 wiki:Q7406919 .
+wiki:Q41222493 wiki_prop:P279 wiki:Q7406919 .
+wiki:Q179805 wiki_prop:P361 wiki:Q15831440 .
+wiki:Q179805 wiki_prop:P361 wiki:Q112981240 .
+wiki:Q112981240 wikivoc:name "Political theory and political philosophy" .
+wiki:Q179805 wiki_prop:P361 wiki:Q113001585 .
+wiki:Q113001585 wikivoc:name "Social and political philosophy" .
+wiki:Q193946 wiki_prop:P366 wiki:Q330268 .
+wiki:Q330268 wikivoc:name "Decision support system" .
+wiki:Q1289248 wiki_prop:P279 wiki:Q2204117 .
+wiki:Q2204117 wikivoc:name "Symmetric tensor" .
+wiki:Q1289248 wiki_prop:P279 wiki:Q2091629 .
+wiki:Q2091629 wikivoc:name 'Magnitude' .
+wiki:Q1289248 wiki_prop:P279 wiki:Q1325769 .
+wiki:Q1325769 wikivoc:name "Antisymmetric tensor" .
+wiki:Q34187 wiki_prop:P361 wiki:Q64687996 .
+wiki:Q64687996 wikivoc:name "Theology and religious studies" .
+wiki:Q103940464 wiki_prop:P279 wiki:Q23958946 .
+wiki:Q23958946 wikivoc:name "Individual entity" .
+wiki:Q2018526 wiki_prop:P527 wiki:Q735 .
+wiki:Q735 wikivoc:name 'Art' .
+wiki:Q526016 wiki_prop:P279 wiki:Q1153014 .
+wiki:Q526016 wiki_prop:P527 wiki:Q64830866 .
+wiki:Q3284266 wiki_prop:P361 wiki:Q853077 .
+wiki:Q853077 wikivoc:name "Mathematics education" .
+wiki:Q3284266 wiki_prop:P527 wiki:Q211294 .
+wiki:Q211294 wikivoc:name "Elementary algebra" .
+wiki:Q3284266 wiki_prop:P527 wiki:Q162886 .
+wiki:Q162886 wikivoc:name "Euclidean geometry" .
+wiki:Q3284266 wiki_prop:P527 wiki:Q247154 .
+wiki:Q247154 wikivoc:name 'Counting' .
+wiki:Q3284266 wiki_prop:P527 wiki:Q8084 .
+wiki:Q8084 wikivoc:name 'Trigonometry' .
+wiki:Q14745 wiki_prop:P279 wiki:Q31807746 .
+wiki:Q31807746 wikivoc:name 'Furnishing' .
+wiki:Q14745 wiki_prop:P279 wiki:Q1357761 .
+wiki:Q1357761 wikivoc:name 'Utensil' .
+wiki:Q14745 wiki_prop:P527 wiki:Q43192208 .
+wiki:Q43192208 wikivoc:name "Furniture hardware" .
+wiki:Q14745 wiki_prop:P527 wiki:Q1355652 .
+wiki:Q1355652 wikivoc:name 'Plank' .
+wiki:Q14745 wiki_prop:P527 wiki:Q898776 .
+wiki:Q898776 wikivoc:name "Particle board" .
+wiki:Q14745 wiki_prop:P527 wiki:Q1397443 .
+wiki:Q1397443 wikivoc:name 'Fiberboard' .
+wiki:Q60673395 wiki_prop:P279 wiki:Q839546 .
+wiki:Q60673395 wiki_prop:P279 wiki:Q15710834 .
+wiki:Q15710834 wikivoc:name "Vehicle equipment" .
+wiki:Q18029395 wiki_prop:P31 wiki:Q192696 .
+wiki:Q192696 wikivoc:name "Line shaft" .
+wiki:Q309383 wiki_prop:P279 wiki:Q839546 .
+wiki:Q309 wiki_prop:P279 wiki:Q4330518 .
+wiki:Q4330518 wikivoc:name "Research object" .
+wiki:Q309 wiki_prop:P279 wiki:Q5067949 .
+wiki:Q5067949 wikivoc:name "Chain of events" .
+wiki:Q105606485 wiki_prop:P279 wiki:Q61788060 .
+wiki:Q385256 wiki_prop:P527 wiki:Q112971079 .
+wiki:Q112971079 wikivoc:name "Urban and regional economics" .
+wiki:Q337540 wiki_prop:P279 wiki:Q1386534 .
+wiki:Q1386534 wikivoc:name "Liquid fuel" .
+wiki:Q337540 wiki_prop:P279 wiki:Q12748 .
+wiki:Q337540 wiki_prop:P279 wiki:Q42501 .
+wiki:Q42501 wikivoc:name "Combustible matter" .
+wiki:Q64830866 wiki_prop:P361 wiki:Q39546 .
+wiki:Q64830866 wiki_prop:P279 wiki:Q110558466 .
+wiki:Q64830866 wiki_prop:P279 wiki:Q223557 .
+wiki:Q64830866 wiki_prop:P366 wiki:Q230629 .
+wiki:Q230629 wikivoc:name 'Connection' .
+wiki:Q10390031 wiki_prop:P361 wiki:Q294440 .
+wiki:Q294440 wikivoc:name "Public space" .
+wiki:Q10390031 wiki_prop:P279 wiki:Q34442 .
+wiki:Q34442 wikivoc:name 'Road' .
+wiki:Q4323994 wiki_prop:P279 wiki:Q79782 .
+wiki:Q79782 wikivoc:name 'Motion' .
+wiki:Q924286 wiki_prop:P279 wiki:Q7574076 .
+wiki:Q7574076 wikivoc:name "Spatial network" .
+wiki:Q924286 wiki_prop:P279 wiki:Q15993745 .
+wiki:Q15993745 wikivoc:name "Geographic network" .
+wiki:Q924286 wiki_prop:P279 wiki:Q27096235 .
+wiki:Q27096235 wikivoc:name "Artificial geographic entity" .
+wiki:Q924286 wiki_prop:P279 wiki:Q376799 .
+wiki:Q376799 wikivoc:name "Transport infrastructure" .
+wiki:Q924286 wiki_prop:P527 wiki:Q83620 .
+wiki:Q83620 wikivoc:name 'Thoroughfare' .
+wiki:Q924286 wiki_prop:P527 wiki:Q2449712 .
+wiki:Q2449712 wikivoc:name "Structure of transport network" .
+wiki:Q208443 wiki_prop:P361 wiki:Q3679502 .
+wiki:Q3679502 wikivoc:name 'Piping' .
+wiki:Q208443 wiki_prop:P279 wiki:Q40659076 .
+wiki:Q40659076 wikivoc:name "In-line component" .
+wiki:Q208443 wiki_prop:P279 wiki:Q182612 .
+wiki:Q182612 wikivoc:name 'Plumbing' .
+wiki:Q2583685 wiki_prop:P366 wiki:Q3242194 .
+wiki:Q3242194 wikivoc:name "Power transmission" .
+wiki:Q2995263 wiki_prop:P361 wiki:Q34493 .
+wiki:Q34493 wikivoc:name 'Motorcycle' .
+wiki:Q35277 wiki_prop:P361 wiki:Q2166096 .
+wiki:Q2166096 wikivoc:name "Theoretical philosophy" .
+wiki:Q1068107 wiki_prop:P279 wiki:Q839546 .
+wiki:Q1068107 wiki_prop:P279 wiki:Q811679 .
+wiki:Q811679 wikivoc:name "Structural element" .
+wiki:Q980357 wiki_prop:P361 wiki:Q315 .
+wiki:Q315 wikivoc:name 'Language' .
+wiki:Q980357 wiki_prop:P279 wiki:Q12050496 .
+wiki:Q12050496 wikivoc:name 'Feature' .
+wiki:Q980357 wiki_prop:P279 wiki:Q937228 .
+wiki:Q276099 wiki_prop:P31 wiki:Q8187769 .
+wiki:Q276099 wiki_prop:P31 wiki:Q78088984 .
+wiki:Q78088984 wikivoc:name "Study type" .
+wiki:Q276099 wiki_prop:P361 wiki:Q112117722 .
+wiki:Q112117722 wikivoc:name "Division in classification of productive activities" .
+wiki:Q276099 wiki_prop:P279 wiki:Q17493662 .
+wiki:Q17493662 wikivoc:name "Professional, scientific and technical activities" .
+wiki:Q276099 wiki_prop:P527 wiki:Q29585741 .
+wiki:Q29585741 wikivoc:name "Research and experimental development on natural sciences and engineering" .
+wiki:Q276099 wiki_prop:P527 wiki:Q29584794 .
+wiki:Q29584794 wikivoc:name "Research and experimental development on social sciences and humanities" .
+wiki:Q1816633 wiki_prop:P279 wiki:Q28972820 .
+wiki:Q28972820 wikivoc:name 'Operation' .
+wiki:Q61788060 wiki_prop:P279 wiki:Q3769299 .
+wiki:Q2996214 wiki_prop:P279 wiki:Q321839 .
+wiki:Q321839 wikivoc:name 'Agreement' .
+wiki:Q2551624 wiki_prop:P361 wiki:Q251212 .
+wiki:Q251212 wikivoc:name "Internet of things" .
+wiki:Q3710326 wiki_prop:P2283 wiki:Q128709 .
+wiki:Q128709 wikivoc:name 'Viscosity' .
+wiki:Q3710326 wiki_prop:P2283 wiki:Q208598 .
+wiki:Q208598 wikivoc:name "Eddy current" .
+wiki:Q3710326 wiki_prop:P527 wiki:Q102205 .
+wiki:Q102205 wikivoc:name 'Fluid' .
+wiki:Q3710326 wiki_prop:P527 wiki:Q906997 .
+wiki:Q906997 wikivoc:name 'Plunger' .
+wiki:Q3710326 wiki_prop:P366 wiki:Q1127660 .
+wiki:Q1127660 wikivoc:name 'Damping' .
+wiki:Q23498 wiki_prop:P361 wiki:Q113077601 .
+wiki:Q113077601 wikivoc:name "History, heritage and archaeology" .
+wiki:Q23498 wiki_prop:P279 wiki:Q1066186 .
+wiki:Q1066186 wikivoc:name "Study of history" .
+wiki:Q23498 wiki_prop:P279 wiki:Q113077601 .
+wiki:Q23498 wiki_prop:P527 wiki:Q819121 .
+wiki:Q23498 wiki_prop:P527 wiki:Q637284 .
+wiki:Q637284 wikivoc:name "Archaeological science" .
+wiki:Q160039 wiki_prop:P361 wiki:Q112955551 .
+wiki:Q112955551 wikivoc:name "Econometric and statistical methods" .
+wiki:Q82412 wiki_prop:P279 wiki:Q6497460 .
+wiki:Q6497460 wikivoc:name 'Gearbox' .
+wiki:Q1426151 wiki_prop:P31 wiki:Q10803218 .
+wiki:Q10803218 wikivoc:name 'Disk' .
+wiki:Q1426151 wiki_prop:P279 wiki:Q11469 .
+wiki:Q11469 wikivoc:name 'Glass' .
+wiki:Q740464 wiki_prop:P279 wiki:Q846882 .
+wiki:Q846882 wikivoc:name "Sources of law" .
+wiki:Q740464 wiki_prop:P279 wiki:Q1864008 .
+wiki:Q1864008 wikivoc:name "Legal act" .
+wiki:Q740464 wiki_prop:P279 wiki:Q1572600 .
+wiki:Q1572600 wikivoc:name 'Proclamation' .
+wiki:Q740464 wiki_prop:P279 wiki:Q3150005 .
+wiki:Q87410971 wiki_prop:P279 wiki:Q23640580 .
+wiki:Q23640580 wikivoc:name "Vehicle operator" .
+wiki:Q87410971 wiki_prop:P279 wiki:Q12737077 .
+wiki:Q12737077 wikivoc:name 'Occupation' .
+wiki:Q681263 wiki_prop:P279 wiki:Q2101564 .
+wiki:Q2101564 wikivoc:name 'Specification' .
+wiki:Q681263 wiki_prop:P279 wiki:Q317623 .
+wiki:Q681263 wiki_prop:P279 wiki:Q1271511 .
+wiki:Q1271511 wikivoc:name "Measurement standard" .
+wiki:Q61509 wiki_prop:P279 wiki:Q79782 .
+wiki:Q57833034 wiki_prop:P279 wiki:Q6497460 .
+wiki:Q12132639 wiki_prop:P2283 wiki:Q30046708 .
+wiki:Q30046708 wikivoc:name "Scientific viewpoint" .
+wiki:Q12132639 wiki_prop:P279 wiki:Q49447 .
+wiki:Q49447 wikivoc:name "World view" .
+wiki:Q12132639 wiki_prop:P527 wiki:Q30060700 .
+wiki:Q30060700 wikivoc:name "Scientific object" .
+wiki:Q121416 wiki_prop:P31 wiki:Q20026918 .
+wiki:Q121416 wiki_prop:P2283 wiki:Q185478 .
+wiki:Q185478 wikivoc:name "Countably infinite set" .
+wiki:Q2267705 wiki_prop:P361 wiki:Q16861871 .
+wiki:Q16861871 wikivoc:name "Job training" .
+wiki:Q1413287 wiki_prop:P31 wiki:Q2015382 .
+wiki:Q2015382 wikivoc:name 'Competence' .
+wiki:Q1413287 wiki_prop:P279 wiki:Q205961 .
+wiki:Q205961 wikivoc:name 'Skill' .
+wiki:Q1413287 wiki_prop:P279 wiki:Q527091 .
+wiki:Q527091 wikivoc:name 'Competence' .
+wiki:Q20532 wiki_prop:P31 wiki:Q28640 .
+wiki:Q28640 wikivoc:name 'Profession' .
+wiki:Q20532 wiki_prop:P279 wiki:Q483677 .
+wiki:Q483677 wikivoc:name 'Pseudoscience' .
+wiki:Q20532 wiki_prop:P279 wiki:Q188504 .
+wiki:Q188504 wikivoc:name "Alternative medicine" .
+wiki:Q20532 wiki_prop:P279 wiki:Q771035 .
+wiki:Q771035 wikivoc:name "Traditional medicine" .
+wiki:Q39680 wiki_prop:P361 wiki:Q10660901 .
+wiki:Q10660901 wikivoc:name "General economics" .
+wiki:Q21201 wiki_prop:P527 wiki:Q461659 .
+wiki:Q461659 wikivoc:name "Sociology of religion" .
+wiki:Q21201 wiki_prop:P527 wiki:Q2747152 .
+wiki:Q2747152 wikivoc:name "Sociology of science" .
+wiki:Q21201 wiki_prop:P527 wiki:Q15783860 .
+wiki:Q15783860 wikivoc:name "Sociology of work" .
+wiki:Q21201 wiki_prop:P527 wiki:Q829367 .
+wiki:Q829367 wikivoc:name "Sociology of education" .
+wiki:Q21201 wiki_prop:P527 wiki:Q610859 .
+wiki:Q610859 wikivoc:name "Economic sociology" .
+wiki:Q21201 wiki_prop:P527 wiki:Q9339103 .
+wiki:Q9339103 wikivoc:name "Sociology of organisations" .
+wiki:Q21201 wiki_prop:P527 wiki:Q847034 .
+wiki:Q847034 wikivoc:name "Sociology of law" .
+wiki:Q21201 wiki_prop:P527 wiki:Q594322 .
+wiki:Q594322 wikivoc:name "Sociology of sport" .
+wiki:Q21201 wiki_prop:P527 wiki:Q847486 .
+wiki:Q847486 wikivoc:name "Sociology of knowledge" .
+wiki:Q21201 wiki_prop:P527 wiki:Q1570681 .
+wiki:Q1570681 wikivoc:name "Sociology of culture" .
+wiki:Q21201 wiki_prop:P527 wiki:Q2167019 .
+wiki:Q2167019 wikivoc:name "Environmental sociology" .
+wiki:Q21201 wiki_prop:P527 wiki:Q727825 .
+wiki:Q727825 wikivoc:name "Media sociology" .
+wiki:Q21201 wiki_prop:P527 wiki:Q112960968 .
+wiki:Q112960968 wikivoc:name "Sociology of labour markets" .
+wiki:Q4026292 wiki_prop:P279 wiki:Q1190554 .
+wiki:Q56822593 wiki_prop:P279 wiki:Q82753 .
+wiki:Q82753 wikivoc:name "Computer file" .
+wiki:Q1150070 wiki_prop:P361 wiki:Q26697825 .
+wiki:Q26697825 wikivoc:name "Change and continuity" .
+wiki:Q1150070 wiki_prop:P279 wiki:Q1190554 .
+wiki:Q218662 wiki_prop:P361 wiki:Q1009333 .
+wiki:Q1009333 wikivoc:name 'Bundeszollverwaltung' .
+wiki:Q218662 wiki_prop:P279 wiki:Q3914 .
+wiki:Q3914 wikivoc:name 'School' .
+wiki:Q1066689 wiki_prop:P2283 wiki:Q12558574 .
+wiki:Q12558574 wikivoc:name "Point of view" .
+wiki:Q1066689 wiki_prop:P2283 wiki:Q340169 .
+wiki:Q1066689 wiki_prop:P279 wiki:Q3769299 .
+wiki:Q12802 wiki_prop:P31 wiki:Q348091 .
+wiki:Q348091 wikivoc:name "Nuclear technology" .
+wiki:Q12802 wiki_prop:P279 wiki:Q49394 .
+wiki:Q49394 wikivoc:name "Weapon of mass destruction" .
+wiki:Q12802 wiki_prop:P279 wiki:Q3733190 .
+wiki:Q3733190 wikivoc:name "Nuclear explosive" .
+wiki:Q21092339 wiki_prop:P361 wiki:Q6498784 .
+wiki:Q6498784 wikivoc:name "Mathematical expression" .
+wiki:Q21092339 wiki_prop:P279 wiki:Q80071 .
+wiki:Q80071 wikivoc:name 'Symbol' .
+wiki:Q21092339 wiki_prop:P279 wiki:Q3241972 .
+wiki:Q3241972 wikivoc:name 'Character' .
+wiki:Q21092339 wiki_prop:P279 wiki:Q6498784 .
+wiki:Q104934 wiki_prop:P527 wiki:Q11412 .
+wiki:Q11412 wikivoc:name 'Gravity' .
+wiki:Q104934 wiki_prop:P527 wiki:Q11418 .
+wiki:Q11418 wikivoc:name "Weak interaction" .
+wiki:Q104934 wiki_prop:P527 wiki:Q849919 .
+wiki:Q849919 wikivoc:name "Electromagnetic interaction" .
+wiki:Q104934 wiki_prop:P527 wiki:Q11415 .
+wiki:Q11415 wikivoc:name "Strong interaction" .
+wiki:Q2684591 wiki_prop:P279 wiki:Q108163 .
+wiki:Q108163 wikivoc:name 'Proposition' .
+wiki:Q3529597 wiki_prop:P279 wiki:Q63872616 .
+wiki:Q63872616 wikivoc:name "Layout component" .
+wiki:Q113141571 wiki_prop:P279 wiki:Q113043123 .
+wiki:Q113043123 wikivoc:name "Commerce, management, tourism and services" .
+wiki:Q2488579 wiki_prop:P279 wiki:Q5135523 .
+wiki:Q5135523 wikivoc:name 'Closure' .
+wiki:Q1786258 wiki_prop:P279 wiki:Q839546 .
+wiki:Q29627 wiki_prop:P31 wiki:Q2135465 .
+wiki:Q2135465 wikivoc:name "Legal concept" .
+wiki:Q29627 wiki_prop:P279 wiki:Q616314 .
+wiki:Q616314 wikivoc:name 'Interest' .
+wiki:Q36794 wiki_prop:P361 wiki:Q3947 .
+wiki:Q3947 wikivoc:name 'House' .
+wiki:Q36794 wiki_prop:P279 wiki:Q391414 .
+wiki:Q391414 wikivoc:name "Architectural element" .
+wiki:Q36794 wiki_prop:P279 wiki:Q264661 .
+wiki:Q264661 wikivoc:name 'Obstacle' .
+wiki:Q36794 wiki_prop:P527 wiki:Q23009 .
+wiki:Q23009 wikivoc:name "Door handle" .
+wiki:Q36794 wiki_prop:P527 wiki:Q82711 .
+wiki:Q82711 wikivoc:name 'Peephole' .
+wiki:Q36794 wiki_prop:P527 wiki:Q35473 .
+wiki:Q35473 wikivoc:name 'Window' .
+wiki:Q36794 wiki_prop:P527 wiki:Q24644118 .
+wiki:Q24644118 wikivoc:name "Door lock" .
+wiki:Q864928 wiki_prop:P279 wiki:Q7991 .
+wiki:Q864928 wiki_prop:P527 wiki:Q7150 .
+wiki:Q864928 wiki_prop:P527 wiki:Q101929 .
+wiki:Q101929 wikivoc:name 'Immunology' .
+wiki:Q864928 wiki_prop:P527 wiki:Q8269924 .
+wiki:Q8269924 wikivoc:name 'Taxonomy' .
+wiki:Q8187769 wiki_prop:P31 wiki:Q5333554 .
+wiki:Q5333554 wikivoc:name "Economic taxonomy" .
+wiki:Q8187769 wiki_prop:P31 wiki:Q2976602 .
+wiki:Q2976602 wikivoc:name "Industry classification" .
+wiki:Q96196009 wiki_prop:P279 wiki:Q1063239 .
+wiki:Q1063239 wikivoc:name 'Polity' .
+wiki:Q133250 wiki_prop:P279 wiki:Q17008256 .
+wiki:Q17008256 wikivoc:name 'Collection' .
+wiki:Q133250 wiki_prop:P279 wiki:Q20937557 .
+wiki:Q133250 wiki_prop:P279 wiki:Q11348 .
+wiki:Q11348 wikivoc:name 'Function' .
+wiki:Q15614122 wiki_prop:P31 wiki:Q20026918 .
+wiki:Q28733284 wiki_prop:P31 wiki:Q951437 .
+wiki:Q951437 wikivoc:name "Level of measurement" .
+wiki:Q28733284 wiki_prop:P279 wiki:Q192276 .
+wiki:Q192276 wikivoc:name 'Measure' .
+wiki:Q50412353 wiki_prop:P31 wiki:Q1783823 .
+wiki:Q1783823 wikivoc:name 'Coordination' .
+wiki:Q50412353 wiki_prop:P279 wiki:Q3769299 .
+wiki:Q50412353 wiki_prop:P279 wiki:Q428148 .
+wiki:Q428148 wikivoc:name 'Regulation' .
+wiki:Q4785356 wiki_prop:P31 wiki:Q4785472 .
+wiki:Q4785472 wikivoc:name "Archaeological sub-discipline" .
+wiki:Q4785356 wiki_prop:P527 wiki:Q318668 .
+wiki:Q4785356 wiki_prop:P527 wiki:Q636481 .
+wiki:Q636481 wikivoc:name 'Paleoethnobotany' .
+wiki:Q24476018 wiki_prop:P279 wiki:Q3435924 .
+wiki:Q3435924 wikivoc:name "Computational problem" .
+wiki:Q183484 wiki_prop:P361 wiki:Q4308 .
+wiki:Q4308 wikivoc:name "Graphics card" .
+wiki:Q183484 wiki_prop:P279 wiki:Q859595 .
+wiki:Q859595 wikivoc:name 'Coprocessor' .
+wiki:Q183484 wiki_prop:P279 wiki:Q919509 .
+wiki:Q919509 wikivoc:name "Vector processor" .
+wiki:Q183484 wiki_prop:P527 wiki:Q1660161 .
+wiki:Q1660161 wikivoc:name "Texture mapping unit" .
+wiki:Q183484 wiki_prop:P527 wiki:Q24588451 .
+wiki:Q24588451 wikivoc:name "Texture cache" .
+wiki:Q183484 wiki_prop:P527 wiki:Q12635161 .
+wiki:Q12635161 wikivoc:name "L2 cache" .
+wiki:Q183484 wiki_prop:P527 wiki:Q24587457 .
+wiki:Q24587457 wikivoc:name "Shader pipeline" .
+wiki:Q183484 wiki_prop:P527 wiki:Q24590781 .
+wiki:Q24590781 wikivoc:name "Shared l2 cache" .
+wiki:Q39072 wiki_prop:P361 wiki:Q10660901 .
+wiki:Q39072 wiki_prop:P279 wiki:Q1401304 .
+wiki:Q1401304 wikivoc:name "Economic theory" .
+wiki:Q2798912 wiki_prop:P279 wiki:Q1274115 .
+wiki:Q1274115 wikivoc:name 'Responsibility' .
+wiki:Q3578710 wiki_prop:P361 wiki:Q149584 .
+wiki:Q17638537 wiki_prop:P361 wiki:Q80006 .
+wiki:Q80006 wikivoc:name "Computer programming" .
+wiki:Q17638537 wiki_prop:P279 wiki:Q20937557 .
+wiki:Q17638537 wiki_prop:P527 wiki:Q20816930 .
+wiki:Q20816930 wikivoc:name "Machine instruction" .
+wiki:Q1713927 wiki_prop:P31 wiki:Q839546 .
+wiki:Q1713927 wiki_prop:P361 wiki:Q840916 .
+wiki:Q840916 wikivoc:name 'Commutator' .
+wiki:Q1713927 wiki_prop:P361 wiki:Q624619 .
+wiki:Q624619 wikivoc:name "Slip ring" .
+wiki:Q1713927 wiki_prop:P361 wiki:Q4459608 .
+wiki:Q4459608 wikivoc:name "Current collector" .
+wiki:Q1713927 wiki_prop:P279 wiki:Q394001 .
+wiki:Q394001 wikivoc:name "Electrical contact" .
+wiki:Q102836 wiki_prop:P279 wiki:Q839546 .
+wiki:Q102836 wiki_prop:P279 wiki:Q25629903 .
+wiki:Q25629903 wikivoc:name "Helical object" .
+wiki:Q243350 wiki_prop:P31 wiki:Q24243801 .
+wiki:Q24243801 wikivoc:name "Universal classification scheme" .
+wiki:Q243350 wiki_prop:P31 wiki:Q1207369 .
+wiki:Q1207369 wikivoc:name "Decimal classification" .
+wiki:Q243350 wiki_prop:P31 wiki:Q1391014 .
+wiki:Q1391014 wikivoc:name "Faceted classification" .
+wiki:Q243350 wiki_prop:P279 wiki:Q48473 .
+wiki:Q48473 wikivoc:name "Library classification" .
+wiki:Q18593264 wiki_prop:P279 wiki:Q2342494 .
+wiki:Q2342494 wikivoc:name 'Collectible' .
+wiki:Q5127848 wiki_prop:P527 wiki:Q36810897 .
+wiki:Q36810897 wikivoc:name "Member of class (philosophy)" .
+wiki:Q901 wiki_prop:P31 wiki:Q28640 .
+wiki:Q901 wiki_prop:P279 wiki:Q1650915 .
+wiki:Q1650915 wikivoc:name 'Researcher' .
+wiki:Q901 wiki_prop:P279 wiki:Q20826540 .
+wiki:Q20826540 wikivoc:name "Erudite person" .
+wiki:Q246672 wiki_prop:P279 wiki:Q30060700 .
+wiki:Q1640628 wiki_prop:P279 wiki:Q146923 .
+wiki:Q146923 wikivoc:name "Middleware of distributed system" .
+wiki:Q1640628 wiki_prop:P279 wiki:Q7406919 .
+wiki:Q28575007 wiki_prop:P279 wiki:Q1122491 .
+wiki:Q459381 wiki_prop:P279 wiki:Q208217 .
+wiki:Q208217 wikivoc:name "Literary studies" .
+wiki:Q11103 wiki_prop:P31 wiki:Q3331189 .
+wiki:Q3331189 wikivoc:name "Version, edition, or translation" .
+wiki:Q2329 wiki_prop:P527 wiki:Q11351 .
+wiki:Q11351 wikivoc:name "Organic chemistry" .
+wiki:Q2329 wiki_prop:P527 wiki:Q11372 .
+wiki:Q11372 wikivoc:name "Physical chemistry" .
+wiki:Q2329 wiki_prop:P527 wiki:Q11165 .
+wiki:Q11165 wikivoc:name "Inorganic chemistry" .
+wiki:Q2329 wiki_prop:P527 wiki:Q369472 .
+wiki:Q369472 wikivoc:name "Computational chemistry" .
+wiki:Q2329 wiki_prop:P527 wiki:Q321150 .
+wiki:Q321150 wikivoc:name "Theoretical chemistry" .
+wiki:Q2329 wiki_prop:P527 wiki:Q7094 .
+wiki:Q7094 wikivoc:name 'Biochemistry' .
+wiki:Q2329 wiki_prop:P527 wiki:Q2346 .
+wiki:Q2346 wikivoc:name "Analytical chemistry" .
+wiki:Q2329 wiki_prop:P527 wiki:Q910172 .
+wiki:Q910172 wikivoc:name "Food chemistry" .
+wiki:Q2329 wiki_prop:P527 wiki:Q321355 .
+wiki:Q321355 wikivoc:name "Environmental chemistry" .
+wiki:Q12132640 wiki_prop:P361 wiki:Q1965486 .
+wiki:Q1965486 wikivoc:name "Scientific style" .
+wiki:Q12132640 wiki_prop:P279 wiki:Q1391494 .
+wiki:Q12132640 wiki_prop:P527 wiki:Q999234 .
+wiki:Q999234 wikivoc:name "Scientific term" .
+wiki:Q3966 wiki_prop:P31 wiki:Q11650 .
+wiki:Q3966 wiki_prop:P279 wiki:Q2858615 .
+wiki:Q2858615 wikivoc:name "Electronic machine" .
+wiki:Q167676 wiki_prop:P31 wiki:Q811909 .
+wiki:Q167676 wiki_prop:P361 wiki:Q2041172 .
+wiki:Q2041172 wikivoc:name "Measuring instrument" .
+wiki:Q167676 wiki_prop:P279 wiki:Q2041172 .
+wiki:Q106225489 wiki_prop:P31 wiki:Q21546143 .
+wiki:Q106225489 wiki_prop:P279 wiki:Q18356126 .
+wiki:Q12769393 wiki_prop:P279 wiki:Q20203388 .
+wiki:Q194156 wiki_prop:P361 wiki:Q11436 .
+wiki:Q11436 wikivoc:name 'Aircraft' .
+wiki:Q194156 wiki_prop:P279 wiki:Q628858 .
+wiki:Q628858 wikivoc:name 'Workplace' .
+wiki:Q194156 wiki_prop:P279 wiki:Q28816538 .
+wiki:Q28816538 wikivoc:name "Aircraft component" .
+wiki:Q194156 wiki_prop:P527 wiki:Q517061 .
+wiki:Q517061 wikivoc:name "Flight instrument" .
+wiki:Q194156 wiki_prop:P527 wiki:Q864114 .
+wiki:Q864114 wikivoc:name "Input device" .
+wiki:Q194156 wiki_prop:P527 wiki:Q1474418 .
+wiki:Q1474418 wikivoc:name "Two-way radio" .
+wiki:Q194156 wiki_prop:P527 wiki:Q623544 .
+wiki:Q623544 wikivoc:name "Ejection seat" .
+wiki:Q194156 wiki_prop:P527 wiki:Q2603074 .
+wiki:Q2603074 wikivoc:name 'Intercom' .
+wiki:Q1503766 wiki_prop:P31 wiki:Q20026918 .
+wiki:Q1503766 wiki_prop:P2283 wiki:Q193885 .
+wiki:Q193885 wikivoc:name 'Infinitesimal' .
+wiki:Q1503766 wiki_prop:P361 wiki:Q467606 .
+wiki:Q467606 wikivoc:name "Model theory" .
+wiki:Q1327500 wiki_prop:P31 wiki:Q1254773 .
+wiki:Q1254773 wikivoc:name "Family of musical instruments" .
+wiki:Q1327500 wiki_prop:P2283 wiki:Q174925 .
+wiki:Q174925 wikivoc:name "Analog electronics" .
+wiki:Q1327500 wiki_prop:P361 wiki:Q26836418 .
+wiki:Q26836418 wikivoc:name "Mimos classification of musical instrument" .
+wiki:Q1327500 wiki_prop:P279 wiki:Q105738 .
+wiki:Q105738 wikivoc:name 'Electrophone' .
+wiki:Q1327500 wiki_prop:P279 wiki:Q876367 .
+wiki:Q876367 wikivoc:name "Electronic instrument" .
+wiki:Q1327500 wiki_prop:P279 wiki:Q34379 .
+wiki:Q34379 wikivoc:name "Musical instrument" .
+wiki:Q106839123 wiki_prop:P279 wiki:Q10273457 .
+wiki:Q101542346 wiki_prop:P279 wiki:Q13226383 .
+wiki:Q13226383 wikivoc:name 'Facility' .
+wiki:Q155076 wiki_prop:P31 wiki:Q2135465 .
+wiki:Q155076 wiki_prop:P31 wiki:Q10541491 .
+wiki:Q155076 wiki_prop:P279 wiki:Q3778211 .
+wiki:Q155076 wiki_prop:P279 wiki:Q43229 .
+wiki:Q185502 wiki_prop:P279 wiki:Q17488292 .
+wiki:Q20026918 wiki_prop:P527 wiki:Q65943 .
+wiki:Q65943 wikivoc:name 'Theorem' .
+wiki:Q20026918 wiki_prop:P527 wiki:Q114425676 .
+wiki:Q114425676 wikivoc:name "Mathematical definition" .
+wiki:Q20026918 wiki_prop:P527 wiki:Q114424786 .
+wiki:Q114424786 wikivoc:name "Example in mathematics" .
+wiki:Q20026918 wiki_prop:P527 wiki:Q114423884 .
+wiki:Q114423884 wikivoc:name 'Remark' .
+wiki:Q20026918 wiki_prop:P527 wiki:Q11538 .
+wiki:Q11538 wikivoc:name "Mathematical proof" .
+wiki:Q177777 wiki_prop:P279 wiki:Q12015335 .
+wiki:Q12015335 wikivoc:name "Branch of engineering" .
+wiki:Q177777 wiki_prop:P279 wiki:Q29017603 .
+wiki:Q187084 wiki_prop:P361 wiki:Q1078351 .
+wiki:Q1078351 wikivoc:name "Communication science" .
+wiki:Q187084 wiki_prop:P361 wiki:Q165650 .
+wiki:Q165650 wikivoc:name "Media studies" .
+wiki:Q17176533 wiki_prop:P279 wiki:Q66310127 .
+wiki:Q66310127 wikivoc:name "Immaterial component" .
+wiki:Q17176533 wiki_prop:P279 wiki:Q110832782 .
+wiki:Q110832782 wikivoc:name "Software resource" .
+wiki:Q17176533 wiki_prop:P279 wiki:Q811909 .
+wiki:Q1128340 wiki_prop:P361 wiki:Q1469824 .
+wiki:Q1469824 wikivoc:name "Controlled vocabulary" .
+wiki:Q1128340 wiki_prop:P279 wiki:Q115372263 .
+wiki:Q115372263 wikivoc:name "Word or phrase" .
+wiki:Q207892 wiki_prop:P31 wiki:Q1756157 .
+wiki:Q1756157 wikivoc:name "Area of law" .
+wiki:Q207892 wiki_prop:P279 wiki:Q7748 .
+wiki:Q7748 wikivoc:name 'Law' .
+wiki:Q207892 wiki_prop:P279 wiki:Q15831440 .
+wiki:Q207892 wiki_prop:P527 wiki:Q2270062 .
+wiki:Q2270062 wikivoc:name "Political law" .
+wiki:Q207892 wiki_prop:P527 wiki:Q171251 .
+wiki:Q171251 wikivoc:name "Administrative law" .
+wiki:Q207892 wiki_prop:P527 wiki:Q11206 .
+wiki:Q11206 wikivoc:name "Constitutional law" .
+wiki:Q47398 wiki_prop:P279 wiki:Q5076869 .
+wiki:Q5076869 wikivoc:name "History of the social sciences" .
+wiki:Q3917681 wiki_prop:P361 wiki:Q1889 .
+wiki:Q1889 wikivoc:name 'Diplomacy' .
+wiki:Q3917681 wiki_prop:P279 wiki:Q213283 .
+wiki:Q213283 wikivoc:name "Diplomatic mission" .
+wiki:Q3979448 wiki_prop:P279 wiki:Q937228 .
+wiki:Q7406919 wiki_prop:P361 wiki:Q2897903 .
+wiki:Q2897903 wikivoc:name "Goods and services" .
+wiki:Q7406919 wiki_prop:P279 wiki:Q2897903 .
+wiki:Q7406919 wiki_prop:P366 wiki:Q484830 .
+wiki:Q484830 wikivoc:name 'Barter' .
+wiki:Q7406919 wiki_prop:P366 wiki:Q23009552 .
+wiki:Q23009552 wikivoc:name "Gift exchange" .
+wiki:Q116754571 wiki_prop:P279 wiki:Q17008276 .
+wiki:Q17008276 wikivoc:name "Collections management" .
+wiki:Q1724915 wiki_prop:P279 wiki:Q937228 .
+wiki:Q250 wiki_prop:P361 wiki:Q3518405 .
+wiki:Q3518405 wikivoc:name 'Terminal' .
+wiki:Q250 wiki_prop:P279 wiki:Q1921606 .
+wiki:Q1921606 wikivoc:name 'Keyboard' .
+wiki:Q250 wiki_prop:P279 wiki:Q1348085 .
+wiki:Q1348085 wikivoc:name "Human interface device" .
+wiki:Q250 wiki_prop:P279 wiki:Q7708418 .
+wiki:Q7708418 wikivoc:name "Text entry interface" .
+wiki:Q250 wiki_prop:P527 wiki:Q27884930 .
+wiki:Q27884930 wikivoc:name "Computer key" .
+wiki:Q250 wiki_prop:P527 wiki:Q199306 .
+wiki:Q199306 wikivoc:name "Numeric keypad" .
+wiki:Q18366 wiki_prop:P2283 wiki:Q77872752 .
+wiki:Q77872752 wikivoc:name "Physics experiment" .
+wiki:Q7150 wiki_prop:P31 wiki:Q28598684 .
+wiki:Q7150 wiki_prop:P31 wiki:Q19935939 .
+wiki:Q19935939 wikivoc:name "Branch of geography" .
+wiki:Q7150 wiki_prop:P527 wiki:Q720858 .
+wiki:Q720858 wikivoc:name "Human ecology" .
+wiki:Q7150 wiki_prop:P527 wiki:Q1387972 .
+wiki:Q7150 wiki_prop:P527 wiki:Q48997455 .
+wiki:Q48997455 wikivoc:name "Genetic ecology" .
+wiki:Q7150 wiki_prop:P527 wiki:Q10900987 .
+wiki:Q10900987 wikivoc:name "Animal ecology" .
+wiki:Q327333 wiki_prop:P31 wiki:Q43229 .
+wiki:Q327333 wiki_prop:P361 wiki:Q12056862 .
+wiki:Q12056862 wikivoc:name "State administration" .
+wiki:Q327333 wiki_prop:P279 wiki:Q2659904 .
+wiki:Q2659904 wikivoc:name "Government organization" .
+wiki:Q327333 wiki_prop:P527 wiki:Q1221119 .
+wiki:Q1221119 wikivoc:name 'Dienststelle' .
+wiki:Q317623 wiki_prop:P279 wiki:Q106418668 .
+wiki:Q106418668 wikivoc:name 'Standard' .
+wiki:Q317623 wiki_prop:P279 wiki:Q13136 .
+wiki:Q13136 wikivoc:name "Reference work" .
+wiki:Q2089936 wiki_prop:P361 wiki:Q1959446 .
+wiki:Q1959446 wikivoc:name "Service sector" .
+wiki:Q2089936 wiki_prop:P279 wiki:Q783794 .
+wiki:Q783794 wikivoc:name 'Company' .
+wiki:Q2089936 wiki_prop:P527 wiki:Q29584340 .
+wiki:Q29584340 wikivoc:name "Legal and accounting activities" .
+wiki:Q2089936 wiki_prop:P527 wiki:Q29584341 .
+wiki:Q29584341 wikivoc:name "Activities of head offices; management consultancy activities" .
+wiki:Q389772 wiki_prop:P279 wiki:Q118093 .
+wiki:Q118093 wikivoc:name 'Transmission' .
+wiki:Q898440 wiki_prop:P279 wiki:Q2995644 .
+wiki:Q12748 wiki_prop:P279 wiki:Q42501 .
+wiki:Q12748 wiki_prop:P279 wiki:Q936791 .
+wiki:Q936791 wikivoc:name "Non-renewable resource" .
+wiki:Q12748 wiki_prop:P279 wiki:Q889659 .
+wiki:Q889659 wikivoc:name "Mineral resource or fluid or gaseous mined resource" .
+wiki:Q12748 wiki_prop:P366 wiki:Q2632167 .
+wiki:Q2632167 wikivoc:name "Nonrenewable energy" .
+wiki:Q1752346 wiki_prop:P2283 wiki:Q221911 .
+wiki:Q221911 wikivoc:name "Parliamentary procedure" .
+wiki:Q1752346 wiki_prop:P361 wiki:Q284289 .
+wiki:Q284289 wikivoc:name "Deliberative democracy" .
+wiki:Q1752346 wiki_prop:P279 wiki:Q43229 .
+wiki:Q43229 wiki_prop:P279 wiki:Q106559804 .
+wiki:Q106559804 wikivoc:name "Person or organization" .
+wiki:Q43229 wiki_prop:P527 wiki:Q10756188 .
+wiki:Q10756188 wikivoc:name 'Treasury' .
+wiki:Q811909 wiki_prop:P279 wiki:Q39546 .
+wiki:Q78754808 wiki_prop:P279 wiki:Q47574 .
+wiki:Q47574 wikivoc:name "Unit of measurement" .
+wiki:Q8242 wiki_prop:P31 wiki:Q56055944 .
+wiki:Q56055944 wikivoc:name "Type of arts" .
+wiki:Q8242 wiki_prop:P31 wiki:Q17489659 .
+wiki:Q17489659 wikivoc:name "Group of works" .
+wiki:Q8242 wiki_prop:P279 wiki:Q735 .
+wiki:Q337060 wiki_prop:P279 wiki:Q223557 .
+wiki:Q59157099 wiki_prop:P366 wiki:Q66545591 .
+wiki:Q66545591 wikivoc:name "Document communication" .
+wiki:Q2513039 wiki_prop:P279 wiki:Q2041172 .
+wiki:Q917912 wiki_prop:P31 wiki:Q47728 .
+wiki:Q47728 wikivoc:name 'Hobby' .
+wiki:Q149972 wiki_prop:P279 wiki:Q4464 .
+wiki:Q149972 wiki_prop:P527 wiki:Q149999 .
+wiki:Q149999 wikivoc:name "Differential calculus" .
+wiki:Q149972 wiki_prop:P527 wiki:Q150008 .
+wiki:Q150008 wikivoc:name "Integral calculus" .
+wiki:Q261155 wiki_prop:P31 wiki:Q1318370 .
+wiki:Q1318370 wikivoc:name 'Term' .
+wiki:Q261155 wiki_prop:P279 wiki:Q1190554 .
+wiki:Q1500340 wiki_prop:P361 wiki:Q15618781 .
+wiki:Q1500340 wiki_prop:P279 wiki:Q46765731 .
+wiki:Q324254 wiki_prop:P2283 wiki:Q1469824 .
+wiki:Q324254 wiki_prop:P361 wiki:Q109642276 .
+wiki:Q109642276 wikivoc:name "Knowledge representation" .
+wiki:Q324254 wiki_prop:P361 wiki:Q593744 .
+wiki:Q593744 wikivoc:name "Knowledge base" .
+wiki:Q324254 wiki_prop:P361 wiki:Q33002955 .
+wiki:Q33002955 wikivoc:name "Knowledge graph" .
+wiki:Q324254 wiki_prop:P279 wiki:Q593744 .
+wiki:Q324254 wiki_prop:P279 wiki:Q1172480 .
+wiki:Q1172480 wikivoc:name "Data model" .
+wiki:Q324254 wiki_prop:P279 wiki:Q1397073 .
+wiki:Q1397073 wikivoc:name "Data schema" .
+wiki:Q324254 wiki_prop:P279 wiki:Q2101564 .
+wiki:Q324254 wiki_prop:P527 wiki:Q4668674 .
+wiki:Q4668674 wikivoc:name 'Abox' .
+wiki:Q324254 wiki_prop:P527 wiki:Q7690598 .
+wiki:Q7690598 wikivoc:name 'Tbox' .
+wiki:Q324254 wiki_prop:P527 wiki:Q108542769 .
+wiki:Q108542769 wikivoc:name 'Rbox' .
+wiki:Q324254 wiki_prop:P527 wiki:Q2722260 .
+wiki:Q2722260 wikivoc:name 'Attribute' .
+wiki:Q840400 wiki_prop:P31 wiki:Q28598684 .
+wiki:Q11650 wiki_prop:P279 wiki:Q373065 .
+wiki:Q373065 wikivoc:name "Applied physics" .
+wiki:Q11650 wiki_prop:P527 wiki:Q1815901 .
+wiki:Q1815901 wikivoc:name "Electronic circuit" .
+wiki:Q928498 wiki_prop:P361 wiki:Q19933904 .
+wiki:Q19933904 wikivoc:name "Homogeneity and heterogeneity" .
+wiki:Q928498 wiki_prop:P279 wiki:Q10862449 .
+wiki:Q10862449 wikivoc:name 'Difference' .
+wiki:Q17525443 wiki_prop:P279 wiki:Q1190554 .
+wiki:Q17525443 wiki_prop:P279 wiki:Q23008351 .
+wiki:Q23008351 wikivoc:name "Relative location" .
+wiki:Q7141 wiki_prop:P31 wiki:Q28598684 .
+wiki:Q1190554 wiki_prop:P279 wiki:Q26907166 .
+wiki:Q26907166 wikivoc:name "Temporal entity" .
+wiki:Q55813 wiki_prop:P31 wiki:Q192161 .
+wiki:Q192161 wikivoc:name "Formal language" .
+wiki:Q55813 wiki_prop:P2283 wiki:Q23893200 .
+wiki:Q23893200 wikivoc:name "Machine language" .
+wiki:Q55813 wiki_prop:P279 wiki:Q9143 .
+wiki:Q9143 wikivoc:name "Programming language" .
+wiki:Q294362 wiki_prop:P361 wiki:Q161837 .
+wiki:Q161837 wikivoc:name "Public service" .
+wiki:Q294362 wiki_prop:P279 wiki:Q178512 .
+wiki:Q178512 wikivoc:name "Public transport" .
+wiki:Q294362 wiki_prop:P279 wiki:Q2072431 .
+wiki:Q2072431 wikivoc:name "Passenger transport" .
+wiki:Q1224578 wiki_prop:P279 wiki:Q57693916 .
+wiki:Q57693916 wikivoc:name "Aero part" .
+wiki:Q1118654 wiki_prop:P31 wiki:Q1401304 .
+wiki:Q1118654 wiki_prop:P31 wiki:Q3048444 .
+wiki:Q3048444 wikivoc:name "School of economic thought" .
+wiki:Q1118654 wiki_prop:P361 wiki:Q1582475 .
+wiki:Q1582475 wikivoc:name "Heterodox economics" .
+wiki:Q18564125 wiki_prop:P31 wiki:Q96247293 .
+wiki:Q96247293 wikivoc:name "Type of management" .
+wiki:Q18564125 wiki_prop:P31 wiki:Q2043282 .
+wiki:Q2043282 wikivoc:name "Business administration" .
+wiki:Q18564125 wiki_prop:P361 wiki:Q101802668 .
+wiki:Q101802668 wikivoc:name "Business administration and personnel management" .
+wiki:Q18564125 wiki_prop:P279 wiki:Q2920921 .
+wiki:Q2920921 wikivoc:name 'Management' .
+wiki:Q18564125 wiki_prop:P279 wiki:Q2043282 .
+wiki:Q141488 wiki_prop:P279 wiki:Q2642629 .
+wiki:Q2642629 wikivoc:name 'Multigraph' .
+wiki:Q141488 wiki_prop:P527 wiki:Q3297804 .
+wiki:Q3297804 wikivoc:name 'Edge' .
+wiki:Q141488 wiki_prop:P527 wiki:Q1304193 .
+wiki:Q1304193 wikivoc:name 'Node' .
+wiki:Q580101 wiki_prop:P279 wiki:Q11345 .
+wiki:Q11345 wikivoc:name 'Equation' .
+wiki:Q911916 wiki_prop:P31 wiki:Q21484471 .
+wiki:Q334166 wiki_prop:P361 wiki:Q376799 .
+wiki:Q334166 wiki_prop:P527 wiki:Q1661652 .
+wiki:Q334166 wiki_prop:P527 wiki:Q178512 .
+wiki:Q334166 wiki_prop:P527 wiki:Q109732621 .
+wiki:Q109732621 wikivoc:name "Individual transportation" .
+wiki:Q35798 wiki_prop:P361 wiki:Q2101636 .
+wiki:Q2101636 wikivoc:name "Political power" .
+wiki:Q35798 wiki_prop:P279 wiki:Q15708736 .
+wiki:Q15708736 wikivoc:name "State authority" .
+wiki:Q35798 wiki_prop:P279 wiki:Q2324993 .
+wiki:Q2324993 wikivoc:name "State power" .
+wiki:Q35798 wiki_prop:P279 wiki:Q7210356 .
+wiki:Q7210356 wikivoc:name "Political organization" .
+wiki:Q1135572 wiki_prop:P279 wiki:Q31087 .
+wiki:Q31087 wikivoc:name 'Calculator' .
+wiki:Q1135572 wiki_prop:P279 wiki:Q2041172 .
+wiki:Q124192 wiki_prop:P31 wiki:Q12015335 .
+wiki:Q124192 wiki_prop:P361 wiki:Q101333 .
+wiki:Q101333 wikivoc:name "Mechanical engineering" .
+wiki:Q124192 wiki_prop:P361 wiki:Q43035 .
+wiki:Q43035 wikivoc:name "Electrical engineering" .
+wiki:Q124192 wiki_prop:P279 wiki:Q101333 .
+wiki:Q124192 wiki_prop:P279 wiki:Q43035 .
+wiki:Q7604698 wiki_prop:P279 wiki:Q2659904 .
+wiki:Q7604698 wiki_prop:P279 wiki:Q10541491 .
+wiki:Q47146 wiki_prop:P279 wiki:Q110558466 .
+wiki:Q47146 wiki_prop:P366 wiki:Q39177023 .
+wiki:Q39177023 wikivoc:name "Human to computer interactivity" .
+wiki:Q7991 wiki_prop:P527 wiki:Q188847 .
+wiki:Q188847 wikivoc:name "Environmental science" .
+wiki:Q7991 wiki_prop:P527 wiki:Q8008 .
+wiki:Q7991 wiki_prop:P527 wiki:Q7094 .
+wiki:Q7991 wiki_prop:P527 wiki:Q1195766 .
+wiki:Q15141646 wiki_prop:P279 wiki:Q104450446 .
+wiki:Q104450446 wikivoc:name "Data carrier" .
+wiki:Q15141646 wiki_prop:P366 wiki:Q57515336 .
+wiki:Q57515336 wikivoc:name "Digital data storage" .
+wiki:Q423488 wiki_prop:P279 wiki:Q215928 .
+wiki:Q215928 wikivoc:name 'Transducer' .
+wiki:Q272870 wiki_prop:P279 wiki:Q10273457 .
+wiki:Q190312 wiki_prop:P31 wiki:Q839546 .
+wiki:Q190312 wiki_prop:P361 wiki:Q130760 .
+wiki:Q130760 wikivoc:name 'Turbine' .
+wiki:Q11422 wiki_prop:P279 wiki:Q17538258 .
+wiki:Q17538258 wikivoc:name "Recreative work" .
+wiki:Q11422 wiki_prop:P279 wiki:Q223557 .
+wiki:Q11422 wiki_prop:P279 wiki:Q21550927 .
+wiki:Q21550927 wikivoc:name "Recreational equipment" .
+wiki:Q11422 wiki_prop:P366 wiki:Q11410 .
+wiki:Q11410 wikivoc:name 'Game' .
+wiki:Q4354683 wiki_prop:P527 wiki:Q3565868 .
+wiki:Q3565868 wikivoc:name "Rail transport" .
+wiki:Q4354683 wiki_prop:P527 wiki:Q7078901 .
+wiki:Q7078901 wikivoc:name "Off-road transport" .
+wiki:Q4354683 wiki_prop:P527 wiki:Q725864 .
+wiki:Q725864 wikivoc:name "Pipeline transport" .
+wiki:Q340169 wiki_prop:P279 wiki:Q104450446 .
+wiki:Q340169 wiki_prop:P527 wiki:Q35758 .
+wiki:Q3769299 wiki_prop:P279 wiki:Q9332 .
+wiki:Q9332 wikivoc:name 'Behavior' .
+wiki:Q42848 wiki_prop:P361 wiki:Q59138835 .
+wiki:Q59138835 wikivoc:name "Data base" .
+wiki:Q8425 wiki_prop:P361 wiki:Q1156970 .
+wiki:Q1156970 wikivoc:name 'Humanity' .
+wiki:Q8425 wiki_prop:P527 wiki:Q874405 .
+wiki:Q82604 wiki_prop:P2283 wiki:Q17039022 .
+wiki:Q17039022 wikivoc:name 'Ideation' .
+wiki:Q82604 wiki_prop:P2283 wiki:Q1200670 .
+wiki:Q1200670 wikivoc:name "Design thinking" .
+wiki:Q82604 wiki_prop:P2283 wiki:Q105102283 .
+wiki:Q105102283 wikivoc:name "Design process" .
+wiki:Q82604 wiki_prop:P2283 wiki:Q2292993 .
+wiki:Q2292993 wikivoc:name "Design method" .
+wiki:Q82604 wiki_prop:P279 wiki:Q113129241 .
+wiki:Q113129241 wikivoc:name "Built environment and design studies" .
+wiki:Q82604 wiki_prop:P366 wiki:Q47407603 .
+wiki:Q47407603 wikivoc:name "Artistic creation" .
+wiki:Q82604 wiki_prop:P366 wiki:Q3908516 .
+wiki:Q3908516 wikivoc:name 'Entrepreneurship' .
+wiki:Q115517465 wiki_prop:P279 wiki:Q115095765 .
+wiki:Q115095765 wikivoc:name 'Location' .
+wiki:Q31218 wiki_prop:P527 wiki:Q1567856 .
+wiki:Q1567856 wikivoc:name 'Pharmacoeconomics' .
+wiki:Q31218 wiki_prop:P527 wiki:Q1420413 .
+wiki:Q1420413 wikivoc:name "Health technology assessment" .
+wiki:Q112955904 wiki_prop:P527 wiki:Q1636734 .
+wiki:Q1636734 wikivoc:name "Universal algebra" .
+wiki:Q736556 wiki_prop:P279 wiki:Q16908411 .
+wiki:Q16908411 wikivoc:name 'Filter' .
+wiki:Q736556 wiki_prop:P366 wiki:Q244772 .
+wiki:Q244772 wikivoc:name 'Filtration' .
+wiki:Q506095 wiki_prop:P279 wiki:Q11469 .
+wiki:Q506095 wiki_prop:P279 wiki:Q35473 .
+wiki:Q751436 wiki_prop:P527 wiki:Q1412443 .
+wiki:Q1412443 wikivoc:name "Unix signal" .
+wiki:Q3181395 wiki_prop:P527 wiki:Q1854565 .
+wiki:Q1854565 wikivoc:name 'Input' .
+wiki:Q3181395 wiki_prop:P527 wiki:Q66221 .
+wiki:Q66221 wikivoc:name "Computer data storage device" .
+wiki:Q3181395 wiki_prop:P527 wiki:Q1863063 .
+wiki:Q1863063 wikivoc:name 'Output' .
+wiki:Q177005 wiki_prop:P31 wiki:Q28598684 .
+wiki:Q177005 wiki_prop:P279 wiki:Q117801 .
+wiki:Q839546 wiki_prop:P361 wiki:Q1882685 .
+wiki:Q839546 wiki_prop:P279 wiki:Q66310125 .
+wiki:Q66310125 wikivoc:name "Nonbiological component" .
+wiki:Q66745531 wiki_prop:P31 wiki:Q66664364 .
+wiki:Q66664364 wikivoc:name "Linguistics term" .
+wiki:Q110458263 wiki_prop:P2283 wiki:Q33767 .
+wiki:Q33767 wikivoc:name 'Hand' .
+wiki:Q11540953 wiki_prop:P279 wiki:Q4544684 .
+wiki:Q4544684 wikivoc:name 'Search' .
+wiki:Q167037 wiki_prop:P279 wiki:Q7451779 .
+wiki:Q7451779 wikivoc:name "Separate legal entity" .
+wiki:Q167037 wiki_prop:P279 wiki:Q783794 .
+wiki:Q2377160 wiki_prop:P361 wiki:Q4117183 .
+wiki:Q4117183 wikivoc:name "Open biological and biomedical ontology foundry ontologies" .
+wiki:Q492071 wiki_prop:P279 wiki:Q134574 .
+wiki:Q134574 wikivoc:name 'Pump' .
+wiki:Q17488292 wiki_prop:P279 wiki:Q649732 .
+wiki:Q649732 wikivoc:name "Formal system" .
+wiki:Q17488292 wiki_prop:P527 wiki:Q649732 .
+wiki:Q17488292 wiki_prop:P527 wiki:Q523607 .
+wiki:Q523607 wikivoc:name 'Interpretation' .
+wiki:Q35986 wiki_prop:P361 wiki:Q186531 .
+wiki:Q186531 wikivoc:name 'Axiology' .
+wiki:Q2961580 wiki_prop:P31 wiki:Q28640 .
+wiki:Q2961580 wiki_prop:P279 wiki:Q19398863 .
+wiki:Q19398863 wikivoc:name "Vocational driver" .
+wiki:Q2515887 wiki_prop:P361 wiki:Q9332 .
+wiki:Q2515887 wiki_prop:P279 wiki:Q2083958 .
+wiki:Q2083958 wikivoc:name 'Pattern' .
+wiki:Q106225491 wiki_prop:P31 wiki:Q21546143 .
+wiki:Q106225491 wiki_prop:P279 wiki:Q6714328 .
+wiki:Q6714328 wikivoc:name "Man sx" .
+wiki:Q683005 wiki_prop:P279 wiki:Q41551 .
+wiki:Q41551 wikivoc:name 'Pipe' .
+wiki:Q683005 wiki_prop:P527 wiki:Q2982767 .
+wiki:Q2982767 wikivoc:name "Exhaust manifold" .
+wiki:Q683005 wiki_prop:P527 wiki:Q1790740 .
+wiki:Q1790740 wikivoc:name 'Manifold' .
+wiki:Q683005 wiki_prop:P527 wiki:Q653807 .
+wiki:Q653807 wikivoc:name "Catalytic converter" .
+wiki:Q177634 wiki_prop:P279 wiki:Q874405 .
+wiki:Q177634 wiki_prop:P527 wiki:Q109528951 .
+wiki:Q109528951 wikivoc:name 'Newcomer' .
+wiki:Q367293 wiki_prop:P31 wiki:Q104637420 .
+wiki:Q104637420 wikivoc:name "Sourcing circumstance" .
+wiki:Q730675 wiki_prop:P31 wiki:Q78088984 .
+wiki:Q730675 wiki_prop:P361 wiki:Q1193625 .
+wiki:Q1193625 wikivoc:name "Social science methodology" .
+wiki:Q730675 wiki_prop:P527 wiki:Q951437 .
+wiki:Q4284762 wiki_prop:P279 wiki:Q1341307 .
+wiki:Q1341307 wikivoc:name "Energy flow" .
+wiki:Q11019 wiki_prop:P527 wiki:Q517596 .
+wiki:Q517596 wikivoc:name 'Mechanism' .
+wiki:Q951504 wiki_prop:P279 wiki:Q102110916 .
+wiki:Q102110916 wikivoc:name "Electromechanical device" .
+wiki:Q951504 wiki_prop:P527 wiki:Q2981904 .
+wiki:Q2981904 wikivoc:name 'Coil' .
+wiki:Q951504 wiki_prop:P366 wiki:Q11271324 .
+wiki:Q11271324 wikivoc:name "Energy transformation" .
+wiki:Q8434 wiki_prop:P279 wiki:Q6423395 .
+wiki:Q6423395 wikivoc:name "Knowledge sharing" .
+wiki:Q8434 wiki_prop:P527 wiki:Q61788126 .
+wiki:Q8434 wiki_prop:P527 wiki:Q133500 .
+wiki:Q133500 wikivoc:name 'Learning' .
+wiki:Q37547 wiki_prop:P279 wiki:Q333 .
+wiki:Q37547 wiki_prop:P527 wiki:Q104499 .
+wiki:Q104499 wikivoc:name "Planetary science" .
+wiki:Q18205125 wiki_prop:P31 wiki:Q167312 .
+wiki:Q167312 wikivoc:name 'Dualism' .
+wiki:Q18205125 wiki_prop:P31 wiki:Q115158168 .
+wiki:Q18205125 wiki_prop:P2283 wiki:Q673661 .
+wiki:Q673661 wikivoc:name 'Abstraction' .
+wiki:Q18205125 wiki_prop:P2283 wiki:Q18195733 .
+wiki:Q18195733 wikivoc:name 'Concretization' .
+wiki:Q18205125 wiki_prop:P527 wiki:Q4406616 .
+wiki:Q4406616 wikivoc:name "Concrete object" .
+wiki:Q18205125 wiki_prop:P527 wiki:Q64920589 .
+wiki:Q64920589 wikivoc:name 'Abstractness' .
+wiki:Q18205125 wiki_prop:P527 wiki:Q2992210 .
+wiki:Q2992210 wikivoc:name 'Concreteness' .
+wiki:Q5157340 wikivoc:name "Computational statistics" .
+wiki:Q172491 wikivoc:name "Data mining" .
+wiki:Q172491 wiki_prop:P279 wiki:Q12772819 .
+wiki:Q12772819 wikivoc:name 'Discovery' .
+wiki:Q172491 wiki_prop:P279 wiki:Q70708084 .
+wiki:Q70708084 wikivoc:name "Text and data mining" .
+wiki:Q70708084 wiki_prop:P279 wiki:Q217602 .
+wiki:Q217602 wikivoc:name 'Analysis' .
+wiki:Q70708084 wiki_prop:P279 wiki:Q12772819 .
+wiki:Q70708084 wiki_prop:P527 wiki:Q676880 .
+wiki:Q676880 wikivoc:name "Text mining" .
+wiki:Q12772819 wiki_prop:P31 wiki:Q41172303 .
+wiki:Q41172303 wikivoc:name "Core concept" .
+wiki:Q12772819 wiki_prop:P279 wiki:Q37113105 .
+wiki:Q37113105 wikivoc:name 'Finding' .
+wiki:Q37113105 wiki_prop:P279 wiki:Q2995644 .
+wiki:Q217602 wiki_prop:P279 wiki:Q21004260 .
+wiki:Q2995644 wiki_prop:P279 wiki:Q30241068 .
+wiki:Q30241068 wikivoc:name "Observable entity" .
+wiki:Q21004260 wiki_prop:P361 wiki:Q2135597 .
+wiki:Q2135597 wikivoc:name "Rights policy" .
+wiki:Q21004260 wiki_prop:P279 wiki:Q96754350 .
+wiki:Q96754350 wikivoc:name 'Seeking' .
+wiki:Q21004260 wiki_prop:P527 wiki:Q1127717 .
+wiki:Q1127717 wikivoc:name "Investigative journalism" .
+wiki:Q2135597 wiki_prop:P31 wiki:Q546113 .
+wiki:Q546113 wikivoc:name "Public policy" .
+wiki:Q2135597 wiki_prop:P361 wiki:Q49371 .
+wiki:Q49371 wikivoc:name 'Legislation' .
+wiki:Q2135597 wiki_prop:P527 wiki:Q15982348 .
+wiki:Q15982348 wikivoc:name "Justice policy" .
+wiki:Q1127717 wiki_prop:P31 wiki:Q4894405 .
+wiki:Q4894405 wikivoc:name "Journalism genre" .
+wiki:Q1127717 wiki_prop:P279 wiki:Q11030 .
+wiki:Q11030 wikivoc:name 'Journalism' .
+wiki:Q49371 wiki_prop:P361 wiki:Q7766927 .
+wiki:Q7766927 wikivoc:name "Statutory law" .
+wiki:Q49371 wiki_prop:P279 wiki:Q820655 .
+wiki:Q820655 wikivoc:name 'Statute' .
+wiki:Q49371 wiki_prop:P527 wiki:Q7243147 .
+wiki:Q7243147 wikivoc:name "Primary legislation" .
+wiki:Q49371 wiki_prop:P527 wiki:Q694045 .
+wiki:Q694045 wikivoc:name "Delegated legislation" .
+wiki:Q49371 wiki_prop:P527 wiki:Q110273170 .
+wiki:Q110273170 wikivoc:name "Statutory provision" .
+wiki:Q4894405 wiki_prop:P279 wiki:Q483394 .
+wiki:Q483394 wikivoc:name 'Genre' .
+wiki:Q4894405 wiki_prop:P279 wiki:Q11030 .
+wiki:Q546113 wiki_prop:P31 wiki:Q96251375 .
+wiki:Q96251375 wikivoc:name "Type of policy" .
+wiki:Q546113 wiki_prop:P361 wiki:Q7188 .
+wiki:Q7188 wikivoc:name 'Government' .
+wiki:Q546113 wiki_prop:P361 wiki:Q2472587 .
+wiki:Q2472587 wikivoc:name 'People' .
+wiki:Q546113 wiki_prop:P279 wiki:Q1156854 .
+wiki:Q1156854 wikivoc:name 'Policy' .
+wiki:Q546113 wiki_prop:P527 wiki:Q828395 .
+wiki:Q828395 wikivoc:name "Social policy" .
+wiki:Q546113 wiki_prop:P527 wiki:Q181648 .
+wiki:Q181648 wikivoc:name "Foreign policy" .
+wiki:Q546113 wiki_prop:P527 wiki:Q582577 .
+wiki:Q582577 wikivoc:name "Economic policy" .
+wiki:Q546113 wiki_prop:P527 wiki:Q1805337 .
+wiki:Q1805337 wikivoc:name "Energy policy" .
+wiki:Q546113 wiki_prop:P527 wiki:Q919526 .
+wiki:Q919526 wikivoc:name "Environmental policy" .
+wiki:Q546113 wiki_prop:P527 wiki:Q904708 .
+wiki:Q904708 wikivoc:name "Science policy" .
+wiki:Q546113 wiki_prop:P527 wiki:Q1667082 .
+wiki:Q1667082 wikivoc:name "Military policy" .
+wiki:Q546113 wiki_prop:P527 wiki:Q2516371 .
+wiki:Q2516371 wikivoc:name "Transport policy" .
+wiki:Q546113 wiki_prop:P527 wiki:Q7923600 .
+wiki:Q7923600 wikivoc:name "Veterans affairs" .
+wiki:Q546113 wiki_prop:P527 wiki:Q60738778 .
+wiki:Q60738778 wikivoc:name "Land-use planning" .
+wiki:Q546113 wiki_prop:P527 wiki:Q579873 .
+wiki:Q579873 wikivoc:name "Human population planning" .
+wiki:Q11030 wiki_prop:P31 wiki:Q47407603 .
+wiki:Q11030 wiki_prop:P31 wiki:Q483394 .
+wiki:Q11030 wiki_prop:P527 wiki:Q3972943 .
+wiki:Q3972943 wikivoc:name 'Publishing' .
+wiki:Q59138835 wiki_prop:P361 wiki:Q8513 .
+wiki:Q8513 wikivoc:name 'Database' .
+wiki:Q59138835 wiki_prop:P527 wiki:Q1172389 .
+wiki:Q1172389 wikivoc:name "Data element" .
+wiki:Q8513 wiki_prop:P2283 wiki:Q59139047 .
+wiki:Q59139047 wikivoc:name "Logical database model" .
+wiki:Q8513 wiki_prop:P361 wiki:Q1630548 .
+wiki:Q1630548 wikivoc:name 'Host' .
+wiki:Q8513 wiki_prop:P279 wiki:Q1172284 .
+wiki:Q1172284 wikivoc:name "Data set" .
+wiki:Q8513 wiki_prop:P527 wiki:Q1054115 .
+wiki:Q1054115 wikivoc:name "Integrity constraints" .
+wiki:Q8513 wiki_prop:P527 wiki:Q1147639 .
+wiki:Q1147639 wikivoc:name "Data dictionary" .
+wiki:Q8513 wiki_prop:P527 wiki:Q176165 .
+wiki:Q176165 wikivoc:name "Database management system" .
+wiki:Q8513 wiki_prop:P527 wiki:Q2470517 .
+wiki:Q2470517 wikivoc:name 'Record' .
+wiki:Q1630548 wiki_prop:P2283 wiki:Q829281 .
+wiki:Q829281 wikivoc:name "Network host" .
+wiki:Q1630548 wiki_prop:P279 wiki:Q13420330 .
+wiki:Q13420330 wikivoc:name 'Provider' .
+wiki:Q176165 wiki_prop:P2283 wiki:Q41591651 .
+wiki:Q41591651 wikivoc:name "Database language" .
+wiki:Q176165 wiki_prop:P279 wiki:Q2429814 .
+wiki:Q2429814 wikivoc:name "Software system" .
+wiki:Q176165 wiki_prop:P527 wiki:Q19631771 .
+wiki:Q19631771 wikivoc:name "Transaction manager" .
+wiki:Q176165 wiki_prop:P527 wiki:Q19631768 .
+wiki:Q19631768 wikivoc:name "Data manager" .
+wiki:Q176165 wiki_prop:P527 wiki:Q19631769 .
+wiki:Q19631769 wikivoc:name "Lock manager" .
+wiki:Q176165 wiki_prop:P527 wiki:Q537993 .
+wiki:Q537993 wikivoc:name "Database engine" .
+wiki:Q176165 wiki_prop:P366 wiki:Q29017603 .
+wiki:Q1147639 wiki_prop:P279 wiki:Q2352616 .
+wiki:Q2352616 wikivoc:name 'Catalogue' .
+wiki:Q1147639 wiki_prop:P279 wiki:Q1172480 .
+wiki:Q2470517 wiki_prop:P31 wiki:Q1413465 .
+wiki:Q1413465 wikivoc:name "Composite data type" .
+wiki:Q2470517 wiki_prop:P279 wiki:Q107435521 .
+wiki:Q107435521 wikivoc:name 'Record' .
+wiki:Q2470517 wiki_prop:P279 wiki:Q877977 .
+wiki:Q877977 wikivoc:name "Assignable variable" .
+wiki:Q2470517 wiki_prop:P527 wiki:Q1172412 .
+wiki:Q1172412 wikivoc:name 'Field' .
+wiki:Q1054115 wiki_prop:P279 wiki:Q20575568 .
+wiki:Q20575568 wikivoc:name 'Constraint' .
+wiki:Q59139047 wiki_prop:P279 wiki:Q267136 .
+wiki:Q267136 wikivoc:name "Database model" .
+wiki:Q2429814 wiki_prop:P361 wiki:Q13407144 .
+wiki:Q13407144 wikivoc:name "Computer system" .
+wiki:Q29017603 wiki_prop:P2283 wiki:Q1665268 .
+wiki:Q1665268 wikivoc:name 'Command' .
+wiki:Q29017603 wiki_prop:P2283 wiki:Q24050179 .
+wiki:Q24050179 wikivoc:name 'Advantage' .
+wiki:Q29017603 wiki_prop:P279 wiki:Q2298831 .
+wiki:Q2298831 wikivoc:name "Asymmetric relation" .
+wiki:Q29017603 wiki_prop:P366 wiki:Q4503831 .
+wiki:Q4503831 wikivoc:name 'Goal' .
+wiki:Q29017603 wiki_prop:P366 wiki:Q2920921 .
+wiki:Q29017603 wiki_prop:P366 wiki:Q44103811 .
+wiki:Q44103811 wikivoc:name 'Stabilizing' .
+wiki:Q877977 wiki_prop:P361 wiki:Q124590 .
+wiki:Q124590 wikivoc:name "Program code" .
+wiki:Q877977 wiki_prop:P279 wiki:Q50701 .
+wiki:Q50701 wikivoc:name 'Variable' .
+wiki:Q877977 wiki_prop:P279 wiki:Q124590 .
+wiki:Q267136 wiki_prop:P279 wiki:Q1172480 .
+wiki:Q19631769 wiki_prop:P279 wiki:Q11883090 .
+wiki:Q11883090 wikivoc:name 'Module' .
+wiki:Q2352616 wiki_prop:P31 wiki:Q104624828 .
+wiki:Q104624828 wikivoc:name "Book form" .
+wiki:Q2352616 wiki_prop:P279 wiki:Q12139612 .
+wiki:Q12139612 wikivoc:name 'List' .
+wiki:Q2352616 wiki_prop:P279 wiki:Q13136 .
+wiki:Q19631768 wiki_prop:P279 wiki:Q11883090 .
+wiki:Q1172412 wiki_prop:P279 wiki:Q6814247 .
+wiki:Q6814247 wikivoc:name "Member variable" .
+wiki:Q107435521 wiki_prop:P31 wiki:Q107478770 .
+wiki:Q107478770 wikivoc:name "Document genre" .
+wiki:Q107435521 wiki_prop:P527 wiki:Q59163641 .
+wiki:Q59163641 wikivoc:name "Recorded information" .
+wiki:Q1413465 wiki_prop:P279 wiki:Q190087 .
+wiki:Q190087 wikivoc:name "Data type" .
+wiki:Q1172480 wiki_prop:P527 wiki:Q115490427 .
+wiki:Q115490427 wikivoc:name "Data model element" .
+wiki:Q13420330 wiki_prop:P279 wiki:Q6770826 .
+wiki:Q6770826 wikivoc:name "Market participant" .
+wiki:Q41591651 wiki_prop:P279 wiki:Q629206 .
+wiki:Q629206 wikivoc:name "Computer language" .
+wiki:Q19631771 wiki_prop:P279 wiki:Q11883090 .
+wiki:Q104624828 wiki_prop:P279 wiki:Q2085518 .
+wiki:Q2085518 wikivoc:name 'Format' .
+wiki:Q104624828 wiki_prop:P279 wiki:Q937228 .
+wiki:Q104624828 wiki_prop:P279 wiki:Q58901077 .
+wiki:Q58901077 wikivoc:name "Publication format" .
+wiki:Q107478770 wiki_prop:P279 wiki:Q21550682 .
+wiki:Q21550682 wikivoc:name "Information form" .
+wiki:Q107478770 wiki_prop:P279 wiki:Q483394 .
+wiki:Q44103811 wiki_prop:P279 wiki:Q7251376 .
+wiki:Q7251376 wikivoc:name "Protective factor" .
+wiki:Q59163641 wiki_prop:P366 wiki:Q66018406 .
+wiki:Q66018406 wikivoc:name "Cumulation of information" .
+wiki:Q13407144 wiki_prop:P279 wiki:Q65280844 .
+wiki:Q65280844 wikivoc:name "Electronic system" .
+wiki:Q12139612 wiki_prop:P279 wiki:Q2085518 .
+wiki:Q50701 wiki_prop:P361 wiki:Q11345 .
+wiki:Q50701 wiki_prop:P279 wiki:Q719375 .
+wiki:Q719375 wikivoc:name 'Operand' .
+wiki:Q50701 wiki_prop:P279 wiki:Q113312 .
+wiki:Q113312 wikivoc:name "Statistical variable" .
+wiki:Q4503831 wiki_prop:P279 wiki:Q1789452 .
+wiki:Q1789452 wikivoc:name 'Criterion' .
+wiki:Q4503831 wiki_prop:P279 wiki:Q706622 .
+wiki:Q706622 wikivoc:name 'Intention' .
+wiki:Q4503831 wiki_prop:P366 wiki:Q25054194 .
+wiki:Q25054194 wikivoc:name "Goal pursuit" .
+wiki:Q13136 wiki_prop:P31 wiki:Q223393 .
+wiki:Q223393 wikivoc:name "Literary genre" .
+wiki:Q13136 wiki_prop:P279 wiki:Q1063801 .
+wiki:Q1063801 wikivoc:name "Tertiary source" .
+wiki:Q13136 wiki_prop:P279 wiki:Q1348645 .
+wiki:Q1348645 wikivoc:name "Learning material" .
+wiki:Q13136 wiki_prop:P279 wiki:Q571 .
+wiki:Q571 wikivoc:name 'Book' .
+wiki:Q6770826 wiki_prop:P279 wiki:Q1415187 .
+wiki:Q1415187 wikivoc:name "Economic agent" .
+wiki:Q1665268 wiki_prop:P31 wiki:Q846882 .
+wiki:Q1665268 wiki_prop:P279 wiki:Q12772763 .
+wiki:Q12772763 wikivoc:name 'Instruction' .
+wiki:Q24050179 wiki_prop:P279 wiki:Q100195948 .
+wiki:Q100195948 wikivoc:name "Relative quality" .
+wiki:Q629206 wiki_prop:P279 wiki:Q192161 .
+wiki:Q124590 wiki_prop:P279 wiki:Q188889 .
+wiki:Q188889 wikivoc:name 'Code' .
+wiki:Q2298831 wiki_prop:P279 wiki:Q130901 .
+wiki:Q130901 wikivoc:name "Binary relation" .
+wiki:Q2298831 wiki_prop:P279 wiki:Q54938846 .
+wiki:Q54938846 wikivoc:name 'Endorelation' .
+wiki:Q2298831 wiki_prop:P279 wiki:Q583760 .
+wiki:Q583760 wikivoc:name "Antisymmetric relation" .
+wiki:Q2920921 wiki_prop:P361 wiki:Q2043282 .
+wiki:Q2920921 wiki_prop:P361 wiki:Q113043123 .
+wiki:Q2920921 wiki_prop:P279 wiki:Q338754 .
+wiki:Q338754 wikivoc:name 'Control' .
+wiki:Q2920921 wiki_prop:P279 wiki:Q1783823 .
+wiki:Q55624999 wikivoc:name "Neural network" .
+wiki:Q1053367 wikivoc:name "Predictive analytics" .
+wiki:Q1053367 wiki_prop:P279 wiki:Q12718609 .
+wiki:Q12718609 wikivoc:name "Statistical method" .
+wiki:Q12718609 wiki_prop:P361 wiki:Q112955551 .
+wiki:Q12718609 wiki_prop:P279 wiki:Q1988917 .
+wiki:Q1988917 wiki_prop:P2283 wiki:Q4929239 .
+wiki:Q4929239 wikivoc:name "Data collection" .
+wiki:Q1988917 wiki_prop:P2283 wiki:Q6661985 .
+wiki:Q6661985 wikivoc:name "Data processing" .
+wiki:Q1988917 wiki_prop:P2283 wiki:Q1172378 .
+wiki:Q1172378 wikivoc:name "Data cleansing" .
+wiki:Q1988917 wiki_prop:P2283 wiki:Q1322871 .
+wiki:Q1322871 wikivoc:name "Exploratory data analysis" .
+wiki:Q1988917 wiki_prop:P2283 wiki:Q105100083 .
+wiki:Q105100083 wikivoc:name "Data production" .
+wiki:Q1988917 wiki_prop:P361 wiki:Q485396 .
+wiki:Q485396 wikivoc:name 'Analytics' .
+wiki:Q1988917 wiki_prop:P361 wiki:Q3353185 .
+wiki:Q3353185 wikivoc:name "Business intelligence" .
+wiki:Q1172378 wiki_prop:P279 wiki:Q1149776 .
+wiki:Q1149776 wikivoc:name "Data management" .
+wiki:Q3353185 wiki_prop:P279 wiki:Q11661 .
+wiki:Q11661 wikivoc:name "Information technology" .
+wiki:Q3353185 wiki_prop:P279 wiki:Q485396 .
+wiki:Q3353185 wiki_prop:P279 wiki:Q7102024 .
+wiki:Q7102024 wikivoc:name "Organizational intelligence" .
+wiki:Q6661985 wiki_prop:P279 wiki:Q750843 .
+wiki:Q750843 wikivoc:name "Information processing" .
+wiki:Q4929239 wiki_prop:P279 wiki:Q208165 .
+wiki:Q208165 wikivoc:name 'Collecting' .
+wiki:Q4929239 wiki_prop:P366 wiki:Q49958 .
+wiki:Q49958 wikivoc:name "Opinion poll" .
+wiki:Q4929239 wiki_prop:P366 wiki:Q1412461 .
+wiki:Q1412461 wikivoc:name 'Psephology' .
+wiki:Q4929239 wiki_prop:P366 wiki:Q1141436 .
+wiki:Q1141436 wikivoc:name "Marketing research" .
+wiki:Q4929239 wiki_prop:P366 wiki:Q12336277 .
+wiki:Q12336277 wikivoc:name "Social research" .
+wiki:Q485396 wiki_prop:P279 wiki:Q11661 .
+wiki:Q485396 wiki_prop:P279 wiki:Q1149776 .
+wiki:Q1322871 wiki_prop:P361 wiki:Q67369489 .
+wiki:Q67369489 wikivoc:name "Statistical data interpretation" .
+wiki:Q1322871 wiki_prop:P279 wiki:Q4751159 .
+wiki:Q4751159 wikivoc:name "Analytical technique" .
+wiki:Q208165 wiki_prop:P2283 wiki:Q2342494 .
+wiki:Q208165 wiki_prop:P279 wiki:Q47728 .
+wiki:Q208165 wiki_prop:P279 wiki:Q108634029 .
+wiki:Q108634029 wikivoc:name 'Gathering' .
+wiki:Q1141436 wiki_prop:P361 wiki:Q2043282 .
+wiki:Q1141436 wiki_prop:P361 wiki:Q10660901 .
+wiki:Q1141436 wiki_prop:P279 wiki:Q1379672 .
+wiki:Q1379672 wikivoc:name 'Evaluation' .
+wiki:Q1149776 wiki_prop:P361 wiki:Q113212528 .
+wiki:Q113212528 wikivoc:name "Data management and data science" .
+wiki:Q1149776 wiki_prop:P279 wiki:Q11661 .
+wiki:Q12336277 wiki_prop:P527 wiki:Q839486 .
+wiki:Q839486 wikivoc:name "Qualitative research" .
+wiki:Q49958 wiki_prop:P279 wiki:Q814232 .
+wiki:Q814232 wikivoc:name "Survey methodology" .
+wiki:Q49958 wiki_prop:P279 wiki:Q3490295 .
+wiki:Q3490295 wikivoc:name 'Survey' .
+wiki:Q67369489 wiki_prop:P527 wiki:Q210832 .
+wiki:Q210832 wikivoc:name "Statistical test" .
+wiki:Q4751159 wiki_prop:P279 wiki:Q18120378 .
+wiki:Q18120378 wikivoc:name "Measurement method" .
+wiki:Q4751159 wiki_prop:P279 wiki:Q3247516 .
+wiki:Q3247516 wikivoc:name "Lab technique" .
+wiki:Q7102024 wiki_prop:P279 wiki:Q83500 .
+wiki:Q83500 wikivoc:name 'Intelligence' .
+wiki:Q750843 wiki_prop:P31 wiki:Q500669 .
+wiki:Q500669 wikivoc:name "Technical process" .
+wiki:Q750843 wiki_prop:P361 wiki:Q579488 .
+wiki:Q579488 wikivoc:name "Information management" .
+wiki:Q18120378 wiki_prop:P279 wiki:Q1200750 .
+wiki:Q1200750 wikivoc:name 'Description' .
+wiki:Q18120378 wiki_prop:P366 wiki:Q12453 .
+wiki:Q12453 wikivoc:name 'Measurement' .
+wiki:Q814232 wiki_prop:P279 wiki:Q3490295 .
+wiki:Q814232 wiki_prop:P279 wiki:Q64418432 .
+wiki:Q64418432 wikivoc:name "Statistical investigation" .
+wiki:Q108634029 wiki_prop:P527 wiki:Q79782 .
+wiki:Q1379672 wiki_prop:P2283 wiki:Q1003030 .
+wiki:Q1003030 wikivoc:name 'Test' .
+wiki:Q1379672 wiki_prop:P2283 wiki:Q1137655 .
+wiki:Q1137655 wikivoc:name 'Inspection' .
+wiki:Q113212528 wiki_prop:P527 wiki:Q2374463 .
+wiki:Q2374463 wikivoc:name "Data science" .
+wiki:Q579488 wiki_prop:P527 wiki:Q192060 .
+wiki:Q192060 wikivoc:name "Knowledge management" .
+wiki:Q83500 wiki_prop:P31 wiki:Q1211967 .
+wiki:Q1211967 wikivoc:name "Phenotypic trait" .
+wiki:Q83500 wiki_prop:P279 wiki:Q2200417 .
+wiki:Q2200417 wikivoc:name 'Cognition' .
+wiki:Q83500 wiki_prop:P279 wiki:Q109581753 .
+wiki:Q109581753 wikivoc:name 'Ability' .
+wiki:Q839486 wiki_prop:P31 wiki:Q78088984 .
+wiki:Q839486 wiki_prop:P279 wiki:Q193181 .
+wiki:Q193181 wikivoc:name 'Observation' .
+wiki:Q3490295 wiki_prop:P31 wiki:Q1438073 .
+wiki:Q1438073 wikivoc:name "Research method" .
+wiki:Q3490295 wiki_prop:P31 wiki:Q3918374 .
+wiki:Q3918374 wikivoc:name "Scientific technique" .
+wiki:Q2043282 wiki_prop:P279 wiki:Q12737077 .
+wiki:Q2043282 wiki_prop:P279 wiki:Q1406161 .
+wiki:Q1406161 wikivoc:name "Artistic theme" .
+wiki:Q500669 wiki_prop:P279 wiki:Q104637425 .
+wiki:Q104637425 wikivoc:name "Material process" .
+wiki:Q500669 wiki_prop:P279 wiki:Q1408288 .
+wiki:Q1408288 wikivoc:name "Manufacturing process" .
+wiki:Q47728 wiki_prop:P279 wiki:Q184872 .
+wiki:Q184872 wikivoc:name 'Recreation' .
+wiki:Q210832 wiki_prop:P31 wiki:Q96273743 .
+wiki:Q96273743 wikivoc:name "Type of test" .
+wiki:Q210832 wiki_prop:P279 wiki:Q1003030 .
+wiki:Q3247516 wiki_prop:P279 wiki:Q3918374 .
+wiki:Q197536 wikivoc:name "Deep learning" .
+wiki:Q2539 wiki_prop:P279 wiki:Q11862829 .
+wiki:Q2539 wiki_prop:P2283 wiki:Q3985153 .
+wiki:Q3985153 wikivoc:name "Training, validation, and test data sets" .
+wiki:Q2539 wiki_prop:P366 wiki:Q1322871 .
+wiki:Q2539 wiki_prop:P2283 wiki:Q42848 .
+wiki:Q2539 wiki_prop:P2283 wiki:Q55624999 .
+wiki:Q2539 wiki_prop:P366 wiki:Q1053367 .
+wiki:Q2539 wiki_prop:P279 wiki:Q5157340 .
+wiki:Q2539 wiki_prop:P2283 wiki:Q141495 .
+wiki:Q2539 wiki_prop:P279 wiki:Q172491 .
+wiki:Q2539 wiki_prop:P366 wiki:Q1152135 .
