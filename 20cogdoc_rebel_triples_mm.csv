@@ -1,0 +1,15 @@
+asset_name,source_uri,source_name,edge_pcode,edge_name,target_uri,target_name
+201907_co.dex.pdf,http://www.themathcompany.com/cognition/CO.DEX,CO.DEX,P31,instance of,http://www.themathcompany.com/cognition/On_-_premise,On - premise
+201907_co.dex.pdf,http://www.themathcompany.com/cognition/TheMathCompany,TheMathCompany,P1056,product or material produced,http://www.themathcompany.com/cognition/TheMathMarket,TheMathMarket
+201907_co.dex.pdf,http://www.themathcompany.com/cognition/TheMathMarket,TheMathMarket,P178,developer,http://www.themathcompany.com/cognition/TheMathCompany,TheMathCompany
+201907_co.dex.pdf,http://www.themathcompany.com/cognition/Co.dex_DS,Co.dex DS,P366,use,http://www.themathcompany.com/cognition/TheMathMarket,TheMathMarket
+201907_co.dex.pdf,http://www.themathcompany.com/cognition/CO.DEX,CO.DEX,P366,use,http://www.themathcompany.com/cognition/automates,automates
+201907_co.dex.pdf,http://www.themathcompany.com/cognition/TheMathMarket,TheMathMarket,P361,part of,http://www.themathcompany.com/cognition/Co.dex,Co.dex
+201907_co.dex.pdf,http://www.themathcompany.com/cognition/Co.dex,Co.dex,P527,has part,http://www.themathcompany.com/cognition/TheMathMarket,TheMathMarket
+201907_co.dex.pdf,http://www.themathcompany.com/cognition/CO.DEX,CO.DEX,P366,use,http://www.themathcompany.com/cognition/On_-_premise,On - premise
+201907_co.dex.pdf,http://www.themathcompany.com/cognition/CO.DEX,CO.DEX,P366,use,http://www.themathcompany.com/cognition/data_Scientists,data Scientists
+201907_co.dex.pdf,http://www.themathcompany.com/cognition/CO.DEX,CO.DEX,P178,developer,http://www.themathcompany.com/cognition/TheMathMarket,TheMathMarket
+201907_co.dex.pdf,http://www.themathcompany.com/cognition/TheMathMarket,TheMathMarket,P1056,product or material produced,http://www.themathcompany.com/cognition/CO.DEX,CO.DEX
+201907_co.dex.pdf,http://www.themathcompany.com/cognition/CO.DEX,CO.DEX,P366,use,http://www.themathcompany.com/cognition/TheMathMarket,TheMathMarket
+201907_co.dex.pdf,http://www.themathcompany.com/cognition/Srivatsathemath,Srivatsathemath,pcode,sibling,http://www.themathcompany.com/cognition/Shridharthemath,Shridharthemath
+201907_co.dex.pdf,http://www.themathcompany.com/cognition/Shridharthemath,Shridharthemath,pcode,sibling,http://www.themathcompany.com/cognition/Srivatsathemath,Srivatsathemath

@@ -1,0 +1,17 @@
+asset_name,source_uri,source_name,edge_pcode,edge_name,target_uri,target_name
+201907_co.dex.pdf,http://www.themathcompany.com/cognition/CO.DEX,CO.DEX,P366,use,http://www.wikidata.org/wiki/Q2374463,Data Science
+201907_co.dex.pdf,http://www.themathcompany.com/cognition/On_-_premise,On - premise,P279,subclass of,http://www.wikidata.org/wiki/Q121359,Infrastructure
+201907_co.dex.pdf,http://www.themathcompany.com/cognition/On_-_premise,On - premise,P279,subclass of,http://www.wikidata.org/wiki/Q121359,infrastructure
+201907_co.dex.pdf,http://www.themathcompany.com/cognition/CO.DEX,CO.DEX,P31,instance of,http://www.wikidata.org/wiki/Q1254596,SaaS
+201907_co.dex.pdf,http://www.themathcompany.com/cognition/CO.DEX,CO.DEX,P31,instance of,http://www.wikidata.org/wiki/Q294834,application
+201907_co.dex.pdf,http://www.themathcompany.com/cognition/CO.DEX,CO.DEX,P31,instance of,http://www.wikidata.org/wiki/Q165194,API
+201907_co.dex.pdf,http://www.themathcompany.com/cognition/Model_Validation,Model Validation,P361,part of,http://www.wikidata.org/wiki/Q2374463,Data Science
+201907_co.dex.pdf,http://www.themathcompany.com/cognition/forecasting_techniques,forecasting techniques,P366,use,http://www.wikidata.org/wiki/Q7216332,Forecasting
+201907_co.dex.pdf,http://www.themathcompany.com/cognition/Co.dex_DS,Co.dex DS,P31,instance of,http://www.wikidata.org/wiki/Q2425187,code base
+201907_co.dex.pdf,http://www.themathcompany.com/cognition/CO.DEX,CO.DEX,P366,use,http://www.wikidata.org/wiki/Q43967068,AutoML
+201907_co.dex.pdf,http://www.themathcompany.com/cognition/On_-_premise,On - premise,P279,subclass of,http://www.wikidata.org/wiki/Q8074,Cloud
+201907_co.dex.pdf,http://www.themathcompany.com/cognition/CO.DEX,CO.DEX,P31,instance of,http://www.wikidata.org/wiki/Q8351206,firewall
+201907_co.dex.pdf,http://www.themathcompany.com/cognition/CO.DEX,CO.DEX,P366,use,http://www.wikidata.org/wiki/Q219113,ML
+201907_co.dex.pdf,http://www.themathcompany.com/cognition/TheMathMarket,TheMathMarket,P366,use,http://www.wikidata.org/wiki/Q218846,enterprise
+201907_co.dex.pdf,http://www.themathcompany.com/cognition/Srivatsathemathcompany.com,Srivatsathemathcompany.com,P277,programming language,http://www.wikidata.org/wiki/Q747452,Python
+201907_co.dex.pdf,http://www.themathcompany.com/cognition/Shridharthemathcompany.com,Shridharthemathcompany.com,P277,programming language,http://www.wikidata.org/wiki/Q747452,Python
