@@ -1,0 +1,329 @@
+asset_name,source_uri,source_name,edge_pcode,edge_name,target_uri,target_name
+201907_co.dex.pdf,http://www.themathcompany.com/cognition/CO.DEX,CO.DEX,P31,instance of,http://www.themathcompany.com/cognition/On_-_premise,On - premise
+201907_co.dex.pdf,http://www.themathcompany.com/cognition/TheMathCompany,TheMathCompany,P1056,product or material produced,http://www.themathcompany.com/cognition/TheMathMarket,TheMathMarket
+201907_co.dex.pdf,http://www.themathcompany.com/cognition/TheMathMarket,TheMathMarket,P178,developer,http://www.themathcompany.com/cognition/TheMathCompany,TheMathCompany
+201907_co.dex.pdf,http://www.themathcompany.com/cognition/Co.dex_DS,Co.dex DS,P366,use,http://www.themathcompany.com/cognition/TheMathMarket,TheMathMarket
+201907_co.dex.pdf,http://www.themathcompany.com/cognition/CO.DEX,CO.DEX,P366,use,http://www.themathcompany.com/cognition/automates,automates
+201907_co.dex.pdf,http://www.themathcompany.com/cognition/TheMathMarket,TheMathMarket,P361,part of,http://www.themathcompany.com/cognition/Co.dex,Co.dex
+201907_co.dex.pdf,http://www.themathcompany.com/cognition/Co.dex,Co.dex,P527,has part,http://www.themathcompany.com/cognition/TheMathMarket,TheMathMarket
+201907_co.dex.pdf,http://www.themathcompany.com/cognition/CO.DEX,CO.DEX,P366,use,http://www.themathcompany.com/cognition/On_-_premise,On - premise
+201907_co.dex.pdf,http://www.themathcompany.com/cognition/CO.DEX,CO.DEX,P178,developer,http://www.themathcompany.com/cognition/TheMathMarket,TheMathMarket
+201907_co.dex.pdf,http://www.themathcompany.com/cognition/TheMathMarket,TheMathMarket,P1056,product or material produced,http://www.themathcompany.com/cognition/CO.DEX,CO.DEX
+201907_co.dex.pdf,http://www.themathcompany.com/cognition/CO.DEX,CO.DEX,P366,use,http://www.themathcompany.com/cognition/TheMathMarket,TheMathMarket
+201907_co.dex.pdf,http://www.themathcompany.com/cognition/Srivatsathemath,Srivatsathemath,pcode,sibling,http://www.themathcompany.com/cognition/Shridharthemath,Shridharthemath
+201907_co.dex.pdf,http://www.themathcompany.com/cognition/Shridharthemath,Shridharthemath,pcode,sibling,http://www.themathcompany.com/cognition/Srivatsathemath,Srivatsathemath
+201907_runsqloncloud.pdf,http://www.themathcompany.com/cognition/requiredtriggered,requiredtriggered,P1542,has effect,http://www.themathcompany.com/cognition/required_logicfunction,required logicfunction
+201907_runsqloncloud.pdf,http://www.themathcompany.com/cognition/Create_a_new_database,Create a new database,P2283,uses,http://www.themathcompany.com/cognition/Database_Name,Database Name
+201907_runsqloncloud.pdf,http://www.themathcompany.com/cognition/Database_Name,Database Name,P1535,used by,http://www.themathcompany.com/cognition/Create_a_new_database,Create a new database
+201907_runsqloncloud.pdf,http://www.themathcompany.com/cognition/Table_Name,Table Name,P361,part of,http://www.themathcompany.com/cognition/Database_Name,Database Name
+201907_runsqloncloud.pdf,http://www.themathcompany.com/cognition/create_partitions,create partitions,P527,has part,http://www.themathcompany.com/cognition/Create_Table,Create Table
+201907_runsqloncloud.pdf,http://www.themathcompany.com/cognition/Create_Table,Create Table,P361,part of,http://www.themathcompany.com/cognition/create_partitions,create partitions
+201908_nosql.pdf,http://www.themathcompany.com/cognition/B.Fit,B.Fit,P1056,product or material produced,http://www.themathcompany.com/cognition/fitness_accessories,fitness accessories
+201908_nosql.pdf,http://www.themathcompany.com/cognition/fitness_accessories,fitness accessories,P176,manufacturer,http://www.themathcompany.com/cognition/B.Fit,B.Fit
+201908_nosql.pdf,http://www.themathcompany.com/cognition/B.Fit,B.Fit,pcode,product or material,http://www.themathcompany.com/cognition/fitness_accessories,fitness accessories
+201908_nosql.pdf,http://www.themathcompany.com/cognition/ChemCo,ChemCo,P31,instance of,http://www.themathcompany.com/cognition/large_global_company,large global company
+201908_nosql.pdf,http://www.themathcompany.com/cognition/ChemCo,ChemCo,pcode,owner of,http://www.themathcompany.com/cognition/ChemCo_steps,ChemCo steps
+201908_nosql.pdf,http://www.themathcompany.com/cognition/ChemCo_steps,ChemCo steps,pcode,owned by,http://www.themathcompany.com/cognition/ChemCo,ChemCo
+201908_nosql.pdf,http://www.themathcompany.com/cognition/group_task,group task,P279,subclass of,http://www.themathcompany.com/cognition/mapped_out,mapped out
+201908_nosql.pdf,http://www.themathcompany.com/cognition/big_data_challenge,big data challenge,P527,has part,http://www.themathcompany.com/cognition/big_data_challenge_best,big data challenge best
+201908_nosql.pdf,http://www.themathcompany.com/cognition/big_data_challenge_best,big data challenge best,P279,subclass of,http://www.themathcompany.com/cognition/big_data_challenge,big data challenge
+201908_nosql.pdf,http://www.themathcompany.com/cognition/the_newest_member_of_their_team,the newest member of their team,pcode,member of their team,http://www.themathcompany.com/cognition/their_team,their team
+201908_nosql.pdf,http://www.themathcompany.com/cognition/their_team,their team,P527,has part,http://www.themathcompany.com/cognition/the_newest_member_of_their_team,the newest member of their team
+201908_nosql.pdf,http://www.themathcompany.com/cognition/the_newest_member_of_their_team,the newest member of their team,pcode,member of,http://www.themathcompany.com/cognition/their_team,their team
+201908_nosql.pdf,http://www.themathcompany.com/cognition/No_sequel,No sequel,P155,follows,http://www.themathcompany.com/cognition/S_-_Q_-_L,S - Q - L
+201908_nosql.pdf,http://www.themathcompany.com/cognition/S_-_Q_-_L,S - Q - L,P156,followed by,http://www.themathcompany.com/cognition/No_sequel,No sequel
+201908_nosql.pdf,http://www.themathcompany.com/cognition/tabular_format,tabular format,P279,subclass of,http://www.themathcompany.com/cognition/translatable,translatable
+201908_nosql.pdf,http://www.themathcompany.com/cognition/specialized_databases,specialized databases,P461,opposite of,http://www.themathcompany.com/cognition/tabular_format,tabular format
+201908_nosql.pdf,http://www.themathcompany.com/cognition/voice_input,voice input,P279,subclass of,http://www.themathcompany.com/cognition/data_capture,data capture
+201910_productinpractice.pdf,http://www.themathcompany.com/cognition/Visualize_it,Visualize it,P460,said to be the same as,http://www.themathcompany.com/cognition/break_it,break it
+201910_productinpractice.pdf,http://www.themathcompany.com/cognition/break_it,break it,P460,said to be the same as,http://www.themathcompany.com/cognition/Visualize_it,Visualize it
+201910_productinpractice.pdf,http://www.themathcompany.com/cognition/grand_vision,grand vision,P1269,facet of,http://www.themathcompany.com/cognition/business_leaders,business leaders
+201910_productinpractice.pdf,http://www.themathcompany.com/cognition/big_why,big why,pcode,derivative work,http://www.themathcompany.com/cognition/read_the_big_why,read the big why
+201910_productinpractice.pdf,http://www.themathcompany.com/cognition/read_the_big_why,read the big why,pcode,based on,http://www.themathcompany.com/cognition/big_why,big why
+201910_productinpractice.pdf,http://www.themathcompany.com/cognition/KYUN_maara,KYUN maara,P527,has part,http://www.themathcompany.com/cognition/Kattappa_ne_Bahubali_ko_KYUN_maara,Kattappa ne Bahubali ko KYUN maara
+201910_productinpractice.pdf,http://www.themathcompany.com/cognition/bun_dresser,bun dresser,P279,subclass of,http://www.themathcompany.com/cognition/multi_mixer,multi mixer
+201910_productinpractice.pdf,http://www.themathcompany.com/cognition/best_us_can_be,best us can be,P460,said to be the same as,http://www.themathcompany.com/cognition/truest_values,truest values
+201910_productinpractice.pdf,http://www.themathcompany.com/cognition/truest_values,truest values,P460,said to be the same as,http://www.themathcompany.com/cognition/best_us_can_be,best us can be
+201910_productinpractice.pdf,http://www.themathcompany.com/cognition/product_stands_for,product stands for,P176,manufacturer,http://www.themathcompany.com/cognition/product_team,product team
+201910_productinpractice.pdf,http://www.themathcompany.com/cognition/product_teams,product teams,P425,field of this occupation,http://www.themathcompany.com/cognition/Product_in_Practice,Product in Practice
+201910_productinpractice.pdf,http://www.themathcompany.com/cognition/product_stands_for,product stands for,P3095,practiced by,http://www.themathcompany.com/cognition/product_teams,product teams
+201910_productinpractice.pdf,http://www.themathcompany.com/cognition/Product_in_Practice,Product in Practice,P1269,facet of,http://www.themathcompany.com/cognition/product_teams,product teams
+201910_productinpractice.pdf,http://www.themathcompany.com/cognition/big_why,big why,P279,subclass of,http://www.themathcompany.com/cognition/What_is_it_that_will_guide,What is it that will guide
+201910_productinpractice.pdf,http://www.themathcompany.com/cognition/one_documentary,one documentary,P921,main subject,http://www.themathcompany.com/cognition/Product_in_Practice,Product in Practice
+201910_productinpractice.pdf,http://www.themathcompany.com/cognition/things_us_value_most,things us value most,P1889,different from,http://www.themathcompany.com/cognition/things_we_value_most,things we value most
+201910_productinpractice.pdf,http://www.themathcompany.com/cognition/things_we_value_most,things we value most,P1889,different from,http://www.themathcompany.com/cognition/things_us_value_most,things us value most
+201910_productinpractice.pdf,http://www.themathcompany.com/cognition/spearing_fish,spearing fish,P279,subclass of,http://www.themathcompany.com/cognition/making_fires,making fires
+201910_productinpractice.pdf,http://www.themathcompany.com/cognition/Product_in_Practice,Product in Practice,P3095,practiced by,http://www.themathcompany.com/cognition/Product_leader,Product leader
+201910_productinpractice.pdf,http://www.themathcompany.com/cognition/Product_leader,Product leader,P425,field of this occupation,http://www.themathcompany.com/cognition/Product_in_Practice,Product in Practice
+201910_productinpractice.pdf,http://www.themathcompany.com/cognition/the_greatest_story,the greatest story,P1542,has effect,http://www.themathcompany.com/cognition/sat_on_the_throne,sat on the throne
+201910_productinpractice.pdf,http://www.themathcompany.com/cognition/sat_on_the_throne,sat on the throne,P828,has cause,http://www.themathcompany.com/cognition/the_greatest_story,the greatest story
+201911_allaboutdevops.pdf,http://www.themathcompany.com/cognition/Continuous_Delivery_CD,Continuous Delivery CD,P155,follows,http://www.themathcompany.com/cognition/Continuous_Integration_CI,Continuous Integration CI
+201911_allaboutdevops.pdf,http://www.themathcompany.com/cognition/Continuous_Integration_CI,Continuous Integration CI,P156,followed by,http://www.themathcompany.com/cognition/Continuous_Delivery_CD,Continuous Delivery CD
+201911_allaboutdevops.pdf,http://www.themathcompany.com/cognition/commits,commits,P1269,facet of,http://www.themathcompany.com/cognition/continuously_integrated,continuously integrated
+201911_allaboutdevops.pdf,http://www.themathcompany.com/cognition/high_performers,high performers,P461,opposite of,http://www.themathcompany.com/cognition/low_performers,low performers
+201911_allaboutdevops.pdf,http://www.themathcompany.com/cognition/low_performers,low performers,P461,opposite of,http://www.themathcompany.com/cognition/high_performers,high performers
+201911_allaboutdevops.pdf,http://www.themathcompany.com/cognition/High_performers,High performers,P461,opposite of,http://www.themathcompany.com/cognition/low_performers,low performers
+201911_allaboutdevops.pdf,http://www.themathcompany.com/cognition/low_performers,low performers,P461,opposite of,http://www.themathcompany.com/cognition/High_performers,High performers
+201911_allaboutdevops.pdf,http://www.themathcompany.com/cognition/DevOps_Research_and_Assessment,DevOps Research and Assessment,pcode,founded by,http://www.themathcompany.com/cognition/Jez_Humble,Jez Humble
+201912_alexa.pdf,http://www.themathcompany.com/cognition/wake_word,wake word,P279,subclass of,http://www.themathcompany.com/cognition/programmed_word,programmed word
+201912_alexa.pdf,http://www.themathcompany.com/cognition/Wake_work,Wake work,P2283,uses,http://www.themathcompany.com/cognition/Invocation_Name,Invocation Name
+201912_alexa.pdf,http://www.themathcompany.com/cognition/Wake_work,Wake work,P2283,uses,http://www.themathcompany.com/cognition/Invocation_name,Invocation name
+201912_opticalcharacterrecognition.pdf,http://www.themathcompany.com/cognition/The_Problem_with_the_Problem_Statement_Extracting_Text_from_an_image,The Problem with the Problem Statement Extracting Text from an image,P279,subclass of,http://www.themathcompany.com/cognition/Problem_Statement_Extracting_Text_from_an_image,Problem Statement Extracting Text from an image
+201912_opticalcharacterrecognition.pdf,http://www.themathcompany.com/cognition/tools_available_in_the_industry,tools available in the industry,P527,has part,http://www.themathcompany.com/cognition/trained_on_thousands_of_samples,trained on thousands of samples
+201912_opticalcharacterrecognition.pdf,http://www.themathcompany.com/cognition/trained_on_thousands_of_samples,trained on thousands of samples,P361,part of,http://www.themathcompany.com/cognition/tools_available_in_the_industry,tools available in the industry
+201912_opticalcharacterrecognition.pdf,http://www.themathcompany.com/cognition/Pre_-_processing,Pre - processing,P279,subclass of,http://www.themathcompany.com/cognition/scanned,scanned
+201912_opticalcharacterrecognition.pdf,http://www.themathcompany.com/cognition/PyTesseract,PyTesseract,P366,use,http://www.themathcompany.com/cognition/Text_Extraction,Text Extraction
+201912_opticalcharacterrecognition.pdf,http://www.themathcompany.com/cognition/PyTesseract,PyTesseract,P31,instance of,http://www.themathcompany.com/cognition/free_resource,free resource
+201912_opticalcharacterrecognition.pdf,http://www.themathcompany.com/cognition/PyTesseract,PyTesseract,P366,use,http://www.themathcompany.com/cognition/OCR_engine,OCR engine
+201912_opticalcharacterrecognition.pdf,http://www.themathcompany.com/cognition/extraction_for_PDF,extraction for PDF,P1889,different from,http://www.themathcompany.com/cognition/extraction_for_Images,extraction for Images
+201912_opticalcharacterrecognition.pdf,http://www.themathcompany.com/cognition/extraction_for_Images,extraction for Images,P1889,different from,http://www.themathcompany.com/cognition/extraction_for_PDF,extraction for PDF
+201912_opticalcharacterrecognition.pdf,http://www.themathcompany.com/cognition/PyPDF2,PyPDF2,P366,use,http://www.themathcompany.com/cognition/Extraction_from_PDF,Extraction from PDF
+201912_opticalcharacterrecognition.pdf,http://www.themathcompany.com/cognition/PDFMiner,PDFMiner,P366,use,http://www.themathcompany.com/cognition/Extraction_from_PDF,Extraction from PDF
+202002_namedentityrecognition.pdf,http://www.themathcompany.com/cognition/selling_on_the_applications,selling on the applications,P1889,different from,http://www.themathcompany.com/cognition/actually_work,actually work
+202002_namedentityrecognition.pdf,http://www.themathcompany.com/cognition/actually_work,actually work,P1889,different from,http://www.themathcompany.com/cognition/selling_on_the_applications,selling on the applications
+202002_namedentityrecognition.pdf,http://www.themathcompany.com/cognition/How_does_this_thing_actually_work,How does this thing actually work,P1269,facet of,http://www.themathcompany.com/cognition/actually_work,actually work
+202002_sequencemodelingandlstm.pdf,http://www.themathcompany.com/cognition/Sequence_prediction_model,Sequence prediction model,P279,subclass of,http://www.themathcompany.com/cognition/prediction_model,prediction model
+202002_sequencemodelingandlstm.pdf,http://www.themathcompany.com/cognition/LSTMs_Long_Short_Term_Memory,LSTMs Long Short Term Memory,P279,subclass of,http://www.themathcompany.com/cognition/Recurrent_Neural_Network_Architectures,Recurrent Neural Network Architectures
+202002_sequencemodelingandlstm.pdf,http://www.themathcompany.com/cognition/Image_Caption_generation,Image Caption generation,P279,subclass of,http://www.themathcompany.com/cognition/Text_Translation,Text Translation
+202002_sequencemodelingandlstm.pdf,http://www.themathcompany.com/cognition/Text_Translation,Text Translation,P361,part of,http://www.themathcompany.com/cognition/Text_and_Speech_Generation,Text and Speech Generation
+202002_sequencemodelingandlstm.pdf,http://www.themathcompany.com/cognition/Natural_Language_modeling_and_Generation,Natural Language modeling and Generation,P361,part of,http://www.themathcompany.com/cognition/Text_and_Speech_Generation,Text and Speech Generation
+202002_sequencemodelingandlstm.pdf,http://www.themathcompany.com/cognition/Types_of_Sequence_Prediction_problems,Types of Sequence Prediction problems,P279,subclass of,http://www.themathcompany.com/cognition/Sequence_prediction_problems,Sequence prediction problems
+202002_sequencemodelingandlstm.pdf,http://www.themathcompany.com/cognition/Sequence_prediction_problem,Sequence prediction problem,P31,instance of,http://www.themathcompany.com/cognition/4_categories,4 categories
+202002_sequencemodelingandlstm.pdf,http://www.themathcompany.com/cognition/4_categories,4 categories,P527,has part,http://www.themathcompany.com/cognition/Sequence_prediction_problem,Sequence prediction problem
+202002_sequencemodelingandlstm.pdf,http://www.themathcompany.com/cognition/Sequence_Generation,Sequence Generation,P361,part of,http://www.themathcompany.com/cognition/Multi_-_Step_Time_series_Forecasting,Multi - Step Time series Forecasting
+202002_sequencemodelingandlstm.pdf,http://www.themathcompany.com/cognition/Multi_-_Step_Time_series_Forecasting,Multi - Step Time series Forecasting,P527,has part,http://www.themathcompany.com/cognition/Sequence_Generation,Sequence Generation
+202002_sequencemodelingandlstm.pdf,http://www.themathcompany.com/cognition/Sequence_to_Sequence_Prediction,Sequence to Sequence Prediction,P366,use,http://www.themathcompany.com/cognition/Multi_-_Step_Time_series_Forecasting,Multi - Step Time series Forecasting
+202002_sequencemodelingandlstm.pdf,http://www.themathcompany.com/cognition/TimeseriesGenerator,TimeseriesGenerator,P366,use,http://www.themathcompany.com/cognition/fitted_with_data,fitted with data
+202002_sequencemodelingandlstm.pdf,http://www.themathcompany.com/cognition/Accuracies_and_Loss_plots,Accuracies and Loss plots,P366,use,http://www.themathcompany.com/cognition/feedforward_networks,feedforward networks
+202002_sequencemodelingandlstm.pdf,http://www.themathcompany.com/cognition/Understanding_-_LSTMs,Understanding - LSTMs,P361,part of,http://www.themathcompany.com/cognition/Neural_-_Network_-_for_-_Time,Neural - Network - for - Time
+202002_sequencemodelingandlstm.pdf,http://www.themathcompany.com/cognition/Seth_Weidmans_Textbook,Seth Weidmans Textbook,P527,has part,http://www.themathcompany.com/cognition/Deep_Learning_from_Scratch,Deep Learning from Scratch
+202002_sequencemodelingandlstm.pdf,http://www.themathcompany.com/cognition/Deep_Learning_from_Scratch,Deep Learning from Scratch,P361,part of,http://www.themathcompany.com/cognition/Seth_Weidmans_Textbook,Seth Weidmans Textbook
+202002_sequencemodelingandlstm.pdf,http://www.themathcompany.com/cognition/David_Fosters_Textbook,David Fosters Textbook,P921,main subject,http://www.themathcompany.com/cognition/Generative_Deep_Learning,Generative Deep Learning
+202002_sequencemodelingandlstm.pdf,http://www.themathcompany.com/cognition/David_Fosters_Textbook,David Fosters Textbook,P50,author,http://www.themathcompany.com/cognition/Srivatsa_Kanchibotla,Srivatsa Kanchibotla
+azuresecuritytips.pdf,http://www.themathcompany.com/cognition/lnkd.ingn5XzcuV,lnkd.ingn5XzcuV,P31,instance of,http://www.themathcompany.com/cognition/Ransomware_recovery_readiness,Ransomware recovery readiness
+azuresecuritytips.pdf,http://www.themathcompany.com/cognition/lnkd.indMcTQvfA,lnkd.indMcTQvfA,P31,instance of,http://www.themathcompany.com/cognition/security_baseline,security baseline
+azuresecuritytips.pdf,http://www.themathcompany.com/cognition/Cloud_Adoption_Framework,Cloud Adoption Framework,P31,instance of,http://www.themathcompany.com/cognition/getting_started_guide,getting started guide
+datacleanroom-aconceptualguide.pdf,http://www.themathcompany.com/cognition/Data_Clean_Room,Data Clean Room,P31,instance of,http://www.themathcompany.com/cognition/Conceptual_Guide,Conceptual Guide
+datacleanroom-aconceptualguide.pdf,http://www.themathcompany.com/cognition/Data_Clean_Room,Data Clean Room,P366,use,http://www.themathcompany.com/cognition/personalised_ads,personalised ads
+datacleanroom-aconceptualguide.pdf,http://www.themathcompany.com/cognition/Third_-_Party_cookie,Third - Party cookie,P1889,different from,http://www.themathcompany.com/cognition/First_-_Party_cookie,First - Party cookie
+datacleanroom-aconceptualguide.pdf,http://www.themathcompany.com/cognition/First_-_Party_cookie,First - Party cookie,P1889,different from,http://www.themathcompany.com/cognition/Third_-_Party_cookie,Third - Party cookie
+datacleanroom-aconceptualguide.pdf,http://www.themathcompany.com/cognition/Third_-_Party_cookies,Third - Party cookies,P1889,different from,http://www.themathcompany.com/cognition/First_-_Party_cookies,First - Party cookies
+datacleanroom-aconceptualguide.pdf,http://www.themathcompany.com/cognition/First_-_Party_cookies,First - Party cookies,P1889,different from,http://www.themathcompany.com/cognition/Third_-_Party_cookies,Third - Party cookies
+datacleanroom-aconceptualguide.pdf,http://www.themathcompany.com/cognition/First_-_party_cookie,First - party cookie,P461,opposite of,http://www.themathcompany.com/cognition/Third_-_Party_cookie,Third - Party cookie
+datacleanroom-aconceptualguide.pdf,http://www.themathcompany.com/cognition/Third_-_Party_cookie,Third - Party cookie,P461,opposite of,http://www.themathcompany.com/cognition/First_-_party_cookie,First - party cookie
+datacleanroom-aconceptualguide.pdf,http://www.themathcompany.com/cognition/Data_Clean_Room,Data Clean Room,P361,part of,http://www.themathcompany.com/cognition/Identity_Resolution_with_Clean_Room,Identity Resolution with Clean Room
+datacleanroom-aconceptualguide.pdf,http://www.themathcompany.com/cognition/Identity_Resolution_with_Clean_Room,Identity Resolution with Clean Room,P527,has part,http://www.themathcompany.com/cognition/Data_Clean_Room,Data Clean Room
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/Cramr,Cramr,pcode,notable work,http://www.themathcompany.com/cognition/Maximum_Mean_Discrepancy_MMD,Maximum Mean Discrepancy MMD
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/Regressor_Uncertainty,Regressor Uncertainty,P279,subclass of,http://www.themathcompany.com/cognition/Classifier_Uncertainty,Classifier Uncertainty
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/for_i,for i,P361,part of,http://www.themathcompany.com/cognition/categoricalfeaturename,categoricalfeaturename
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/categoricalfeaturename,categoricalfeaturename,P527,has part,http://www.themathcompany.com/cognition/for_i,for i
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/categoricalfeaturename,categoricalfeaturename,P527,has part,http://www.themathcompany.com/cognition/inplaceTrue,inplaceTrue
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/inplaceTrue,inplaceTrue,P361,part of,http://www.themathcompany.com/cognition/categoricalfeaturename,categoricalfeaturename
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/refdfiencodedref,refdfiencodedref,P31,instance of,http://www.themathcompany.com/cognition/test_class,test class
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/KSDriftxref,KSDriftxref,P31,instance of,http://www.themathcompany.com/cognition/test_class,test class
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/ksobj.predictxtest,ksobj.predictxtest,P31,instance of,http://www.themathcompany.com/cognition/K_-_S_test,K - S test
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/ksobj.predictxtest,ksobj.predictxtest,P31,instance of,http://www.themathcompany.com/cognition/drifttypefeature,drifttypefeature
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/kspreddatadistance9,kspreddatadistance9,P527,has part,http://www.themathcompany.com/cognition/kspreddata,kspreddata
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/kspreddata,kspreddata,P361,part of,http://www.themathcompany.com/cognition/kspreddatadistance9,kspreddatadistance9
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/statval,statval,P527,has part,http://www.themathcompany.com/cognition/pval,pval
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/pval,pval,P361,part of,http://www.themathcompany.com/cognition/statval,statval
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/kspreddatadistance9,kspreddatadistance9,P527,has part,http://www.themathcompany.com/cognition/statval,statval
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/statval,statval,P527,has part,http://www.themathcompany.com/cognition/kspreddatadistance9,kspreddatadistance9
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/statval,statval,pcode,has,http://www.themathcompany.com/cognition/kspreddata,kspreddata
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/kspreddata,kspreddata,P527,has part,http://www.themathcompany.com/cognition/statval,statval
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/xrefpreprocessed,xrefpreprocessed,P279,subclass of,http://www.themathcompany.com/cognition/preprocessed,preprocessed
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/nfeatures,nfeatures,P361,part of,http://www.themathcompany.com/cognition/K_-_S_test,K - S test
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/K_-_S_test,K - S test,P527,has part,http://www.themathcompany.com/cognition/nfeatures,nfeatures
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/inputshape,inputshape,P279,subclass of,http://www.themathcompany.com/cognition/Shape_of_input_data,Shape of input data
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/xrefpreprocessed,xrefpreprocessed,P279,subclass of,http://www.themathcompany.com/cognition/preprocessatinit,preprocessatinit
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/inputshape,inputshape,P279,subclass of,http://www.themathcompany.com/cognition/Optionally_pass_the_shape,Optionally pass the shape
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/batchsize,batchsize,P1269,facet of,http://www.themathcompany.com/cognition/memory_issues,memory issues
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/nkernelcenters,nkernelcenters,P361,part of,http://www.themathcompany.com/cognition/Gaussian_kernel_model,Gaussian kernel model
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/Gaussian_kernel_model,Gaussian kernel model,P527,has part,http://www.themathcompany.com/cognition/nkernelcenters,nkernelcenters
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/Maximum_Mean_Discrepancy_MMD,Maximum Mean Discrepancy MMD,P1269,facet of,http://www.themathcompany.com/cognition/Gaussian_kernel_model,Gaussian kernel model
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/lambdardmax,lambdardmax,P279,subclass of,http://www.themathcompany.com/cognition/Maximum_Mean_Discrepancy_MMD,Maximum Mean Discrepancy MMD
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/Chi_-_Squared,Chi - Squared,P31,instance of,http://www.themathcompany.com/cognition/categoriesperfeature,categoriesperfeature
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/pval,pval,P1269,facet of,http://www.themathcompany.com/cognition/Chi_-_Squared_test,Chi - Squared test
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/K_-_S,K - S,pcode,derivative work,http://www.themathcompany.com/cognition/Chi_-_Squared,Chi - Squared
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/Chi_-_Squared,Chi - Squared,pcode,based on,http://www.themathcompany.com/cognition/K_-_S,K - S
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/nfolds,nfolds,P279,subclass of,http://www.themathcompany.com/cognition/stratified_folds,stratified folds
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/trainsize,trainsize,P1889,different from,http://www.themathcompany.com/cognition/nfolds,nfolds
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/nfolds,nfolds,P1889,different from,http://www.themathcompany.com/cognition/trainsize,trainsize
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/Optional_random_seed,Optional random seed,P279,subclass of,http://www.themathcompany.com/cognition/fold_selection,fold selection
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/trainkwargs,trainkwargs,P279,subclass of,http://www.themathcompany.com/cognition/kwargs,kwargs
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/TorchDataset,TorchDataset,pcode,based on,http://www.themathcompany.com/cognition/torch.utils,torch.utils
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/torch.utils,torch.utils,pcode,derivative work,http://www.themathcompany.com/cognition/TorchDataset,TorchDataset
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/TorchDataset,TorchDataset,P361,part of,http://www.themathcompany.com/cognition/torch.utils,torch.utils
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/torch.utils,torch.utils,P527,has part,http://www.themathcompany.com/cognition/TorchDataset,TorchDataset
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/TFDataset,TFDataset,P361,part of,http://www.themathcompany.com/cognition/tf.keras,tf.keras
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/tf.keras,tf.keras,P527,has part,http://www.themathcompany.com/cognition/TFDataset,TFDataset
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/Evidently_AI,Evidently AI,P2283,uses,http://www.themathcompany.com/cognition/jupyter_nbextension,jupyter nbextension
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/jupyter_nbextension,jupyter nbextension,P527,has part,http://www.themathcompany.com/cognition/jupyter_nbextension_enable_evidently_--py_--sys_-_prefix,jupyter nbextension enable evidently --py --sys - prefix
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/jupyter_nbextension_enable_evidently_--py_--sys_-_prefix,jupyter nbextension enable evidently --py --sys - prefix,P361,part of,http://www.themathcompany.com/cognition/jupyter_nbextension,jupyter nbextension
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/Pandas_DataFrame,Pandas DataFrame,P366,use,http://www.themathcompany.com/cognition/datasets,datasets
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/Pandas_DataFrame,Pandas DataFrame,P2283,uses,http://www.themathcompany.com/cognition/Pandas_DataFrame_format,Pandas DataFrame format
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/Pandas_DataFrame_format,Pandas DataFrame format,P1535,used by,http://www.themathcompany.com/cognition/Pandas_DataFrame,Pandas DataFrame
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/columnmapping,columnmapping,P279,subclass of,http://www.themathcompany.com/cognition/Column_Mapping,Column Mapping
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/DataDriftTable,DataDriftTable,P178,developer,http://www.themathcompany.com/cognition/Evidently_AI,Evidently AI
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/DataDriftTable,DataDriftTable,P366,use,http://www.themathcompany.com/cognition/Evidently_AI,Evidently AI
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/Evidently_AI,Evidently AI,P527,has part,http://www.themathcompany.com/cognition/DataDriftTable,DataDriftTable
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/DataDriftTable,DataDriftTable,P361,part of,http://www.themathcompany.com/cognition/Evidently_AI,Evidently AI
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/truefalse,truefalse,P31,instance of,http://www.themathcompany.com/cognition/drift_score,drift score
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/evidently.report,evidently.report,P527,has part,http://www.themathcompany.com/cognition/evidently.metricpreset,evidently.metricpreset
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/evidently.report,evidently.report,P527,has part,http://www.themathcompany.com/cognition/DataDriftPreset,DataDriftPreset
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/evidently.metricpreset,evidently.metricpreset,P361,part of,http://www.themathcompany.com/cognition/evidently.report,evidently.report
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/DataDriftPreset,DataDriftPreset,P361,part of,http://www.themathcompany.com/cognition/evidently.report,evidently.report
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/DataDriftPreset,DataDriftPreset,P366,use,http://www.themathcompany.com/cognition/evidently.metricpreset,evidently.metricpreset
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/DataDriftTable,DataDriftTable,P361,part of,http://www.themathcompany.com/cognition/DataDriftPreset,DataDriftPreset
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/DataDriftPreset,DataDriftPreset,P527,has part,http://www.themathcompany.com/cognition/DataDriftTable,DataDriftTable
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/drift_threshold,drift threshold,P460,said to be the same as,http://www.themathcompany.com/cognition/stattestthreshold,stattestthreshold
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/stattestthreshold,stattestthreshold,P460,said to be the same as,http://www.themathcompany.com/cognition/drift_threshold,drift threshold
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/drift_method,drift method,P1269,facet of,http://www.themathcompany.com/cognition/Dataset_Drift,Dataset Drift
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/percolumnstattest_percolumnstattest_percolumnstattestthreshold,percolumnstattest percolumnstattest percolumnstattestthreshold,P31,instance of,http://www.themathcompany.com/cognition/drift_method,drift method
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/percolumnstattest,percolumnstattest,P31,instance of,http://www.themathcompany.com/cognition/drift_method,drift method
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/datadriftreport,datadriftreport,P527,has part,http://www.themathcompany.com/cognition/datadriftreport.showmodeinline,datadriftreport.showmodeinline
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/datadriftreport.showmodeinline,datadriftreport.showmodeinline,P361,part of,http://www.themathcompany.com/cognition/datadriftreport,datadriftreport
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/distribution_of_the_data,distribution of the data,P527,has part,http://www.themathcompany.com/cognition/drift_of_the_the_data_points,drift of the the data points
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/drift_of_the_the_data_points,drift of the the data points,P361,part of,http://www.themathcompany.com/cognition/distribution_of_the_data,distribution of the data
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/KolmogorovSmirnov,KolmogorovSmirnov,pcode,military rank,http://www.themathcompany.com/cognition/K_-_S,K - S
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/KolmogorovSmirnov_K_-_S,KolmogorovSmirnov K - S,P31,instance of,http://www.themathcompany.com/cognition/KolmogorovSmirnov_statistic,KolmogorovSmirnov statistic
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Kullback_-_Leibler_divergence,Kullback - Leibler divergence,P279,subclass of,http://www.themathcompany.com/cognition/f_-_divergence,f - divergence
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Jensen_-_Shannon_distance,Jensen - Shannon distance,pcode,based on,http://www.themathcompany.com/cognition/KullbackLeibler_divergence,KullbackLeibler divergence
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Anderson_-_Darling_test,Anderson - Darling test,pcode,based on,http://www.themathcompany.com/cognition/K_-_S_test,K - S test
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Anderson_-_Darling_test,Anderson - Darling test,P460,said to be the same as,http://www.themathcompany.com/cognition/K_-_S_test,K - S test
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/K_-_S_test,K - S test,P460,said to be the same as,http://www.themathcompany.com/cognition/Anderson_-_Darling_test,Anderson - Darling test
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Epps_-_Singleton_test,Epps - Singleton test,pcode,based on,http://www.themathcompany.com/cognition/t_-_test,t - test
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/T_-_Test,T - Test,P279,subclass of,http://www.themathcompany.com/cognition/sample_has_fewer_than_30,sample has fewer than 30
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Total_-_Variation_-_Distance,Total - Variation - Distance,P279,subclass of,http://www.themathcompany.com/cognition/f_-_divergence,f - divergence
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Least_Square_Density_Difference,Least Square Density Difference,P279,subclass of,http://www.themathcompany.com/cognition/pointwise_difference,pointwise difference
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Min_drift_score,Min drift score,P31,instance of,http://www.themathcompany.com/cognition/probability_of_the_sample_being_like_the_reference_distribution,probability of the sample being like the reference distribution
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Min_drift_score,Min drift score,P31,instance of,http://www.themathcompany.com/cognition/drift_score,drift score
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/drift_score,drift score,P527,has part,http://www.themathcompany.com/cognition/Sensitive_to_small_drifts_when_the_values_are_smaller,Sensitive to small drifts when the values are smaller
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Sensitive_to_small_drifts_when_the_values_are_smaller,Sensitive to small drifts when the values are smaller,P361,part of,http://www.themathcompany.com/cognition/drift_score,drift score
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Kolmogorov_Smirnov_K-,Kolmogorov Smirnov K-,P361,part of,http://www.themathcompany.com/cognition/Population_Stability_Index_PSI,Population Stability Index PSI
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Population_Stability_Index_PSI,Population Stability Index PSI,P527,has part,http://www.themathcompany.com/cognition/Kolmogorov_Smirnov_K-,Kolmogorov Smirnov K-
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/categorical_features,categorical features,P279,subclass of,http://www.themathcompany.com/cognition/numerical_features,numerical features
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/KolmogorovSmirnov_K_-_S_test,KolmogorovSmirnov K - S test,P31,instance of,http://www.themathcompany.com/cognition/groupsbins,groupsbins
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Drift_score,Drift score,P1269,facet of,http://www.themathcompany.com/cognition/categorical_features,categorical features
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/drift_score,drift score,P1269,facet of,http://www.themathcompany.com/cognition/Sensitive_to_small_drifts_when_the_values_are_smaller,Sensitive to small drifts when the values are smaller
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Sensitive_to_small_drifts_when_the_values_are_smaller,Sensitive to small drifts when the values are smaller,P1269,facet of,http://www.themathcompany.com/cognition/drift_score,drift score
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Min_drift_score,Min drift score,P1889,different from,http://www.themathcompany.com/cognition/Max_drift_score,Max drift score
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Max_drift_score,Max drift score,P1889,different from,http://www.themathcompany.com/cognition/Min_drift_score,Min drift score
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Max_drift_score,Max drift score,P31,instance of,http://www.themathcompany.com/cognition/Min_drift_score,Min drift score
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Kullback,Kullback,pcode,notable work,http://www.themathcompany.com/cognition/Leibler_divergence,Leibler divergence
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Leibler_divergence,Leibler divergence,pcode,named after,http://www.themathcompany.com/cognition/Kullback,Kullback
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Wasserstein_distance.ipynb,Wasserstein distance.ipynb,P361,part of,http://www.themathcompany.com/cognition/Repos_azure.com,Repos azure.com
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Repos_azure.com,Repos azure.com,P527,has part,http://www.themathcompany.com/cognition/Wasserstein_distance.ipynb,Wasserstein distance.ipynb
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Kullback_-_Leibler_divergence,Kullback - Leibler divergence,P31,instance of,http://www.themathcompany.com/cognition/drift_score,drift score
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Kullback,Kullback,pcode,notable work,http://www.themathcompany.com/cognition/divergence.ipynb,divergence.ipynb
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/divergence.ipynb,divergence.ipynb,pcode,discoverer or inventor,http://www.themathcompany.com/cognition/Kullback,Kullback
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Kullback,Kullback,pcode,notable work,http://www.themathcompany.com/cognition/Leibler_divergence.ipynb,Leibler divergence.ipynb
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Leibler_divergence.ipynb,Leibler divergence.ipynb,pcode,named after,http://www.themathcompany.com/cognition/Kullback,Kullback
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Jensen_-_Shannon_distance,Jensen - Shannon distance,pcode,based on,http://www.themathcompany.com/cognition/KullbackLeibler,KullbackLeibler
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Jensen_-_Shannon_distance,Jensen - Shannon distance,P460,said to be the same as,http://www.themathcompany.com/cognition/Jensen_-_Shannon_test,Jensen - Shannon test
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Jensen_-_Shannon_test,Jensen - Shannon test,P460,said to be the same as,http://www.themathcompany.com/cognition/Jensen_-_Shannon_distance,Jensen - Shannon distance
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Jensen_-_Shannon_distance,Jensen - Shannon distance,P361,part of,http://www.themathcompany.com/cognition/Jensen_-_Shannon_test,Jensen - Shannon test
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Jensen_-_Shannon_test,Jensen - Shannon test,P527,has part,http://www.themathcompany.com/cognition/Jensen_-_Shannon_distance,Jensen - Shannon distance
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Jensen_-_Shannon_test,Jensen - Shannon test,P527,has part,http://www.themathcompany.com/cognition/Jensen_Shannon_distance,Jensen Shannon distance
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Jensen_Shannon_distance,Jensen Shannon distance,P361,part of,http://www.themathcompany.com/cognition/Jensen_-_Shannon_test,Jensen - Shannon test
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Anderson_-_Darling_test,Anderson - Darling test,P1889,different from,http://www.themathcompany.com/cognition/K_-_S_test,K - S test
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/K_-_S_test,K - S test,P1889,different from,http://www.themathcompany.com/cognition/Anderson_-_Darling_test,Anderson - Darling test
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/probability_of_the_sample_being_like_the_reference_distribution,probability of the sample being like the reference distribution,P527,has part,http://www.themathcompany.com/cognition/Min_drift_score,Min drift score
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Gives_more_precise_drift_score,Gives more precise drift score,P31,instance of,http://www.themathcompany.com/cognition/drift_score,drift score
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/wasserstein_test,wasserstein test,P31,instance of,http://www.themathcompany.com/cognition/drift_score,drift score
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/wasserstein_test,wasserstein test,P2283,uses,http://www.themathcompany.com/cognition/shape_of_distribution,shape of distribution
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Von_-_Mises_test,Von - Mises test,pcode,based on,http://www.themathcompany.com/cognition/Cramer_-_Von_-_Mises_test,Cramer - Von - Mises test
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Cramer_-_Von_-_Mises_test,Cramer - Von - Mises test,P31,instance of,http://www.themathcompany.com/cognition/numerical_features,numerical features
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/K_-_S_test,K - S test,P31,instance of,http://www.themathcompany.com/cognition/numerical_features,numerical features
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Cramer_-_Von_-_Mises_test,Cramer - Von - Mises test,P460,said to be the same as,http://www.themathcompany.com/cognition/K_-_S_test,K - S test
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/K_-_S_test,K - S test,P460,said to be the same as,http://www.themathcompany.com/cognition/Cramer_-_Von_-_Mises_test,Cramer - Von - Mises test
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Cramer_-_Von_-_Mises_test,Cramer - Von - Mises test,pcode,based on,http://www.themathcompany.com/cognition/K_-_S_test,K - S test
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/increase_in_drift,increase in drift,P279,subclass of,http://www.themathcompany.com/cognition/drift_score,drift score
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Hellinger_Distance.ipynb,Hellinger Distance.ipynb,P361,part of,http://www.themathcompany.com/cognition/Repos_azure.com,Repos azure.com
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Repos_azure.com,Repos azure.com,P527,has part,http://www.themathcompany.com/cognition/Hellinger_Distance.ipynb,Hellinger Distance.ipynb
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/new_dataSample,new dataSample,P156,followed by,http://www.themathcompany.com/cognition/reference_dataSample_2,reference dataSample 2
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/reference_dataSample_2,reference dataSample 2,P155,follows,http://www.themathcompany.com/cognition/new_dataSample,new dataSample
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Sample_1,Sample 1,P156,followed by,http://www.themathcompany.com/cognition/Sample_2,Sample 2
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/sum_of_ranks_in_Sample_2,sum of ranks in Sample 2,P361,part of,http://www.themathcompany.com/cognition/Sample_2,Sample 2
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Sample_2,Sample 2,P527,has part,http://www.themathcompany.com/cognition/sum_of_ranks_in_Sample_2,sum of ranks in Sample 2
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/T_-_Test,T - Test,P366,use,http://www.themathcompany.com/cognition/numerical_features,numerical features
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/T_-_Test,T - Test,P2283,uses,http://www.themathcompany.com/cognition/T_-_statistic,T - statistic
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/T_-_statistic,T - statistic,P1535,used by,http://www.themathcompany.com/cognition/T_-_Test,T - Test
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/T_-_Test,T - Test,pcode,based on,http://www.themathcompany.com/cognition/T_-_statistic,T - statistic
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Z_-_test,Z - test,P366,use,http://www.themathcompany.com/cognition/categorical_features,categorical features
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Z_-_test,Z - test,P2283,uses,http://www.themathcompany.com/cognition/Z_-_statistic,Z - statistic
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Z_-_statistic,Z - statistic,P1535,used by,http://www.themathcompany.com/cognition/Z_-_test,Z - test
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Min_drift_score,Min drift score,P361,part of,http://www.themathcompany.com/cognition/Fishers_Exact_test.ipynb,Fishers Exact test.ipynb
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Fishers_Exact_test.ipynb,Fishers Exact test.ipynb,P527,has part,http://www.themathcompany.com/cognition/Min_drift_score,Min drift score
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/G_-Test,G -Test,P2283,uses,http://www.themathcompany.com/cognition/G_-_statistic,G - statistic
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/G_-_statistic,G - statistic,P1535,used by,http://www.themathcompany.com/cognition/G_-Test,G -Test
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/G_Test.ipynb,G Test.ipynb,P361,part of,http://www.themathcompany.com/cognition/Repos_azure.com,Repos azure.com
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Repos_azure.com,Repos azure.com,P527,has part,http://www.themathcompany.com/cognition/G_Test.ipynb,G Test.ipynb
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Chi_-_Square_test,Chi - Square test,P366,use,http://www.themathcompany.com/cognition/categorical_features,categorical features
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Cramer_-_Von_-_Mises_test,Cramer - Von - Mises test,P2283,uses,http://www.themathcompany.com/cognition/chi_square_statistic,chi square statistic
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Maximum_Mean_Discrepancy.ipynb,Maximum Mean Discrepancy.ipynb,P361,part of,http://www.themathcompany.com/cognition/Repos_azure.com,Repos azure.com
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Repos_azure.com,Repos azure.com,P527,has part,http://www.themathcompany.com/cognition/Maximum_Mean_Discrepancy.ipynb,Maximum Mean Discrepancy.ipynb
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Classification_Model,Classification Model,P366,use,http://www.themathcompany.com/cognition/random_state,random state
+devopsstarterguide.pdf,http://www.themathcompany.com/cognition/scrum_method,scrum method,P31,instance of,http://www.themathcompany.com/cognition/frameworks_of_practice,frameworks of practice
+devopsstarterguide.pdf,http://www.themathcompany.com/cognition/end_-_to_-_end,end - to - end,P279,subclass of,http://www.themathcompany.com/cognition/automated_procedure,automated procedure
+devopsstarterguide.pdf,http://www.themathcompany.com/cognition/2_Being_Agile,2 Being Agile,P361,part of,http://www.themathcompany.com/cognition/Being_Agile,Being Agile
+devopsstarterguide.pdf,http://www.themathcompany.com/cognition/Being_Agile,Being Agile,P527,has part,http://www.themathcompany.com/cognition/2_Being_Agile,2 Being Agile
+devopsstarterguide.pdf,http://www.themathcompany.com/cognition/Using_Inconsistent_Environments,Using Inconsistent Environments,P527,has part,http://www.themathcompany.com/cognition/4_Using_Inconsistent_Environments,4 Using Inconsistent Environments
+devopsstarterguide.pdf,http://www.themathcompany.com/cognition/4_Using_Inconsistent_Environments,4 Using Inconsistent Environments,P361,part of,http://www.themathcompany.com/cognition/Using_Inconsistent_Environments,Using Inconsistent Environments
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/IaaS_Infrastructure_as_a_Service,IaaS Infrastructure as a Service,P279,subclass of,http://www.themathcompany.com/cognition/PaaS_Platform_as_a_Service,PaaS Platform as a Service
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/PaaS_Platform_as_a_Service,PaaS Platform as a Service,P527,has part,http://www.themathcompany.com/cognition/IaaS_Infrastructure_as_a_Service,IaaS Infrastructure as a Service
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/Azure_App_Service,Azure App Service,P31,instance of,http://www.themathcompany.com/cognition/App_Service,App Service
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/Azure_PowerShell,Azure PowerShell,P31,instance of,http://www.themathcompany.com/cognition/command_-_line_interface,command - line interface
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/Git_repository,Git repository,P527,has part,http://www.themathcompany.com/cognition/application.py,application.py
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/application.py,application.py,P361,part of,http://www.themathcompany.com/cognition/Git_repository,Git repository
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/az_-_webapp_up,az - webapp up,P366,use,http://www.themathcompany.com/cognition/Zip_deploy,Zip deploy
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/az_webapp,az webapp,P366,use,http://www.themathcompany.com/cognition/Redeploy,Redeploy
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/az_webapp,az webapp,P31,instance of,http://www.themathcompany.com/cognition/App_Service,App Service
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/az_webapp,az webapp,P366,use,http://www.themathcompany.com/cognition/container_logging,container logging
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/App_Service,App Service,P361,part of,http://www.themathcompany.com/cognition/Azure_portal,Azure portal
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/Docker_container,Docker container,pcode,based on,http://www.themathcompany.com/cognition/Docker_image,Docker image
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/Docker_container,Docker container,P2283,uses,http://www.themathcompany.com/cognition/Docker_image,Docker image
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/App_Service,App Service,P366,use,http://www.themathcompany.com/cognition/Docker_container,Docker container
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/Docker_image,Docker image,P1535,used by,http://www.themathcompany.com/cognition/App_Service,App Service
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/App_Service,App Service,P2283,uses,http://www.themathcompany.com/cognition/Docker_image,Docker image
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/resource_group,resource group,P279,subclass of,http://www.themathcompany.com/cognition/logical_container,logical container
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/resource_group_in_West_Europe,resource group in West Europe,P31,instance of,http://www.themathcompany.com/cognition/resource_group,resource group
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/Azure_Container_Registry,Azure Container Registry,P31,instance of,http://www.themathcompany.com/cognition/Container_Registry,Container Registry
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/Azure_Container_Registry,Azure Container Registry,P31,instance of,http://www.themathcompany.com/cognition/private_registry,private registry
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/Docker_image,Docker image,P1535,used by,http://www.themathcompany.com/cognition/Azure_Container_Registry,Azure Container Registry
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/azure_-_container_-_registry_-_name,azure - container - registry - name,P527,has part,http://www.themathcompany.com/cognition/registry_-_username,registry - username
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/registry_-_username,registry - username,P361,part of,http://www.themathcompany.com/cognition/azure_-_container_-_registry_-_name,azure - container - registry - name
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/App_Service_Plan,App Service Plan,P1056,product or material produced,http://www.themathcompany.com/cognition/App_Service,App Service
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/Free_pricing_tier,Free pricing tier,P279,subclass of,http://www.themathcompany.com/cognition/App_Service_plan,App Service plan
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/Docker_image,Docker image,P361,part of,http://www.themathcompany.com/cognition/container_registry,container registry
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/container_registry,container registry,P527,has part,http://www.themathcompany.com/cognition/Docker_image,Docker image
+kubeflowvsmlflow.pdf,http://www.themathcompany.com/cognition/MLflow,MLflow,P366,use,http://www.themathcompany.com/cognition/Collaborative_environment,Collaborative environment
+kubeflowvsmlflow.pdf,http://www.themathcompany.com/cognition/MLflow,MLflow,P366,use,http://www.themathcompany.com/cognition/experiment_tracking_system,experiment tracking system
+kubeflowvsmlflow.pdf,http://www.themathcompany.com/cognition/MLflow,MLflow,P366,use,http://www.themathcompany.com/cognition/experiment_tracking,experiment tracking
+kubeflowvsmlflow.pdf,http://www.themathcompany.com/cognition/model_deployment,model deployment,P279,subclass of,http://www.themathcompany.com/cognition/deploying_model,deploying model
+kubeflowvsmlflow.pdf,http://www.themathcompany.com/cognition/MLflow,MLflow,P366,use,http://www.themathcompany.com/cognition/model_registry,model registry
+kubeflowvsmlflow.pdf,http://www.themathcompany.com/cognition/MLflow,MLflow,P31,instance of,http://www.themathcompany.com/cognition/model_registry,model registry
+kubeflowvsmlflow.pdf,http://www.themathcompany.com/cognition/model_lineage,model lineage,P1269,facet of,http://www.themathcompany.com/cognition/model_versioning,model versioning
+sparkperformancetuning-part1.pdf,http://www.themathcompany.com/cognition/We_Spark,We Spark,P31,instance of,http://www.themathcompany.com/cognition/compute_engine,compute engine
+sparkperformancetuning-part1.pdf,http://www.themathcompany.com/cognition/No_of_executor,No of executor,P461,opposite of,http://www.themathcompany.com/cognition/No_of_cores,No of cores
+sparkperformancetuning-part1.pdf,http://www.themathcompany.com/cognition/No_of_cores,No of cores,P461,opposite of,http://www.themathcompany.com/cognition/No_of_executor,No of executor
+sparkperformancetuning-part1.pdf,http://www.themathcompany.com/cognition/spark_ui,spark ui,P361,part of,http://www.themathcompany.com/cognition/Worker_machine,Worker machine
+sparkperformancetuning-part1.pdf,http://www.themathcompany.com/cognition/Worker_machine,Worker machine,P527,has part,http://www.themathcompany.com/cognition/spark_ui,spark ui
+sparkperformancetuning-part1.pdf,http://www.themathcompany.com/cognition/Broadcast_join,Broadcast join,P361,part of,http://www.themathcompany.com/cognition/Spark_SQL,Spark SQL
+sparkperformancetuning-part1.pdf,http://www.themathcompany.com/cognition/Broadcast_join,Broadcast join,P279,subclass of,http://www.themathcompany.com/cognition/data_shuffling,data shuffling
+sparkperformancetuning-part1.pdf,http://www.themathcompany.com/cognition/out_of_memory_error,out of memory error,P1269,facet of,http://www.themathcompany.com/cognition/drivers_available_memory,drivers available memory
+sparkperformancetuning-part1.pdf,http://www.themathcompany.com/cognition/executor_memory,executor memory,P279,subclass of,http://www.themathcompany.com/cognition/memory_overhead,memory overhead
+sparkperformancetuning-part1.pdf,http://www.themathcompany.com/cognition/Container_killed_by_YARN,Container killed by YARN,P828,has cause,http://www.themathcompany.com/cognition/Memory_overhead,Memory overhead
+sparkperformancetuning-part1.pdf,http://www.themathcompany.com/cognition/out_of_memory_error,out of memory error,P1269,facet of,http://www.themathcompany.com/cognition/driver_level,driver level
+sparkperformancetuning-part1.pdf,http://www.themathcompany.com/cognition/spark.yarn,spark.yarn,P279,subclass of,http://www.themathcompany.com/cognition/executor_memory,executor memory
+sparkperformancetuning-part1.pdf,http://www.themathcompany.com/cognition/spark.executor,spark.executor,P279,subclass of,http://www.themathcompany.com/cognition/executor_memory,executor memory
+sparkperformancetuning-part1.pdf,http://www.themathcompany.com/cognition/autoBroadcastJoinThreshold,autoBroadcastJoinThreshold,P361,part of,http://www.themathcompany.com/cognition/spark.sql,spark.sql
+typesofdataplatforms.pdf,http://www.themathcompany.com/cognition/cookie_ID,cookie ID,P279,subclass of,http://www.themathcompany.com/cognition/mobile_identifier,mobile identifier
+typesofdataplatforms.pdf,http://www.themathcompany.com/cognition/CDP_and_CRM,CDP and CRM,P1889,different from,http://www.themathcompany.com/cognition/DMP_and_CRM,DMP and CRM
+typesofdataplatforms.pdf,http://www.themathcompany.com/cognition/DMP_and_CRM,DMP and CRM,P1889,different from,http://www.themathcompany.com/cognition/CDP_and_CRM,CDP and CRM
+webscaping-proxymanagement.pdf,http://www.themathcompany.com/cognition/3rd_party_service,3rd party service,P366,use,http://www.themathcompany.com/cognition/proxy_management,proxy management
+webscaping-proxymanagement.pdf,http://www.themathcompany.com/cognition/proxy_management_system,proxy management system,P366,use,http://www.themathcompany.com/cognition/proxy_management,proxy management
+webscaping-proxymanagement.pdf,http://www.themathcompany.com/cognition/rotating_proxy,rotating proxy,P279,subclass of,http://www.themathcompany.com/cognition/proxy_management_system,proxy management system
+webscaping-proxymanagement.pdf,http://www.themathcompany.com/cognition/rotating_proxy,rotating proxy,P366,use,http://www.themathcompany.com/cognition/proxy_management_system,proxy management system
+webscaping-proxymanagement.pdf,http://www.themathcompany.com/cognition/rotates_proxy,rotates proxy,P279,subclass of,http://www.themathcompany.com/cognition/proxy_management_service,proxy management service
+webscaping-proxymanagement.pdf,http://www.themathcompany.com/cognition/docs.zyte,docs.zyte,P366,use,http://www.themathcompany.com/cognition/proxy_management,proxy management
