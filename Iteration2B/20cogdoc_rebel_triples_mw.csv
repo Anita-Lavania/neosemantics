@@ -1,0 +1,640 @@
+asset_name,source_uri,source_name,edge_pcode,edge_name,target_uri,target_name
+201907_co.dex.pdf,http://www.themathcompany.com/cognition/CO.DEX,CO.DEX,P366,use,http://www.wikidata.org/wiki/Q2374463,Data Science
+201907_co.dex.pdf,http://www.themathcompany.com/cognition/On_-_premise,On - premise,P279,subclass of,http://www.wikidata.org/wiki/Q121359,Infrastructure
+201907_co.dex.pdf,http://www.themathcompany.com/cognition/On_-_premise,On - premise,P279,subclass of,http://www.wikidata.org/wiki/Q121359,infrastructure
+201907_co.dex.pdf,http://www.themathcompany.com/cognition/CO.DEX,CO.DEX,P31,instance of,http://www.wikidata.org/wiki/Q1254596,SaaS
+201907_co.dex.pdf,http://www.themathcompany.com/cognition/CO.DEX,CO.DEX,P31,instance of,http://www.wikidata.org/wiki/Q294834,application
+201907_co.dex.pdf,http://www.themathcompany.com/cognition/CO.DEX,CO.DEX,P31,instance of,http://www.wikidata.org/wiki/Q165194,API
+201907_co.dex.pdf,http://www.themathcompany.com/cognition/forecasting_techniques,forecasting techniques,P366,use,http://www.wikidata.org/wiki/Q7216332,Forecasting
+201907_co.dex.pdf,http://www.themathcompany.com/cognition/Co.dex_DS,Co.dex DS,P31,instance of,http://www.wikidata.org/wiki/Q2425187,code base
+201907_co.dex.pdf,http://www.themathcompany.com/cognition/CO.DEX,CO.DEX,P366,use,http://www.wikidata.org/wiki/Q43967068,AutoML
+201907_co.dex.pdf,http://www.themathcompany.com/cognition/On_-_premise,On - premise,P279,subclass of,http://www.wikidata.org/wiki/Q8074,Cloud
+201907_co.dex.pdf,http://www.themathcompany.com/cognition/CO.DEX,CO.DEX,P31,instance of,http://www.wikidata.org/wiki/Q8351206,firewall
+201907_co.dex.pdf,http://www.themathcompany.com/cognition/CO.DEX,CO.DEX,P366,use,http://www.wikidata.org/wiki/Q2374463,Data scientists
+201907_co.dex.pdf,http://www.themathcompany.com/cognition/CO.DEX,CO.DEX,P366,use,http://www.wikidata.org/wiki/Q219113,ML
+201907_co.dex.pdf,http://www.themathcompany.com/cognition/TheMathMarket,TheMathMarket,P366,use,http://www.wikidata.org/wiki/Q218846,enterprise
+201907_co.dex.pdf,http://www.themathcompany.com/cognition/Srivatsathemathcompany.com,Srivatsathemathcompany.com,P277,programming language,http://www.wikidata.org/wiki/Q747452,Python
+201907_co.dex.pdf,http://www.themathcompany.com/cognition/Shridharthemathcompany.com,Shridharthemathcompany.com,P277,programming language,http://www.wikidata.org/wiki/Q747452,Python
+201907_runsqloncloud.pdf,http://www.themathcompany.com/cognition/SQL_on_Cloud,SQL on Cloud,pcode,based on,http://www.wikidata.org/wiki/Q47607,SQL
+201907_runsqloncloud.pdf,http://www.themathcompany.com/cognition/SQL_on_Cloud,SQL on Cloud,P366,use,http://www.wikidata.org/wiki/Q1988917,data analysis
+201907_runsqloncloud.pdf,http://www.themathcompany.com/cognition/SQL_Queries,SQL Queries,P1535,used by,http://www.wikidata.org/wiki/Q2374463,Data scientist
+201907_runsqloncloud.pdf,http://www.themathcompany.com/cognition/Start_a_SQL_server,Start a SQL server,P1269,facet of,http://www.wikidata.org/wiki/Q47607,SQL
+201907_runsqloncloud.pdf,http://www.themathcompany.com/cognition/SQL_client,SQL client,P361,part of,http://www.wikidata.org/wiki/Q400708,SQL server
+201907_runsqloncloud.pdf,http://www.themathcompany.com/cognition/SQL_client,SQL client,P366,use,http://www.wikidata.org/wiki/Q7385,Querying
+201907_runsqloncloud.pdf,http://www.themathcompany.com/cognition/Virtual_Machine_VM,Virtual Machine VM,P279,subclass of,http://www.wikidata.org/wiki/Q235150,VM
+201907_runsqloncloud.pdf,http://www.themathcompany.com/cognition/Maintaining_the_VM,Maintaining the VM,P2283,uses,http://www.wikidata.org/wiki/Q235150,VM
+201907_runsqloncloud.pdf,http://www.themathcompany.com/cognition/Maintaining_the_VM,Maintaining the VM,P1269,facet of,http://www.wikidata.org/wiki/Q235150,VM
+201907_runsqloncloud.pdf,http://www.themathcompany.com/cognition/docs.aws,docs.aws,P361,part of,http://www.wikidata.org/wiki/Q245906,S3
+201907_runsqloncloud.pdf,http://www.themathcompany.com/cognition/Select_all_the_values_as_indicated_in_the_image,Select all the values as indicated in the image,P279,subclass of,http://www.wikidata.org/wiki/Q478798,image
+201907_runsqloncloud.pdf,http://www.themathcompany.com/cognition/Create_a_new_database,Create a new database,P31,instance of,http://www.wikidata.org/wiki/Q110484567,dropdown
+201907_runsqloncloud.pdf,http://www.themathcompany.com/cognition/Database_Name,Database Name,P361,part of,http://www.wikidata.org/wiki/Q8513,Database
+201907_runsqloncloud.pdf,http://www.themathcompany.com/cognition/Table_Name,Table Name,P361,part of,http://www.wikidata.org/wiki/Q14749,Table
+201907_runsqloncloud.pdf,http://www.themathcompany.com/cognition/location_directory,location directory,P361,part of,http://www.wikidata.org/wiki/Q245906,S3
+201907_runsqloncloud.pdf,http://www.themathcompany.com/cognition/Bulk_add_Columns,Bulk add Columns,P527,has part,http://www.wikidata.org/wiki/Q32043,Add
+201907_runsqloncloud.pdf,http://www.themathcompany.com/cognition/Bulk_add_Columns,Bulk add Columns,P2283,uses,http://www.wikidata.org/wiki/Q298708,partitions
+201907_runsqloncloud.pdf,http://www.themathcompany.com/cognition/Create_Table,Create Table,P31,instance of,http://www.wikidata.org/wiki/Q14749,table
+201907_runsqloncloud.pdf,http://www.themathcompany.com/cognition/API_Gateway,API Gateway,P366,use,http://www.wikidata.org/wiki/Q212108,authentication
+201908_nosql.pdf,http://www.themathcompany.com/cognition/NoSQL_in_the_Wild,NoSQL in the Wild,P31,instance of,http://www.wikidata.org/wiki/Q5446584,fictitious
+201908_nosql.pdf,http://www.themathcompany.com/cognition/Monday_morning,Monday morning,P585,point in time,http://www.wikidata.org/wiki/Q105,Monday
+201908_nosql.pdf,http://www.themathcompany.com/cognition/fitness_accessories,fitness accessories,P279,subclass of,http://www.wikidata.org/wiki/Q339084,gadgets
+201908_nosql.pdf,http://www.themathcompany.com/cognition/B.Fit,B.Fit,P1056,product or material produced,http://www.wikidata.org/wiki/Q298207,trackers
+201908_nosql.pdf,http://www.themathcompany.com/cognition/Meeting_requests,Meeting requests,P279,subclass of,http://www.wikidata.org/wiki/Q170124,envelope
+201908_nosql.pdf,http://www.themathcompany.com/cognition/B.Fit,B.Fit,P1056,product or material produced,http://www.wikidata.org/wiki/Q339084,gadgets
+201908_nosql.pdf,http://www.themathcompany.com/cognition/B.Fit,B.Fit,P31,instance of,http://www.wikidata.org/wiki/Q2294894,bots
+201908_nosql.pdf,http://www.themathcompany.com/cognition/step_counting,step counting,P279,subclass of,http://www.wikidata.org/wiki/Q1128697,contest
+201908_nosql.pdf,http://www.themathcompany.com/cognition/ChemCo,ChemCo,P31,instance of,http://www.wikidata.org/wiki/Q783794,company
+201908_nosql.pdf,http://www.themathcompany.com/cognition/their_team,their team,P527,has part,http://www.wikidata.org/wiki/Q6500754,intern
+201908_nosql.pdf,http://www.themathcompany.com/cognition/group_team,group team,P527,has part,http://www.wikidata.org/wiki/Q6500754,intern
+201908_nosql.pdf,http://www.themathcompany.com/cognition/blank_wall,blank wall,P461,opposite of,http://www.wikidata.org/wiki/Q327065,TV screen
+201908_nosql.pdf,http://www.themathcompany.com/cognition/group_task,group task,P31,instance of,http://www.wikidata.org/wiki/Q224745,tag
+201908_nosql.pdf,http://www.themathcompany.com/cognition/B.Fit,B.Fit,P1056,product or material produced,http://www.wikidata.org/wiki/Q17126099,health monitoring
+201908_nosql.pdf,http://www.themathcompany.com/cognition/B.Fit,B.Fit,P31,instance of,http://www.wikidata.org/wiki/Q5135711,cloud platform
+201908_nosql.pdf,http://www.themathcompany.com/cognition/B.Fit,B.Fit,P1056,product or material produced,http://www.wikidata.org/wiki/Q22645,smartphone
+201908_nosql.pdf,http://www.themathcompany.com/cognition/big_data_challenge,big data challenge,P1269,facet of,http://www.wikidata.org/wiki/Q858810,big data
+201908_nosql.pdf,http://www.themathcompany.com/cognition/analysed,analysed,pcode,studies,http://www.wikidata.org/wiki/Q42848,data
+201908_nosql.pdf,http://www.themathcompany.com/cognition/sales_numbers,sales numbers,P31,instance of,http://www.wikidata.org/wiki/Q235660,metric
+201908_nosql.pdf,http://www.themathcompany.com/cognition/the_newest_member_of_their_team,the newest member of their team,pcode,present in work,http://www.wikidata.org/wiki/Q552754,Excuse
+201908_nosql.pdf,http://www.themathcompany.com/cognition/No_S_-_Q_-_L,No S - Q - L,P361,part of,http://www.wikidata.org/wiki/Q47607,SQL
+201908_nosql.pdf,http://www.themathcompany.com/cognition/Ohhh,Ohhh,P31,instance of,http://www.wikidata.org/wiki/Q82231,NoSQL
+201908_nosql.pdf,http://www.themathcompany.com/cognition/NoSQL_database,NoSQL database,P461,opposite of,http://www.wikidata.org/wiki/Q192588,relational database
+201908_nosql.pdf,http://www.themathcompany.com/cognition/non_-_SQL,non - SQL,P461,opposite of,http://www.wikidata.org/wiki/Q192588,relational database
+201908_nosql.pdf,http://www.themathcompany.com/cognition/rows,rows,P361,part of,http://www.wikidata.org/wiki/Q14749,tables
+201908_nosql.pdf,http://www.themathcompany.com/cognition/key_-_value_pair,key - value pair,P279,subclass of,http://www.wikidata.org/wiki/Q56278300,customer data
+201908_nosql.pdf,http://www.themathcompany.com/cognition/key_-_value_pair,key - value pair,P279,subclass of,http://www.wikidata.org/wiki/Q188675,signature
+201908_nosql.pdf,http://www.themathcompany.com/cognition/specialized_databases,specialized databases,P279,subclass of,http://www.wikidata.org/wiki/Q8513,databases
+201908_nosql.pdf,http://www.themathcompany.com/cognition/application_requirements,application requirements,P527,has part,http://www.wikidata.org/wiki/Q8513,database
+201908_nosql.pdf,http://www.themathcompany.com/cognition/BASE_Basic_Availability,BASE Basic Availability,P279,subclass of,http://www.wikidata.org/wiki/Q82231,NoSQL
+201908_nosql.pdf,http://www.themathcompany.com/cognition/Soft_-_State,Soft - State,P279,subclass of,http://www.wikidata.org/wiki/Q82231,NoSQL
+201908_nosql.pdf,http://www.themathcompany.com/cognition/Basic_Availability,Basic Availability,P279,subclass of,http://www.wikidata.org/wiki/Q82231,NoSQL
+201908_nosql.pdf,http://www.themathcompany.com/cognition/transactional_consistency,transactional consistency,P1269,facet of,http://www.wikidata.org/wiki/Q82231,NoSQL
+201908_nosql.pdf,http://www.themathcompany.com/cognition/right_job,right job,pcode,item operated,http://www.wikidata.org/wiki/Q39546,tool
+201908_nosql.pdf,http://www.themathcompany.com/cognition/NoSQL_database,NoSQL database,P461,opposite of,http://www.wikidata.org/wiki/Q192588,RDBMS
+201908_nosql.pdf,http://www.themathcompany.com/cognition/profile_management,profile management,P31,instance of,http://www.wikidata.org/wiki/Q613417,use case
+201908_nosql.pdf,http://www.themathcompany.com/cognition/specialized_database,specialized database,P366,use,http://www.wikidata.org/wiki/Q165596,Caching
+201908_nosql.pdf,http://www.themathcompany.com/cognition/tabular_storage_format,tabular storage format,P279,subclass of,http://www.wikidata.org/wiki/Q8513,databases
+201908_nosql.pdf,http://www.themathcompany.com/cognition/unstructured,unstructured,P279,subclass of,http://www.wikidata.org/wiki/Q42848,data
+201908_nosql.pdf,http://www.themathcompany.com/cognition/unstructured,unstructured,P279,subclass of,http://www.wikidata.org/wiki/Q1172480,data model
+201908_nosql.pdf,http://www.themathcompany.com/cognition/fitness_accessories,fitness accessories,P279,subclass of,http://www.wikidata.org/wiki/Q18960408,devices
+201910_productinpractice.pdf,http://www.themathcompany.com/cognition/evolve_over_time,evolve over time,P1269,facet of,http://www.wikidata.org/wiki/Q2005683,Customer needs
+201910_productinpractice.pdf,http://www.themathcompany.com/cognition/Product_in_Practice,Product in Practice,P279,subclass of,http://www.wikidata.org/wiki/Q1002975,build
+201910_productinpractice.pdf,http://www.themathcompany.com/cognition/Product_in_Practice,Product in Practice,P279,subclass of,http://www.wikidata.org/wiki/Q2920921,management
+201910_productinpractice.pdf,http://www.themathcompany.com/cognition/Rome_was_nt_built_in_a_day,Rome was nt built in a day,P1889,different from,http://www.wikidata.org/wiki/Q3612216,all at once
+201910_productinpractice.pdf,http://www.themathcompany.com/cognition/reverse_engineer_life,reverse engineer life,P1269,facet of,http://www.wikidata.org/wiki/Q269608,reverse engineer
+201910_productinpractice.pdf,http://www.themathcompany.com/cognition/minimum_viable,minimum viable,P279,subclass of,http://www.wikidata.org/wiki/Q1543216,iterative development
+201910_productinpractice.pdf,http://www.themathcompany.com/cognition/minimum_valuable_product,minimum valuable product,P279,subclass of,http://www.wikidata.org/wiki/Q1543216,iterative development
+201910_productinpractice.pdf,http://www.themathcompany.com/cognition/the_big_why,the big why,P31,instance of,http://www.wikidata.org/wiki/Q189756,question
+201910_productinpractice.pdf,http://www.themathcompany.com/cognition/Product_in_Practice,Product in Practice,P1056,product or material produced,http://www.wikidata.org/wiki/Q1796457,product
+201910_productinpractice.pdf,http://www.themathcompany.com/cognition/user_lives,user lives,P527,has part,http://www.wikidata.org/wiki/Q852835,Customer
+201910_productinpractice.pdf,http://www.themathcompany.com/cognition/bun_dresser,bun dresser,P361,part of,http://www.wikidata.org/wiki/Q43164,kitchen
+201910_productinpractice.pdf,http://www.themathcompany.com/cognition/multi_mixer,multi mixer,P361,part of,http://www.wikidata.org/wiki/Q43164,kitchen
+201910_productinpractice.pdf,http://www.themathcompany.com/cognition/pickle_guy,pickle guy,P361,part of,http://www.wikidata.org/wiki/Q43164,kitchen
+201910_productinpractice.pdf,http://www.themathcompany.com/cognition/fry_rack_operator,fry rack operator,P361,part of,http://www.wikidata.org/wiki/Q43164,kitchen
+201910_productinpractice.pdf,http://www.themathcompany.com/cognition/big_why,big why,P1269,facet of,http://www.wikidata.org/wiki/Q7981,companys
+201910_productinpractice.pdf,http://www.themathcompany.com/cognition/Product_in_Practice,Product in Practice,P1269,facet of,http://www.wikidata.org/wiki/Q852835,customers
+201910_productinpractice.pdf,http://www.themathcompany.com/cognition/Cut_the_waste,Cut the waste,P921,main subject,http://www.wikidata.org/wiki/Q45701,waste
+201910_productinpractice.pdf,http://www.themathcompany.com/cognition/Cut_the_waste,Cut the waste,pcode,genre,http://www.wikidata.org/wiki/Q93204,documentary
+201910_productinpractice.pdf,http://www.themathcompany.com/cognition/Product_in_Practice,Product in Practice,P279,subclass of,http://www.wikidata.org/wiki/Q233269,promotion
+201910_productinpractice.pdf,http://www.themathcompany.com/cognition/Product_in_Practice,Product in Practice,P279,subclass of,http://www.wikidata.org/wiki/Q2177843,ruthless
+201910_productinpractice.pdf,http://www.themathcompany.com/cognition/adapted_to_the_islands_meagre_living_conditions,adapted to the islands meagre living conditions,P279,subclass of,http://www.wikidata.org/wiki/Q104482419,survival
+201910_productinpractice.pdf,http://www.themathcompany.com/cognition/Embrace_the_power_of_stories,Embrace the power of stories,P1269,facet of,http://www.wikidata.org/wiki/Q958511,stories
+201910_productinpractice.pdf,http://www.themathcompany.com/cognition/Embrace_the_power_of_stories,Embrace the power of stories,P1269,facet of,http://www.wikidata.org/wiki/Q958511,story
+201910_productinpractice.pdf,http://www.themathcompany.com/cognition/the_greatest_story,the greatest story,P279,subclass of,http://www.wikidata.org/wiki/Q958511,story
+201910_productinpractice.pdf,http://www.themathcompany.com/cognition/technical_risk,technical risk,P279,subclass of,http://www.wikidata.org/wiki/Q104493,risk
+201910_productinpractice.pdf,http://www.themathcompany.com/cognition/resonates,resonates,P279,subclass of,http://www.wikidata.org/wiki/Q958511,story
+201910_productinpractice.pdf,http://www.themathcompany.com/cognition/compelling_story,compelling story,P279,subclass of,http://www.wikidata.org/wiki/Q958511,story
+201910_productinpractice.pdf,http://www.themathcompany.com/cognition/market_innovations,market innovations,P361,part of,http://www.wikidata.org/wiki/Q476300,competition
+201910_productinpractice.pdf,http://www.themathcompany.com/cognition/market_innovations,market innovations,P279,subclass of,http://www.wikidata.org/wiki/Q476300,competition
+201911_allaboutdevops.pdf,http://www.themathcompany.com/cognition/All_About_DevOps,All About DevOps,P921,main subject,http://www.wikidata.org/wiki/Q3025536,DevOps
+201911_allaboutdevops.pdf,http://www.themathcompany.com/cognition/continuous_software_development,continuous software development,P460,said to be the same as,http://www.wikidata.org/wiki/Q382618,continuous
+201911_allaboutdevops.pdf,http://www.themathcompany.com/cognition/Continuous_Integration_CI,Continuous Integration CI,P1269,facet of,http://www.wikidata.org/wiki/Q2507377,Continuous delivery
+201911_allaboutdevops.pdf,http://www.themathcompany.com/cognition/Continuous_Integration_CI,Continuous Integration CI,P31,instance of,http://www.wikidata.org/wiki/Q219118,CI
+201911_allaboutdevops.pdf,http://www.themathcompany.com/cognition/Continuous_Integration_CI,Continuous Integration CI,P1269,facet of,http://www.wikidata.org/wiki/Q965769,Continuous Integration
+201911_allaboutdevops.pdf,http://www.themathcompany.com/cognition/continuous_Continuous_Integration,continuous Continuous Integration,P361,part of,http://www.wikidata.org/wiki/Q30232,agile development
+201911_allaboutdevops.pdf,http://www.themathcompany.com/cognition/Continuous_Delivery_CD,Continuous Delivery CD,P366,use,http://www.wikidata.org/wiki/Q965769,Continuous Integration
+201911_allaboutdevops.pdf,http://www.themathcompany.com/cognition/feature_update,feature update,P361,part of,http://www.wikidata.org/wiki/Q351889,release
+201911_allaboutdevops.pdf,http://www.themathcompany.com/cognition/Continuous_Delivery_CD,Continuous Delivery CD,P279,subclass of,http://www.wikidata.org/wiki/Q2507377,Continuous Delivery
+201911_allaboutdevops.pdf,http://www.themathcompany.com/cognition/DevOps_Research_and_Assessment_DORA_report,DevOps Research and Assessment DORA report,P921,main subject,http://www.wikidata.org/wiki/Q3025536,DevOps
+201911_allaboutdevops.pdf,http://www.themathcompany.com/cognition/DevOps_Research_and_Assessment,DevOps Research and Assessment,P921,main subject,http://www.wikidata.org/wiki/Q3025536,DevOps
+201911_allaboutdevops.pdf,http://www.themathcompany.com/cognition/changefailure,changefailure,P1269,facet of,http://www.wikidata.org/wiki/Q7397,software
+201911_allaboutdevops.pdf,http://www.themathcompany.com/cognition/High_-_performing_organizations,High - performing organizations,P1269,facet of,http://www.wikidata.org/wiki/Q392536,Stability
+201911_allaboutdevops.pdf,http://www.themathcompany.com/cognition/ML_learning,ML learning,P527,has part,http://www.wikidata.org/wiki/Q197536,deep learning
+201911_allaboutdevops.pdf,http://www.themathcompany.com/cognition/ML_engineers,ML engineers,P425,field of this occupation,http://www.wikidata.org/wiki/Q219113,ML
+201911_allaboutdevops.pdf,http://www.themathcompany.com/cognition/termination_of_instances,termination of instances,P361,part of,http://www.wikidata.org/wiki/Q3025536,DevOps
+201911_allaboutdevops.pdf,http://www.themathcompany.com/cognition/container_management,container management,P1269,facet of,http://www.wikidata.org/wiki/Q987767,Containers
+201911_allaboutdevops.pdf,http://www.themathcompany.com/cognition/ML_learning,ML learning,P366,use,http://www.wikidata.org/wiki/Q3025536,DevOps
+201911_allaboutdevops.pdf,http://www.themathcompany.com/cognition/ML_learning,ML learning,P279,subclass of,http://www.wikidata.org/wiki/Q2374463,Data scientist
+201911_allaboutdevops.pdf,http://www.themathcompany.com/cognition/Data_operator,Data operator,P3095,practiced by,http://www.wikidata.org/wiki/Q2374463,Data scientist
+201911_allaboutdevops.pdf,http://www.themathcompany.com/cognition/business_outcome,business outcome,P828,has cause,http://www.wikidata.org/wiki/Q11024,Communication
+201911_allaboutdevops.pdf,http://www.themathcompany.com/cognition/cross_functional_teams,cross functional teams,P1889,different from,http://www.wikidata.org/wiki/Q1208467,silos
+201912_alexa.pdf,http://www.themathcompany.com/cognition/Alexa_work,Alexa work,P1535,used by,http://www.wikidata.org/wiki/Q352888,Alexa
+201912_alexa.pdf,http://www.themathcompany.com/cognition/weather_like_in_Bangalore,weather like in Bangalore,P1269,facet of,http://www.wikidata.org/wiki/Q352888,Alexa
+201912_alexa.pdf,http://www.themathcompany.com/cognition/ASR_Automatic_Speech_Recognition,ASR Automatic Speech Recognition,P31,instance of,http://www.wikidata.org/wiki/Q11016,technology
+201912_alexa.pdf,http://www.themathcompany.com/cognition/ASR_Automatic_Speech_Recognition,ASR Automatic Speech Recognition,P1269,facet of,http://www.wikidata.org/wiki/Q30642,Natural Language Processing
+201912_alexa.pdf,http://www.themathcompany.com/cognition/Architecture_of_Alexa,Architecture of Alexa,P1269,facet of,http://www.wikidata.org/wiki/Q352888,Alexa
+201912_alexa.pdf,http://www.themathcompany.com/cognition/7_speakers,7 speakers,P1535,used by,http://www.wikidata.org/wiki/Q352888,Alexa
+201912_alexa.pdf,http://www.themathcompany.com/cognition/wake_word,wake word,P1535,used by,http://www.wikidata.org/wiki/Q352888,Alexa
+201912_alexa.pdf,http://www.themathcompany.com/cognition/invocation_name_and_utterance,invocation name and utterance,P1535,used by,http://www.wikidata.org/wiki/Q352888,Alexa
+201912_alexa.pdf,http://www.themathcompany.com/cognition/invocated,invocated,P279,subclass of,http://www.wikidata.org/wiki/Q205961,skill
+201912_alexa.pdf,http://www.themathcompany.com/cognition/invocated,invocated,P279,subclass of,http://www.wikidata.org/wiki/Q258403,utterance
+201912_alexa.pdf,http://www.themathcompany.com/cognition/web_service_request,web service request,P1542,has effect,http://www.wikidata.org/wiki/Q1650182,response
+201912_alexa.pdf,http://www.themathcompany.com/cognition/Uber_skill,Uber skill,pcode,platform,http://www.wikidata.org/wiki/Q352888,Alexa
+201912_alexa.pdf,http://www.themathcompany.com/cognition/predict_if_a_user_has_a_cold,predict if a user has a cold,P1269,facet of,http://www.wikidata.org/wiki/Q352888,Alexa
+201912_alexa.pdf,http://www.themathcompany.com/cognition/visualizations,visualizations,P279,subclass of,http://www.wikidata.org/wiki/Q782543,graphical interface
+201912_alexa.pdf,http://www.themathcompany.com/cognition/reporting_dashboards,reporting dashboards,P361,part of,http://www.wikidata.org/wiki/Q1417134,dashboards
+201912_alexa.pdf,http://www.themathcompany.com/cognition/sales_numbers,sales numbers,P279,subclass of,http://www.wikidata.org/wiki/Q1696827,visualization
+201912_opticalcharacterrecognition.pdf,http://www.themathcompany.com/cognition/Data_is_the_new_oil,Data is the new oil,P1269,facet of,http://www.wikidata.org/wiki/Q42848,Data
+201912_opticalcharacterrecognition.pdf,http://www.themathcompany.com/cognition/Data_is_the_new_oil,Data is the new oil,P1269,facet of,http://www.wikidata.org/wiki/Q42962,oil
+201912_opticalcharacterrecognition.pdf,http://www.themathcompany.com/cognition/The_Problem_with_the_Problem_Statement,The Problem with the Problem Statement,P366,use,http://www.wikidata.org/wiki/Q870780,chatbots
+201912_opticalcharacterrecognition.pdf,http://www.themathcompany.com/cognition/The_Problem_with_the_Problem_Statement,The Problem with the Problem Statement,P31,instance of,http://www.wikidata.org/wiki/Q4374193,Problem Statement
+201912_opticalcharacterrecognition.pdf,http://www.themathcompany.com/cognition/tools_available_in_the_industry,tools available in the industry,P360,is a list of,http://www.wikidata.org/wiki/Q39546,tools
+201912_opticalcharacterrecognition.pdf,http://www.themathcompany.com/cognition/Framework_for_OCR_use,Framework for OCR use,P366,use,http://www.wikidata.org/wiki/Q404273,OCR
+201912_opticalcharacterrecognition.pdf,http://www.themathcompany.com/cognition/Framework_for_OCR_use_cases,Framework for OCR use cases,P366,use,http://www.wikidata.org/wiki/Q404273,OCR
+201912_opticalcharacterrecognition.pdf,http://www.themathcompany.com/cognition/Pre_-_processing,Pre - processing,P279,subclass of,http://www.wikidata.org/wiki/Q1053535,processing
+201912_opticalcharacterrecognition.pdf,http://www.themathcompany.com/cognition/sub_-_optimal,sub - optimal,P279,subclass of,http://www.wikidata.org/wiki/Q298413,quality
+201912_opticalcharacterrecognition.pdf,http://www.themathcompany.com/cognition/ink_over_the_content,ink over the content,P279,subclass of,http://www.wikidata.org/wiki/Q478798,Image
+201912_opticalcharacterrecognition.pdf,http://www.themathcompany.com/cognition/Pre_-_processing,Pre - processing,P279,subclass of,http://www.wikidata.org/wiki/Q298413,quality
+201912_opticalcharacterrecognition.pdf,http://www.themathcompany.com/cognition/Images_pre_-_processing,Images pre - processing,P2283,uses,http://www.wikidata.org/wiki/Q404273,OCR
+201912_opticalcharacterrecognition.pdf,http://www.themathcompany.com/cognition/Binarization,Binarization,P1269,facet of,http://www.wikidata.org/wiki/Q864118,binary image
+201912_opticalcharacterrecognition.pdf,http://www.themathcompany.com/cognition/Binarization,Binarization,P279,subclass of,http://www.wikidata.org/wiki/Q322481,Resizing
+201912_opticalcharacterrecognition.pdf,http://www.themathcompany.com/cognition/base_size,base size,P279,subclass of,http://www.wikidata.org/wiki/Q322481,Resizing
+201912_opticalcharacterrecognition.pdf,http://www.themathcompany.com/cognition/Images_shaping,Images shaping,P279,subclass of,http://www.wikidata.org/wiki/Q234757,Transformations
+201912_opticalcharacterrecognition.pdf,http://www.themathcompany.com/cognition/Text_out_of_an_image,Text out of an image,P279,subclass of,http://www.wikidata.org/wiki/Q1259977,extract
+201912_opticalcharacterrecognition.pdf,http://www.themathcompany.com/cognition/Character_Region_Awareness_for_Text_Detection,Character Region Awareness for Text Detection,P527,has part,http://www.wikidata.org/wiki/Q404273,OCR
+201912_opticalcharacterrecognition.pdf,http://www.themathcompany.com/cognition/Character_Region_Awareness_for_Text_Detection,Character Region Awareness for Text Detection,P31,instance of,http://www.wikidata.org/wiki/Q404273,OCR
+201912_opticalcharacterrecognition.pdf,http://www.themathcompany.com/cognition/vertical_lines,vertical lines,P461,opposite of,http://www.wikidata.org/wiki/Q97738996,Horizontal
+201912_opticalcharacterrecognition.pdf,http://www.themathcompany.com/cognition/minimum_bounding_rectangles,minimum bounding rectangles,P279,subclass of,http://www.wikidata.org/wiki/Q6865426,bounding box
+201912_opticalcharacterrecognition.pdf,http://www.themathcompany.com/cognition/detecting_bounding_box,detecting bounding box,P1269,facet of,http://www.wikidata.org/wiki/Q6865426,bounding box
+201912_opticalcharacterrecognition.pdf,http://www.themathcompany.com/cognition/Text_Extraction,Text Extraction,P1269,facet of,http://www.wikidata.org/wiki/Q6865426,bounding box
+201912_opticalcharacterrecognition.pdf,http://www.themathcompany.com/cognition/PyTesseract,PyTesseract,P366,use,http://www.wikidata.org/wiki/Q404273,OCR
+201912_opticalcharacterrecognition.pdf,http://www.themathcompany.com/cognition/key_-_value_pair,key - value pair,P279,subclass of,http://www.wikidata.org/wiki/Q15300189,extracted
+201912_opticalcharacterrecognition.pdf,http://www.themathcompany.com/cognition/key_-_value_pair,key - value pair,P361,part of,http://www.wikidata.org/wiki/Q8513,database
+201912_opticalcharacterrecognition.pdf,http://www.themathcompany.com/cognition/Key_-_Value,Key - Value,P1269,facet of,http://www.wikidata.org/wiki/Q227935,NLP
+201912_opticalcharacterrecognition.pdf,http://www.themathcompany.com/cognition/types_of_Images,types of Images,P279,subclass of,http://www.wikidata.org/wiki/Q478798,Images
+201912_opticalcharacterrecognition.pdf,http://www.themathcompany.com/cognition/Handwritten_form,Handwritten form,P279,subclass of,http://www.wikidata.org/wiki/Q1689278,Text
+201912_opticalcharacterrecognition.pdf,http://www.themathcompany.com/cognition/Pyimagesearch,Pyimagesearch,P366,use,http://www.wikidata.org/wiki/Q404273,OCR
+201912_opticalcharacterrecognition.pdf,http://www.themathcompany.com/cognition/Pyimagesearch,Pyimagesearch,pcode,field of work,http://www.wikidata.org/wiki/Q404273,OCR
+201912_opticalcharacterrecognition.pdf,http://www.themathcompany.com/cognition/Extracting_Text_from_PDF,Extracting Text from PDF,P279,subclass of,http://www.wikidata.org/wiki/Q404273,OCR
+201912_opticalcharacterrecognition.pdf,http://www.themathcompany.com/cognition/PyPDF2,PyPDF2,P366,use,http://www.wikidata.org/wiki/Q42332,PDF
+201912_opticalcharacterrecognition.pdf,http://www.themathcompany.com/cognition/PDFMiner,PDFMiner,P366,use,http://www.wikidata.org/wiki/Q42332,PDF
+202002_namedentityrecognition.pdf,http://www.themathcompany.com/cognition/entitiessubject,entitiessubject,P361,part of,http://www.wikidata.org/wiki/Q42848,data
+202002_namedentityrecognition.pdf,http://www.themathcompany.com/cognition/classic_question,classic question,P279,subclass of,http://www.wikidata.org/wiki/Q189756,question
+202002_namedentityrecognition.pdf,http://www.themathcompany.com/cognition/identify_dates,identify dates,P279,subclass of,http://www.wikidata.org/wiki/Q1689278,text
+202002_namedentityrecognition.pdf,http://www.themathcompany.com/cognition/above_example,above example,P31,instance of,http://www.wikidata.org/wiki/Q11032,newspaper
+202002_namedentityrecognition.pdf,http://www.themathcompany.com/cognition/The_above_example,The above example,P31,instance of,http://www.wikidata.org/wiki/Q11032,newspaper
+202002_namedentityrecognition.pdf,http://www.themathcompany.com/cognition/The_above_example,The above example,P31,instance of,http://www.wikidata.org/wiki/Q29864097,example
+202002_namedentityrecognition.pdf,http://www.themathcompany.com/cognition/unstructured_text,unstructured text,P279,subclass of,http://www.wikidata.org/wiki/Q6671777,structure
+202002_namedentityrecognition.pdf,http://www.themathcompany.com/cognition/NER_process,NER process,P1269,facet of,http://www.wikidata.org/wiki/Q55624999,neural network
+202002_namedentityrecognition.pdf,http://www.themathcompany.com/cognition/NER_process,NER process,P279,subclass of,http://www.wikidata.org/wiki/Q13690522,simple representation
+202002_namedentityrecognition.pdf,http://www.themathcompany.com/cognition/Years_of_Experience,Years of Experience,P279,subclass of,http://www.wikidata.org/wiki/Q950511,resumes
+202002_namedentityrecognition.pdf,http://www.themathcompany.com/cognition/The_future_of_NER,The future of NER,P1269,facet of,http://www.wikidata.org/wiki/Q126793,Retailers
+202002_namedentityrecognition.pdf,http://www.themathcompany.com/cognition/Topic_modelling,Topic modelling,P279,subclass of,http://www.wikidata.org/wiki/Q1979154,modelling
+202002_namedentityrecognition.pdf,http://www.themathcompany.com/cognition/Entity_recognition,Entity recognition,P1269,facet of,http://www.wikidata.org/wiki/Q35120,entity
+202002_namedentityrecognition.pdf,http://www.themathcompany.com/cognition/Entity_recognition,Entity recognition,P1269,facet of,http://www.wikidata.org/wiki/Q35120,Entity
+202002_sequencemodelingandlstm.pdf,http://www.themathcompany.com/cognition/Sequence_Modelling,Sequence Modelling,P361,part of,http://www.wikidata.org/wiki/Q6673524,LSTMs
+202002_sequencemodelingandlstm.pdf,http://www.themathcompany.com/cognition/Sequence_Modelling_and_LSTMs,Sequence Modelling and LSTMs,P527,has part,http://www.wikidata.org/wiki/Q6673524,LSTMs
+202002_sequencemodelingandlstm.pdf,http://www.themathcompany.com/cognition/forecasting_problem,forecasting problem,P1269,facet of,http://www.wikidata.org/wiki/Q186588,Time series
+202002_sequencemodelingandlstm.pdf,http://www.themathcompany.com/cognition/Recurrent_Neural_Network_Architectures,Recurrent Neural Network Architectures,pcode,discoverer or inventor,http://www.wikidata.org/wiki/Q7451965,Hochreiter
+202002_sequencemodelingandlstm.pdf,http://www.themathcompany.com/cognition/Recurrent_network,Recurrent network,P2283,uses,http://www.wikidata.org/wiki/Q1457734,Recurrent Neural Network
+202002_sequencemodelingandlstm.pdf,http://www.themathcompany.com/cognition/Recurrent_network,Recurrent network,P2283,uses,http://www.wikidata.org/wiki/Q183635,feedback
+202002_sequencemodelingandlstm.pdf,http://www.themathcompany.com/cognition/Recurrent_network,Recurrent network,P527,has part,http://www.wikidata.org/wiki/Q3799056,inputs
+202002_sequencemodelingandlstm.pdf,http://www.themathcompany.com/cognition/Recurrent_network,Recurrent network,P1889,different from,http://www.wikidata.org/wiki/Q6673524,LSTMs
+202002_sequencemodelingandlstm.pdf,http://www.themathcompany.com/cognition/Step_in_LSTMs,Step in LSTMs,P1269,facet of,http://www.wikidata.org/wiki/Q6673524,LSTMs
+202002_sequencemodelingandlstm.pdf,http://www.themathcompany.com/cognition/Feedforward_network,Feedforward network,P279,subclass of,http://www.wikidata.org/wiki/Q43054,neuron
+202002_sequencemodelingandlstm.pdf,http://www.themathcompany.com/cognition/recurrent_connection,recurrent connection,P361,part of,http://www.wikidata.org/wiki/Q43054,neuron
+202002_sequencemodelingandlstm.pdf,http://www.themathcompany.com/cognition/vanishing_and_exploding_gradients,vanishing and exploding gradients,P279,subclass of,http://www.wikidata.org/wiki/Q3928345,RNNs
+202002_sequencemodelingandlstm.pdf,http://www.themathcompany.com/cognition/Image_Caption_generation,Image Caption generation,P279,subclass of,http://www.wikidata.org/wiki/Q294834,applications
+202002_sequencemodelingandlstm.pdf,http://www.themathcompany.com/cognition/Text_Translation,Text Translation,P279,subclass of,http://www.wikidata.org/wiki/Q7553,Translation
+202002_sequencemodelingandlstm.pdf,http://www.themathcompany.com/cognition/Natural_Language_modeling,Natural Language modeling,pcode,studies,http://www.wikidata.org/wiki/Q213381,Generation
+202002_sequencemodelingandlstm.pdf,http://www.themathcompany.com/cognition/Limitations_of_LSTMs,Limitations of LSTMs,P1269,facet of,http://www.wikidata.org/wiki/Q6673524,LSTMs
+202002_sequencemodelingandlstm.pdf,http://www.themathcompany.com/cognition/An_important,An important,P460,said to be the same as,http://www.wikidata.org/wiki/Q1590843,limitation
+202002_sequencemodelingandlstm.pdf,http://www.themathcompany.com/cognition/An_important,An important,P31,instance of,http://www.wikidata.org/wiki/Q1590843,limitation
+202002_sequencemodelingandlstm.pdf,http://www.themathcompany.com/cognition/Memory_in_LSTMs,Memory in LSTMs,P361,part of,http://www.wikidata.org/wiki/Q6673524,LSTMs
+202002_sequencemodelingandlstm.pdf,http://www.themathcompany.com/cognition/Anamoly_detection,Anamoly detection,P279,subclass of,http://www.wikidata.org/wiki/Q2271421,Sentiment analysis
+202002_sequencemodelingandlstm.pdf,http://www.themathcompany.com/cognition/hot_encoded,hot encoded,P279,subclass of,http://www.wikidata.org/wiki/Q2285707,Categorical data
+202002_sequencemodelingandlstm.pdf,http://www.themathcompany.com/cognition/integer_encoded,integer encoded,P279,subclass of,http://www.wikidata.org/wiki/Q2285707,Categorical data
+202002_sequencemodelingandlstm.pdf,http://www.themathcompany.com/cognition/TimeseriesGenerator,TimeseriesGenerator,P361,part of,http://www.wikidata.org/wiki/Q28470421,Keras
+202002_sequencemodelingandlstm.pdf,http://www.themathcompany.com/cognition/Train_Test_Split,Train Test Split,P279,subclass of,http://www.wikidata.org/wiki/Q1979154,Modeling
+202002_sequencemodelingandlstm.pdf,http://www.themathcompany.com/cognition/Train_Test_Split,Train Test Split,P279,subclass of,http://www.wikidata.org/wiki/Q918385,Training
+202002_sequencemodelingandlstm.pdf,http://www.themathcompany.com/cognition/Sequential_class,Sequential class,P361,part of,http://www.wikidata.org/wiki/Q28470421,Keras
+202002_sequencemodelingandlstm.pdf,http://www.themathcompany.com/cognition/TimeseriesGenerator,TimeseriesGenerator,P366,use,http://www.wikidata.org/wiki/Q42848,data
+202002_sequencemodelingandlstm.pdf,http://www.themathcompany.com/cognition/initial_discovery_phase,initial discovery phase,P527,has part,http://www.wikidata.org/wiki/Q507810,Epoch
+202002_sequencemodelingandlstm.pdf,http://www.themathcompany.com/cognition/Natual_Language_Model,Natual Language Model,P279,subclass of,http://www.wikidata.org/wiki/Q5532625,Generative model
+202002_sequencemodelingandlstm.pdf,http://www.themathcompany.com/cognition/Natual_Language_Model,Natual Language Model,P155,follows,http://www.wikidata.org/wiki/Q5532625,Generative model
+202002_sequencemodelingandlstm.pdf,http://www.themathcompany.com/cognition/Understanding_-_LSTMs,Understanding - LSTMs,P277,programming language,http://www.wikidata.org/wiki/Q747452,Python
+202002_sequencemodelingandlstm.pdf,http://www.themathcompany.com/cognition/Jason_Brownlees_Textbook,Jason Brownlees Textbook,P277,programming language,http://www.wikidata.org/wiki/Q747452,Python
+202002_sequencemodelingandlstm.pdf,http://www.themathcompany.com/cognition/Seth_Weidmans_Textbook,Seth Weidmans Textbook,P277,programming language,http://www.wikidata.org/wiki/Q747452,Python
+202002_sequencemodelingandlstm.pdf,http://www.themathcompany.com/cognition/David_Fosters,David Fosters,pcode,field of work,http://www.wikidata.org/wiki/Q197536,Deep Learning
+azuresecuritytips.pdf,http://www.themathcompany.com/cognition/security_best_practices,security best practices,P1269,facet of,http://www.wikidata.org/wiki/Q2526135,security
+azuresecuritytips.pdf,http://www.themathcompany.com/cognition/security_operations,security operations,P1269,facet of,http://www.wikidata.org/wiki/Q2526135,security
+azuresecuritytips.pdf,http://www.themathcompany.com/cognition/lnkd.ingZt88h,lnkd.ingZt88h,P366,use,http://www.wikidata.org/wiki/Q104852562,Zero trust
+azuresecuritytips.pdf,http://www.themathcompany.com/cognition/Top_11_essential_security_practices,Top 11 essential security practices,P178,developer,http://www.wikidata.org/wiki/Q2283,Microsoft
+azuresecuritytips.pdf,http://www.themathcompany.com/cognition/security_posture,security posture,P1269,facet of,http://www.wikidata.org/wiki/Q2526135,security
+azuresecuritytips.pdf,http://www.themathcompany.com/cognition/lnkd.indH,lnkd.indH,P366,use,http://www.wikidata.org/wiki/Q104852562,Zero trust
+datacleanroom-aconceptualguide.pdf,http://www.themathcompany.com/cognition/Content_platform,Content platform,P527,has part,http://www.wikidata.org/wiki/Q258567,user
+datacleanroom-aconceptualguide.pdf,http://www.themathcompany.com/cognition/Data_sharing_in_general,Data sharing in general,P361,part of,http://www.wikidata.org/wiki/Q1172506,GDPR
+datacleanroom-aconceptualguide.pdf,http://www.themathcompany.com/cognition/aggregated,aggregated,P279,subclass of,http://www.wikidata.org/wiki/Q42848,Data
+datacleanroom-aconceptualguide.pdf,http://www.themathcompany.com/cognition/website_website,website website,P361,part of,http://www.wikidata.org/wiki/Q35127,website
+datacleanroom-aconceptualguide.pdf,http://www.themathcompany.com/cognition/Third_-_Party_cookie,Third - Party cookie,P366,use,http://www.wikidata.org/wiki/Q5227350,Data sharing
+datacleanroom-aconceptualguide.pdf,http://www.themathcompany.com/cognition/Data_Clean_Room,Data Clean Room,P1889,different from,http://www.wikidata.org/wiki/Q248579,CDP
+datacleanroom-aconceptualguide.pdf,http://www.themathcompany.com/cognition/Data_Clean_Room,Data Clean Room,P366,use,http://www.wikidata.org/wiki/Q17006654,Data anonymisation
+datacleanroom-aconceptualguide.pdf,http://www.themathcompany.com/cognition/third_party_solution,third party solution,P1889,different from,http://www.wikidata.org/wiki/Q404112,DCR
+datacleanroom-aconceptualguide.pdf,http://www.themathcompany.com/cognition/Data_Clean_Room,Data Clean Room,P361,part of,http://www.wikidata.org/wiki/Q248579,CDP
+datacleanroom-aconceptualguide.pdf,http://www.themathcompany.com/cognition/Identity_Resolution_with_Clean_Room,Identity Resolution with Clean Room,P361,part of,http://www.wikidata.org/wiki/Q248579,CDP
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/Alibi_Detect,Alibi Detect,P277,programming language,http://www.wikidata.org/wiki/Q747452,Python
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/classification_model,classification model,P279,subclass of,http://www.wikidata.org/wiki/Q210832,statistical test
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/Cramr,Cramr,pcode,influenced by,http://www.wikidata.org/wiki/Q960032,von Mises
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/Maximum_Mean_Discrepancy_MMD,Maximum Mean Discrepancy MMD,pcode,discoverer or inventor,http://www.wikidata.org/wiki/Q153224,Kolmogorov
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/Alibi_detect,Alibi detect,P361,part of,http://www.wikidata.org/wiki/Q47509047,Pytorch
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/new_data_next,new data next,P155,follows,http://www.wikidata.org/wiki/Q3036835,reference dataset
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/Alibidataref.csv,Alibidataref.csv,P2283,uses,http://www.wikidata.org/wiki/Q197520,numpy
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/K_-_S_test,K - S test,P2283,uses,http://www.wikidata.org/wiki/Q359787,threshold
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/ocuured,ocuured,P279,subclass of,http://www.wikidata.org/wiki/Q258098,drift
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/KS_distance,KS distance,P1269,facet of,http://www.wikidata.org/wiki/Q258098,drift
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/sample_output,sample output,P279,subclass of,http://www.wikidata.org/wiki/Q2042052,output
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/preprocessatinit,preprocessatinit,P279,subclass of,http://www.wikidata.org/wiki/Q28838080,preprocessing
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/updatexref,updatexref,P279,subclass of,http://www.wikidata.org/wiki/Q3036835,reference data
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/preprocessfn,preprocessfn,P366,use,http://www.wikidata.org/wiki/Q918333,preprocess
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/K_-_S_test,K - S test,P527,has part,http://www.wikidata.org/wiki/Q16782317,features
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/inputshape,inputshape,P31,instance of,http://www.wikidata.org/wiki/Q190087,data type
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/Cramr,Cramr,P50,author,http://www.wikidata.org/wiki/Q960032,von Mises
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/pval,pval,P361,part of,http://www.wikidata.org/wiki/Q41492,Fishers exact test
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/threshold_for_p_-_value,threshold for p - value,P1535,used by,http://www.wikidata.org/wiki/Q41492,Fishers exact test
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/Maximum_Mean_Discrepancy_MMD,Maximum Mean Discrepancy MMD,P31,instance of,http://www.wikidata.org/wiki/Q108839445,permutation test
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/preprocessatinit,preprocessatinit,P31,instance of,http://www.wikidata.org/wiki/Q28838080,preprocessing
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/xrefpreprocessed,xrefpreprocessed,P279,subclass of,http://www.wikidata.org/wiki/Q28838080,preprocessing
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/Gaussian_RBF,Gaussian RBF,P279,subclass of,http://www.wikidata.org/wiki/Q202400,kernel
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/np.ndarray,np.ndarray,P361,part of,http://www.wikidata.org/wiki/Q202400,kernel
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/xkernel,xkernel,P31,instance of,http://www.wikidata.org/wiki/Q202400,Kernel
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/ckernel,ckernel,P31,instance of,http://www.wikidata.org/wiki/Q202400,Kernel
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/xkernel,xkernel,P279,subclass of,http://www.wikidata.org/wiki/Q202400,kernel
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/ckernel,ckernel,P279,subclass of,http://www.wikidata.org/wiki/Q202400,kernel
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/cross_-_validation,cross - validation,P279,subclass of,http://www.wikidata.org/wiki/Q421316,regularisation
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/print_progress,print progress,P361,part of,http://www.wikidata.org/wiki/Q292434,configuration
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/npermutation,npermutation,P279,subclass of,http://www.wikidata.org/wiki/Q161519,permutation
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/inputshape,inputshape,P279,subclass of,http://www.wikidata.org/wiki/Q207961,shape
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/Chi_-_Squared_test,Chi - Squared test,P527,has part,http://www.wikidata.org/wiki/Q16782317,features
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/tabular_data,tabular data,P31,instance of,http://www.wikidata.org/wiki/Q190087,data type
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/Chi_-_Squared_test,Chi - Squared test,P31,instance of,http://www.wikidata.org/wiki/Q359787,threshold
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/Chi_-_Squared,Chi - Squared,P527,has part,http://www.wikidata.org/wiki/Q843558,alternative hypothesis
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/preprocessatinit,preprocessatinit,P361,part of,http://www.wikidata.org/wiki/Q21447895,tensorflow
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/preprocessatinit,preprocessatinit,P366,use,http://www.wikidata.org/wiki/Q28838080,preprocessing
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/binarizepreds,binarizepreds,pcode,studies,http://www.wikidata.org/wiki/Q341990,soft
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/K_-_S_test,K - S test,P527,has part,http://www.wikidata.org/wiki/Q236339,False
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/trainsize,trainsize,P361,part of,http://www.wikidata.org/wiki/Q1172284,dataset
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/nfolds,nfolds,P31,instance of,http://www.wikidata.org/wiki/Q202805,combination
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/tf.keras,tf.keras,P366,use,http://www.wikidata.org/wiki/Q21447895,TensorFlow
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/Learning_rate_for_the_optimizer,Learning rate for the optimizer,P1269,facet of,http://www.wikidata.org/wiki/Q141495,optimizer
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/training_epochs,training epochs,P279,subclass of,http://www.wikidata.org/wiki/Q507810,epochs
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/nfolds,nfolds,P527,has part,http://www.wikidata.org/wiki/Q345281,fold
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/Dataset_object,Dataset object,P279,subclass of,http://www.wikidata.org/wiki/Q1172284,Dataset
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/Dataset_object,Dataset object,P366,use,http://www.wikidata.org/wiki/Q1172284,Dataset
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/alibidetect.utils,alibidetect.utils,P527,has part,http://www.wikidata.org/wiki/Q47509047,pytorch
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/alibidetect,alibidetect,P361,part of,http://www.wikidata.org/wiki/Q47509047,Pytorch
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/tf.keras,tf.keras,P361,part of,http://www.wikidata.org/wiki/Q47509047,Pytorch
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/TFDataset,TFDataset,P366,use,http://www.wikidata.org/wiki/Q21447895,TensorFlow
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/inputshape,inputshape,P361,part of,http://www.wikidata.org/wiki/Q21447895,TensorFlow
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/time_-_series,time - series,P31,instance of,http://www.wikidata.org/wiki/Q190087,data type
+datadrift-alibi.pdf,http://www.themathcompany.com/cognition/Repos_azure,Repos azure,P361,part of,http://www.wikidata.org/wiki/Q468947,Alibi
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/Evidently_AI,Evidently AI,P277,programming language,http://www.wikidata.org/wiki/Q747452,Python
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/feature_distribution,feature distribution,P279,subclass of,http://www.wikidata.org/wiki/Q210832,statistical test
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/input_feature_distribution,input feature distribution,P2579,studied by,http://www.wikidata.org/wiki/Q210832,statistical test
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/KolmogorovSmirnov_K_-_S,KolmogorovSmirnov K - S,P31,instance of,http://www.wikidata.org/wiki/Q210832,statistical test
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/Wasserstein_distance_normed,Wasserstein distance normed,P31,instance of,http://www.wikidata.org/wiki/Q210832,statistical test
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/Kullback_-_Leibler_divergence,Kullback - Leibler divergence,P31,instance of,http://www.wikidata.org/wiki/Q210832,statistical test
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/Jensen_-_Shannon_distance,Jensen - Shannon distance,P31,instance of,http://www.wikidata.org/wiki/Q210832,statistical test
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/Anderson_-_Darling_test,Anderson - Darling test,P31,instance of,http://www.wikidata.org/wiki/Q210832,statistical test
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/Leibler_divergence,Leibler divergence,P31,instance of,http://www.wikidata.org/wiki/Q210832,statistical test
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/Hellinger_Distance_normed,Hellinger Distance normed,P31,instance of,http://www.wikidata.org/wiki/Q210832,statistical test
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/Mann_-_Whitney_U_-_rank_test,Mann - Whitney U - rank test,P31,instance of,http://www.wikidata.org/wiki/Q210832,statistical test
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/T_-_test,T - test,P31,instance of,http://www.wikidata.org/wiki/Q210832,statistical test
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/G_-_test,G - test,P31,instance of,http://www.wikidata.org/wiki/Q210832,statistical test
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/Chi_-_Square_test,Chi - Square test,P31,instance of,http://www.wikidata.org/wiki/Q210832,statistical test
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/Epps_Singleton,Epps Singleton,pcode,sibling,http://www.wikidata.org/wiki/Q229615,Mann
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/Epps_Singleton,Epps Singleton,pcode,sibling,http://www.wikidata.org/wiki/Q942659,Whitney
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/jupyter_nbextension,jupyter nbextension,P361,part of,http://www.wikidata.org/wiki/Q55630549,Jupyter notebook
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/jupyter_nbextension,jupyter nbextension,P31,instance of,http://www.wikidata.org/wiki/Q210481,terminal
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/jupyter_nbextension,jupyter nbextension,P366,use,http://www.wikidata.org/wiki/Q229454,Installation
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/Pandas_DataFrame,Pandas DataFrame,P366,use,http://www.wikidata.org/wiki/Q11660,AI
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/Pandas_DataFrame,Pandas DataFrame,P1535,used by,http://www.wikidata.org/wiki/Q218723,pd
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/Pandas_DataFrame,Pandas DataFrame,P366,use,http://www.wikidata.org/wiki/Q218723,pd
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/Column_mapping,Column mapping,P1269,facet of,http://www.wikidata.org/wiki/Q219320,input data
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/DateTime,DateTime,P31,instance of,http://www.wikidata.org/wiki/Q4817,columns
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/DateTime,DateTime,P31,instance of,http://www.wikidata.org/wiki/Q5051808,Categorical
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/drift_score,drift score,P1269,facet of,http://www.wikidata.org/wiki/Q225802,distribution
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/drift_score,drift score,P1269,facet of,http://www.wikidata.org/wiki/Q225802,distributions
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/drifted_features,drifted features,P279,subclass of,http://www.wikidata.org/wiki/Q11563,number
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/truefalse,truefalse,P1269,facet of,http://www.wikidata.org/wiki/Q258098,drift
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/drift_score,drift score,P1269,facet of,http://www.wikidata.org/wiki/Q258098,drift
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/ColumnDriftMetric,ColumnDriftMetric,P366,use,http://www.wikidata.org/wiki/Q3045002,data drift
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/DataDrift,DataDrift,P366,use,http://www.wikidata.org/wiki/Q3045002,drift detection
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/Dataset_Drift,Dataset Drift,P1269,facet of,http://www.wikidata.org/wiki/Q258098,drift
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/tests_in_Evidently,tests in Evidently,P1269,facet of,http://www.wikidata.org/wiki/Q1347572,Evidently
+datadrift-evidentlyai.pdf,http://www.themathcompany.com/cognition/Evidently_AI,Evidently AI,P361,part of,http://www.wikidata.org/wiki/Q1347572,Evidently
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/test_train,test train,P279,subclass of,http://www.wikidata.org/wiki/Q1979154,model
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Data_-_drift,Data - drift,P2579,studied by,http://www.wikidata.org/wiki/Q210832,statistical test
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Tests_Name,Tests Name,P1269,facet of,http://www.wikidata.org/wiki/Q210832,statistical test
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Tests_Name,Tests Name,P361,part of,http://www.wikidata.org/wiki/Q115491417,Description
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/cumulative_distribution_CDF,cumulative distribution CDF,P1269,facet of,http://www.wikidata.org/wiki/Q83021,empirical
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Deepchecks,Deepchecks,P1269,facet of,http://www.wikidata.org/wiki/Q11660,AI
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Kullback_-_Leibler_divergence,Kullback - Leibler divergence,P31,instance of,http://www.wikidata.org/wiki/Q7604392,statistical distance
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Deepcheck,Deepcheck,P1269,facet of,http://www.wikidata.org/wiki/Q11660,AI
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Anderson_-_Darling_test,Anderson - Darling test,P1269,facet of,http://www.wikidata.org/wiki/Q11660,AI
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Anderson_-_Darling_Test,Anderson - Darling Test,P1269,facet of,http://www.wikidata.org/wiki/Q112116869,Data distribution
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Anderson_-_Darling_test,Anderson - Darling test,P1269,facet of,http://www.wikidata.org/wiki/Q112116869,Data distribution
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/squared_distance,squared distance,P31,instance of,http://www.wikidata.org/wiki/Q1949963,statistic
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Cramer_-_Von_-_Mises_test,Cramer - Von - Mises test,P1269,facet of,http://www.wikidata.org/wiki/Q11660,AI
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Cramer_-_Von_-_Mises_test,Cramer - Von - Mises test,P2283,uses,http://www.wikidata.org/wiki/Q3030678,Hellinger distance
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Mann_-_Whitney_U_-_rank_test,Mann - Whitney U - rank test,P31,instance of,http://www.wikidata.org/wiki/Q1097688,nonparametric test
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Epps_-_Singleton_test,Epps - Singleton test,P31,instance of,http://www.wikidata.org/wiki/Q7604392,statistical distance
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Epps_-_Singleton_test,Epps - Singleton test,P1269,facet of,http://www.wikidata.org/wiki/Q11660,AI
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Epps_-_Singleton_test,Epps - Singleton test,P31,instance of,http://www.wikidata.org/wiki/Q224615,test
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/T_-_Test,T - Test,P31,instance of,http://www.wikidata.org/wiki/Q224615,test
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Deepcheck,Deepcheck,P361,part of,http://www.wikidata.org/wiki/Q11660,AI
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Z_-_test,Z - test,P1269,facet of,http://www.wikidata.org/wiki/Q11660,AI
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Z_-_test,Z - test,P31,instance of,http://www.wikidata.org/wiki/Q224615,test
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Z_-_test,Z - test,P279,subclass of,http://www.wikidata.org/wiki/Q1570376,sample
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Z_-_test,Z - test,P31,instance of,http://www.wikidata.org/wiki/Q210832,statistical test
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Total_-_Variation_-_Distance,Total - Variation - Distance,P279,subclass of,http://www.wikidata.org/wiki/Q126017,distance
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Chi_-_Square_test,Chi - Square test,P1269,facet of,http://www.wikidata.org/wiki/Q11660,AI
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Deepchecks,Deepchecks,P361,part of,http://www.wikidata.org/wiki/Q11660,AI
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Least_Square_Density_Difference,Least Square Density Difference,P1269,facet of,http://www.wikidata.org/wiki/Q11660,AI
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/KolmogorovSmirnov_K_-_S_test,KolmogorovSmirnov K - S test,P1269,facet of,http://www.wikidata.org/wiki/Q11660,AI
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/cumulative,cumulative,P279,subclass of,http://www.wikidata.org/wiki/Q200726,continuous distribution
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/cumulative,cumulative,P461,opposite of,http://www.wikidata.org/wiki/Q5374243,empirical distribution
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Empirical_Distribution_function_Fn,Empirical Distribution function Fn,P31,instance of,http://www.wikidata.org/wiki/Q386228,cumulative probability distribution function
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/maxFnx,maxFnx,P31,instance of,http://www.wikidata.org/wiki/Q1461038,test statistic
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/drift_score,drift score,P31,instance of,http://www.wikidata.org/wiki/Q224615,test
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/shape_of_distribution,shape of distribution,P1269,facet of,http://www.wikidata.org/wiki/Q225802,distribution
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/reference_distribution,reference distribution,P1889,different from,http://www.wikidata.org/wiki/Q1570376,sample
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Kolmogorov_Smirnov_K-,Kolmogorov Smirnov K-,P361,part of,http://www.wikidata.org/wiki/Q1347572,Evidently
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/KolmogorovSmirnov_K_-_S_test,KolmogorovSmirnov K - S test,P2283,uses,http://www.wikidata.org/wiki/Q255166,Population stability index
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/KolmogorovSmirnov_K_-_S_test,KolmogorovSmirnov K - S test,P31,instance of,http://www.wikidata.org/wiki/Q11229,percentage
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Actual,Actual,P461,opposite of,http://www.wikidata.org/wiki/Q5420841,Expected
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Expected_Expected,Expected Expected,P31,instance of,http://www.wikidata.org/wiki/Q411565,score
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/current_model,current model,P527,has part,http://www.wikidata.org/wiki/Q1370443,PSI
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/use_your_best_judgement,use your best judgement,P1269,facet of,http://www.wikidata.org/wiki/Q7229797,population change
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/model_retraining,model retraining,P1269,facet of,http://www.wikidata.org/wiki/Q7229797,population change
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Drift_score,Drift score,P1269,facet of,http://www.wikidata.org/wiki/Q7229797,population change
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Drift_score,Drift score,P1269,facet of,http://www.wikidata.org/wiki/Q42848,Data
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/numerical_features,numerical features,P279,subclass of,http://www.wikidata.org/wiki/Q224615,test
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/drift_score,drift score,P279,subclass of,http://www.wikidata.org/wiki/Q11423,mass
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/drift_score,drift score,P279,subclass of,http://www.wikidata.org/wiki/Q30292302,thresholds
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/shape_of_distribution,shape of distribution,P1889,different from,http://www.wikidata.org/wiki/Q225802,distribution
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/categorical_features,categorical features,P279,subclass of,http://www.wikidata.org/wiki/Q2004833,numerical
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Kullback_-_Leibler_divergence,Kullback - Leibler divergence,P31,instance of,http://www.wikidata.org/wiki/Q189000,divergence
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/categorical_values,categorical values,P361,part of,http://www.wikidata.org/wiki/Q1172284,dataset
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Drift_score,Drift score,P1269,facet of,http://www.wikidata.org/wiki/Q258098,drift
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Drift_score,Drift score,P1269,facet of,http://www.wikidata.org/wiki/Q1172284,dataset
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/minimum_value_for_the_test,minimum value for the test,P1269,facet of,http://www.wikidata.org/wiki/Q258098,drift
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/divergence.ipynb,divergence.ipynb,pcode,discoverer or inventor,http://www.wikidata.org/wiki/Q15825519,Leibler
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/JensenShannon_divergence,JensenShannon divergence,P1269,facet of,http://www.wikidata.org/wiki/Q254390,similarity
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Jensen_Shannon_distance.ipynb,Jensen Shannon distance.ipynb,P361,part of,http://www.wikidata.org/wiki/Q1347572,Evidently
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Repos_azure.com,Repos azure.com,P361,part of,http://www.wikidata.org/wiki/Q1347572,Evidently
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Darling_test,Darling test,pcode,named after,http://www.wikidata.org/wiki/Q491431,Anderson
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/reference_distribution,reference distribution,P461,opposite of,http://www.wikidata.org/wiki/Q112116869,Data distribution
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Anderson_-_Darling_Test,Anderson - Darling Test,P31,instance of,http://www.wikidata.org/wiki/Q1949963,statistic
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Anderson_-_Darling,Anderson - Darling,P31,instance of,http://www.wikidata.org/wiki/Q1949963,statistic
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Anderson_-_Darling,Anderson - Darling,P31,instance of,http://www.wikidata.org/wiki/Q225802,distribution
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Smaller_Anderson_-_Darling_values,Smaller Anderson - Darling values,P31,instance of,http://www.wikidata.org/wiki/Q224615,test
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/p_-_value,p - value,P1269,facet of,http://www.wikidata.org/wiki/Q9492,probability
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Min_drift_score,Min drift score,P31,instance of,http://www.wikidata.org/wiki/Q224615,test
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/drift_score,drift score,P279,subclass of,http://www.wikidata.org/wiki/Q411565,score
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Anderson_Darling_test.ipynb,Anderson Darling test.ipynb,P361,part of,http://www.wikidata.org/wiki/Q1347572,Evidently
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/K_-_S_test,K - S test,P460,said to be the same as,http://www.wikidata.org/wiki/Q491401,Anderson Darling test
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Cramer_-_Von_-_Mises_test,Cramer - Von - Mises test,P31,instance of,http://www.wikidata.org/wiki/Q1949963,statistic
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Min_drift_score,Min drift score,P1269,facet of,http://www.wikidata.org/wiki/Q258098,drift
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Cramer_Von_Mises_test.ipynb_-_Repos_azure.com,Cramer Von Mises test.ipynb - Repos azure.com,P361,part of,http://www.wikidata.org/wiki/Q1347572,Evidently
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Cramer_Von_Mises_test.ipynb,Cramer Von Mises test.ipynb,P361,part of,http://www.wikidata.org/wiki/Q1347572,Evidently
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/categorical_features,categorical features,P361,part of,http://www.wikidata.org/wiki/Q2004833,numerical
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/maximum_drift,maximum drift,P279,subclass of,http://www.wikidata.org/wiki/Q258098,drift
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/drift_score,drift score,P1269,facet of,http://www.wikidata.org/wiki/Q258098,drift
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/new_dataSample,new dataSample,P279,subclass of,http://www.wikidata.org/wiki/Q1172284,dataset
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/reference_dataSample,reference dataSample,P279,subclass of,http://www.wikidata.org/wiki/Q1172284,dataset
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Sample_1,Sample 1,P31,instance of,http://www.wikidata.org/wiki/Q193181,observations
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/sum_of_ranks_in_Sample_2,sum of ranks in Sample 2,P31,instance of,http://www.wikidata.org/wiki/Q976981,formula
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Sample_1,Sample 1,P361,part of,http://www.wikidata.org/wiki/Q2472052,U1
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Sample_2,Sample 2,P361,part of,http://www.wikidata.org/wiki/Q2472052,U1
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Whitney_U,Whitney U,P361,part of,http://www.wikidata.org/wiki/Q229615,Mann
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/no_drift,no drift,P279,subclass of,http://www.wikidata.org/wiki/Q258098,drift
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Energy_distance.ipynb,Energy distance.ipynb,P361,part of,http://www.wikidata.org/wiki/Q1347572,Evidently
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Repos_azure.com,Repos azure.com,P31,instance of,http://www.wikidata.org/wiki/Q224615,Test
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/T_-_Test,T - Test,P31,instance of,http://www.wikidata.org/wiki/Q224615,Test
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Min_drift_score,Min drift score,P279,subclass of,http://www.wikidata.org/wiki/Q9492,probability
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/T-Test.ipynb,T-Test.ipynb,P361,part of,http://www.wikidata.org/wiki/Q1347572,Evidently
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/categorical_features,categorical features,P31,instance of,http://www.wikidata.org/wiki/Q224615,test
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Z_-_test,Z - test,P31,instance of,http://www.wikidata.org/wiki/Q2564360,sample size
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Min_drift_score,Min drift score,P361,part of,http://www.wikidata.org/wiki/Q41492,Fishers exact test
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/category_frequency_table,category frequency table,P360,is a list of,http://www.wikidata.org/wiki/Q11652,frequencies
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/categorical_features_features,categorical features features,P31,instance of,http://www.wikidata.org/wiki/Q224615,test
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/G_-Test,G -Test,P31,instance of,http://www.wikidata.org/wiki/Q1949963,statistic
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/drift_score,drift score,P1269,facet of,http://www.wikidata.org/wiki/Q1172284,dataset
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/reference_distribution,reference distribution,P279,subclass of,http://www.wikidata.org/wiki/Q20736000,probability distribution function
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/new_distribution,new distribution,P279,subclass of,http://www.wikidata.org/wiki/Q20736000,probability distribution function
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/reference_distribution,reference distribution,P279,subclass of,http://www.wikidata.org/wiki/Q55505926,distribution function
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/new_distribution,new distribution,P279,subclass of,http://www.wikidata.org/wiki/Q55505926,distribution function
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Total-Variation-Distance.ipynb_-_Repos_azure.com,Total-Variation-Distance.ipynb - Repos azure.com,P178,developer,http://www.wikidata.org/wiki/Q1347572,Evidently
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Total-Variation-Distance.ipynb_-_Repos_azure.com,Total-Variation-Distance.ipynb - Repos azure.com,P361,part of,http://www.wikidata.org/wiki/Q1347572,Evidently
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Chi_Square_test.ipynb,Chi Square test.ipynb,P361,part of,http://www.wikidata.org/wiki/Q1347572,Evidently
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/T_-_statistic,T - statistic,pcode,studies,http://www.wikidata.org/wiki/Q9492,probability
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Classification_Model,Classification Model,P366,use,http://www.wikidata.org/wiki/Q1744625,classify
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/p_-_value,p - value,P1269,facet of,http://www.wikidata.org/wiki/Q258098,drift
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Classifier.ipynb,Classifier.ipynb,P361,part of,http://www.wikidata.org/wiki/Q468947,Alibi
+datadriftconcepts.pdf,http://www.themathcompany.com/cognition/Repos_azure.com,Repos azure.com,P361,part of,http://www.wikidata.org/wiki/Q468947,Alibi
+devopsstarterguide.pdf,http://www.themathcompany.com/cognition/DevOps_starter_guide_v1.0,DevOps starter guide v1.0,P366,use,http://www.wikidata.org/wiki/Q3025536,DevOps
+devopsstarterguide.pdf,http://www.themathcompany.com/cognition/Introduction_to_DevOps,Introduction to DevOps,P921,main subject,http://www.wikidata.org/wiki/Q3025536,DevOps
+devopsstarterguide.pdf,http://www.themathcompany.com/cognition/DevOps_and_Agile,DevOps and Agile,P1269,facet of,http://www.wikidata.org/wiki/Q3025536,DevOps
+devopsstarterguide.pdf,http://www.themathcompany.com/cognition/DevOps_and_Agile,DevOps and Agile,P1269,facet of,http://www.wikidata.org/wiki/Q393742,Agile
+devopsstarterguide.pdf,http://www.themathcompany.com/cognition/DevOps_Toolchain,DevOps Toolchain,P366,use,http://www.wikidata.org/wiki/Q3025536,DevOps
+devopsstarterguide.pdf,http://www.themathcompany.com/cognition/tools_and_practices,tools and practices,P1889,different from,http://www.wikidata.org/wiki/Q3025536,DevOps
+devopsstarterguide.pdf,http://www.themathcompany.com/cognition/CICD_pipeline,CICD pipeline,P527,has part,http://www.wikidata.org/wiki/Q184199,Automation
+devopsstarterguide.pdf,http://www.themathcompany.com/cognition/CICD_pipeline,CICD pipeline,P1269,facet of,http://www.wikidata.org/wiki/Q184199,Automation
+devopsstarterguide.pdf,http://www.themathcompany.com/cognition/automated_procedures,automated procedures,P1269,facet of,http://www.wikidata.org/wiki/Q1318104,continuous improvement
+devopsstarterguide.pdf,http://www.themathcompany.com/cognition/code_changes,code changes,P1269,facet of,http://www.wikidata.org/wiki/Q638608,software development
+devopsstarterguide.pdf,http://www.themathcompany.com/cognition/fast_deployment,fast deployment,P361,part of,http://www.wikidata.org/wiki/Q3025536,DevOps
+devopsstarterguide.pdf,http://www.themathcompany.com/cognition/Holist_Understanding_of_the_solution,Holist Understanding of the solution,P1269,facet of,http://www.wikidata.org/wiki/Q3025536,DevOps
+devopsstarterguide.pdf,http://www.themathcompany.com/cognition/Continuous_DeploymentDelivery,Continuous DeploymentDelivery,P361,part of,http://www.wikidata.org/wiki/Q3025536,DevOps
+devopsstarterguide.pdf,http://www.themathcompany.com/cognition/detect_and_fix_issues,detect and fix issues,P279,subclass of,http://www.wikidata.org/wiki/Q7397,software
+devopsstarterguide.pdf,http://www.themathcompany.com/cognition/automated_release,automated release,P1269,facet of,http://www.wikidata.org/wiki/Q2507377,continuous delivery
+devopsstarterguide.pdf,http://www.themathcompany.com/cognition/DevOps_lifecycle,DevOps lifecycle,P1269,facet of,http://www.wikidata.org/wiki/Q3025536,DevOps
+devopsstarterguide.pdf,http://www.themathcompany.com/cognition/DevOps_lifecycle,DevOps lifecycle,P527,has part,http://www.wikidata.org/wiki/Q6559307,eight phases
+devopsstarterguide.pdf,http://www.themathcompany.com/cognition/DevOps_lifecycle,DevOps lifecycle,P527,has part,http://www.wikidata.org/wiki/Q340724,development
+devopsstarterguide.pdf,http://www.themathcompany.com/cognition/DevOps_lifecycle,DevOps lifecycle,P527,has part,http://www.wikidata.org/wiki/Q209577,operations
+devopsstarterguide.pdf,http://www.themathcompany.com/cognition/Discover_phase,Discover phase,P361,part of,http://www.wikidata.org/wiki/Q3025536,DevOps
+devopsstarterguide.pdf,http://www.themathcompany.com/cognition/goal_-_setting,goal - setting,P1542,has effect,http://www.wikidata.org/wiki/Q7632586,success
+devopsstarterguide.pdf,http://www.themathcompany.com/cognition/goal_-_setting,goal - setting,P527,has part,http://www.wikidata.org/wiki/Q341954,objectives
+devopsstarterguide.pdf,http://www.themathcompany.com/cognition/roadmaps,roadmaps,P527,has part,http://www.wikidata.org/wiki/Q774228,requirements
+devopsstarterguide.pdf,http://www.themathcompany.com/cognition/roadmaps,roadmaps,P361,part of,http://www.wikidata.org/wiki/Q788790,documentation
+devopsstarterguide.pdf,http://www.themathcompany.com/cognition/iterative_approach,iterative approach,P361,part of,http://www.wikidata.org/wiki/Q179012,project management
+devopsstarterguide.pdf,http://www.themathcompany.com/cognition/provisioned_environments,provisioned environments,P1269,facet of,http://www.wikidata.org/wiki/Q7252757,provisioned
+devopsstarterguide.pdf,http://www.themathcompany.com/cognition/staging_environment,staging environment,P366,use,http://www.wikidata.org/wiki/Q439664,deployment
+devopsstarterguide.pdf,http://www.themathcompany.com/cognition/build_artifact,build artifact,P279,subclass of,http://www.wikidata.org/wiki/Q1475717,automated test
+devopsstarterguide.pdf,http://www.themathcompany.com/cognition/end_-_to_-_end,end - to - end,P1269,facet of,http://www.wikidata.org/wiki/Q11661,IT
+devopsstarterguide.pdf,http://www.themathcompany.com/cognition/end_-_to_-_end,end - to - end,P1269,facet of,http://www.wikidata.org/wiki/Q1481411,IT services
+devopsstarterguide.pdf,http://www.themathcompany.com/cognition/all_-_in_-_one_toolchain,all - in - one toolchain,P366,use,http://www.wikidata.org/wiki/Q3025536,DevOps
+devopsstarterguide.pdf,http://www.themathcompany.com/cognition/Open_toolchain,Open toolchain,P279,subclass of,http://www.wikidata.org/wiki/Q545406,toolchain
+devopsstarterguide.pdf,http://www.themathcompany.com/cognition/DevOps_lifecycle,DevOps lifecycle,P527,has part,http://www.wikidata.org/wiki/Q3025536,DevOps
+devopsstarterguide.pdf,http://www.themathcompany.com/cognition/DevOps_Phases,DevOps Phases,P1269,facet of,http://www.wikidata.org/wiki/Q3025536,DevOps
+devopsstarterguide.pdf,http://www.themathcompany.com/cognition/Popular_Tools,Popular Tools,P366,use,http://www.wikidata.org/wiki/Q3025536,DevOps
+devopsstarterguide.pdf,http://www.themathcompany.com/cognition/Stormboard,Stormboard,P366,use,http://www.wikidata.org/wiki/Q351789,JIRA
+devopsstarterguide.pdf,http://www.themathcompany.com/cognition/Confluence_Slack,Confluence Slack,P31,instance of,http://www.wikidata.org/wiki/Q7397,software
+devopsstarterguide.pdf,http://www.themathcompany.com/cognition/CodeCommit,CodeCommit,P31,instance of,http://www.wikidata.org/wiki/Q7397,software
+devopsstarterguide.pdf,http://www.themathcompany.com/cognition/Being_Agile,Being Agile,P279,subclass of,http://www.wikidata.org/wiki/Q3025536,DevOps
+devopsstarterguide.pdf,http://www.themathcompany.com/cognition/DevOps_effectiveness,DevOps effectiveness,P1269,facet of,http://www.wikidata.org/wiki/Q3025536,DevOps
+devopsstarterguide.pdf,http://www.themathcompany.com/cognition/learn_-_from_-_mistake,learn - from - mistake,P1269,facet of,http://www.wikidata.org/wiki/Q439664,deployment
+devopsstarterguide.pdf,http://www.themathcompany.com/cognition/Organizations_age_-_old_practices,Organizations age - old practices,P1269,facet of,http://www.wikidata.org/wiki/Q43229,Organizations
+devopsstarterguide.pdf,http://www.themathcompany.com/cognition/legacy_processes,legacy processes,pcode,replaced by,http://www.wikidata.org/wiki/Q856122,modernize
+devopsstarterguide.pdf,http://www.themathcompany.com/cognition/code_code,code code,P361,part of,http://www.wikidata.org/wiki/Q1572519,environment
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/Azure_App_Service,Azure App Service,P31,instance of,http://www.wikidata.org/wiki/Q483639,Cloud Computing
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/Large_cloud,Large cloud,P279,subclass of,http://www.wikidata.org/wiki/Q671224,data center
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/Large_cloud,Large cloud,P279,subclass of,http://www.wikidata.org/wiki/Q483639,Cloud computing
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/IaaS_Infrastructure_as_a_Service,IaaS Infrastructure as a Service,P279,subclass of,http://www.wikidata.org/wiki/Q483639,Cloud Computing
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/SaaS_Software_as_a_Service,SaaS Software as a Service,P31,instance of,http://www.wikidata.org/wiki/Q1200992,abstraction level
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/Azure_App_Service,Azure App Service,P306,operating system,http://www.wikidata.org/wiki/Q1406,Windows
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/Azure_App_Service,Azure App Service,P31,instance of,http://www.wikidata.org/wiki/Q17987250,application development
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/Azure_App_Service,Azure App Service,P366,use,http://www.wikidata.org/wiki/Q59350,App
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/AZURE_APP_SERVICE,AZURE APP SERVICE,P178,developer,http://www.wikidata.org/wiki/Q2283,Microsoft
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/AZURE_APP_SERVICE,AZURE APP SERVICE,P31,instance of,http://www.wikidata.org/wiki/Q134067,visual studio
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/Azure_the_application_Service,Azure the application Service,P366,use,http://www.wikidata.org/wiki/Q439664,deploy
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/two_of_the_most_used_methods,two of the most used methods,P279,subclass of,http://www.wikidata.org/wiki/Q12221772,methods
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/Azure_App_Service,Azure App Service,P306,operating system,http://www.wikidata.org/wiki/Q388,Linux
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/Azure_App_Service_on_Linux,Azure App Service on Linux,P277,programming language,http://www.wikidata.org/wiki/Q747452,Python
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/Service_tier,Service tier,P460,said to be the same as,http://www.wikidata.org/wiki/Q231766,free
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/git_clone,git clone,P2283,uses,http://www.wikidata.org/wiki/Q210481,terminal
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/application.py,application.py,pcode,based on,http://www.wikidata.org/wiki/Q4227578,Flask
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/FLASKAPP,FLASKAPP,P527,has part,http://www.wikidata.org/wiki/Q4227578,Flask
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/CtrlC,CtrlC,P361,part of,http://www.wikidata.org/wiki/Q210481,terminal
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/Azure_CLI,Azure CLI,P361,part of,http://www.wikidata.org/wiki/Q401091,Azure
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/Deploy_the_Sample,Deploy the Sample,P366,use,http://www.wikidata.org/wiki/Q1570376,Sample
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/az_webapp,az webapp,P31,instance of,http://www.wikidata.org/wiki/Q189210,webapp
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/centralus,centralus,P31,instance of,http://www.wikidata.org/wiki/Q82794,region
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/eastus,eastus,P31,instance of,http://www.wikidata.org/wiki/Q82794,region
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/eastus2,eastus2,P31,instance of,http://www.wikidata.org/wiki/Q82794,region
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/centralindia,centralindia,P31,instance of,http://www.wikidata.org/wiki/Q82794,region
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/centralus,centralus,P361,part of,http://www.wikidata.org/wiki/Q401091,Azure
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/eastus,eastus,P361,part of,http://www.wikidata.org/wiki/Q401091,Azure
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/eastus2,eastus2,P361,part of,http://www.wikidata.org/wiki/Q401091,Azure
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/centralindia,centralindia,P361,part of,http://www.wikidata.org/wiki/Q401091,Azure
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/az_-_webapp_up,az - webapp up,P31,instance of,http://www.wikidata.org/wiki/Q10781077,command
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/App_Service,App Service,P306,operating system,http://www.wikidata.org/wiki/Q388,Linux
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/application.py,application.py,P31,instance of,http://www.wikidata.org/wiki/Q522972,code editor
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/Redeploy,Redeploy,P2283,uses,http://www.wikidata.org/wiki/Q439664,deploy
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/Redeploy,Redeploy,P279,subclass of,http://www.wikidata.org/wiki/Q439664,deploy
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/appname,appname,P279,subclass of,http://www.wikidata.org/wiki/Q189210,webapp
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/locationname,locationname,P279,subclass of,http://www.wikidata.org/wiki/Q189210,webapp
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/appname,appname,P31,instance of,http://www.wikidata.org/wiki/Q189210,webapp
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/locationname,locationname,P31,instance of,http://www.wikidata.org/wiki/Q189210,webapp
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/az_webapp,az webapp,P31,instance of,http://www.wikidata.org/wiki/Q987767,container
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/Azure_portal,Azure portal,P361,part of,http://www.wikidata.org/wiki/Q401091,Azure
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/Azure_App,Azure App,P361,part of,http://www.wikidata.org/wiki/Q401091,Azure
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/Azure_App,Azure App,P31,instance of,http://www.wikidata.org/wiki/Q59350,apps
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/Docker_image,Docker image,P1535,used by,http://www.wikidata.org/wiki/Q910577,Docker
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/git_clone,git clone,pcode,based on,http://www.wikidata.org/wiki/Q186055,Git
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/git_clone,git clone,P279,subclass of,http://www.wikidata.org/wiki/Q16280383,Clone
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/Git_repository,Git repository,P277,programming language,http://www.wikidata.org/wiki/Q747452,Python
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/Docker_image,Docker image,pcode,based on,http://www.wikidata.org/wiki/Q910577,Docker
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/Docker_image,Docker image,P279,subclass of,http://www.wikidata.org/wiki/Q478798,image
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/Docker_image,Docker image,P361,part of,http://www.wikidata.org/wiki/Q910577,Docker
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/App_Service_plan,App Service plan,P527,has part,http://www.wikidata.org/wiki/Q189210,Web App
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/resource_group,resource group,P527,has part,http://www.wikidata.org/wiki/Q1554231,resource
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/resource_group,resource group,P2283,uses,http://www.wikidata.org/wiki/Q2063,JSON
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/az_acr,az acr,P366,use,http://www.wikidata.org/wiki/Q16861606,credentials
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/az_acr,az acr,P31,instance of,http://www.wikidata.org/wiki/Q847805,registry
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/azure-container-registry-name.azurecr.io,azure-container-registry-name.azurecr.io,P366,use,http://www.wikidata.org/wiki/Q910577,Docker
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/azure_container,azure container,P2283,uses,http://www.wikidata.org/wiki/Q910577,Docker
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/azure_-_container_-_registry,azure - container - registry,P2283,uses,http://www.wikidata.org/wiki/Q910577,Docker
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/azure_-_container_-_registry_-_name,azure - container - registry - name,P1535,used by,http://www.wikidata.org/wiki/Q910577,Docker
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/App_Service_Plan,App Service Plan,P306,operating system,http://www.wikidata.org/wiki/Q388,Linux
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/App_Service_plan,App Service plan,P306,operating system,http://www.wikidata.org/wiki/Q388,Linux
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/az_webapp,az webapp,P31,instance of,http://www.wikidata.org/wiki/Q189210,web app
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/iomydockerimage,iomydockerimage,P31,instance of,http://www.wikidata.org/wiki/Q847805,registry
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/az_acr,az acr,P366,use,http://www.wikidata.org/wiki/Q189210,web app
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/azure_-_container_-_registry,azure - container - registry,P31,instance of,http://www.wikidata.org/wiki/Q987767,container
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/port_8000,port 8000,P31,instance of,http://www.wikidata.org/wiki/Q44782,port
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/webapp_config,webapp config,P361,part of,http://www.wikidata.org/wiki/Q189210,webapp
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/appsettings,appsettings,P1269,facet of,http://www.wikidata.org/wiki/Q189210,webapp
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/Test_the_Web_App,Test the Web App,P1269,facet of,http://www.wikidata.org/wiki/Q189210,web app
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/Test_the_Web_App,Test the Web App,P279,subclass of,http://www.wikidata.org/wiki/Q189210,web app
+introductiontoazureappservice.pdf,http://www.themathcompany.com/cognition/App_Service,App Service,P366,use,http://www.wikidata.org/wiki/Q439664,deployed
+kubeflowvsmlflow.pdf,http://www.themathcompany.com/cognition/MLflow,MLflow,P1889,different from,http://www.wikidata.org/wiki/Q65048974,Kubeflow
+kubeflowvsmlflow.pdf,http://www.themathcompany.com/cognition/MLflow,MLflow,P31,instance of,http://www.wikidata.org/wiki/Q232576,service
+kubeflowvsmlflow.pdf,http://www.themathcompany.com/cognition/MLflow,MLflow,P366,use,http://www.wikidata.org/wiki/Q2374463,data scientist
+kubeflowvsmlflow.pdf,http://www.themathcompany.com/cognition/MLflow,MLflow,P366,use,http://www.wikidata.org/wiki/Q219113,ML
+kubeflowvsmlflow.pdf,http://www.themathcompany.com/cognition/MLflow,MLflow,P366,use,http://www.wikidata.org/wiki/Q258408,EDA
+kubeflowvsmlflow.pdf,http://www.themathcompany.com/cognition/sequential_jobs,sequential jobs,P461,opposite of,http://www.wikidata.org/wiki/Q3363481,parallel
+kubeflowvsmlflow.pdf,http://www.themathcompany.com/cognition/Kubeflow_pipeline,Kubeflow pipeline,P361,part of,http://www.wikidata.org/wiki/Q65048974,Kubeflow
+kubeflowvsmlflow.pdf,http://www.themathcompany.com/cognition/Kubeflow_pipelines,Kubeflow pipelines,P361,part of,http://www.wikidata.org/wiki/Q65048974,Kubeflow
+kubeflowvsmlflow.pdf,http://www.themathcompany.com/cognition/MLflow,MLflow,P366,use,http://www.wikidata.org/wiki/Q2539,machine learning
+kubeflowvsmlflow.pdf,http://www.themathcompany.com/cognition/MLflow,MLflow,P31,instance of,http://www.wikidata.org/wiki/Q165194,API
+kubeflowvsmlflow.pdf,http://www.themathcompany.com/cognition/model_lineage,model lineage,P1269,facet of,http://www.wikidata.org/wiki/Q1979154,model
+kubeflowvsmlflow.pdf,http://www.themathcompany.com/cognition/development_effort,development effort,P527,has part,http://www.wikidata.org/wiki/Q11471,time
+sparkperformancetuning-part1.pdf,http://www.themathcompany.com/cognition/Spark_performance_tuning,Spark performance tuning,P527,has part,http://www.wikidata.org/wiki/Q95966593,Part 1
+sparkperformancetuning-part1.pdf,http://www.themathcompany.com/cognition/ADS_Analytical,ADS Analytical,P2283,uses,http://www.wikidata.org/wiki/Q1207170,Hive
+sparkperformancetuning-part1.pdf,http://www.themathcompany.com/cognition/We_Spark,We Spark,P366,use,http://www.wikidata.org/wiki/Q789006,autoscaling
+sparkperformancetuning-part1.pdf,http://www.themathcompany.com/cognition/Spark_configs,Spark configs,P1269,facet of,http://www.wikidata.org/wiki/Q243457,Spark
+sparkperformancetuning-part1.pdf,http://www.themathcompany.com/cognition/more_than_5_hours,more than 5 hours,P1535,used by,http://www.wikidata.org/wiki/Q243457,Spark
+sparkperformancetuning-part1.pdf,http://www.themathcompany.com/cognition/configs,configs,P1535,used by,http://www.wikidata.org/wiki/Q243457,Spark
+sparkperformancetuning-part1.pdf,http://www.themathcompany.com/cognition/deamons,deamons,P361,part of,http://www.wikidata.org/wiki/Q29120,Hadoop
+sparkperformancetuning-part1.pdf,http://www.themathcompany.com/cognition/CPU_cores,CPU cores,P527,has part,http://www.wikidata.org/wiki/Q232469,cores
+sparkperformancetuning-part1.pdf,http://www.themathcompany.com/cognition/Worker_machine,Worker machine,P279,subclass of,http://www.wikidata.org/wiki/Q654437,executor
+sparkperformancetuning-part1.pdf,http://www.themathcompany.com/cognition/Resolution_Now,Resolution Now,P155,follows,http://www.wikidata.org/wiki/Q176477,gyan
+sparkperformancetuning-part1.pdf,http://www.themathcompany.com/cognition/Resolution_Now,Resolution Now,P31,instance of,http://www.wikidata.org/wiki/Q654437,executor
+sparkperformancetuning-part1.pdf,http://www.themathcompany.com/cognition/configs,configs,P361,part of,http://www.wikidata.org/wiki/Q654437,executor
+sparkperformancetuning-part1.pdf,http://www.themathcompany.com/cognition/standard-32,standard-32,P527,has part,http://www.wikidata.org/wiki/Q298665,e2
+sparkperformancetuning-part1.pdf,http://www.themathcompany.com/cognition/No_of_cores,No of cores,P279,subclass of,http://www.wikidata.org/wiki/Q232469,cores
+sparkperformancetuning-part1.pdf,http://www.themathcompany.com/cognition/Fat_configuration,Fat configuration,P279,subclass of,http://www.wikidata.org/wiki/Q654437,Executor
+sparkperformancetuning-part1.pdf,http://www.themathcompany.com/cognition/spark_cluster,spark cluster,P361,part of,http://www.wikidata.org/wiki/Q18350420,databricks
+sparkperformancetuning-part1.pdf,http://www.themathcompany.com/cognition/CPU_cores,CPU cores,P527,has part,http://www.wikidata.org/wiki/Q492,memory
+sparkperformancetuning-part1.pdf,http://www.themathcompany.com/cognition/CPU_cores,CPU cores,P1889,different from,http://www.wikidata.org/wiki/Q492,memory
+sparkperformancetuning-part1.pdf,http://www.themathcompany.com/cognition/Memory_per_executor,Memory per executor,P1269,facet of,http://www.wikidata.org/wiki/Q654437,executor
+sparkperformancetuning-part1.pdf,http://www.themathcompany.com/cognition/Memory_per_executor,Memory per executor,P279,subclass of,http://www.wikidata.org/wiki/Q492,memory
+sparkperformancetuning-part1.pdf,http://www.themathcompany.com/cognition/worker_machine,worker machine,P527,has part,http://www.wikidata.org/wiki/Q66221,physical memory
+sparkperformancetuning-part1.pdf,http://www.themathcompany.com/cognition/fig_1.0,fig 1.0,P361,part of,http://www.wikidata.org/wiki/Q7478101,We
+sparkperformancetuning-part1.pdf,http://www.themathcompany.com/cognition/available_memory,available memory,P1889,different from,http://www.wikidata.org/wiki/Q492,memory
+sparkperformancetuning-part1.pdf,http://www.themathcompany.com/cognition/Broadcast_join,Broadcast join,P31,instance of,http://www.wikidata.org/wiki/Q413109,join
+sparkperformancetuning-part1.pdf,http://www.themathcompany.com/cognition/Broadcast_join,Broadcast join,P279,subclass of,http://www.wikidata.org/wiki/Q413109,join
+sparkperformancetuning-part1.pdf,http://www.themathcompany.com/cognition/out_of_memory_error,out of memory error,P1269,facet of,http://www.wikidata.org/wiki/Q226733,driver
+sparkperformancetuning-part1.pdf,http://www.themathcompany.com/cognition/out_of_memory_error,out of memory error,P1269,facet of,http://www.wikidata.org/wiki/Q226733,drivers
+sparkperformancetuning-part1.pdf,http://www.themathcompany.com/cognition/memory_overhead,memory overhead,P1269,facet of,http://www.wikidata.org/wiki/Q352214,heap
+sparkperformancetuning-part1.pdf,http://www.themathcompany.com/cognition/Container_killed,Container killed,P1269,facet of,http://www.wikidata.org/wiki/Q29120,YARN
+sparkperformancetuning-part1.pdf,http://www.themathcompany.com/cognition/Memory_per_driver,Memory per driver,P1269,facet of,http://www.wikidata.org/wiki/Q226733,driver
+sparkperformancetuning-part1.pdf,http://www.themathcompany.com/cognition/executor_memory,executor memory,P461,opposite of,http://www.wikidata.org/wiki/Q226733,driver
+sparkperformancetuning-part1.pdf,http://www.themathcompany.com/cognition/Final_Spark_configs,Final Spark configs,P1269,facet of,http://www.wikidata.org/wiki/Q243457,Spark
+sparkperformancetuning-part1.pdf,http://www.themathcompany.com/cognition/Spark_configs,Spark configs,P366,use,http://www.wikidata.org/wiki/Q176477,gyan
+sparkperformancetuning-part1.pdf,http://www.themathcompany.com/cognition/Spark_Config,Spark Config,P366,use,http://www.wikidata.org/wiki/Q176477,gyan
+sparkperformancetuning-part1.pdf,http://www.themathcompany.com/cognition/Spark_Config,Spark Config,P527,has part,http://www.wikidata.org/wiki/Q492,memory
+sparkperformancetuning-part1.pdf,http://www.themathcompany.com/cognition/autoBroadcastJoinThreshold,autoBroadcastJoinThreshold,P361,part of,http://www.wikidata.org/wiki/Q243457,Spark
+sparkperformancetuning-part1.pdf,http://www.themathcompany.com/cognition/Spark_jobs,Spark jobs,P361,part of,http://www.wikidata.org/wiki/Q243457,Spark
+typesofdataplatforms.pdf,http://www.themathcompany.com/cognition/C360,C360,P366,use,http://www.wikidata.org/wiki/Q251616,ERP
+typesofdataplatforms.pdf,http://www.themathcompany.com/cognition/Rudderstack,Rudderstack,P527,has part,http://www.wikidata.org/wiki/Q18636415,Tealium
+typesofdataplatforms.pdf,http://www.themathcompany.com/cognition/Rudderstack,Rudderstack,P527,has part,http://www.wikidata.org/wiki/Q258480,Segment
+typesofdataplatforms.pdf,http://www.themathcompany.com/cognition/Rudderstack,Rudderstack,P361,part of,http://www.wikidata.org/wiki/Q18636415,Tealium
+typesofdataplatforms.pdf,http://www.themathcompany.com/cognition/touch_points,touch points,P361,part of,http://www.wikidata.org/wiki/Q35127,website
+typesofdataplatforms.pdf,http://www.themathcompany.com/cognition/Audience_Studio,Audience Studio,P178,developer,http://www.wikidata.org/wiki/Q941127,Salesforce
+typesofdataplatforms.pdf,http://www.themathcompany.com/cognition/Hub_Spot,Hub Spot,P178,developer,http://www.wikidata.org/wiki/Q217123,Oracle
+typesofdataplatforms.pdf,http://www.themathcompany.com/cognition/direct_touch,direct touch,P279,subclass of,http://www.wikidata.org/wiki/Q56278300,Customer data
+typesofdataplatforms.pdf,http://www.themathcompany.com/cognition/CDP_and_CRM,CDP and CRM,P31,instance of,http://www.wikidata.org/wiki/Q39809,marketing
+typesofdataplatforms.pdf,http://www.themathcompany.com/cognition/CDP_and_CRM,CDP and CRM,P527,has part,http://www.wikidata.org/wiki/Q248579,CDP
+typesofdataplatforms.pdf,http://www.themathcompany.com/cognition/CDP_and_CRM,CDP and CRM,P527,has part,http://www.wikidata.org/wiki/Q122270,CRM
+typesofdataplatforms.pdf,http://www.themathcompany.com/cognition/sales_team,sales team,P1056,product or material produced,http://www.wikidata.org/wiki/Q122270,CRM
+typesofdataplatforms.pdf,http://www.themathcompany.com/cognition/sales_team,sales team,P425,field of this occupation,http://www.wikidata.org/wiki/Q984142,Customer experience
+typesofdataplatforms.pdf,http://www.themathcompany.com/cognition/third_Party_data,third Party data,P155,follows,http://www.wikidata.org/wiki/Q11574,second
+typesofdataplatforms.pdf,http://www.themathcompany.com/cognition/Oracle_Financial_Cloud,Oracle Financial Cloud,P366,use,http://www.wikidata.org/wiki/Q251616,ERP
+typesofdataplatforms.pdf,http://www.themathcompany.com/cognition/Oracle_Financial_Cloud,Oracle Financial Cloud,P366,use,http://www.wikidata.org/wiki/Q4738155,Financial Management
+typesofdataplatforms.pdf,http://www.themathcompany.com/cognition/Warehouse_Management,Warehouse Management,P361,part of,http://www.wikidata.org/wiki/Q492886,Supply Chain Management
+typesofdataplatforms.pdf,http://www.themathcompany.com/cognition/Warehouse_Management,Warehouse Management,P361,part of,http://www.wikidata.org/wiki/Q829492,Procurement
+typesofdataplatforms.pdf,http://www.themathcompany.com/cognition/MDMC360,MDMC360,P178,developer,http://www.wikidata.org/wiki/Q190349,Master Data Management
+typesofdataplatforms.pdf,http://www.themathcompany.com/cognition/Master_Data_Management_MDMC360,Master Data Management MDMC360,P366,use,http://www.wikidata.org/wiki/Q251616,ERP
+typesofdataplatforms.pdf,http://www.themathcompany.com/cognition/Informatica_MDM,Informatica MDM,P366,use,http://www.wikidata.org/wiki/Q251616,ERP
+typesofdataplatforms.pdf,http://www.themathcompany.com/cognition/Informatica_MDM,Informatica MDM,P366,use,http://www.wikidata.org/wiki/Q492886,Supply Chain Management
+webscaping-proxymanagement.pdf,http://www.themathcompany.com/cognition/pool_of_proxy,pool of proxy,P279,subclass of,http://www.wikidata.org/wiki/Q416543,proxy
+webscaping-proxymanagement.pdf,http://www.themathcompany.com/cognition/proxy_management_system,proxy management system,P279,subclass of,http://www.wikidata.org/wiki/Q629173,management system
+webscaping-proxymanagement.pdf,http://www.themathcompany.com/cognition/proxy_management_system,proxy management system,P366,use,http://www.wikidata.org/wiki/Q665452,web scrapping
+webscaping-proxymanagement.pdf,http://www.themathcompany.com/cognition/target_multiple_times,target multiple times,P1535,used by,http://www.wikidata.org/wiki/Q665452,web scrapping
+webscaping-proxymanagement.pdf,http://www.themathcompany.com/cognition/fraction_of_time,fraction of time,P527,has part,http://www.wikidata.org/wiki/Q237909,hits
+webscaping-proxymanagement.pdf,http://www.themathcompany.com/cognition/block_the_IPs,block the IPs,P279,subclass of,http://www.wikidata.org/wiki/Q343634,attacks
+webscaping-proxymanagement.pdf,http://www.themathcompany.com/cognition/detect_the_attacker,detect the attacker,P279,subclass of,http://www.wikidata.org/wiki/Q343634,attacks
+webscaping-proxymanagement.pdf,http://www.themathcompany.com/cognition/intelligently_tries_to_detect,intelligently tries to detect,P461,opposite of,http://www.wikidata.org/wiki/Q3446915,attacker
+webscaping-proxymanagement.pdf,http://www.themathcompany.com/cognition/3rd_-_party,3rd - party,P279,subclass of,http://www.wikidata.org/wiki/Q1762621,vendor
+webscaping-proxymanagement.pdf,http://www.themathcompany.com/cognition/Data_-_centre_IP,Data - centre IP,P279,subclass of,http://www.wikidata.org/wiki/Q217496,IP
+webscaping-proxymanagement.pdf,http://www.themathcompany.com/cognition/residential_IP,residential IP,P279,subclass of,http://www.wikidata.org/wiki/Q217496,IP
+webscaping-proxymanagement.pdf,http://www.themathcompany.com/cognition/avoidable,avoidable,P461,opposite of,http://www.wikidata.org/wiki/Q184199,automated
