@@ -1,0 +1,4 @@
+More rules:
+- Remove just numbers 
+- Remove single characters
+- Remove single letters with spaces between them e.g. "a w s" etc
