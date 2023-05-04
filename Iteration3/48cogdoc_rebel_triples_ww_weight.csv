@@ -1800,3 +1800,922 @@ UAT_test_report_template.pdf,http://www.wikidata.org/wiki/Q420230,Passed,P279,su
 UAT_test_report_template.pdf,http://www.wikidata.org/wiki/Q1121708,Failed,P279,subclass of,http://www.wikidata.org/wiki/Q1568346,Test case,1,3
 UAT_test_report_template.pdf,http://www.wikidata.org/wiki/Q11439,Home page,P279,subclass of,http://www.wikidata.org/wiki/Q224749,Page,1,6
 UAT_test_report_template.pdf,http://www.wikidata.org/wiki/Q322514,Acceptance testing,P279,subclass of,http://www.wikidata.org/wiki/Q1786779,Product name,4,4
+201907_runsqloncloud.pdf,http://www.wikidata.org/wiki/Q537769,Hurdles,P279,subclass of,http://www.wikidata.org/wiki/Q13516686,Expenses,1,2
+201907_runsqloncloud.pdf,http://www.wikidata.org/wiki/Q47607,Sql,P1535,used by,http://www.wikidata.org/wiki/Q2374463,Data scientist,8,1
+201907_runsqloncloud.pdf,http://www.wikidata.org/wiki/Q8074,Cloud,P279,subclass of,http://www.wikidata.org/wiki/Q7385,Querying,6,3
+201907_runsqloncloud.pdf,http://www.wikidata.org/wiki/Q192726,Virtual machine,P361,part of,http://www.wikidata.org/wiki/Q8074,Cloud,2,6
+201907_runsqloncloud.pdf,http://www.wikidata.org/wiki/Q226733,Drivers,P1889,different from,http://www.wikidata.org/wiki/Q218013,Binaries,1,1
+201907_runsqloncloud.pdf,http://www.wikidata.org/wiki/Q218013,Binaries,P1889,different from,http://www.wikidata.org/wiki/Q226733,Drivers,1,1
+201907_runsqloncloud.pdf,http://www.wikidata.org/wiki/Q400708,Sql server,P527,has part,http://www.wikidata.org/wiki/Q226733,Drivers,3,1
+201907_runsqloncloud.pdf,http://www.wikidata.org/wiki/Q400708,Sql server,P527,has part,http://www.wikidata.org/wiki/Q218013,Binaries,3,1
+201907_runsqloncloud.pdf,http://www.wikidata.org/wiki/Q218013,Binaries,P361,part of,http://www.wikidata.org/wiki/Q400708,Sql server,1,3
+201907_runsqloncloud.pdf,http://www.wikidata.org/wiki/Q47607,Sql,P1535,used by,http://www.wikidata.org/wiki/Q16278284,Client,8,2
+201907_runsqloncloud.pdf,http://www.wikidata.org/wiki/Q16278284,Client,P2283,uses,http://www.wikidata.org/wiki/Q47607,Sql,2,8
+201907_runsqloncloud.pdf,http://www.wikidata.org/wiki/Q7385,Querying,P2283,uses,http://www.wikidata.org/wiki/Q400708,Sql server,3,3
+201907_runsqloncloud.pdf,http://www.wikidata.org/wiki/Q192726,Virtual machine,P527,has part,http://www.wikidata.org/wiki/Q235150,Vm,2,6
+201907_runsqloncloud.pdf,http://www.wikidata.org/wiki/Q235150,Vm,P361,part of,http://www.wikidata.org/wiki/Q192726,Virtual machine,6,2
+201907_runsqloncloud.pdf,http://www.wikidata.org/wiki/Q235150,Vm,P527,has part,http://www.wikidata.org/wiki/Q257022,Bill,6,1
+201907_runsqloncloud.pdf,http://www.wikidata.org/wiki/Q257022,Bill,P361,part of,http://www.wikidata.org/wiki/Q235150,Vm,1,6
+201907_runsqloncloud.pdf,http://www.wikidata.org/wiki/Q3958022,Serverless,P279,subclass of,http://www.wikidata.org/wiki/Q294834,Applications,6,3
+201907_runsqloncloud.pdf,http://www.wikidata.org/wiki/Q3958022,Serverless,P361,part of,http://www.wikidata.org/wiki/Q8074,Cloud,6,6
+201907_runsqloncloud.pdf,http://www.wikidata.org/wiki/Q492,Memory,P361,part of,http://www.wikidata.org/wiki/Q788331,Function,1,8
+201907_runsqloncloud.pdf,http://www.wikidata.org/wiki/Q224617,Platform,P279,subclass of,http://www.wikidata.org/wiki/Q788331,Function,2,8
+201907_runsqloncloud.pdf,http://www.wikidata.org/wiki/Q224617,Platform,P279,subclass of,http://www.wikidata.org/wiki/Q146654,Solution,2,2
+201907_runsqloncloud.pdf,http://www.wikidata.org/wiki/Q456157,Amazon web services,P527,has part,http://www.wikidata.org/wiki/Q245906,S3,7,14
+201907_runsqloncloud.pdf,http://www.wikidata.org/wiki/Q245906,S3,P361,part of,http://www.wikidata.org/wiki/Q456157,Amazon web services,14,7
+201907_runsqloncloud.pdf,http://www.wikidata.org/wiki/Q2063,Json,P366,use,http://www.wikidata.org/wiki/Q2641220,Static website,2,1
+201907_runsqloncloud.pdf,http://www.wikidata.org/wiki/Q838828,Parquet,pcode,based on,http://www.wikidata.org/wiki/Q2063,Json,2,2
+201907_runsqloncloud.pdf,http://www.wikidata.org/wiki/Q42591,Mp3,pcode,based on,http://www.wikidata.org/wiki/Q2063,Json,1,2
+201907_runsqloncloud.pdf,http://www.wikidata.org/wiki/Q336316,Mp4,pcode,based on,http://www.wikidata.org/wiki/Q2063,Json,1,2
+201907_runsqloncloud.pdf,http://www.wikidata.org/wiki/Q37122,Athena,P366,use,http://www.wikidata.org/wiki/Q1172284,Dataset,19,5
+201907_runsqloncloud.pdf,http://www.wikidata.org/wiki/Q456157,Amazon web services,pcode,subsidiary,http://www.wikidata.org/wiki/Q245906,S3,7,14
+201907_runsqloncloud.pdf,http://www.wikidata.org/wiki/Q37122,Athena,P31,instance of,http://www.wikidata.org/wiki/Q3958022,Serverless,19,6
+201907_runsqloncloud.pdf,http://www.wikidata.org/wiki/Q37122,Athena,P361,part of,http://www.wikidata.org/wiki/Q456157,Amazon web services,19,7
+201907_runsqloncloud.pdf,http://www.wikidata.org/wiki/Q456157,Amazon web services,P527,has part,http://www.wikidata.org/wiki/Q37122,Athena,7,19
+201907_runsqloncloud.pdf,http://www.wikidata.org/wiki/Q456157,Amazon web services,P31,instance of,http://www.wikidata.org/wiki/Q1127460,Console,7,1
+201907_runsqloncloud.pdf,http://www.wikidata.org/wiki/Q245906,S3,P366,use,http://www.wikidata.org/wiki/Q1172284,Dataset,14,5
+201907_runsqloncloud.pdf,http://www.wikidata.org/wiki/Q2593067,S3 bucket,P361,part of,http://www.wikidata.org/wiki/Q245906,S3,1,14
+201907_runsqloncloud.pdf,http://www.wikidata.org/wiki/Q2593067,S3 bucket,P31,instance of,http://www.wikidata.org/wiki/Q987767,Container,1,1
+201907_runsqloncloud.pdf,http://www.wikidata.org/wiki/Q245906,S3,P527,has part,http://www.wikidata.org/wiki/Q2593067,S3 bucket,14,1
+201907_runsqloncloud.pdf,http://www.wikidata.org/wiki/Q37122,Athena,P361,part of,http://www.wikidata.org/wiki/Q245906,S3,19,14
+201907_runsqloncloud.pdf,http://www.wikidata.org/wiki/Q37122,Athena,P31,instance of,http://www.wikidata.org/wiki/Q232576,Services,19,8
+201907_runsqloncloud.pdf,http://www.wikidata.org/wiki/Q232576,Services,P527,has part,http://www.wikidata.org/wiki/Q37122,Athena,8,19
+201907_runsqloncloud.pdf,http://www.wikidata.org/wiki/Q37122,Athena,P361,part of,http://www.wikidata.org/wiki/Q232576,Services,19,8
+201907_runsqloncloud.pdf,http://www.wikidata.org/wiki/Q37122,Athena,P31,instance of,http://www.wikidata.org/wiki/Q224749,Page,19,2
+201907_runsqloncloud.pdf,http://www.wikidata.org/wiki/Q228728,Next,P1269,facet of,http://www.wikidata.org/wiki/Q5227298,Data format,3,1
+201907_runsqloncloud.pdf,http://www.wikidata.org/wiki/Q37122,Athena,P1535,used by,http://www.wikidata.org/wiki/Q28956992,Dbeaver,19,1
+201907_runsqloncloud.pdf,http://www.wikidata.org/wiki/Q37122,Athena,P1535,used by,http://www.wikidata.org/wiki/Q343131,Tableau,19,4
+201907_runsqloncloud.pdf,http://www.wikidata.org/wiki/Q28956992,Dbeaver,P2283,uses,http://www.wikidata.org/wiki/Q37122,Athena,1,19
+201907_runsqloncloud.pdf,http://www.wikidata.org/wiki/Q343131,Tableau,P2283,uses,http://www.wikidata.org/wiki/Q37122,Athena,4,19
+201907_runsqloncloud.pdf,http://www.wikidata.org/wiki/Q10897,Lambda,P31,instance of,http://www.wikidata.org/wiki/Q3958022,Serverless,1,6
+201908_nosql.pdf,http://www.wikidata.org/wiki/Q906118,Disclaimer,P1269,facet of,http://www.wikidata.org/wiki/Q5446584,Fictitious,1,1
+201908_nosql.pdf,http://www.wikidata.org/wiki/Q298207,Trackers,P279,subclass of,http://www.wikidata.org/wiki/Q339084,Gadgets,38,39
+201908_nosql.pdf,http://www.wikidata.org/wiki/Q523402,Fitness,P1269,facet of,http://www.wikidata.org/wiki/Q12147,Health,39,3
+201908_nosql.pdf,http://www.wikidata.org/wiki/Q202833,Social media,P31,instance of,http://www.wikidata.org/wiki/Q109406,Networks,4,1
+201908_nosql.pdf,http://www.wikidata.org/wiki/Q233269,Promotions,P279,subclass of,http://www.wikidata.org/wiki/Q2085877,Offers,1,1
+201908_nosql.pdf,http://www.wikidata.org/wiki/Q233269,Promotions,P527,has part,http://www.wikidata.org/wiki/Q2085877,Offers,1,1
+201908_nosql.pdf,http://www.wikidata.org/wiki/Q2085877,Offers,P361,part of,http://www.wikidata.org/wiki/Q233269,Promotions,1,1
+201908_nosql.pdf,http://www.wikidata.org/wiki/Q42848,Data,P527,has part,http://www.wikidata.org/wiki/Q199657,Reading,74,1
+201908_nosql.pdf,http://www.wikidata.org/wiki/Q1201101,Fields,P361,part of,http://www.wikidata.org/wiki/Q2233315,Schema,1,3
+201908_nosql.pdf,http://www.wikidata.org/wiki/Q2233315,Schema,P361,part of,http://www.wikidata.org/wiki/Q82604,Design,3,1
+201908_nosql.pdf,http://www.wikidata.org/wiki/Q2233315,Schema,P527,has part,http://www.wikidata.org/wiki/Q4817,Columns,3,7
+201908_nosql.pdf,http://www.wikidata.org/wiki/Q4817,Columns,P361,part of,http://www.wikidata.org/wiki/Q2233315,Schema,7,3
+201908_nosql.pdf,http://www.wikidata.org/wiki/Q47607,Sql,P1889,different from,http://www.wikidata.org/wiki/Q8513,Database,30,36
+201908_nosql.pdf,http://www.wikidata.org/wiki/Q8513,Database,P1889,different from,http://www.wikidata.org/wiki/Q47607,Sql,36,30
+201908_nosql.pdf,http://www.wikidata.org/wiki/Q8513,Database,P1889,different from,http://www.wikidata.org/wiki/Q82231,Nosql,36,25
+201908_nosql.pdf,http://www.wikidata.org/wiki/Q82231,Nosql,P1889,different from,http://www.wikidata.org/wiki/Q8513,Database,25,36
+201908_nosql.pdf,http://www.wikidata.org/wiki/Q82231,Nosql,P279,subclass of,http://www.wikidata.org/wiki/Q8513,Database,25,36
+201908_nosql.pdf,http://www.wikidata.org/wiki/Q192588,Relational database,P2283,uses,http://www.wikidata.org/wiki/Q47607,Sql,7,30
+201908_nosql.pdf,http://www.wikidata.org/wiki/Q47607,Sql,P279,subclass of,http://www.wikidata.org/wiki/Q845739,Query language,30,1
+201908_nosql.pdf,http://www.wikidata.org/wiki/Q236973,Semi,P279,subclass of,http://www.wikidata.org/wiki/Q1141900,Unstructured data,2,1
+201908_nosql.pdf,http://www.wikidata.org/wiki/Q14749,Tables,P527,has part,http://www.wikidata.org/wiki/Q4817,Columns,2,7
+201908_nosql.pdf,http://www.wikidata.org/wiki/Q4817,Columns,P361,part of,http://www.wikidata.org/wiki/Q14749,Tables,7,2
+201908_nosql.pdf,http://www.wikidata.org/wiki/Q339084,Gadgets,pcode,has parts of the class,http://www.wikidata.org/wiki/Q298207,Trackers,39,38
+201908_nosql.pdf,http://www.wikidata.org/wiki/Q192588,Relational database,P279,subclass of,http://www.wikidata.org/wiki/Q166142,Software application,7,2
+201908_nosql.pdf,http://www.wikidata.org/wiki/Q2011843,Objects,P361,part of,http://www.wikidata.org/wiki/Q3679160,Classes,4,1
+201908_nosql.pdf,http://www.wikidata.org/wiki/Q3679160,Classes,P527,has part,http://www.wikidata.org/wiki/Q2011843,Objects,1,4
+201908_nosql.pdf,http://www.wikidata.org/wiki/Q14749,Tables,P361,part of,http://www.wikidata.org/wiki/Q192588,Relational database,2,7
+201908_nosql.pdf,http://www.wikidata.org/wiki/Q4817,Columns,P361,part of,http://www.wikidata.org/wiki/Q192588,Relational database,7,7
+201908_nosql.pdf,http://www.wikidata.org/wiki/Q2233315,Schema,P1269,facet of,http://www.wikidata.org/wiki/Q192588,Relational database,3,7
+201908_nosql.pdf,http://www.wikidata.org/wiki/Q6671777,Structures,P527,has part,http://www.wikidata.org/wiki/Q2011843,Objects,2,4
+201908_nosql.pdf,http://www.wikidata.org/wiki/Q2011843,Objects,P361,part of,http://www.wikidata.org/wiki/Q6671777,Structures,4,2
+201908_nosql.pdf,http://www.wikidata.org/wiki/Q241124,Row,P361,part of,http://www.wikidata.org/wiki/Q4817,Column,5,10
+201908_nosql.pdf,http://www.wikidata.org/wiki/Q281876,Yaml,pcode,based on,http://www.wikidata.org/wiki/Q2115,Xml,1,1
+201908_nosql.pdf,http://www.wikidata.org/wiki/Q82231,Nosql,P461,opposite of,http://www.wikidata.org/wiki/Q192588,Relational database,25,7
+201908_nosql.pdf,http://www.wikidata.org/wiki/Q192588,Relational database,P461,opposite of,http://www.wikidata.org/wiki/Q82231,Nosql,7,25
+201908_nosql.pdf,http://www.wikidata.org/wiki/Q25294,Hammer,P1889,different from,http://www.wikidata.org/wiki/Q161071,Screwdriver,1,1
+201908_nosql.pdf,http://www.wikidata.org/wiki/Q161071,Screwdriver,P1889,different from,http://www.wikidata.org/wiki/Q25294,Hammer,1,1
+201908_nosql.pdf,http://www.wikidata.org/wiki/Q265838,Atomic,P279,subclass of,http://www.wikidata.org/wiki/Q1319773,Consistent,1,2
+201908_nosql.pdf,http://www.wikidata.org/wiki/Q6125872,Eventual consistency,P279,subclass of,http://www.wikidata.org/wiki/Q82231,Nosql,1,25
+201908_nosql.pdf,http://www.wikidata.org/wiki/Q856032,Cap theorem,P1269,facet of,http://www.wikidata.org/wiki/Q8513,Database,1,36
+201908_nosql.pdf,http://www.wikidata.org/wiki/Q856032,Cap theorem,P31,instance of,http://www.wikidata.org/wiki/Q65943,Theorem,1,1
+201908_nosql.pdf,http://www.wikidata.org/wiki/Q856032,Cap theorem,P1269,facet of,http://www.wikidata.org/wiki/Q82231,Nosql,1,25
+201908_nosql.pdf,http://www.wikidata.org/wiki/Q192588,Relational database,P1889,different from,http://www.wikidata.org/wiki/Q82231,Nosql,7,25
+201908_nosql.pdf,http://www.wikidata.org/wiki/Q82231,Nosql,P1889,different from,http://www.wikidata.org/wiki/Q192588,Relational database,25,7
+201908_nosql.pdf,http://www.wikidata.org/wiki/Q192588,Relational database,P279,subclass of,http://www.wikidata.org/wiki/Q82231,Nosql,7,25
+201908_nosql.pdf,http://www.wikidata.org/wiki/Q25110688,Polyglot persistence,P279,subclass of,http://www.wikidata.org/wiki/Q185499,Persistence,1,1
+201908_nosql.pdf,http://www.wikidata.org/wiki/Q8513,Database,P31,instance of,http://www.wikidata.org/wiki/Q15663256,Lit.,36,1
+201908_nosql.pdf,http://www.wikidata.org/wiki/Q82231,Nosql,P461,opposite of,http://www.wikidata.org/wiki/Q192588,Rdbms,25,1
+201908_nosql.pdf,http://www.wikidata.org/wiki/Q192588,Rdbms,P461,opposite of,http://www.wikidata.org/wiki/Q82231,Nosql,1,25
+201908_nosql.pdf,http://www.wikidata.org/wiki/Q37732,Demographic,P279,subclass of,http://www.wikidata.org/wiki/Q2438718,Datapoint,1,1
+201908_nosql.pdf,http://www.wikidata.org/wiki/Q7574031,Spatial,P279,subclass of,http://www.wikidata.org/wiki/Q2438718,Datapoint,1,1
+201908_nosql.pdf,http://www.wikidata.org/wiki/Q9332,Behavioural,P279,subclass of,http://www.wikidata.org/wiki/Q2438718,Datapoint,1,1
+201908_nosql.pdf,http://www.wikidata.org/wiki/Q165596,Caching,P1269,facet of,http://www.wikidata.org/wiki/Q166142,Software application,2,2
+201908_nosql.pdf,http://www.wikidata.org/wiki/Q165596,Caching,P279,subclass of,http://www.wikidata.org/wiki/Q166142,Software application,2,2
+201908_nosql.pdf,http://www.wikidata.org/wiki/Q485396,Analytics,pcode,studies,http://www.wikidata.org/wiki/Q42848,Data,1,74
+201908_nosql.pdf,http://www.wikidata.org/wiki/Q42848,Data,P2579,studied by,http://www.wikidata.org/wiki/Q485396,Analytics,74,1
+201908_nosql.pdf,http://www.wikidata.org/wiki/Q251212,Iot,P279,subclass of,http://www.wikidata.org/wiki/Q18960408,Devices,1,2
+201908_nosql.pdf,http://www.wikidata.org/wiki/Q298207,Trackers,P279,subclass of,http://www.wikidata.org/wiki/Q18960408,Devices,38,2
+201910_productinpractice.pdf,http://www.wikidata.org/wiki/Q26256512,Want,P460,said to be the same as,http://www.wikidata.org/wiki/Q190258,Need,3,7
+201910_productinpractice.pdf,http://www.wikidata.org/wiki/Q190258,Need,P460,said to be the same as,http://www.wikidata.org/wiki/Q26256512,Want,7,3
+201910_productinpractice.pdf,http://www.wikidata.org/wiki/Q190258,Need,P279,subclass of,http://www.wikidata.org/wiki/Q26256512,Want,7,3
+201910_productinpractice.pdf,http://www.wikidata.org/wiki/Q1796457,Product,P1542,has effect,http://www.wikidata.org/wiki/Q2097626,Delivered,42,2
+201910_productinpractice.pdf,http://www.wikidata.org/wiki/Q2097626,Delivered,P828,has cause,http://www.wikidata.org/wiki/Q1796457,Product,2,42
+201910_productinpractice.pdf,http://www.wikidata.org/wiki/Q164359,Experience,P279,subclass of,http://www.wikidata.org/wiki/Q205961,Skill,1,1
+201910_productinpractice.pdf,http://www.wikidata.org/wiki/Q1796457,Product,P2579,studied by,http://www.wikidata.org/wiki/Q82604,Design,42,4
+201910_productinpractice.pdf,http://www.wikidata.org/wiki/Q82604,Design,pcode,studies,http://www.wikidata.org/wiki/Q1796457,Product,4,42
+201910_productinpractice.pdf,http://www.wikidata.org/wiki/Q1344886,Paycheck,P921,main subject,http://www.wikidata.org/wiki/Q269608,Reverse engineer,1,8
+201910_productinpractice.pdf,http://www.wikidata.org/wiki/Q1344886,Paycheck,P31,instance of,http://www.wikidata.org/wiki/Q11424,Movie,1,5
+201910_productinpractice.pdf,http://www.wikidata.org/wiki/Q1714531,Vision,P1269,facet of,http://www.wikidata.org/wiki/Q269608,Reverse engineer,5,8
+201910_productinpractice.pdf,http://www.wikidata.org/wiki/Q15614918,That,P1269,facet of,http://www.wikidata.org/wiki/Q269608,Reverse engineer,21,8
+201910_productinpractice.pdf,http://www.wikidata.org/wiki/Q403758,Milestones,P361,part of,http://www.wikidata.org/wiki/Q15614918,That,1,21
+201910_productinpractice.pdf,http://www.wikidata.org/wiki/Q901875,Step by step,P279,subclass of,http://www.wikidata.org/wiki/Q10145,Milestone,1,1
+201910_productinpractice.pdf,http://www.wikidata.org/wiki/Q323,Big bang,P1269,facet of,http://www.wikidata.org/wiki/Q1796457,Product,1,42
+201910_productinpractice.pdf,http://www.wikidata.org/wiki/Q1796457,Product,P361,part of,http://www.wikidata.org/wiki/Q37813,Ecosystem,42,1
+201910_productinpractice.pdf,http://www.wikidata.org/wiki/Q37813,Ecosystem,P527,has part,http://www.wikidata.org/wiki/Q1796457,Product,1,42
+201910_productinpractice.pdf,http://www.wikidata.org/wiki/Q2397602,Bahubali,pcode,parent organization,http://www.wikidata.org/wiki/Q6331071,Kyun,1,1
+201910_productinpractice.pdf,http://www.wikidata.org/wiki/Q6331071,Kyun,pcode,subsidiary,http://www.wikidata.org/wiki/Q2397602,Bahubali,1,1
+201910_productinpractice.pdf,http://www.wikidata.org/wiki/Q258567,User,P2283,uses,http://www.wikidata.org/wiki/Q1796457,Product,17,42
+201910_productinpractice.pdf,http://www.wikidata.org/wiki/Q1796457,Product,P1535,used by,http://www.wikidata.org/wiki/Q258567,User,42,17
+201910_productinpractice.pdf,http://www.wikidata.org/wiki/Q1382703,Context,P279,subclass of,http://www.wikidata.org/wiki/Q178794,Watch,1,8
+201910_productinpractice.pdf,http://www.wikidata.org/wiki/Q1796457,Product,P1535,used by,http://www.wikidata.org/wiki/Q852835,Customer,42,10
+201910_productinpractice.pdf,http://www.wikidata.org/wiki/Q852835,Customer,P2283,uses,http://www.wikidata.org/wiki/Q1796457,Product,10,42
+201910_productinpractice.pdf,http://www.wikidata.org/wiki/Q438305,Btw,P31,instance of,http://www.wikidata.org/wiki/Q11424,Movie,7,5
+201910_productinpractice.pdf,http://www.wikidata.org/wiki/Q40843,Cross,P31,instance of,http://www.wikidata.org/wiki/Q4493415,Functional,2,3
+201910_productinpractice.pdf,http://www.wikidata.org/wiki/Q4493415,Functional,P527,has part,http://www.wikidata.org/wiki/Q7669922,Teams,3,13
+201910_productinpractice.pdf,http://www.wikidata.org/wiki/Q7669922,Teams,P361,part of,http://www.wikidata.org/wiki/Q4493415,Functional,13,3
+201910_productinpractice.pdf,http://www.wikidata.org/wiki/Q741118,Tennis court,P279,subclass of,http://www.wikidata.org/wiki/Q43164,Kitchen,2,2
+201910_productinpractice.pdf,http://www.wikidata.org/wiki/Q43164,Kitchen,P527,has part,http://www.wikidata.org/wiki/Q741118,Tennis court,2,2
+201910_productinpractice.pdf,http://www.wikidata.org/wiki/Q741118,Tennis court,pcode,sport,http://www.wikidata.org/wiki/Q847,Tennis,2,2
+201910_productinpractice.pdf,http://www.wikidata.org/wiki/Q847,Tennis,P2283,uses,http://www.wikidata.org/wiki/Q741118,Tennis court,2,2
+201910_productinpractice.pdf,http://www.wikidata.org/wiki/Q741118,Tennis court,P1889,different from,http://www.wikidata.org/wiki/Q43164,Kitchen,2,2
+201910_productinpractice.pdf,http://www.wikidata.org/wiki/Q43164,Kitchen,P1889,different from,http://www.wikidata.org/wiki/Q741118,Tennis court,2,2
+201910_productinpractice.pdf,http://www.wikidata.org/wiki/Q82604,Design,P361,part of,http://www.wikidata.org/wiki/Q11023,Engineering,4,2
+201910_productinpractice.pdf,http://www.wikidata.org/wiki/Q742736,Bias,P279,subclass of,http://www.wikidata.org/wiki/Q398683,Perspective,1,2
+201910_productinpractice.pdf,http://www.wikidata.org/wiki/Q404866,Coach,P425,field of this occupation,http://www.wikidata.org/wiki/Q5372,Basketball,3,1
+201910_productinpractice.pdf,http://www.wikidata.org/wiki/Q5372,Basketball,P3095,practiced by,http://www.wikidata.org/wiki/Q404866,Coach,1,3
+201910_productinpractice.pdf,http://www.wikidata.org/wiki/Q852835,Customer,P279,subclass of,http://www.wikidata.org/wiki/Q352720,Interactions,10,1
+201910_productinpractice.pdf,http://www.wikidata.org/wiki/Q852835,Customers,P527,has part,http://www.wikidata.org/wiki/Q258567,Users,1,5
+201910_productinpractice.pdf,http://www.wikidata.org/wiki/Q258567,Users,P361,part of,http://www.wikidata.org/wiki/Q852835,Customers,5,1
+201910_productinpractice.pdf,http://www.wikidata.org/wiki/Q146654,Solution,P461,opposite of,http://www.wikidata.org/wiki/Q730920,Problem,1,2
+201910_productinpractice.pdf,http://www.wikidata.org/wiki/Q730920,Problem,P461,opposite of,http://www.wikidata.org/wiki/Q146654,Solution,2,1
+201910_productinpractice.pdf,http://www.wikidata.org/wiki/Q11471,Time,P1889,different from,http://www.wikidata.org/wiki/Q3049084,Effort,7,2
+201910_productinpractice.pdf,http://www.wikidata.org/wiki/Q3049084,Effort,P1889,different from,http://www.wikidata.org/wiki/Q11471,Time,2,7
+201910_productinpractice.pdf,http://www.wikidata.org/wiki/Q4680654,Adapt,P527,has part,http://www.wikidata.org/wiki/Q104482419,Survive,4,3
+201910_productinpractice.pdf,http://www.wikidata.org/wiki/Q4680654,Adapt,P527,has part,http://www.wikidata.org/wiki/Q7632586,Succeed,4,1
+201910_productinpractice.pdf,http://www.wikidata.org/wiki/Q104482419,Survive,P361,part of,http://www.wikidata.org/wiki/Q4680654,Adapt,3,4
+201910_productinpractice.pdf,http://www.wikidata.org/wiki/Q7632586,Succeed,P361,part of,http://www.wikidata.org/wiki/Q4680654,Adapt,1,4
+201910_productinpractice.pdf,http://www.wikidata.org/wiki/Q483921,Adaptation,P279,subclass of,http://www.wikidata.org/wiki/Q104482419,Survival,1,1
+201910_productinpractice.pdf,http://www.wikidata.org/wiki/Q1663740,Incremental improvements,P279,subclass of,http://www.wikidata.org/wiki/Q16782317,Features,1,2
+201910_productinpractice.pdf,http://www.wikidata.org/wiki/Q913709,Market research,P279,subclass of,http://www.wikidata.org/wiki/Q42240,Research,1,2
+201910_productinpractice.pdf,http://www.wikidata.org/wiki/Q398475,This,P31,instance of,http://www.wikidata.org/wiki/Q11424,Movie,14,5
+201910_productinpractice.pdf,http://www.wikidata.org/wiki/Q33742,Natural language,P1535,used by,http://www.wikidata.org/wiki/Q2429814,Software system,1,1
+201910_productinpractice.pdf,http://www.wikidata.org/wiki/Q2429814,Software system,P2283,uses,http://www.wikidata.org/wiki/Q33742,Natural language,1,1
+201910_productinpractice.pdf,http://www.wikidata.org/wiki/Q1337875,Financial risk,P279,subclass of,http://www.wikidata.org/wiki/Q104493,Risk,1,5
+201910_productinpractice.pdf,http://www.wikidata.org/wiki/Q832045,Business risk,P279,subclass of,http://www.wikidata.org/wiki/Q104493,Risk,1,5
+201910_productinpractice.pdf,http://www.wikidata.org/wiki/Q403632,Why,P1269,facet of,http://www.wikidata.org/wiki/Q852835,Customer,14,10
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q3025536,Devops,P527,has part,http://www.wikidata.org/wiki/Q340724,Development,25,13
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q3025536,Devops,P527,has part,http://www.wikidata.org/wiki/Q209577,Operations,25,4
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q340724,Development,P361,part of,http://www.wikidata.org/wiki/Q3025536,Devops,13,25
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q209577,Operations,P361,part of,http://www.wikidata.org/wiki/Q3025536,Devops,4,25
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q3025536,Devops,P361,part of,http://www.wikidata.org/wiki/Q209577,Operations,25,4
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q209577,Operations,P527,has part,http://www.wikidata.org/wiki/Q3025536,Devops,4,25
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q3025536,Devops,P31,instance of,http://www.wikidata.org/wiki/Q3326911,Movement,25,1
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q11042,Culture,P1889,different from,http://www.wikidata.org/wiki/Q1339824,Mindset,1,1
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q1339824,Mindset,P1889,different from,http://www.wikidata.org/wiki/Q11042,Culture,1,1
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q3025536,Devops,P31,instance of,http://www.wikidata.org/wiki/Q11042,Culture,25,1
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q340724,Development,P461,opposite of,http://www.wikidata.org/wiki/Q209577,Operations,13,4
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q209577,Operations,P461,opposite of,http://www.wikidata.org/wiki/Q340724,Development,4,13
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q351889,Release,P361,part of,http://www.wikidata.org/wiki/Q3025536,Devops,8,25
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q3025536,Devops,P2283,uses,http://www.wikidata.org/wiki/Q351889,Release,25,8
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q3025536,Devops,P279,subclass of,http://www.wikidata.org/wiki/Q184199,Automation,25,2
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q965769,Continuous integration,P361,part of,http://www.wikidata.org/wiki/Q3025536,Devops,5,25
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q965769,Continuous integration,P361,part of,http://www.wikidata.org/wiki/Q382618,Continuous,5,18
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q2507377,Continuous delivery,P279,subclass of,http://www.wikidata.org/wiki/Q184199,Automation,5,2
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q965769,Continuous integration,P361,part of,http://www.wikidata.org/wiki/Q30232,Agile development,5,1
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q1475717,Automated test,P361,part of,http://www.wikidata.org/wiki/Q1002975,Build,1,7
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q1002975,Build,P527,has part,http://www.wikidata.org/wiki/Q1475717,Automated test,7,1
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q382618,Continuous,P279,subclass of,http://www.wikidata.org/wiki/Q1002975,Build,18,7
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q2507377,Continuous delivery,P1056,product or material produced,http://www.wikidata.org/wiki/Q34467,Cd,5,6
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q965769,Continuous integration,P2283,uses,http://www.wikidata.org/wiki/Q219118,Ci,5,22
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q219118,Ci,P1535,used by,http://www.wikidata.org/wiki/Q965769,Continuous integration,22,5
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q439664,Deployed,P279,subclass of,http://www.wikidata.org/wiki/Q1002975,Build,3,7
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q3055454,Test environment,P461,opposite of,http://www.wikidata.org/wiki/Q3055454,Production environment,1,2
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q3055454,Production environment,P461,opposite of,http://www.wikidata.org/wiki/Q3055454,Test environment,2,1
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q224615,Test,P361,part of,http://www.wikidata.org/wiki/Q1002975,Build,7,7
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q1002975,Build,P527,has part,http://www.wikidata.org/wiki/Q224615,Test,7,7
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q1002975,Build,P361,part of,http://www.wikidata.org/wiki/Q340724,Development,7,13
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q340724,Development,P527,has part,http://www.wikidata.org/wiki/Q1002975,Build,13,7
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q340724,Development,P3095,practiced by,http://www.wikidata.org/wiki/Q409857,Developers,13,5
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q2095962,Puppet labs,P1056,product or material produced,http://www.wikidata.org/wiki/Q392536,Stability,1,3
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q16782317,Features,P361,part of,http://www.wikidata.org/wiki/Q188889,Code,2,6
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q410657,On demand,P279,subclass of,http://www.wikidata.org/wiki/Q439664,Deployed,1,3
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q410657,On demand,P279,subclass of,http://www.wikidata.org/wiki/Q3025536,Devops,1,25
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q3025536,Devops,P3095,practiced by,http://www.wikidata.org/wiki/Q638608,Software developer,25,1
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q638608,Software developer,P425,field of this occupation,http://www.wikidata.org/wiki/Q3025536,Devops,1,25
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q3025536,Devops,P527,has part,http://www.wikidata.org/wiki/Q224615,Testing,25,1
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q3025536,Devops,P527,has part,http://www.wikidata.org/wiki/Q439664,Deploying,25,1
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q224615,Testing,P361,part of,http://www.wikidata.org/wiki/Q3025536,Devops,1,25
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q439664,Deploying,P361,part of,http://www.wikidata.org/wiki/Q3025536,Devops,1,25
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q1417134,Dashboards,P366,use,http://www.wikidata.org/wiki/Q386824,Data integration,1,1
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q1417134,Dashboards,P361,part of,http://www.wikidata.org/wiki/Q2374463,Data scientist,1,10
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q2374463,Data scientist,pcode,studies,http://www.wikidata.org/wiki/Q42848,Data,10,22
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q42848,Data,P2579,studied by,http://www.wikidata.org/wiki/Q2374463,Data scientist,22,10
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q3025536,Devops,P1269,facet of,http://www.wikidata.org/wiki/Q3055454,Development environment,25,2
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q7075,Libraries,P361,part of,http://www.wikidata.org/wiki/Q3055454,Development environment,1,2
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q17004273,Toolkit,P361,part of,http://www.wikidata.org/wiki/Q3055454,Development environment,1,2
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q3055454,Development environment,P527,has part,http://www.wikidata.org/wiki/Q7075,Libraries,2,1
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q3055454,Development environment,P527,has part,http://www.wikidata.org/wiki/Q17004273,Toolkit,2,1
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q747452,Python,P366,use,http://www.wikidata.org/wiki/Q1988917,Data analysis,1,1
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q1988917,Data analysis,P3095,practiced by,http://www.wikidata.org/wiki/Q2374463,Data scientist,1,10
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q2374463,Data scientist,P425,field of this occupation,http://www.wikidata.org/wiki/Q1988917,Data analysis,10,1
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q2374463,Data scientist,P425,field of this occupation,http://www.wikidata.org/wiki/Q219113,Ml,10,13
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q219113,Ml,P3095,practiced by,http://www.wikidata.org/wiki/Q2374463,Data scientist,13,10
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q186290,Correlations,P279,subclass of,http://www.wikidata.org/wiki/Q1553259,Insights,1,2
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q55630549,Jupyter notebook,P366,use,http://www.wikidata.org/wiki/Q2374463,Data scientists,2,9
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q15967387,Pandas,P366,use,http://www.wikidata.org/wiki/Q2374463,Data scientists,1,9
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q343131,Tableau,P366,use,http://www.wikidata.org/wiki/Q2374463,Data scientists,1,9
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q23542287,Power bi,P366,use,http://www.wikidata.org/wiki/Q2374463,Data scientists,1,9
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q197536,Deep learning,P361,part of,http://www.wikidata.org/wiki/Q219113,Ml,1,13
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q7252757,Provisioning,P361,part of,http://www.wikidata.org/wiki/Q3025536,Devops,2,25
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q292434,Configuration,P361,part of,http://www.wikidata.org/wiki/Q3025536,Devops,1,25
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q2404880,Termination,P361,part of,http://www.wikidata.org/wiki/Q3025536,Devops,1,25
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q918385,Training,P1269,facet of,http://www.wikidata.org/wiki/Q2539,Machine learning,4,2
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q219113,Ml,pcode,studies,http://www.wikidata.org/wiki/Q1979154,Models,13,5
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q1979154,Models,P361,part of,http://www.wikidata.org/wiki/Q219113,Ml,5,13
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q965769,Continuous integration,P366,use,http://www.wikidata.org/wiki/Q439664,Deployment,5,10
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q965769,Continuous integration,P361,part of,http://www.wikidata.org/wiki/Q42903497,Cicd,5,0
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q965769,Continuous integration,P1535,used by,http://www.wikidata.org/wiki/Q42903497,Cicd,5,0
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q42903497,Cicd,P2283,uses,http://www.wikidata.org/wiki/Q965769,Continuous integration,0,5
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q219113,Ml,pcode,studies,http://www.wikidata.org/wiki/Q1979154,Model,13,11
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q1979154,Model,P2579,studied by,http://www.wikidata.org/wiki/Q219113,Ml,11,13
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q42903497,Cicd,P366,use,http://www.wikidata.org/wiki/Q3025536,Devops,0,25
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q250434,Pipelines,P361,part of,http://www.wikidata.org/wiki/Q3025536,Devops,2,25
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q3025536,Devops,P1269,facet of,http://www.wikidata.org/wiki/Q727490,Scalable,25,1
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q3025536,Devops,P527,has part,http://www.wikidata.org/wiki/Q7252757,Provisioning,25,2
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q3025536,Devops,P3095,practiced by,http://www.wikidata.org/wiki/Q2374463,Data scientist,25,10
+201911_allaboutdevops.pdf,http://www.wikidata.org/wiki/Q2374463,Data scientist,P425,field of this occupation,http://www.wikidata.org/wiki/Q3025536,Devops,10,25
+201912_alexa.pdf,http://www.wikidata.org/wiki/Q11016,Technology,P527,has part,http://www.wikidata.org/wiki/Q174165,Innovations,4,2
+201912_alexa.pdf,http://www.wikidata.org/wiki/Q174165,Innovations,P361,part of,http://www.wikidata.org/wiki/Q11016,Technology,2,4
+201912_alexa.pdf,http://www.wikidata.org/wiki/Q16033350,Cortana,P178,developer,http://www.wikidata.org/wiki/Q2283,Microsoft,1,1
+201912_alexa.pdf,http://www.wikidata.org/wiki/Q95,Google,P1056,product or material produced,http://www.wikidata.org/wiki/Q361991,Assistant,2,4
+201912_alexa.pdf,http://www.wikidata.org/wiki/Q361991,Assistant,P178,developer,http://www.wikidata.org/wiki/Q95,Google,4,2
+201912_alexa.pdf,http://www.wikidata.org/wiki/Q582159,Siri,P178,developer,http://www.wikidata.org/wiki/Q89,Apple,1,1
+201912_alexa.pdf,http://www.wikidata.org/wiki/Q352888,Alexa,P366,use,http://www.wikidata.org/wiki/Q189756,Question,33,2
+201912_alexa.pdf,http://www.wikidata.org/wiki/Q352888,Alexa,pcode,located in the administrative territorial entity,http://www.wikidata.org/wiki/Q1355,Bangalore,33,3
+201912_alexa.pdf,http://www.wikidata.org/wiki/Q30642,Natural language processing,pcode,studies,http://www.wikidata.org/wiki/Q315,Human language,1,1
+201912_alexa.pdf,http://www.wikidata.org/wiki/Q315,Human language,P2579,studied by,http://www.wikidata.org/wiki/Q30642,Natural language processing,1,1
+201912_alexa.pdf,http://www.wikidata.org/wiki/Q255390,Avs,P366,use,http://www.wikidata.org/wiki/Q189436,Speech recognition,2,4
+201912_alexa.pdf,http://www.wikidata.org/wiki/Q258403,Utterance,P279,subclass of,http://www.wikidata.org/wiki/Q187931,Phrase,5,1
+201912_alexa.pdf,http://www.wikidata.org/wiki/Q1355,Bangalore,P31,instance of,http://www.wikidata.org/wiki/Q258403,Utterance,3,5
+201912_alexa.pdf,http://www.wikidata.org/wiki/Q193424,Web service,P527,has part,http://www.wikidata.org/wiki/Q3480072,Server,1,1
+201912_alexa.pdf,http://www.wikidata.org/wiki/Q3480072,Server,P361,part of,http://www.wikidata.org/wiki/Q193424,Web service,1,1
+201912_alexa.pdf,http://www.wikidata.org/wiki/Q193424,Web service,P279,subclass of,http://www.wikidata.org/wiki/Q1906515,Request,1,5
+201912_alexa.pdf,http://www.wikidata.org/wiki/Q52946,Speech,P279,subclass of,http://www.wikidata.org/wiki/Q1650182,Response,6,2
+201912_alexa.pdf,http://www.wikidata.org/wiki/Q205961,Skills,P1269,facet of,http://www.wikidata.org/wiki/Q352888,Alexa,1,33
+201912_alexa.pdf,http://www.wikidata.org/wiki/Q352888,Alexa,P31,instance of,http://www.wikidata.org/wiki/Q205961,Skills,33,1
+201912_alexa.pdf,http://www.wikidata.org/wiki/Q780442,Uber,P1889,different from,http://www.wikidata.org/wiki/Q780442,Uber app,2,1
+201912_alexa.pdf,http://www.wikidata.org/wiki/Q780442,Uber app,P1889,different from,http://www.wikidata.org/wiki/Q780442,Uber,1,2
+201912_alexa.pdf,http://www.wikidata.org/wiki/Q32907,Dominos,P1056,product or material produced,http://www.wikidata.org/wiki/Q177,Pizza,1,1
+201912_alexa.pdf,http://www.wikidata.org/wiki/Q39631,Physicians,P425,field of this occupation,http://www.wikidata.org/wiki/Q11190,Medical,1,2
+201912_alexa.pdf,http://www.wikidata.org/wiki/Q11190,Medical,P3095,practiced by,http://www.wikidata.org/wiki/Q39631,Physicians,2,1
+201912_alexa.pdf,http://www.wikidata.org/wiki/Q11190,Medical knowledge,P3095,practiced by,http://www.wikidata.org/wiki/Q39631,Physician,1,1
+201912_alexa.pdf,http://www.wikidata.org/wiki/Q39631,Physician,P425,field of this occupation,http://www.wikidata.org/wiki/Q11190,Medical knowledge,1,1
+201912_alexa.pdf,http://www.wikidata.org/wiki/Q1441305,Symptoms,P279,subclass of,http://www.wikidata.org/wiki/Q177719,Medical diagnosis,1,1
+201912_alexa.pdf,http://www.wikidata.org/wiki/Q177719,Medical diagnosis,P279,subclass of,http://www.wikidata.org/wiki/Q1441305,Symptoms,1,1
+201912_alexa.pdf,http://www.wikidata.org/wiki/Q352888,Alexa,pcode,field of work,http://www.wikidata.org/wiki/Q31207,Healthcare,33,1
+201912_alexa.pdf,http://www.wikidata.org/wiki/Q352888,Alexa,P527,has part,http://www.wikidata.org/wiki/Q7390,Voice,33,6
+201912_alexa.pdf,http://www.wikidata.org/wiki/Q352888,Alexa,P2283,uses,http://www.wikidata.org/wiki/Q7390,Voice,33,6
+201912_alexa.pdf,http://www.wikidata.org/wiki/Q7390,Voice,P1535,used by,http://www.wikidata.org/wiki/Q352888,Alexa,6,33
+201912_alexa.pdf,http://www.wikidata.org/wiki/Q352888,Alexa,P366,use,http://www.wikidata.org/wiki/Q485396,Analytics,33,2
+201912_alexa.pdf,http://www.wikidata.org/wiki/Q782543,Graphical user interface,P279,subclass of,http://www.wikidata.org/wiki/Q782543,Gui,1,2
+201912_alexa.pdf,http://www.wikidata.org/wiki/Q343131,Tableau,P366,use,http://www.wikidata.org/wiki/Q782543,Graphical user interface,1,1
+201912_alexa.pdf,http://www.wikidata.org/wiki/Q343131,Tableau,P366,use,http://www.wikidata.org/wiki/Q782543,Gui,1,2
+201912_alexa.pdf,http://www.wikidata.org/wiki/Q343131,Tableau,P31,instance of,http://www.wikidata.org/wiki/Q782543,Graphical interface,1,1
+201912_alexa.pdf,http://www.wikidata.org/wiki/Q1696827,Visualization,P279,subclass of,http://www.wikidata.org/wiki/Q782543,Graphical interface,5,1
+201912_alexa.pdf,http://www.wikidata.org/wiki/Q1417134,Dashboards,P279,subclass of,http://www.wikidata.org/wiki/Q782543,Graphical interface,4,1
+201912_alexa.pdf,http://www.wikidata.org/wiki/Q352888,Alexa,P31,instance of,http://www.wikidata.org/wiki/Q3467906,Voice assistant,33,2
+201912_alexa.pdf,http://www.wikidata.org/wiki/Q352888,Alexa,P366,use,http://www.wikidata.org/wiki/Q1696827,Visualization,33,5
+201912_alexa.pdf,http://www.wikidata.org/wiki/Q1417134,Dashboard,P279,subclass of,http://www.wikidata.org/wiki/Q1696827,Visualization,5,5
+201912_alexa.pdf,http://www.wikidata.org/wiki/Q1417134,Dashboard,P527,has part,http://www.wikidata.org/wiki/Q10870555,Report,5,5
+201912_alexa.pdf,http://www.wikidata.org/wiki/Q10870555,Report,P361,part of,http://www.wikidata.org/wiki/Q1417134,Dashboard,5,5
+201912_opticalcharacterrecognition.pdf,http://www.wikidata.org/wiki/Q1304336,A picture is worth a thousand words,P2283,uses,http://www.wikidata.org/wiki/Q167555,Optical character recognition,1,1
+201912_opticalcharacterrecognition.pdf,http://www.wikidata.org/wiki/Q167555,Optical character recognition,pcode,studies,http://www.wikidata.org/wiki/Q1689278,Text,1,28
+201912_opticalcharacterrecognition.pdf,http://www.wikidata.org/wiki/Q1689278,Text,P2579,studied by,http://www.wikidata.org/wiki/Q167555,Optical character recognition,28,1
+201912_opticalcharacterrecognition.pdf,http://www.wikidata.org/wiki/Q37260,Written text,P279,subclass of,http://www.wikidata.org/wiki/Q461183,Text data,1,1
+201912_opticalcharacterrecognition.pdf,http://www.wikidata.org/wiki/Q461183,Text data,P527,has part,http://www.wikidata.org/wiki/Q37260,Written text,1,1
+201912_opticalcharacterrecognition.pdf,http://www.wikidata.org/wiki/Q461183,Text data,P279,subclass of,http://www.wikidata.org/wiki/Q42848,Data,1,8
+201912_opticalcharacterrecognition.pdf,http://www.wikidata.org/wiki/Q42848,Data,P361,part of,http://www.wikidata.org/wiki/Q4830453,Business,8,1
+201912_opticalcharacterrecognition.pdf,http://www.wikidata.org/wiki/Q257927,Industry,P527,has part,http://www.wikidata.org/wiki/Q410715,Verticals,4,1
+201912_opticalcharacterrecognition.pdf,http://www.wikidata.org/wiki/Q410715,Verticals,P361,part of,http://www.wikidata.org/wiki/Q257927,Industry,1,4
+201912_opticalcharacterrecognition.pdf,http://www.wikidata.org/wiki/Q11472,Paper,P279,subclass of,http://www.wikidata.org/wiki/Q49848,Documents,1,4
+201912_opticalcharacterrecognition.pdf,http://www.wikidata.org/wiki/Q49848,Documents,P527,has part,http://www.wikidata.org/wiki/Q11472,Paper,4,1
+201912_opticalcharacterrecognition.pdf,http://www.wikidata.org/wiki/Q870780,Chatbots,P279,subclass of,http://www.wikidata.org/wiki/Q217602,Analysis,1,1
+201912_opticalcharacterrecognition.pdf,http://www.wikidata.org/wiki/Q1689278,Text,P361,part of,http://www.wikidata.org/wiki/Q478798,Image,28,30
+201912_opticalcharacterrecognition.pdf,http://www.wikidata.org/wiki/Q478798,Image,P527,has part,http://www.wikidata.org/wiki/Q1689278,Text,30,28
+201912_opticalcharacterrecognition.pdf,http://www.wikidata.org/wiki/Q1289773,Framework,P279,subclass of,http://www.wikidata.org/wiki/Q245962,Implementation,3,1
+201912_opticalcharacterrecognition.pdf,http://www.wikidata.org/wiki/Q1289773,Framework,P279,subclass of,http://www.wikidata.org/wiki/Q613417,Use cases,3,3
+201912_opticalcharacterrecognition.pdf,http://www.wikidata.org/wiki/Q478798,Image,P527,has part,http://www.wikidata.org/wiki/Q1128596,Content,30,3
+201912_opticalcharacterrecognition.pdf,http://www.wikidata.org/wiki/Q1128596,Content,P361,part of,http://www.wikidata.org/wiki/Q478798,Image,3,30
+201912_opticalcharacterrecognition.pdf,http://www.wikidata.org/wiki/Q11352,Angle of rotation,P279,subclass of,http://www.wikidata.org/wiki/Q107617,Rotation,1,2
+201912_opticalcharacterrecognition.pdf,http://www.wikidata.org/wiki/Q581861,Denoising,P279,subclass of,http://www.wikidata.org/wiki/Q322481,Resizing,1,1
+201912_opticalcharacterrecognition.pdf,http://www.wikidata.org/wiki/Q581861,Denoising,P2283,uses,http://www.wikidata.org/wiki/Q359787,Threshold,1,2
+201912_opticalcharacterrecognition.pdf,http://www.wikidata.org/wiki/Q359787,Threshold,P1535,used by,http://www.wikidata.org/wiki/Q581861,Denoising,2,1
+201912_opticalcharacterrecognition.pdf,http://www.wikidata.org/wiki/Q581861,Denoising,P279,subclass of,http://www.wikidata.org/wiki/Q234757,Transformations,1,1
+201912_opticalcharacterrecognition.pdf,http://www.wikidata.org/wiki/Q6865426,Bounding box,P279,subclass of,http://www.wikidata.org/wiki/Q1689278,Text,12,28
+201912_opticalcharacterrecognition.pdf,http://www.wikidata.org/wiki/Q8171,Word,P31,instance of,http://www.wikidata.org/wiki/Q604973,Character level,3,1
+201912_opticalcharacterrecognition.pdf,http://www.wikidata.org/wiki/Q604973,Character level,P31,instance of,http://www.wikidata.org/wiki/Q251898,Level,1,2
+201912_opticalcharacterrecognition.pdf,http://www.wikidata.org/wiki/Q8171,Word,P361,part of,http://www.wikidata.org/wiki/Q604973,Character level,3,1
+201912_opticalcharacterrecognition.pdf,http://www.wikidata.org/wiki/Q1129031,Contours,P527,has part,http://www.wikidata.org/wiki/Q15878761,Lines,1,2
+201912_opticalcharacterrecognition.pdf,http://www.wikidata.org/wiki/Q15878761,Lines,P361,part of,http://www.wikidata.org/wiki/Q1129031,Contours,2,1
+201912_opticalcharacterrecognition.pdf,http://www.wikidata.org/wiki/Q351017,Craft,P31,instance of,http://www.wikidata.org/wiki/Q404273,Ocr,3,14
+201912_opticalcharacterrecognition.pdf,http://www.wikidata.org/wiki/Q86920,Text file,P527,has part,http://www.wikidata.org/wiki/Q6865426,Bounding box,1,12
+201912_opticalcharacterrecognition.pdf,http://www.wikidata.org/wiki/Q12142,Tesseract,P366,use,http://www.wikidata.org/wiki/Q404273,Ocr,4,14
+201912_opticalcharacterrecognition.pdf,http://www.wikidata.org/wiki/Q531164,Different,P279,subclass of,http://www.wikidata.org/wiki/Q176467,Extraction,8,7
+201912_opticalcharacterrecognition.pdf,http://www.wikidata.org/wiki/Q1689278,Text,P1535,used by,http://www.wikidata.org/wiki/Q404273,Ocr,28,14
+201912_opticalcharacterrecognition.pdf,http://www.wikidata.org/wiki/Q404273,Ocr,P2283,uses,http://www.wikidata.org/wiki/Q1689278,Text,14,28
+201912_opticalcharacterrecognition.pdf,http://www.wikidata.org/wiki/Q1570376,Samples,P361,part of,http://www.wikidata.org/wiki/Q227935,Nlp,3,1
+201912_opticalcharacterrecognition.pdf,http://www.wikidata.org/wiki/Q8171,Words,P1889,different from,http://www.wikidata.org/wiki/Q11563,Numbers,2,2
+201912_opticalcharacterrecognition.pdf,http://www.wikidata.org/wiki/Q11563,Numbers,P1889,different from,http://www.wikidata.org/wiki/Q8171,Words,2,2
+201912_opticalcharacterrecognition.pdf,http://www.wikidata.org/wiki/Q197536,Deep neural net,P279,subclass of,http://www.wikidata.org/wiki/Q1979154,Models,1,1
+201912_opticalcharacterrecognition.pdf,http://www.wikidata.org/wiki/Q1413083,Parameters,P361,part of,http://www.wikidata.org/wiki/Q188889,Code,2,2
+201912_opticalcharacterrecognition.pdf,http://www.wikidata.org/wiki/Q2393642,Handwritten,P279,subclass of,http://www.wikidata.org/wiki/Q1235072,Forms,2,3
+201912_opticalcharacterrecognition.pdf,http://www.wikidata.org/wiki/Q4868296,Font,P361,part of,http://www.wikidata.org/wiki/Q9779,Alphabet,2,1
+201912_opticalcharacterrecognition.pdf,http://www.wikidata.org/wiki/Q42332,Pdf,P527,has part,http://www.wikidata.org/wiki/Q1689278,Text,10,28
+201912_opticalcharacterrecognition.pdf,http://www.wikidata.org/wiki/Q42332,Pdf,P527,has part,http://www.wikidata.org/wiki/Q478798,Images,10,22
+201912_opticalcharacterrecognition.pdf,http://www.wikidata.org/wiki/Q1689278,Text,P361,part of,http://www.wikidata.org/wiki/Q42332,Pdf,28,10
+201912_opticalcharacterrecognition.pdf,http://www.wikidata.org/wiki/Q478798,Images,P361,part of,http://www.wikidata.org/wiki/Q42332,Pdf,22,10
+201912_opticalcharacterrecognition.pdf,http://www.wikidata.org/wiki/Q42332,Pdf,P31,instance of,http://www.wikidata.org/wiki/Q613417,Use case,10,5
+201912_opticalcharacterrecognition.pdf,http://www.wikidata.org/wiki/Q1421260,Fitz,P366,use,http://www.wikidata.org/wiki/Q42332,Pdf,1,10
+201912_opticalcharacterrecognition.pdf,http://www.wikidata.org/wiki/Q3528387,Tika,P366,use,http://www.wikidata.org/wiki/Q42332,Pdf,1,10
+202002_namedentityrecognition.pdf,http://www.wikidata.org/wiki/Q42848,Data,P361,part of,http://www.wikidata.org/wiki/Q294834,Applications,7,4
+202002_namedentityrecognition.pdf,http://www.wikidata.org/wiki/Q294834,Applications,P527,has part,http://www.wikidata.org/wiki/Q42848,Data,4,7
+202002_namedentityrecognition.pdf,http://www.wikidata.org/wiki/Q410715,Verticals,P279,subclass of,http://www.wikidata.org/wiki/Q294834,Applications,1,4
+202002_namedentityrecognition.pdf,http://www.wikidata.org/wiki/Q2221906,Geographical location,P279,subclass of,http://www.wikidata.org/wiki/Q35120,Entity,1,14
+202002_namedentityrecognition.pdf,http://www.wikidata.org/wiki/Q215627,Person,P279,subclass of,http://www.wikidata.org/wiki/Q35120,Entity,3,14
+202002_namedentityrecognition.pdf,http://www.wikidata.org/wiki/Q25047676,Named entity,P366,use,http://www.wikidata.org/wiki/Q13725110,Recognition,5,6
+202002_namedentityrecognition.pdf,http://www.wikidata.org/wiki/Q403574,Named entity recognition,P1269,facet of,http://www.wikidata.org/wiki/Q25047676,Named entity,4,5
+202002_namedentityrecognition.pdf,http://www.wikidata.org/wiki/Q403574,Named entity recognition,P1269,facet of,http://www.wikidata.org/wiki/Q403574,Named entities,4,1
+202002_namedentityrecognition.pdf,http://www.wikidata.org/wiki/Q194189,Selling,P1056,product or material produced,http://www.wikidata.org/wiki/Q294834,Applications,1,4
+202002_namedentityrecognition.pdf,http://www.wikidata.org/wiki/Q294834,Applications,P366,use,http://www.wikidata.org/wiki/Q194189,Selling,4,1
+202002_namedentityrecognition.pdf,http://www.wikidata.org/wiki/Q918385,Training,P1269,facet of,http://www.wikidata.org/wiki/Q55624999,Neural network,3,2
+202002_namedentityrecognition.pdf,http://www.wikidata.org/wiki/Q52,Wikipedia,P527,has part,http://www.wikidata.org/wiki/Q82799,Names,1,1
+202002_namedentityrecognition.pdf,http://www.wikidata.org/wiki/Q82799,Names,P361,part of,http://www.wikidata.org/wiki/Q52,Wikipedia,1,1
+202002_namedentityrecognition.pdf,http://www.wikidata.org/wiki/Q1071,Geography,pcode,studies,http://www.wikidata.org/wiki/Q1368,Money,1,1
+202002_namedentityrecognition.pdf,http://www.wikidata.org/wiki/Q1368,Money,P2579,studied by,http://www.wikidata.org/wiki/Q1071,Geography,1,1
+202002_namedentityrecognition.pdf,http://www.wikidata.org/wiki/Q403574,Named entity recognition,P1535,used by,http://www.wikidata.org/wiki/Q28406945,Spacy,4,6
+202002_namedentityrecognition.pdf,http://www.wikidata.org/wiki/Q28406945,Spacy,P2283,uses,http://www.wikidata.org/wiki/Q403574,Named entity recognition,6,4
+202002_namedentityrecognition.pdf,http://www.wikidata.org/wiki/Q28406945,Spacy,P366,use,http://www.wikidata.org/wiki/Q403574,Named entity recognition,6,4
+202002_namedentityrecognition.pdf,http://www.wikidata.org/wiki/Q4833645,Domain expertise,P1269,facet of,http://www.wikidata.org/wiki/Q415905,Ner,1,16
+202002_namedentityrecognition.pdf,http://www.wikidata.org/wiki/Q1233264,Asset,P361,part of,http://www.wikidata.org/wiki/Q208697,Financial market,1,1
+202002_namedentityrecognition.pdf,http://www.wikidata.org/wiki/Q208697,Financial market,P527,has part,http://www.wikidata.org/wiki/Q1233264,Asset,1,1
+202002_namedentityrecognition.pdf,http://www.wikidata.org/wiki/Q722218,Labels,P361,part of,http://www.wikidata.org/wiki/Q461183,Text data,2,3
+202002_namedentityrecognition.pdf,http://www.wikidata.org/wiki/Q28406945,Spacy,P31,instance of,http://www.wikidata.org/wiki/Q1960028,Ner model,6,5
+202002_namedentityrecognition.pdf,http://www.wikidata.org/wiki/Q28406945,Spacy,P366,use,http://www.wikidata.org/wiki/Q55624999,Neural network,6,2
+202002_namedentityrecognition.pdf,http://www.wikidata.org/wiki/Q28406945,Spacy,P31,instance of,http://www.wikidata.org/wiki/Q55624999,Neural network,6,2
+202002_namedentityrecognition.pdf,http://www.wikidata.org/wiki/Q950511,Resumes,P1269,facet of,http://www.wikidata.org/wiki/Q899277,Recruitment,3,1
+202002_namedentityrecognition.pdf,http://www.wikidata.org/wiki/Q950511,Resumes,P1269,facet of,http://www.wikidata.org/wiki/Q217419,Hr,3,5
+202002_namedentityrecognition.pdf,http://www.wikidata.org/wiki/Q3985153,Training data,P361,part of,http://www.wikidata.org/wiki/Q8513,Database,1,1
+202002_namedentityrecognition.pdf,http://www.wikidata.org/wiki/Q3985153,Training data,P366,use,http://www.wikidata.org/wiki/Q950511,Resumes,1,3
+202002_namedentityrecognition.pdf,http://www.wikidata.org/wiki/Q2385804,Educational institute,P279,subclass of,http://www.wikidata.org/wiki/Q43229,Organizations,1,2
+202002_namedentityrecognition.pdf,http://www.wikidata.org/wiki/Q205961,Skills,P361,part of,http://www.wikidata.org/wiki/Q950511,Resumes,1,3
+202002_namedentityrecognition.pdf,http://www.wikidata.org/wiki/Q22855,Consumer,P527,has part,http://www.wikidata.org/wiki/Q126793,Retailer,1,2
+202002_namedentityrecognition.pdf,http://www.wikidata.org/wiki/Q852835,Customer,P527,has part,http://www.wikidata.org/wiki/Q164359,Experience,4,2
+202002_namedentityrecognition.pdf,http://www.wikidata.org/wiki/Q164359,Experience,P361,part of,http://www.wikidata.org/wiki/Q852835,Customer,2,4
+202002_namedentityrecognition.pdf,http://www.wikidata.org/wiki/Q11707,Restaurant,P3095,practiced by,http://www.wikidata.org/wiki/Q3499072,Chef,1,1
+202002_namedentityrecognition.pdf,http://www.wikidata.org/wiki/Q3499072,Chef,P425,field of this occupation,http://www.wikidata.org/wiki/Q11707,Restaurant,1,1
+202002_namedentityrecognition.pdf,http://www.wikidata.org/wiki/Q35120,Entity,P361,part of,http://www.wikidata.org/wiki/Q1689278,Text,14,9
+202002_namedentityrecognition.pdf,http://www.wikidata.org/wiki/Q1689278,Text,P527,has part,http://www.wikidata.org/wiki/Q35120,Entity,9,14
+202002_namedentityrecognition.pdf,http://www.wikidata.org/wiki/Q415905,Ner,P279,subclass of,http://www.wikidata.org/wiki/Q294834,Application,16,7
+202002_namedentityrecognition.pdf,http://www.wikidata.org/wiki/Q294834,Application,P527,has part,http://www.wikidata.org/wiki/Q1796457,Product,7,5
+202002_namedentityrecognition.pdf,http://www.wikidata.org/wiki/Q1796457,Product,P361,part of,http://www.wikidata.org/wiki/Q294834,Application,5,7
+202002_namedentityrecognition.pdf,http://www.wikidata.org/wiki/Q1960028,Ner model,P178,developer,http://www.wikidata.org/wiki/Q41506,Stanford,5,2
+202002_sequencemodelingandlstm.pdf,http://www.wikidata.org/wiki/Q2234476,Forecast,P279,subclass of,http://www.wikidata.org/wiki/Q748250,Predict,6,11
+202002_sequencemodelingandlstm.pdf,http://www.wikidata.org/wiki/Q6673524,Lstm,P1889,different from,http://www.wikidata.org/wiki/Q841402,Silver bullet,27,1
+202002_sequencemodelingandlstm.pdf,http://www.wikidata.org/wiki/Q841402,Silver bullet,P1889,different from,http://www.wikidata.org/wiki/Q6673524,Lstm,1,27
+202002_sequencemodelingandlstm.pdf,http://www.wikidata.org/wiki/Q2566298,Arima,P31,instance of,http://www.wikidata.org/wiki/Q3339222,Linear model,2,1
+202002_sequencemodelingandlstm.pdf,http://www.wikidata.org/wiki/Q1457734,Recurrent neural network,P279,subclass of,http://www.wikidata.org/wiki/Q12271,Architectures,4,3
+202002_sequencemodelingandlstm.pdf,http://www.wikidata.org/wiki/Q1457734,Recurrent neural network,pcode,discoverer or inventor,http://www.wikidata.org/wiki/Q7451965,Hochreiter,4,1
+202002_sequencemodelingandlstm.pdf,http://www.wikidata.org/wiki/Q183635,Feedback,P361,part of,http://www.wikidata.org/wiki/Q109406,Network,2,15
+202002_sequencemodelingandlstm.pdf,http://www.wikidata.org/wiki/Q492,Memory,P279,subclass of,http://www.wikidata.org/wiki/Q12251220,State,6,3
+202002_sequencemodelingandlstm.pdf,http://www.wikidata.org/wiki/Q492,Memory,P366,use,http://www.wikidata.org/wiki/Q133500,Learn,6,4
+202002_sequencemodelingandlstm.pdf,http://www.wikidata.org/wiki/Q1457734,Recurrent neural network,P279,subclass of,http://www.wikidata.org/wiki/Q133500,Learned,4,1
+202002_sequencemodelingandlstm.pdf,http://www.wikidata.org/wiki/Q7216332,Forecasting,P1269,facet of,http://www.wikidata.org/wiki/Q186588,Time series,5,6
+202002_sequencemodelingandlstm.pdf,http://www.wikidata.org/wiki/Q1590843,Limitation,P1269,facet of,http://www.wikidata.org/wiki/Q1590843,Limitations,4,3
+202002_sequencemodelingandlstm.pdf,http://www.wikidata.org/wiki/Q1590843,Limitation,P1269,facet of,http://www.wikidata.org/wiki/Q492,Memory,4,6
+202002_sequencemodelingandlstm.pdf,http://www.wikidata.org/wiki/Q6673524,Lstm,P2283,uses,http://www.wikidata.org/wiki/Q10954303,Variable,27,1
+202002_sequencemodelingandlstm.pdf,http://www.wikidata.org/wiki/Q10954303,Variable,P1535,used by,http://www.wikidata.org/wiki/Q6673524,Lstm,1,27
+202002_sequencemodelingandlstm.pdf,http://www.wikidata.org/wiki/Q6047630,Internal,P279,subclass of,http://www.wikidata.org/wiki/Q10954303,Variable,2,1
+202002_sequencemodelingandlstm.pdf,http://www.wikidata.org/wiki/Q592860,Sliding window,P361,part of,http://www.wikidata.org/wiki/Q237028,Mlp,1,2
+202002_sequencemodelingandlstm.pdf,http://www.wikidata.org/wiki/Q11663,Weather,P279,subclass of,http://www.wikidata.org/wiki/Q7216332,Forecasting,1,5
+202002_sequencemodelingandlstm.pdf,http://www.wikidata.org/wiki/Q2271421,Sentiment analysis,P1269,facet of,http://www.wikidata.org/wiki/Q11663,Weather,1,1
+202002_sequencemodelingandlstm.pdf,http://www.wikidata.org/wiki/Q225529,Anamoly,P279,subclass of,http://www.wikidata.org/wiki/Q2271421,Sentiment analysis,1,1
+202002_sequencemodelingandlstm.pdf,http://www.wikidata.org/wiki/Q248604,Normalized,P460,said to be the same as,http://www.wikidata.org/wiki/Q369577,Standardized,1,1
+202002_sequencemodelingandlstm.pdf,http://www.wikidata.org/wiki/Q369577,Standardized,P460,said to be the same as,http://www.wikidata.org/wiki/Q248604,Normalized,1,1
+202002_sequencemodelingandlstm.pdf,http://www.wikidata.org/wiki/Q248604,Normalized,P156,followed by,http://www.wikidata.org/wiki/Q369577,Standardized,1,1
+202002_sequencemodelingandlstm.pdf,http://www.wikidata.org/wiki/Q42848,Data,P361,part of,http://www.wikidata.org/wiki/Q1979154,Model,15,16
+202002_sequencemodelingandlstm.pdf,http://www.wikidata.org/wiki/Q1979154,Model,P527,has part,http://www.wikidata.org/wiki/Q42848,Data,16,15
+202002_sequencemodelingandlstm.pdf,http://www.wikidata.org/wiki/Q393899,Manual,P279,subclass of,http://www.wikidata.org/wiki/Q293588,Pad,2,1
+202002_sequencemodelingandlstm.pdf,http://www.wikidata.org/wiki/Q860609,Generator function,P279,subclass of,http://www.wikidata.org/wiki/Q788331,Function,1,2
+202002_sequencemodelingandlstm.pdf,http://www.wikidata.org/wiki/Q1979154,Model,P279,subclass of,http://www.wikidata.org/wiki/Q101072,Define,16,1
+202002_sequencemodelingandlstm.pdf,http://www.wikidata.org/wiki/Q6673524,Lstms,P279,subclass of,http://www.wikidata.org/wiki/Q29539,Dense,24,1
+202002_sequencemodelingandlstm.pdf,http://www.wikidata.org/wiki/Q6673524,Lstm,P279,subclass of,http://www.wikidata.org/wiki/Q254549,Layers,27,2
+202002_sequencemodelingandlstm.pdf,http://www.wikidata.org/wiki/Q1077784,Toolset,P1535,used by,http://www.wikidata.org/wiki/Q2374463,Data scientist,1,1
+202002_sequencemodelingandlstm.pdf,http://www.wikidata.org/wiki/Q2374463,Data scientist,P2283,uses,http://www.wikidata.org/wiki/Q1077784,Toolset,1,1
+azuresecuritytips.pdf,http://www.wikidata.org/wiki/Q2283,Microsoft,P1056,product or material produced,http://www.wikidata.org/wiki/Q8074,Cloud,9,8
+azuresecuritytips.pdf,http://www.wikidata.org/wiki/Q105492196,Mcra,P178,developer,http://www.wikidata.org/wiki/Q2283,Microsoft,1,9
+azuresecuritytips.pdf,http://www.wikidata.org/wiki/Q161462,Ramp,pcode,field of work,http://www.wikidata.org/wiki/Q104852562,Zero trust,1,3
+azuresecuritytips.pdf,http://www.wikidata.org/wiki/Q725967,Microsoft azure,P31,instance of,http://www.wikidata.org/wiki/Q8074,Cloud,1,8
+azuresecuritytips.pdf,http://www.wikidata.org/wiki/Q219275,Ns,P279,subclass of,http://www.wikidata.org/wiki/Q989632,Network security,12,1
+datacleanroom-aconceptualguide.pdf,http://www.wikidata.org/wiki/Q3702971,Personally identifiable information,P279,subclass of,http://www.wikidata.org/wiki/Q564306,Pii,1,2
+datacleanroom-aconceptualguide.pdf,http://www.wikidata.org/wiki/Q564306,Pii,P279,subclass of,http://www.wikidata.org/wiki/Q3702971,Personally identifiable information,2,1
+datacleanroom-aconceptualguide.pdf,http://www.wikidata.org/wiki/Q1172506,Gdpr,P527,has part,http://www.wikidata.org/wiki/Q5227350,Data sharing,2,2
+datacleanroom-aconceptualguide.pdf,http://www.wikidata.org/wiki/Q5227350,Data sharing,P361,part of,http://www.wikidata.org/wiki/Q1172506,Gdpr,2,2
+datacleanroom-aconceptualguide.pdf,http://www.wikidata.org/wiki/Q564306,Pii,P279,subclass of,http://www.wikidata.org/wiki/Q42848,Data,2,19
+datacleanroom-aconceptualguide.pdf,http://www.wikidata.org/wiki/Q564306,Pii,P279,subclass of,http://www.wikidata.org/wiki/Q3702971,Personal information,2,1
+datacleanroom-aconceptualguide.pdf,http://www.wikidata.org/wiki/Q248579,Cdp,P527,has part,http://www.wikidata.org/wiki/Q794827,Clean room,4,10
+datacleanroom-aconceptualguide.pdf,http://www.wikidata.org/wiki/Q794827,Clean room,P361,part of,http://www.wikidata.org/wiki/Q248579,Cdp,10,4
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q10928179,Online,P279,subclass of,http://www.wikidata.org/wiki/Q167676,Detectors,2,1
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q10928179,Offline,P279,subclass of,http://www.wikidata.org/wiki/Q167676,Detectors,1,1
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q186588,Time series,P279,subclass of,http://www.wikidata.org/wiki/Q42848,Data,1,117
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q468947,Alibi,P277,programming language,http://www.wikidata.org/wiki/Q21447895,Tensorflow,20,21
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q47509047,Pytorch,P2283,uses,http://www.wikidata.org/wiki/Q21447895,Tensorflow,16,21
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q468947,Alibi,P2283,uses,http://www.wikidata.org/wiki/Q21447895,Tensorflow,20,21
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q468947,Alibi,P2283,uses,http://www.wikidata.org/wiki/Q47509047,Pytorch,20,16
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q468947,Alibi,P31,instance of,http://www.wikidata.org/wiki/Q210832,Statistical test,20,1
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q468947,Alibi,P31,instance of,http://www.wikidata.org/wiki/Q167676,Detector,20,14
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q47509047,Pytorch,P366,use,http://www.wikidata.org/wiki/Q167676,Detect,16,24
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q468947,Alibi,P366,use,http://www.wikidata.org/wiki/Q21447895,Tensorflow,20,21
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q468947,Alibi,P2283,uses,http://www.wikidata.org/wiki/Q197520,Numpy,20,3
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q197520,Numpy,P1535,used by,http://www.wikidata.org/wiki/Q468947,Alibi,3,20
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q20992161,Carprice,P31,instance of,http://www.wikidata.org/wiki/Q1172284,Dataset,1,10
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q197520,Numpy,P366,use,http://www.wikidata.org/wiki/Q2004833,Numerical,3,1
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q121769,Reference,P279,subclass of,http://www.wikidata.org/wiki/Q42848,Data,31,117
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q153224,Kolmogorov,pcode,influenced by,http://www.wikidata.org/wiki/Q3487013,Smirnov,2,2
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q153224,Kolmogorov,pcode,sibling,http://www.wikidata.org/wiki/Q3487013,Smirnov,2,2
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q3487013,Smirnov,pcode,sibling,http://www.wikidata.org/wiki/Q153224,Kolmogorov,2,2
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q7705759,Test data,P279,subclass of,http://www.wikidata.org/wiki/Q3036835,Reference data,8,20
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q445415,True,P279,subclass of,http://www.wikidata.org/wiki/Q28838080,Preprocessing,9,19
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q1952580,Multivariate data,P279,subclass of,http://www.wikidata.org/wiki/Q3045002,Data drift,5,10
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q6935129,Multivariate,P279,subclass of,http://www.wikidata.org/wiki/Q42848,Data,5,117
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q5432696,False discovery rate,P1269,facet of,http://www.wikidata.org/wiki/Q858572,Bonferroni,5,5
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q190087,Data type,P361,part of,http://www.wikidata.org/wiki/Q180160,Metadata,9,10
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q180160,Metadata,P527,has part,http://www.wikidata.org/wiki/Q190087,Data type,10,9
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q14749,Tabular,P279,subclass of,http://www.wikidata.org/wiki/Q180160,Metadata,13,10
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q14749,Tabular,P279,subclass of,http://www.wikidata.org/wiki/Q478798,Images,13,9
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q47509047,Pytorch,P277,programming language,http://www.wikidata.org/wiki/Q21447895,Tensorflow,16,21
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q202400,Kernel,P1535,used by,http://www.wikidata.org/wiki/Q396049,Mmd,16,11
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q396049,Mmd,P2283,uses,http://www.wikidata.org/wiki/Q202400,Kernel,11,16
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q226995,Median,P31,instance of,http://www.wikidata.org/wiki/Q201413,Heuristic,1,1
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q190087,Datatype,P31,instance of,http://www.wikidata.org/wiki/Q190087,Data type,9,9
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q47509047,Pytorch,pcode,influenced by,http://www.wikidata.org/wiki/Q21447895,Tensorflow,16,21
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q47509047,Pytorch,P366,use,http://www.wikidata.org/wiki/Q21447895,Tensorflow,16,21
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q21447895,Tensorflow,P279,subclass of,http://www.wikidata.org/wiki/Q349724,Defaults,21,10
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q108839445,Permutation test,P2283,uses,http://www.wikidata.org/wiki/Q2285199,Significance,4,3
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q2285199,Significance,P1269,facet of,http://www.wikidata.org/wiki/Q108839445,Permutation test,3,4
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q1054475,Gaussian kernel,P279,subclass of,http://www.wikidata.org/wiki/Q393585,Bandwidth,2,2
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q3036835,Reference data,P279,subclass of,http://www.wikidata.org/wiki/Q42848,Data,20,117
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q5432696,False discovery rate,P279,subclass of,http://www.wikidata.org/wiki/Q1952580,Multivariate data,5,5
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q5432696,False discovery rate,P31,instance of,http://www.wikidata.org/wiki/Q8007,Fdr,5,2
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q21447895,Tensorflow,P366,use,http://www.wikidata.org/wiki/Q4223015,Classifier,21,9
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q47509047,Pytorch,P366,use,http://www.wikidata.org/wiki/Q4223015,Classifier,16,9
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q1026367,Sklearn,P366,use,http://www.wikidata.org/wiki/Q4223015,Classifier,3,9
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q21447895,Tensorflow,P31,instance of,http://www.wikidata.org/wiki/Q1289773,Framework,21,1
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q47509047,Pytorch,P31,instance of,http://www.wikidata.org/wiki/Q1289773,Framework,16,1
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q1026367,Sklearn,P31,instance of,http://www.wikidata.org/wiki/Q1289773,Framework,3,1
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q1289773,Framework,P361,part of,http://www.wikidata.org/wiki/Q1979154,Model,1,7
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q1979154,Model,P527,has part,http://www.wikidata.org/wiki/Q1289773,Framework,7,1
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q236339,False,P31,instance of,http://www.wikidata.org/wiki/Q224615,Test,6,37
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q1886131,Random seed,P279,subclass of,http://www.wikidata.org/wiki/Q40763,Seed,1,2
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q918385,Training,P1269,facet of,http://www.wikidata.org/wiki/Q4223015,Classifier,6,9
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q21447895,Tensorflow,pcode,derivative work,http://www.wikidata.org/wiki/Q47509047,Pytorch,21,16
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q47509047,Pytorch,pcode,based on,http://www.wikidata.org/wiki/Q21447895,Tensorflow,16,21
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q4223015,Classifier,P366,use,http://www.wikidata.org/wiki/Q918385,Training,9,6
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q47509047,Pytorch,P279,subclass of,http://www.wikidata.org/wiki/Q21447895,Tensorflow,16,21
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q7514514,Silent,P279,subclass of,http://www.wikidata.org/wiki/Q302152,Verbosity,1,1
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q4223015,Classifier,P361,part of,http://www.wikidata.org/wiki/Q21447895,Tensorflow,9,21
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q47509047,Pytorch,P31,instance of,http://www.wikidata.org/wiki/Q1172284,Dataset,16,10
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q21447895,Tensorflow,pcode,based on,http://www.wikidata.org/wiki/Q133250,Sequence,21,1
+datadrift-alibi.pdf,http://www.wikidata.org/wiki/Q14749,Tabular,P31,instance of,http://www.wikidata.org/wiki/Q190087,Data type,13,9
+datadrift-evidentlyai.pdf,http://www.wikidata.org/wiki/Q14749,Tabular,P279,subclass of,http://www.wikidata.org/wiki/Q1689278,Text,1,2
+datadrift-evidentlyai.pdf,http://www.wikidata.org/wiki/Q229615,Mann,pcode,sibling,http://www.wikidata.org/wiki/Q942659,Whitney,3,1
+datadrift-evidentlyai.pdf,http://www.wikidata.org/wiki/Q942659,Whitney,pcode,sibling,http://www.wikidata.org/wiki/Q229615,Mann,1,3
+datadrift-evidentlyai.pdf,http://www.wikidata.org/wiki/Q296518,Pip,P31,instance of,http://www.wikidata.org/wiki/Q891055,Package manager,2,1
+datadrift-evidentlyai.pdf,http://www.wikidata.org/wiki/Q55630549,Jupyter notebook,P527,has part,http://www.wikidata.org/wiki/Q1347572,Evidently,2,22
+datadrift-evidentlyai.pdf,http://www.wikidata.org/wiki/Q1347572,Evidently,P361,part of,http://www.wikidata.org/wiki/Q55630549,Jupyter notebook,22,2
+datadrift-evidentlyai.pdf,http://www.wikidata.org/wiki/Q15967387,Pandas,P2283,uses,http://www.wikidata.org/wiki/Q110551915,Dataframe,3,3
+datadrift-evidentlyai.pdf,http://www.wikidata.org/wiki/Q110551915,Dataframe,P1535,used by,http://www.wikidata.org/wiki/Q15967387,Pandas,3,3
+datadrift-evidentlyai.pdf,http://www.wikidata.org/wiki/Q11660,Ai,P828,has cause,http://www.wikidata.org/wiki/Q62955,Imported,14,2
+datadrift-evidentlyai.pdf,http://www.wikidata.org/wiki/Q62955,Imported,P1542,has effect,http://www.wikidata.org/wiki/Q11660,Ai,2,14
+datadrift-evidentlyai.pdf,http://www.wikidata.org/wiki/Q20992161,Carprice,P31,instance of,http://www.wikidata.org/wiki/Q1172284,Dataset,3,7
+datadrift-evidentlyai.pdf,http://www.wikidata.org/wiki/Q20992161,Carprice,P527,has part,http://www.wikidata.org/wiki/Q233727,Csv,3,4
+datadrift-evidentlyai.pdf,http://www.wikidata.org/wiki/Q233727,Csv,P361,part of,http://www.wikidata.org/wiki/Q20992161,Carprice,4,3
+datadrift-evidentlyai.pdf,http://www.wikidata.org/wiki/Q20992161,Carprice,P527,has part,http://www.wikidata.org/wiki/Q226663,Current,3,3
+datadrift-evidentlyai.pdf,http://www.wikidata.org/wiki/Q226663,Current,P361,part of,http://www.wikidata.org/wiki/Q20992161,Carprice,3,3
+datadrift-evidentlyai.pdf,http://www.wikidata.org/wiki/Q2004833,Numerical,P279,subclass of,http://www.wikidata.org/wiki/Q4817,Column,4,29
+datadrift-evidentlyai.pdf,http://www.wikidata.org/wiki/Q5051808,Categorical,P279,subclass of,http://www.wikidata.org/wiki/Q4817,Column,4,29
+datadrift-evidentlyai.pdf,http://www.wikidata.org/wiki/Q236339,False,P279,subclass of,http://www.wikidata.org/wiki/Q264890,Returns,2,1
+datadrift-evidentlyai.pdf,http://www.wikidata.org/wiki/Q5051808,Categorical,P461,opposite of,http://www.wikidata.org/wiki/Q2004833,Numerical,4,4
+datadrift-evidentlyai.pdf,http://www.wikidata.org/wiki/Q2004833,Numerical,P461,opposite of,http://www.wikidata.org/wiki/Q5051808,Categorical,4,4
+datadrift-evidentlyai.pdf,http://www.wikidata.org/wiki/Q258098,Drift,P279,subclass of,http://www.wikidata.org/wiki/Q225802,Distribution,33,4
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q320723,Dependent variable,P461,opposite of,http://www.wikidata.org/wiki/Q320723,Independent variable,4,2
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q320723,Independent variable,P461,opposite of,http://www.wikidata.org/wiki/Q320723,Dependent variable,2,4
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q768993,Wasserstein distance,P31,instance of,http://www.wikidata.org/wiki/Q180953,Distance function,7,2
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q768993,Wasserstein distance,P279,subclass of,http://www.wikidata.org/wiki/Q180953,Distance function,7,2
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q83021,Empirical,pcode,studies,http://www.wikidata.org/wiki/Q225802,Distribution,6,78
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q225802,Distribution,P2579,studied by,http://www.wikidata.org/wiki/Q83021,Empirical,78,6
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q3030678,Hellinger distance,P1269,facet of,http://www.wikidata.org/wiki/Q11660,Ai,5,46
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q2796622,Mean,P31,instance of,http://www.wikidata.org/wiki/Q224615,Test,13,132
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q41492,Fishers exact test,P31,instance of,http://www.wikidata.org/wiki/Q210832,Statistical test,4,4
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q126017,Distance,P1269,facet of,http://www.wikidata.org/wiki/Q200726,Probability distribution,49,8
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q126017,Distance,P279,subclass of,http://www.wikidata.org/wiki/Q11052334,Measure,49,18
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q202400,Kernel,P279,subclass of,http://www.wikidata.org/wiki/Q190056,Hilbert space,2,2
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q202400,Kernel,P361,part of,http://www.wikidata.org/wiki/Q190056,Hilbert space,2,2
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q190056,Hilbert space,P527,has part,http://www.wikidata.org/wiki/Q202400,Kernel,2,2
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q219266,Up,P279,subclass of,http://www.wikidata.org/wiki/Q190056,Hilbert space,9,2
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q866012,Uq,P279,subclass of,http://www.wikidata.org/wiki/Q190056,Hilbert space,2,2
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q1461038,Test statistic,P279,subclass of,http://www.wikidata.org/wiki/Q1949963,Statistic,1,21
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q9492,Probability,P527,has part,http://www.wikidata.org/wiki/Q6547275,Likely,46,24
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q6547275,Likely,P279,subclass of,http://www.wikidata.org/wiki/Q9492,Probability,24,46
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q5420841,Expected,P1269,facet of,http://www.wikidata.org/wiki/Q11191244,Bin,4,10
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q255166,Population stability index,P31,instance of,http://www.wikidata.org/wiki/Q7435328,Scores,8,1
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q1370443,Psi,P31,instance of,http://www.wikidata.org/wiki/Q255166,Population stability index,5,8
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q1370443,Psi,P1269,facet of,http://www.wikidata.org/wiki/Q258098,Drift,5,77
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q1370443,Psi,P1269,facet of,http://www.wikidata.org/wiki/Q7229797,Population change,5,2
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q255166,Population stability index,pcode,maintained by,http://www.wikidata.org/wiki/Q1347572,Evidently,8,36
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q11423,Mass,P361,part of,http://www.wikidata.org/wiki/Q225802,Distribution,2,78
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q11423,Mass,P279,subclass of,http://www.wikidata.org/wiki/Q126017,Distance,2,49
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q30292302,Thresholds,P1269,facet of,http://www.wikidata.org/wiki/Q225802,Distribution,8,78
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q254390,Similarity,P1269,facet of,http://www.wikidata.org/wiki/Q200726,Probability distribution,3,8
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q3754024,Critical value,P279,subclass of,http://www.wikidata.org/wiki/Q159791,Ad,4,5
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q253255,P value,P1269,facet of,http://www.wikidata.org/wiki/Q159791,Ad,18,5
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q224615,Test,P279,subclass of,http://www.wikidata.org/wiki/Q360446,Characteristics,132,14
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q258098,Drift,P279,subclass of,http://www.wikidata.org/wiki/Q360446,Characteristics,77,14
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q258098,Drift,P279,subclass of,http://www.wikidata.org/wiki/Q16782317,Features,77,22
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q5374243,Empirical distribution,P461,opposite of,http://www.wikidata.org/wiki/Q5194184,Cumulative distribution,4,3
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q5194184,Cumulative distribution,P461,opposite of,http://www.wikidata.org/wiki/Q5374243,Empirical distribution,3,4
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q224825,Gn,P31,instance of,http://www.wikidata.org/wiki/Q1339385,Empirical distribution function,7,2
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q210319,Fm,P31,instance of,http://www.wikidata.org/wiki/Q1339385,Empirical distribution function,2,2
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q258098,Drift,P31,instance of,http://www.wikidata.org/wiki/Q360446,Characteristics,77,14
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q167,Pi,P1889,different from,http://www.wikidata.org/wiki/Q202742,Qi,7,1
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q202742,Qi,P1889,different from,http://www.wikidata.org/wiki/Q167,Pi,1,7
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q36922382,Hellinger,P31,instance of,http://www.wikidata.org/wiki/Q126017,Distance,6,49
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q258098,Drift,P279,subclass of,http://www.wikidata.org/wiki/Q233991,Interval,77,1
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q13611879,Data points,P361,part of,http://www.wikidata.org/wiki/Q1172284,Dataset,5,13
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q1172284,Dataset,P527,has part,http://www.wikidata.org/wiki/Q13611879,Data points,13,5
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q4389919,Ranks,P279,subclass of,http://www.wikidata.org/wiki/Q202785,Average,6,1
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q4389919,Ranks,P361,part of,http://www.wikidata.org/wiki/Q2564360,Sample size,6,4
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q406651,N1,P31,instance of,http://www.wikidata.org/wiki/Q2564360,Sample size,1,4
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q254926,R1,P31,instance of,http://www.wikidata.org/wiki/Q4389919,Ranks,1,6
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q254926,R1,P31,instance of,http://www.wikidata.org/wiki/Q2564360,Sample size,1,4
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q357501,N2,P31,instance of,http://www.wikidata.org/wiki/Q2564360,Sample size,1,4
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q2472052,U1,P156,followed by,http://www.wikidata.org/wiki/Q254845,R2,0,1
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q2472052,U1,P527,has part,http://www.wikidata.org/wiki/Q3036835,Reference data,0,24
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q3036835,Reference data,P361,part of,http://www.wikidata.org/wiki/Q2472052,U1,24,0
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q9492,Probability,P361,part of,http://www.wikidata.org/wiki/Q225802,Distribution,46,78
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q3754024,Critical value,P279,subclass of,http://www.wikidata.org/wiki/Q9492,Probability,4,46
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q847073,Euclidean distance,P279,subclass of,http://www.wikidata.org/wiki/Q5377038,Energy distance,1,6
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q847073,Euclidean distance,P31,instance of,http://www.wikidata.org/wiki/Q5377038,Energy distance,1,6
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q5377038,Energy distance,P1269,facet of,http://www.wikidata.org/wiki/Q258098,Drift,6,77
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q16782317,Features,P527,has part,http://www.wikidata.org/wiki/Q258098,Drift,22,77
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q81365,Decimal,P279,subclass of,http://www.wikidata.org/wiki/Q16782317,Features,1,22
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q2796622,Mean,P1889,different from,http://www.wikidata.org/wiki/Q159375,Standard deviation,13,2
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q159375,Standard deviation,P1889,different from,http://www.wikidata.org/wiki/Q2796622,Mean,2,13
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q159375,Standard deviation,P279,subclass of,http://www.wikidata.org/wiki/Q2796622,Mean,2,13
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q11652,Frequencies,P361,part of,http://www.wikidata.org/wiki/Q224414,Category,2,7
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q762856,Frequency table,P361,part of,http://www.wikidata.org/wiki/Q224414,Category,1,7
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q246639,Limit,P1269,facet of,http://www.wikidata.org/wiki/Q258098,Drift,4,77
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q7828155,Tv distance,P279,subclass of,http://www.wikidata.org/wiki/Q2438718,Datapoint,1,5
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q95470662,Chi square,P1269,facet of,http://www.wikidata.org/wiki/Q9492,Probability,3,46
+datadriftconcepts.pdf,http://www.wikidata.org/wiki/Q3345678,Reproducing kernel,P279,subclass of,http://www.wikidata.org/wiki/Q190056,Hilbert space,2,2
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q3025536,Devops,P361,part of,http://www.wikidata.org/wiki/Q393742,Agile,57,19
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q965769,Continuous integration,P361,part of,http://www.wikidata.org/wiki/Q3025536,Devops,7,57
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q965769,Continuous integration,P155,follows,http://www.wikidata.org/wiki/Q22073956,Continuous testing,7,5
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q22073956,Continuous testing,P156,followed by,http://www.wikidata.org/wiki/Q965769,Continuous integration,5,7
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q2507377,Continuous delivery,P279,subclass of,http://www.wikidata.org/wiki/Q965769,Continuous integration,11,7
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q2507377,Continuous delivery,P155,follows,http://www.wikidata.org/wiki/Q57261400,Continuous deployment,11,4
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q57261400,Continuous deployment,P156,followed by,http://www.wikidata.org/wiki/Q2507377,Continuous delivery,4,11
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q2507377,Continuous delivery,P361,part of,http://www.wikidata.org/wiki/Q3025536,Devops,11,57
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q1228544,Discover,P921,main subject,http://www.wikidata.org/wiki/Q3025536,Devops,5,57
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q224615,Testing,P361,part of,http://www.wikidata.org/wiki/Q3025536,Devops,15,57
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q224615,Testing,P2283,uses,http://www.wikidata.org/wiki/Q188889,Code,15,25
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q439664,Deploy,P361,part of,http://www.wikidata.org/wiki/Q3025536,Devops,28,57
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q3025536,Devops,P279,subclass of,http://www.wikidata.org/wiki/Q638608,Software development,57,15
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q3025536,Devops,P1269,facet of,http://www.wikidata.org/wiki/Q638608,Software development,57,15
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q3025536,Devops,P1269,facet of,http://www.wikidata.org/wiki/Q60750670,It operations,57,1
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q3025536,Devops,P527,has part,http://www.wikidata.org/wiki/Q2507377,Continuous delivery,57,11
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q3025536,Devops,P361,part of,http://www.wikidata.org/wiki/Q638608,Software development,57,15
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q3025536,Devops,P361,part of,http://www.wikidata.org/wiki/Q209577,Operations,57,8
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q3025536,Devops,P1269,facet of,http://www.wikidata.org/wiki/Q209577,Operations,57,8
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q3025536,Devops,P1269,facet of,http://www.wikidata.org/wiki/Q2297740,Software delivery,57,1
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q3025536,Devops,P527,has part,http://www.wikidata.org/wiki/Q1145523,Collaboration,57,3
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q1145523,Collaboration,P361,part of,http://www.wikidata.org/wiki/Q3025536,Devops,3,57
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q638608,Software development,P527,has part,http://www.wikidata.org/wiki/Q3025536,Devops,15,57
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q209577,Operations,P527,has part,http://www.wikidata.org/wiki/Q3025536,Devops,8,57
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q3025536,Devops,P1269,facet of,http://www.wikidata.org/wiki/Q2904257,Application lifecycle,57,1
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q638608,Software development,P361,part of,http://www.wikidata.org/wiki/Q2904257,Application lifecycle,15,1
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q2904257,Application lifecycle,P527,has part,http://www.wikidata.org/wiki/Q638608,Software development,1,15
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q3025536,Devops,P1269,facet of,http://www.wikidata.org/wiki/Q2904257,Software development lifecycle,57,1
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q409857,Developers,P1056,product or material produced,http://www.wikidata.org/wiki/Q188889,Code,8,25
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q188889,Code,P1535,used by,http://www.wikidata.org/wiki/Q409857,Developers,25,8
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q184199,Automation,P1269,facet of,http://www.wikidata.org/wiki/Q1318104,Continuous improvement,6,3
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q1318104,Continuous improvement,P279,subclass of,http://www.wikidata.org/wiki/Q1076390,Upgrades,3,2
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q1318104,Continuous improvement,P279,subclass of,http://www.wikidata.org/wiki/Q638608,Software development,3,15
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q3025536,Devops,P2283,uses,http://www.wikidata.org/wiki/Q183635,Feedback loop,57,3
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q183635,Feedback loop,P1535,used by,http://www.wikidata.org/wiki/Q3025536,Devops,3,57
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q3025536,Devops,P527,has part,http://www.wikidata.org/wiki/Q2143522,Monitoring,57,3
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q3025536,Devops,P527,has part,http://www.wikidata.org/wiki/Q439664,Deployment,57,17
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q2143522,Monitoring,P361,part of,http://www.wikidata.org/wiki/Q3025536,Devops,3,57
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q3025536,Devops,P527,has part,http://www.wikidata.org/wiki/Q245962,Implementation,57,1
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q245962,Implementation,P361,part of,http://www.wikidata.org/wiki/Q3025536,Devops,1,57
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q393742,Agile,P279,subclass of,http://www.wikidata.org/wiki/Q638608,Software development,19,15
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q3025536,Devops,P279,subclass of,http://www.wikidata.org/wiki/Q2321565,Iterative method,57,1
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q393742,Agile,P279,subclass of,http://www.wikidata.org/wiki/Q2321565,Iterative method,19,1
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q393742,Agile,P279,subclass of,http://www.wikidata.org/wiki/Q179012,Project management,19,3
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q393742,Agile,P527,has part,http://www.wikidata.org/wiki/Q3025536,Devops,19,57
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q2507377,Continuous delivery,P361,part of,http://www.wikidata.org/wiki/Q393742,Agile,11,19
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q3025536,Devops,P527,has part,http://www.wikidata.org/wiki/Q965769,Continuous integration,57,7
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q57261400,Continuous deployment,P156,followed by,http://www.wikidata.org/wiki/Q965769,Continuous integration,4,7
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q965769,Continuous integration,P2283,uses,http://www.wikidata.org/wiki/Q3774569,Repository,7,3
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q3774569,Repository,P1535,used by,http://www.wikidata.org/wiki/Q965769,Continuous integration,3,7
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q219118,Ci,P361,part of,http://www.wikidata.org/wiki/Q382618,Continuous,17,32
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q965769,Continuous integration,P279,subclass of,http://www.wikidata.org/wiki/Q1475717,Automated test,7,3
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q22073956,Continuous testing,P279,subclass of,http://www.wikidata.org/wiki/Q1475717,Automated test,5,3
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q250434,Pipeline,P1269,facet of,http://www.wikidata.org/wiki/Q7397,Software,7,28
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q2507377,Continuous delivery,P155,follows,http://www.wikidata.org/wiki/Q965769,Continuous integration,11,7
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q965769,Continuous integration,P156,followed by,http://www.wikidata.org/wiki/Q2507377,Continuous delivery,7,11
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q2507377,Continuous delivery,P361,part of,http://www.wikidata.org/wiki/Q965769,Continuous integration,11,7
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q965769,Continuous integration,P527,has part,http://www.wikidata.org/wiki/Q2507377,Continuous delivery,7,11
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q57261400,Continuous deployment,P279,subclass of,http://www.wikidata.org/wiki/Q2507377,Continuous delivery,4,11
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q57261400,Continuous deployment,P1889,different from,http://www.wikidata.org/wiki/Q2507377,Continuous delivery,4,11
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q2507377,Continuous delivery,P1889,different from,http://www.wikidata.org/wiki/Q57261400,Continuous deployment,11,4
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q663143,Production,P527,has part,http://www.wikidata.org/wiki/Q250434,Pipeline,5,7
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q250434,Pipeline,P361,part of,http://www.wikidata.org/wiki/Q663143,Production,7,5
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q6559307,Eight phases,P527,has part,http://www.wikidata.org/wiki/Q340724,Development,2,19
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q6559307,Eight phases,P527,has part,http://www.wikidata.org/wiki/Q209577,Operations,2,8
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q340724,Development,P361,part of,http://www.wikidata.org/wiki/Q6559307,Eight phases,19,2
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q340724,Development,P461,opposite of,http://www.wikidata.org/wiki/Q209577,Operations,19,8
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q209577,Operations,P361,part of,http://www.wikidata.org/wiki/Q6559307,Eight phases,8,2
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q209577,Operations,P361,part of,http://www.wikidata.org/wiki/Q340724,Development,8,19
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q209577,Operations,P461,opposite of,http://www.wikidata.org/wiki/Q340724,Development,8,19
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q11465,Velocity,P361,part of,http://www.wikidata.org/wiki/Q298413,Quality,1,3
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q298413,Quality,P527,has part,http://www.wikidata.org/wiki/Q11465,Velocity,3,1
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q774228,Requirements,P361,part of,http://www.wikidata.org/wiki/Q788790,Documentation,2,1
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q788790,Documentation,P527,has part,http://www.wikidata.org/wiki/Q774228,Requirements,1,2
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q2552738,Product manager,P1889,different from,http://www.wikidata.org/wiki/Q816432,Project manager,2,1
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q816432,Project manager,P1889,different from,http://www.wikidata.org/wiki/Q2552738,Product manager,1,2
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q3025536,Devops,P31,instance of,http://www.wikidata.org/wiki/Q185698,Methodologies,57,2
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q340724,Development,P1056,product or material produced,http://www.wikidata.org/wiki/Q1796457,Product,19,13
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q17004273,Toolkit,P361,part of,http://www.wikidata.org/wiki/Q13741,Software development environment,1,2
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q13741,Software development environment,P527,has part,http://www.wikidata.org/wiki/Q17004273,Toolkit,2,1
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q2904257,Software development process,P3095,practiced by,http://www.wikidata.org/wiki/Q638608,Software developer,1,1
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q3025536,Devops,P2283,uses,http://www.wikidata.org/wiki/Q42903497,Cicd,57,0
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q42903497,Cicd,P366,use,http://www.wikidata.org/wiki/Q3025536,Devops,0,57
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q1186723,Pull request,P361,part of,http://www.wikidata.org/wiki/Q3025536,Devops,3,57
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q1186723,Pull request,P2283,uses,http://www.wikidata.org/wiki/Q3133368,Code repository,3,2
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q1186723,Pull request,P361,part of,http://www.wikidata.org/wiki/Q3133368,Code repository,3,2
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q1002975,Build,P527,has part,http://www.wikidata.org/wiki/Q224615,Tests,12,6
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q224615,Tests,P361,part of,http://www.wikidata.org/wiki/Q1002975,Build,6,12
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q907375,Unit testing,P279,subclass of,http://www.wikidata.org/wiki/Q224615,Testing,1,15
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q184199,Automated,P1269,facet of,http://www.wikidata.org/wiki/Q3055454,Test environment,10,1
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q28791187,Staging,P361,part of,http://www.wikidata.org/wiki/Q3025536,Devops,3,57
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q594593,It infrastructure,P366,use,http://www.wikidata.org/wiki/Q1481411,It services,1,1
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q594593,It infrastructure,P361,part of,http://www.wikidata.org/wiki/Q4830453,Business,1,4
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q184199,Automated,P361,part of,http://www.wikidata.org/wiki/Q3025536,Devops,10,57
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q3025536,Devops,P279,subclass of,http://www.wikidata.org/wiki/Q184199,Automated,57,10
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q3025536,Devops,pcode,studies,http://www.wikidata.org/wiki/Q439664,Deployment,57,17
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q439664,Deployment,P2579,studied by,http://www.wikidata.org/wiki/Q3025536,Devops,17,57
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q16278284,Client,P361,part of,http://www.wikidata.org/wiki/Q7669922,Teams,4,22
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q7669922,Teams,P527,has part,http://www.wikidata.org/wiki/Q16278284,Client,22,4
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q780067,Triage,P279,subclass of,http://www.wikidata.org/wiki/Q183635,Feedback,1,11
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q2552738,Product manager,P425,field of this occupation,http://www.wikidata.org/wiki/Q638608,Software development,2,15
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q638608,Software development,P3095,practiced by,http://www.wikidata.org/wiki/Q2552738,Product manager,15,2
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q351789,Jira,P366,use,http://www.wikidata.org/wiki/Q3025536,Devops,5,57
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q351789,Jira,P31,instance of,http://www.wikidata.org/wiki/Q7397,Software,5,28
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q22661306,Kubernetes,P31,instance of,http://www.wikidata.org/wiki/Q7397,Software,1,28
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q1904950,Slack,P31,instance of,http://www.wikidata.org/wiki/Q638608,Software development,3,15
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q1904950,Slack,P31,instance of,http://www.wikidata.org/wiki/Q7397,Software,3,28
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q46794,Apache subversion,P178,developer,http://www.wikidata.org/wiki/Q16639197,Gitlab,1,3
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q401091,Azure,P31,instance of,http://www.wikidata.org/wiki/Q237509,Gcp,8,3
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q401091,Azure,pcode,parent organization,http://www.wikidata.org/wiki/Q95,Google,8,4
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q95,Google,pcode,subsidiary,http://www.wikidata.org/wiki/Q401091,Azure,4,8
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q401091,Azure,pcode,owned by,http://www.wikidata.org/wiki/Q95,Google,8,4
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q95,Google,pcode,owner of,http://www.wikidata.org/wiki/Q401091,Azure,4,8
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q237509,Gcp,P31,instance of,http://www.wikidata.org/wiki/Q8074,Cloud,3,4
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q237509,Gcp,P366,use,http://www.wikidata.org/wiki/Q3025536,Devops,3,57
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q351789,Jira,P31,instance of,http://www.wikidata.org/wiki/Q3025536,Devops,5,57
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q1904950,Slack,P366,use,http://www.wikidata.org/wiki/Q3025536,Devops,3,57
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q224615,Testing,P361,part of,http://www.wikidata.org/wiki/Q439664,Deployment,15,17
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q965769,Continuous integration,P279,subclass of,http://www.wikidata.org/wiki/Q184199,Automation,7,6
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q2507377,Continuous delivery,P279,subclass of,http://www.wikidata.org/wiki/Q43229,Organizations,11,8
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q439664,Deployment,P361,part of,http://www.wikidata.org/wiki/Q3025536,Devops,17,57
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q224615,Testing,P361,part of,http://www.wikidata.org/wiki/Q340724,Development,15,19
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q439664,Deployment,P361,part of,http://www.wikidata.org/wiki/Q340724,Development,17,19
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q663143,Production,P361,part of,http://www.wikidata.org/wiki/Q340724,Development,5,19
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q7397,Software,P1889,different from,http://www.wikidata.org/wiki/Q224617,Platforms,28,1
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q224617,Platforms,P1889,different from,http://www.wikidata.org/wiki/Q7397,Software,1,28
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q7397,Software,P527,has part,http://www.wikidata.org/wiki/Q188889,Code,28,25
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q188889,Code,P361,part of,http://www.wikidata.org/wiki/Q7397,Software,25,28
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q3499072,Chef,P366,use,http://www.wikidata.org/wiki/Q3025536,Devops,2,57
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q352231,Bottleneck,P279,subclass of,http://www.wikidata.org/wiki/Q229289,Process,4,14
+devopsstarterguide.pdf,http://www.wikidata.org/wiki/Q184199,Automate,P279,subclass of,http://www.wikidata.org/wiki/Q229289,Process,15,14
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q401091,Azure,P366,use,http://www.wikidata.org/wiki/Q59350,App,76,126
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q483639,Cloud computing,P279,subclass of,http://www.wikidata.org/wiki/Q1197550,Computing power,7,1
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q483639,Cloud computing,P361,part of,http://www.wikidata.org/wiki/Q75,Internet,7,3
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q75,Internet,P527,has part,http://www.wikidata.org/wiki/Q671224,Data center,3,2
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q3480072,Servers,P361,part of,http://www.wikidata.org/wiki/Q8074,Cloud,1,11
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q483639,Cloud computing,P31,instance of,http://www.wikidata.org/wiki/Q18534,Metaphor,7,1
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q8074,Cloud,P31,instance of,http://www.wikidata.org/wiki/Q18534,Metaphor,11,1
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q483639,Cloud computing,P279,subclass of,http://www.wikidata.org/wiki/Q232576,Service,7,53
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q1526055,Load balancing,P1269,facet of,http://www.wikidata.org/wiki/Q9135,Operating system,2,2
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q294834,Application,P527,has part,http://www.wikidata.org/wiki/Q234328,Run,31,20
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q2291388,Scaling,P279,subclass of,http://www.wikidata.org/wiki/Q292434,Configurations,2,1
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q401091,Azure,P31,instance of,http://www.wikidata.org/wiki/Q483639,Cloud computing,76,7
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q1153767,Platform as a service,P279,subclass of,http://www.wikidata.org/wiki/Q1153767,Paas,3,3
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q35127,Websites,P527,has part,http://www.wikidata.org/wiki/Q189210,Web application,5,1
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q189210,Web application,P361,part of,http://www.wikidata.org/wiki/Q35127,Websites,1,5
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q186055,Git,P306,operating system,http://www.wikidata.org/wiki/Q1406,Windows,15,2
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q186055,Git,P306,operating system,http://www.wikidata.org/wiki/Q388,Linux,15,9
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q364,Github,P306,operating system,http://www.wikidata.org/wiki/Q1406,Windows,4,2
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q364,Github,P306,operating system,http://www.wikidata.org/wiki/Q388,Linux,4,9
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q186055,Git,P366,use,http://www.wikidata.org/wiki/Q57261400,Continuous deployment,15,1
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q364,Github,P366,use,http://www.wikidata.org/wiki/Q57261400,Continuous deployment,4,1
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q189210,Web app,P279,subclass of,http://www.wikidata.org/wiki/Q17987250,Application development,14,1
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q620615,Mobile app,P279,subclass of,http://www.wikidata.org/wiki/Q17987250,Application development,1,1
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q178817,Asp.net,P31,instance of,http://www.wikidata.org/wiki/Q1289773,Frameworks,2,1
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q17513350,Asp.net core,P31,instance of,http://www.wikidata.org/wiki/Q1289773,Frameworks,1,1
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q747452,Python,P31,instance of,http://www.wikidata.org/wiki/Q1289773,Frameworks,12,1
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q756100,Node.js,P31,instance of,http://www.wikidata.org/wiki/Q1289773,Frameworks,1,1
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q59,Php,P31,instance of,http://www.wikidata.org/wiki/Q1289773,Frameworks,1,1
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q21892650,Docker hub,P366,use,http://www.wikidata.org/wiki/Q965769,Continuous integration,1,1
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q2493781,Bitbucket,P366,use,http://www.wikidata.org/wiki/Q965769,Continuous integration,1,1
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q230273,Script,P279,subclass of,http://www.wikidata.org/wiki/Q1120538,Code snippet,2,1
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q210481,Terminal,P361,part of,http://www.wikidata.org/wiki/Q6664565,Local system,6,2
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q6664565,Local system,P527,has part,http://www.wikidata.org/wiki/Q210481,Terminal,2,6
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q120877,Cloning,P2283,uses,http://www.wikidata.org/wiki/Q956012,Folder,2,4
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q34467,Cd,P279,subclass of,http://www.wikidata.org/wiki/Q956012,Folder,3,4
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q34467,Cd,P277,programming language,http://www.wikidata.org/wiki/Q747452,Python,3,12
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q4227578,Flask,P366,use,http://www.wikidata.org/wiki/Q71550,App server,5,1
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q131303,Hello world,P31,instance of,http://www.wikidata.org/wiki/Q59350,App,2,126
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q8074,Cloud,P279,subclass of,http://www.wikidata.org/wiki/Q294834,Application,11,31
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q186055,Git,P366,use,http://www.wikidata.org/wiki/Q439664,Deploy,15,19
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q1192634,Working directory,P361,part of,http://www.wikidata.org/wiki/Q59350,App,1,126
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q365089,Web,P527,has part,http://www.wikidata.org/wiki/Q399128,Browser,27,7
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q399128,Browser,P361,part of,http://www.wikidata.org/wiki/Q365089,Web,7,27
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q131303,Hello world,pcode,platform,http://www.wikidata.org/wiki/Q399128,Browser,2,7
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q387444,Save,P1269,facet of,http://www.wikidata.org/wiki/Q194105,Editor,1,2
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q234328,Run,P2283,uses,http://www.wikidata.org/wiki/Q210481,Terminal,20,6
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q401091,Azure,P1056,product or material produced,http://www.wikidata.org/wiki/Q59350,App,76,126
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q924703,Stop,P1889,different from,http://www.wikidata.org/wiki/Q1175112,Restart,1,1
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q1175112,Restart,P1889,different from,http://www.wikidata.org/wiki/Q924703,Stop,1,1
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q910577,Docker,pcode,based on,http://www.wikidata.org/wiki/Q186055,Git,33,15
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q15206305,Dockerfile,P361,part of,http://www.wikidata.org/wiki/Q910577,Docker,2,33
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q910577,Docker,P527,has part,http://www.wikidata.org/wiki/Q15206305,Dockerfile,33,2
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q186055,Git,P2283,uses,http://www.wikidata.org/wiki/Q3774569,Repository,15,4
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q3774569,Repository,P1535,used by,http://www.wikidata.org/wiki/Q186055,Git,4,15
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q747452,Python,P31,instance of,http://www.wikidata.org/wiki/Q1572519,Environment,12,5
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q170460,Ssh,P366,use,http://www.wikidata.org/wiki/Q7444868,Secure communication,1,1
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q399128,Browser,P527,has part,http://www.wikidata.org/wiki/Q59350,App,7,126
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q59350,App,P361,part of,http://www.wikidata.org/wiki/Q399128,Browser,126,7
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q401091,Azure,P366,use,http://www.wikidata.org/wiki/Q439664,Deploy,76,19
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q679,West,P361,part of,http://www.wikidata.org/wiki/Q46,Europe,2,2
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q46,Europe,P527,has part,http://www.wikidata.org/wiki/Q679,West,2,2
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q2079320,Linux container,P306,operating system,http://www.wikidata.org/wiki/Q388,Linux,2,9
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q401091,Azure,P31,instance of,http://www.wikidata.org/wiki/Q189210,Webapp,76,8
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q401091,Azure,P31,instance of,http://www.wikidata.org/wiki/Q987767,Container,76,32
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q189210,Web app,P279,subclass of,http://www.wikidata.org/wiki/Q189768,Application service,14,8
+introductiontoazureappservice.pdf,http://www.wikidata.org/wiki/Q189210,Web app,P2283,uses,http://www.wikidata.org/wiki/Q44782,Port,14,12
+kubeflowvsmlflow.pdf,http://www.wikidata.org/wiki/Q65048974,Kubeflow,P366,use,http://www.wikidata.org/wiki/Q2670993,Container orchestration,18,1
+kubeflowvsmlflow.pdf,http://www.wikidata.org/wiki/Q65048974,Kubeflow,P277,programming language,http://www.wikidata.org/wiki/Q747452,Python,18,1
+kubeflowvsmlflow.pdf,http://www.wikidata.org/wiki/Q65048974,Kubeflow,P366,use,http://www.wikidata.org/wiki/Q22661306,Kubernetes,18,3
+kubeflowvsmlflow.pdf,http://www.wikidata.org/wiki/Q845249,Logging,P279,subclass of,http://www.wikidata.org/wiki/Q237984,Tracking,1,4
+kubeflowvsmlflow.pdf,http://www.wikidata.org/wiki/Q258408,Eda,P366,use,http://www.wikidata.org/wiki/Q1988917,Data analysis,1,1
+kubeflowvsmlflow.pdf,http://www.wikidata.org/wiki/Q65048974,Kubeflow,P366,use,http://www.wikidata.org/wiki/Q258408,Eda,18,1
+kubeflowvsmlflow.pdf,http://www.wikidata.org/wiki/Q65048974,Kubeflow,P366,use,http://www.wikidata.org/wiki/Q180160,Metadata,18,2
+kubeflowvsmlflow.pdf,http://www.wikidata.org/wiki/Q65048974,Kubeflow,P31,instance of,http://www.wikidata.org/wiki/Q180160,Metadata,18,2
+kubeflowvsmlflow.pdf,http://www.wikidata.org/wiki/Q65048974,Kubeflow,P366,use,http://www.wikidata.org/wiki/Q219113,Ml,18,24
+kubeflowvsmlflow.pdf,http://www.wikidata.org/wiki/Q65048974,Kubeflow,P366,use,http://www.wikidata.org/wiki/Q42903497,Cicd,18,0
+kubeflowvsmlflow.pdf,http://www.wikidata.org/wiki/Q227704,Apis,P366,use,http://www.wikidata.org/wiki/Q992802,Uis,5,2
+kubeflowvsmlflow.pdf,http://www.wikidata.org/wiki/Q227704,Apis,P361,part of,http://www.wikidata.org/wiki/Q992802,Uis,5,2
+kubeflowvsmlflow.pdf,http://www.wikidata.org/wiki/Q456120,Amazon,P1056,product or material produced,http://www.wikidata.org/wiki/Q227704,Apis,1,5
+kubeflowvsmlflow.pdf,http://www.wikidata.org/wiki/Q456120,Amazon,P31,instance of,http://www.wikidata.org/wiki/Q8074,Cloud,1,3
+kubeflowvsmlflow.pdf,http://www.wikidata.org/wiki/Q22661306,Kubernetes,P2283,uses,http://www.wikidata.org/wiki/Q224419,Cluster,3,1
+kubeflowvsmlflow.pdf,http://www.wikidata.org/wiki/Q224419,Cluster,P1535,used by,http://www.wikidata.org/wiki/Q22661306,Kubernetes,1,3
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q243457,Spark,P31,instance of,http://www.wikidata.org/wiki/Q224419,Cluster,38,7
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q243457,Spark,P178,developer,http://www.wikidata.org/wiki/Q237509,Gcp,38,2
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q5300,Cpu,P461,opposite of,http://www.wikidata.org/wiki/Q492,Memory,31,45
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q492,Memory,P461,opposite of,http://www.wikidata.org/wiki/Q5300,Cpu,45,31
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q298665,E2,P178,developer,http://www.wikidata.org/wiki/Q237509,Gcp,4,2
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q237509,Gcp,P1056,product or material produced,http://www.wikidata.org/wiki/Q298665,E2,2,4
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q1401207,Root cause analysis,pcode,studies,http://www.wikidata.org/wiki/Q7366567,Root cause,1,2
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q7366567,Root cause,P2579,studied by,http://www.wikidata.org/wiki/Q1401207,Root cause analysis,2,1
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q5300,Cpu,P361,part of,http://www.wikidata.org/wiki/Q11019,Machine,31,24
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q11019,Machine,P527,has part,http://www.wikidata.org/wiki/Q5300,Cpu,24,31
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q5300,Cpu,P527,has part,http://www.wikidata.org/wiki/Q232469,Cores,31,27
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q232469,Cores,P361,part of,http://www.wikidata.org/wiki/Q5300,Cpu,27,31
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q243457,Spark,P31,instance of,http://www.wikidata.org/wiki/Q654437,Executor,38,75
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q29120,Hadoop,P2283,uses,http://www.wikidata.org/wiki/Q235322,Deamon,2,1
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q235322,Deamon,P1535,used by,http://www.wikidata.org/wiki/Q29120,Hadoop,1,2
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q5300,Cpu,P527,has part,http://www.wikidata.org/wiki/Q384871,Available,31,17
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q384871,Available,P361,part of,http://www.wikidata.org/wiki/Q5300,Cpu,17,31
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q654437,Executor,P527,has part,http://www.wikidata.org/wiki/Q492,Memory,75,45
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q492,Memory,P361,part of,http://www.wikidata.org/wiki/Q654437,Executor,45,75
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q492,Memory,P1535,used by,http://www.wikidata.org/wiki/Q654437,Executor,45,75
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q654437,Executor,P2283,uses,http://www.wikidata.org/wiki/Q492,Memory,75,45
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q492,Memory,P1535,used by,http://www.wikidata.org/wiki/Q654437,Executors,45,29
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q654437,Executors,P2283,uses,http://www.wikidata.org/wiki/Q492,Memory,29,45
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q5300,Cpu,P361,part of,http://www.wikidata.org/wiki/Q2128997,Node,31,6
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q2128997,Node,P527,has part,http://www.wikidata.org/wiki/Q5300,Cpu,6,31
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q5300,Cpu,P527,has part,http://www.wikidata.org/wiki/Q654437,Executors,31,29
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q654437,Executors,P361,part of,http://www.wikidata.org/wiki/Q5300,Cpu,29,31
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q5300,Cpus,P1535,used by,http://www.wikidata.org/wiki/Q654437,Executor,15,75
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q654437,Executor,P2283,uses,http://www.wikidata.org/wiki/Q5300,Cpus,75,15
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q5300,Cpus,P527,has part,http://www.wikidata.org/wiki/Q232469,Cores,15,27
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q232469,Cores,P361,part of,http://www.wikidata.org/wiki/Q5300,Cpus,27,15
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q654437,Executor,P527,has part,http://www.wikidata.org/wiki/Q232469,Cores,75,27
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q232469,Cores,P361,part of,http://www.wikidata.org/wiki/Q654437,Executor,27,75
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q203363,No,P460,said to be the same as,http://www.wikidata.org/wiki/Q654437,Executor,38,75
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q654437,Executor,P460,said to be the same as,http://www.wikidata.org/wiki/Q203363,No,75,38
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q555032,Cpu core,P361,part of,http://www.wikidata.org/wiki/Q5300,Cpus,10,15
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q1324934,Garbage collection,P361,part of,http://www.wikidata.org/wiki/Q654437,Executor,2,75
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q654437,Executor,P527,has part,http://www.wikidata.org/wiki/Q1324934,Garbage collection,75,2
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q1324934,Garbage collection,P279,subclass of,http://www.wikidata.org/wiki/Q654437,Executor,2,75
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q654437,Executor,P527,has part,http://www.wikidata.org/wiki/Q5300,Cpu,75,31
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q5300,Cpu,P361,part of,http://www.wikidata.org/wiki/Q654437,Executor,31,75
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q5300,Cpu,P1889,different from,http://www.wikidata.org/wiki/Q492,Memory,31,45
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q492,Memory,P1889,different from,http://www.wikidata.org/wiki/Q5300,Cpu,45,31
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q66221,Physical memory,P279,subclass of,http://www.wikidata.org/wiki/Q492,Memory,1,45
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q1103487,Cluster manager,P31,instance of,http://www.wikidata.org/wiki/Q207915,Os,2,11
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q492,Memory,P527,has part,http://www.wikidata.org/wiki/Q654437,Executors,45,29
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q654437,Executors,P361,part of,http://www.wikidata.org/wiki/Q492,Memory,29,45
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q654437,Executors,P361,part of,http://www.wikidata.org/wiki/Q11019,Machine,29,24
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q11019,Machine,P527,has part,http://www.wikidata.org/wiki/Q654437,Executors,24,29
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q243457,Spark,P31,instance of,http://www.wikidata.org/wiki/Q226733,Driver,38,10
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q226733,Driver,P527,has part,http://www.wikidata.org/wiki/Q654437,Executor,10,75
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q654437,Executor,P361,part of,http://www.wikidata.org/wiki/Q226733,Driver,75,10
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q359787,Threshold,P279,subclass of,http://www.wikidata.org/wiki/Q29485,Error,4,4
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q352214,Heap,P279,subclass of,http://www.wikidata.org/wiki/Q492,Memory,1,45
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q406952,Nio,P277,programming language,http://www.wikidata.org/wiki/Q3757,Java,1,1
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q987767,Container,P1535,used by,http://www.wikidata.org/wiki/Q29120,Yarn,1,4
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q226733,Driver,P461,opposite of,http://www.wikidata.org/wiki/Q654437,Executors,10,29
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q654437,Executors,P461,opposite of,http://www.wikidata.org/wiki/Q226733,Driver,29,10
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q226733,Driver,P461,opposite of,http://www.wikidata.org/wiki/Q654437,Executor,10,75
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q654437,Executor,P461,opposite of,http://www.wikidata.org/wiki/Q226733,Driver,75,10
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q226733,Driver,P527,has part,http://www.wikidata.org/wiki/Q492,Memory,10,45
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q492,Memory,P361,part of,http://www.wikidata.org/wiki/Q226733,Driver,45,10
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q243457,Spark,P31,instance of,http://www.wikidata.org/wiki/Q176477,Gyan,38,2
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q226733,Driver,P527,has part,http://www.wikidata.org/wiki/Q191159,Worker,10,24
+sparkperformancetuning-part1.pdf,http://www.wikidata.org/wiki/Q191159,Worker,P361,part of,http://www.wikidata.org/wiki/Q226733,Driver,24,10
+typesofdataplatforms.pdf,http://www.wikidata.org/wiki/Q248579,Cdp,P366,use,http://www.wikidata.org/wiki/Q251616,Erp,16,9
+typesofdataplatforms.pdf,http://www.wikidata.org/wiki/Q39809,Marketing,P527,has part,http://www.wikidata.org/wiki/Q425520,Channels,10,1
+typesofdataplatforms.pdf,http://www.wikidata.org/wiki/Q425520,Channels,P361,part of,http://www.wikidata.org/wiki/Q39809,Marketing,1,10
+typesofdataplatforms.pdf,http://www.wikidata.org/wiki/Q18636415,Tealium,P527,has part,http://www.wikidata.org/wiki/Q258480,Segment,1,7
+typesofdataplatforms.pdf,http://www.wikidata.org/wiki/Q258480,Segment,P361,part of,http://www.wikidata.org/wiki/Q18636415,Tealium,7,1
+typesofdataplatforms.pdf,http://www.wikidata.org/wiki/Q37038,Advertising,P1269,facet of,http://www.wikidata.org/wiki/Q363057,Customer segmentation,2,1
+typesofdataplatforms.pdf,http://www.wikidata.org/wiki/Q16539031,Data management platform,P279,subclass of,http://www.wikidata.org/wiki/Q7397,Software,3,2
+typesofdataplatforms.pdf,http://www.wikidata.org/wiki/Q7397,Software,P361,part of,http://www.wikidata.org/wiki/Q43229,Organization,2,1
+typesofdataplatforms.pdf,http://www.wikidata.org/wiki/Q485643,Customer relationship management,P31,instance of,http://www.wikidata.org/wiki/Q376657,Business strategy,1,1
+typesofdataplatforms.pdf,http://www.wikidata.org/wiki/Q39809,Marketing,P1269,facet of,http://www.wikidata.org/wiki/Q194189,Sales,10,4
+typesofdataplatforms.pdf,http://www.wikidata.org/wiki/Q852835,Customer,P361,part of,http://www.wikidata.org/wiki/Q62075492,Relationship,19,2
+typesofdataplatforms.pdf,http://www.wikidata.org/wiki/Q941127,Salesforce,pcode,influenced by,http://www.wikidata.org/wiki/Q552581,Sap,2,2
+typesofdataplatforms.pdf,http://www.wikidata.org/wiki/Q941127,Salesforce,P178,developer,http://www.wikidata.org/wiki/Q552581,Sap,2,2
+typesofdataplatforms.pdf,http://www.wikidata.org/wiki/Q1628411,Targeted advertising,P279,subclass of,http://www.wikidata.org/wiki/Q679087,Campaigns,1,1
+typesofdataplatforms.pdf,http://www.wikidata.org/wiki/Q1628411,Targeted advertising,P279,subclass of,http://www.wikidata.org/wiki/Q1761818,Advertising campaigns,1,1
+typesofdataplatforms.pdf,http://www.wikidata.org/wiki/Q248579,Cdp,P366,use,http://www.wikidata.org/wiki/Q39809,Marketing,16,10
+typesofdataplatforms.pdf,http://www.wikidata.org/wiki/Q418090,Dmp,P366,use,http://www.wikidata.org/wiki/Q39809,Marketing,13,10
+typesofdataplatforms.pdf,http://www.wikidata.org/wiki/Q248579,Cdp,P1889,different from,http://www.wikidata.org/wiki/Q418090,Dmp,16,13
+typesofdataplatforms.pdf,http://www.wikidata.org/wiki/Q418090,Dmp,P1889,different from,http://www.wikidata.org/wiki/Q248579,Cdp,13,16
+typesofdataplatforms.pdf,http://www.wikidata.org/wiki/Q248579,Cdp,P361,part of,http://www.wikidata.org/wiki/Q122270,Crm,16,13
+typesofdataplatforms.pdf,http://www.wikidata.org/wiki/Q122270,Crm,P361,part of,http://www.wikidata.org/wiki/Q248579,Cdp,13,16
+typesofdataplatforms.pdf,http://www.wikidata.org/wiki/Q252500,User profile,P279,subclass of,http://www.wikidata.org/wiki/Q56278300,Customer data,2,5
+typesofdataplatforms.pdf,http://www.wikidata.org/wiki/Q258480,Segmentation,P279,subclass of,http://www.wikidata.org/wiki/Q1000371,Personalisation,4,1
+typesofdataplatforms.pdf,http://www.wikidata.org/wiki/Q418090,Dmp,P366,use,http://www.wikidata.org/wiki/Q251616,Erp,13,9
+typesofdataplatforms.pdf,http://www.wikidata.org/wiki/Q122270,Crm,P366,use,http://www.wikidata.org/wiki/Q251616,Erp,13,9
+typesofdataplatforms.pdf,http://www.wikidata.org/wiki/Q251616,Erp,P527,has part,http://www.wikidata.org/wiki/Q248579,Cdp,9,16
+typesofdataplatforms.pdf,http://www.wikidata.org/wiki/Q251616,Erp,P527,has part,http://www.wikidata.org/wiki/Q418090,Dmp,9,13
+typesofdataplatforms.pdf,http://www.wikidata.org/wiki/Q251616,Erp,P527,has part,http://www.wikidata.org/wiki/Q122270,Crm,9,13
+typesofdataplatforms.pdf,http://www.wikidata.org/wiki/Q248579,Cdp,P279,subclass of,http://www.wikidata.org/wiki/Q122270,Crm,16,13
+typesofdataplatforms.pdf,http://www.wikidata.org/wiki/Q418090,Dmp,P279,subclass of,http://www.wikidata.org/wiki/Q122270,Crm,13,13
+typesofdataplatforms.pdf,http://www.wikidata.org/wiki/Q122270,Crm,P527,has part,http://www.wikidata.org/wiki/Q248579,Cdp,13,16
+typesofdataplatforms.pdf,http://www.wikidata.org/wiki/Q122270,Crm,P527,has part,http://www.wikidata.org/wiki/Q418090,Dmp,13,13
+typesofdataplatforms.pdf,http://www.wikidata.org/wiki/Q4045248,Netsuite,P366,use,http://www.wikidata.org/wiki/Q251616,Erp,2,9
+typesofdataplatforms.pdf,http://www.wikidata.org/wiki/Q552581,Sap,P366,use,http://www.wikidata.org/wiki/Q251616,Erp,2,9
+typesofdataplatforms.pdf,http://www.wikidata.org/wiki/Q4045248,Netsuite,P178,developer,http://www.wikidata.org/wiki/Q552581,Sap,2,2
+typesofdataplatforms.pdf,http://www.wikidata.org/wiki/Q4045248,Netsuite,P366,use,http://www.wikidata.org/wiki/Q4738155,Financial management,2,2
+typesofdataplatforms.pdf,http://www.wikidata.org/wiki/Q552581,Sap,P366,use,http://www.wikidata.org/wiki/Q4738155,Financial management,2,2
+typesofdataplatforms.pdf,http://www.wikidata.org/wiki/Q7100437,Order management,P361,part of,http://www.wikidata.org/wiki/Q492886,Supply chain management,2,2
+typesofdataplatforms.pdf,http://www.wikidata.org/wiki/Q5507838,Fulfilment,P361,part of,http://www.wikidata.org/wiki/Q829492,Procurement,2,2
+typesofdataplatforms.pdf,http://www.wikidata.org/wiki/Q815410,Inventory management,P361,part of,http://www.wikidata.org/wiki/Q829492,Procurement,2,2
+typesofdataplatforms.pdf,http://www.wikidata.org/wiki/Q829492,Procurement,P527,has part,http://www.wikidata.org/wiki/Q5507838,Fulfilment,2,2
+typesofdataplatforms.pdf,http://www.wikidata.org/wiki/Q131508,Enterprise resource planning,P366,use,http://www.wikidata.org/wiki/Q251616,Erp,3,9
+typesofdataplatforms.pdf,http://www.wikidata.org/wiki/Q5968866,Ibm infosphere,P366,use,http://www.wikidata.org/wiki/Q251616,Erp,1,9
+typesofdataplatforms.pdf,http://www.wikidata.org/wiki/Q1662644,Infosphere,P178,developer,http://www.wikidata.org/wiki/Q37156,Ibm,1,1
+typesofdataplatforms.pdf,http://www.wikidata.org/wiki/Q5968866,Ibm infosphere,P366,use,http://www.wikidata.org/wiki/Q492886,Supply chain management,1,2
+typesofdataplatforms.pdf,http://www.wikidata.org/wiki/Q39809,Marketing,pcode,studies,http://www.wikidata.org/wiki/Q56278300,Customer data,10,5
+typesofdataplatforms.pdf,http://www.wikidata.org/wiki/Q56278300,Customer data,P2579,studied by,http://www.wikidata.org/wiki/Q39809,Marketing,5,10
+typesofdataplatforms.pdf,http://www.wikidata.org/wiki/Q39809,Marketing,P527,has part,http://www.wikidata.org/wiki/Q56278300,Customer data,10,5
+typesofdataplatforms.pdf,http://www.wikidata.org/wiki/Q39809,Marketing,pcode,studies,http://www.wikidata.org/wiki/Q852835,Customer,10,19
+typesofdataplatforms.pdf,http://www.wikidata.org/wiki/Q852835,Customer,P2579,studied by,http://www.wikidata.org/wiki/Q39809,Marketing,19,10
+webscaping-proxymanagement.pdf,http://www.wikidata.org/wiki/Q939088,Virtual ip address,P279,subclass of,http://www.wikidata.org/wiki/Q217496,Ip,1,9
+webscaping-proxymanagement.pdf,http://www.wikidata.org/wiki/Q11135,Ip address,P2283,uses,http://www.wikidata.org/wiki/Q217496,Ip,1,9
+webscaping-proxymanagement.pdf,http://www.wikidata.org/wiki/Q217496,Ip,P1535,used by,http://www.wikidata.org/wiki/Q11135,Ip address,9,1
+webscaping-proxymanagement.pdf,http://www.wikidata.org/wiki/Q416543,Proxy,P279,subclass of,http://www.wikidata.org/wiki/Q3480072,Server,23,3
+webscaping-proxymanagement.pdf,http://www.wikidata.org/wiki/Q3480072,Server,P361,part of,http://www.wikidata.org/wiki/Q75,Internet,3,1
+webscaping-proxymanagement.pdf,http://www.wikidata.org/wiki/Q727490,Scalability,P527,has part,http://www.wikidata.org/wiki/Q2586477,With,1,8
+webscaping-proxymanagement.pdf,http://www.wikidata.org/wiki/Q727490,Scalability,P527,has part,http://www.wikidata.org/wiki/Q8028213,Without,1,4
+webscaping-proxymanagement.pdf,http://www.wikidata.org/wiki/Q2586477,With,P279,subclass of,http://www.wikidata.org/wiki/Q727490,Scalability,8,1
+webscaping-proxymanagement.pdf,http://www.wikidata.org/wiki/Q8028213,Without,P279,subclass of,http://www.wikidata.org/wiki/Q727490,Scalability,4,1
+webscaping-proxymanagement.pdf,http://www.wikidata.org/wiki/Q2586477,With,P461,opposite of,http://www.wikidata.org/wiki/Q8028213,Without,8,4
+webscaping-proxymanagement.pdf,http://www.wikidata.org/wiki/Q8028213,Without,P461,opposite of,http://www.wikidata.org/wiki/Q2586477,With,4,8
+webscaping-proxymanagement.pdf,http://www.wikidata.org/wiki/Q250199,Concurrent,P279,subclass of,http://www.wikidata.org/wiki/Q450164,Sessions,1,1
+webscaping-proxymanagement.pdf,http://www.wikidata.org/wiki/Q437448,Instance,P361,part of,http://www.wikidata.org/wiki/Q3367000,Orchestrated,1,1
