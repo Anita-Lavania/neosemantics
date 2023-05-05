@@ -58,9 +58,9 @@ MERGE (a)-[:HAS_ENTITY]->(se)
 MERGE (a)-[:HAS_ENTITY]->(te)
 
 // Load weights embeddings on cognition nodes
-LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/Anita-Lavania/neosemantics/main/Iteration3/cognition_entity_embed.csv' AS row
-WITH row.uri AS row_uri, row.row_name AS name, row.vector AS row_vector
-MATCH (r:Resource {uri: uri})
+CALL apoc.load.json('https://raw.githubusercontent.com/Anita-Lavania/neosemantics/main/Iteration3/cognition_entity_embed.json') YIELD value AS row
+WITH row.uri AS row_uri, row.name AS name, row.vector AS row_vector
+MATCH (r:Resource {uri: row_uri})
     SET r.embeddings=row_vector
     
 
