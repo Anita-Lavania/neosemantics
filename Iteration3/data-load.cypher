@@ -87,7 +87,9 @@ MATCH (a:Asset {name: Name})
     SET a.ID=Id, a.upload_date=Uploaded_Date, a.update_date=Updated_Date
 MERGE (o:Author {email: Email})
     SET o.name=Owner
-MERGE (acc:Account {name: Account})
 MERGE (ast:AssetType {name: Asset_Type})
-MERGE (a)-[:FOR_ACCOUNT]->(acc)
 MERGE (a)-[:TYPE]->(ast)
+WHERE Account IS NOT NULL
+    MERGE (acc:Account {name: Account})
+    MERGE (a)-[:FOR_ACCOUNT]->(acc) ;
+
