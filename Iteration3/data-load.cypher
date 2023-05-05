@@ -82,9 +82,9 @@ MATCH (r:Resource {uri: row_uri})
 
 // Load Asset metadata
 LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/Anita-Lavania/neosemantics/main/Iteration3/processed-asset-metadata.csv' AS row
-WITH row.Id AS Id, row.Name AS Name, row.Owner AS Owner, row.Uploaded_Date AS Uploaded_Date, row.Updated_Date AS Updated_Date, row.Email AS Email, row.Account AS Account, row.Asset_Type AS Asset_Type
+WITH row.Id AS Id, row.Name AS Name, row.Owner AS Owner, apoc.date.parse(row.Uploaded_Date, "loaddate", "MMMM dd yyyy") AS loaddate, apoc.date.parse(row.Updated_Date, "updatedate", "MMMM dd yyyy") AS updatedate, row.Email AS Email, row.Account AS Account, row.Asset_Type AS Asset_Type
 MATCH (a:Asset {name: Name})
-    SET a.ID=Id, a.upload_date=Uploaded_Date, a.update_date=Updated_Date
+    SET a.ID=Id, a.upload_date=datetime({epochmillis: loaddate}), a.update_date=datetime({epochmillis: updatedate})
 MERGE (o:Author {email: Email})
     SET o.name=Owner
 MERGE (ast:AssetType {name: Asset_Type})
