@@ -1,5 +1,17 @@
-{
-'name': 'ML',
-'uri': 'http://www.wikidata.org/wiki/Q1084',
-'vector': [0.3, 7.3, 3.6]
-}
+[
+  {
+    "name":"Anita",
+    "age":29,
+    "vector": [0.3, 7.3, 3.6]
+  },
+  {
+    "name":"Malayaja",
+    "age":31,
+    "vector": [0.4, 6.2, 1.6]
+  },
+  {
+    "name":"Sarath",
+    "age":30,
+    "vector": [2.1, 1.9, 3.0]
+  }
+]
