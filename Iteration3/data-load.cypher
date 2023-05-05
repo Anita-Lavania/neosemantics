@@ -43,7 +43,7 @@ MERGE (se:Resource {uri: source_uri})
     SET se:Entity:MathcoEntity
     SET se.name = source_name
 MERGE (te:Resource {uri: target_uri})
-    SET se:Entity
+    SET te:Entity
     SET te.name = target_name
 MERGE (se)-[r:RELATED {name: edge_name}]->(te)
     SET r.pcode = edge_pcode
@@ -69,7 +69,7 @@ MERGE (a)-[:HAS_ENTITY]->(te);
 CALL apoc.load.json('https://raw.githubusercontent.com/Anita-Lavania/neosemantics/main/Iteration3/cognition_entity_embed.json') YIELD value AS row
 WITH row.uri AS row_uri, row.name AS name, row.vector AS row_vector
 MATCH (r:Resource {uri: row_uri})
-    SET r.embeddings=row_vector
+    SET r.embeddings=row_vector ;
     
 
 // Load Asset metadata
