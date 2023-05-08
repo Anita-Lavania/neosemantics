@@ -7,6 +7,9 @@ CALL n10s.graphconfig.init({handleVocabUris: "MAP"});
 // Load wikidata+wikipedia triples
 CALL n10s.rdf.import.fetch("https://raw.githubusercontent.com/Anita-Lavania/neosemantics/main/Iteration3/wikidata_wikipedia.ttl","Turtle");
 
+MATCH (r:Resource)
+    SET r:Base
+
 
 // Load Cognition triples
 LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/Anita-Lavania/neosemantics/main/Iteration3/48cogdoc_rebel_triples_ww_weight.csv' AS row
