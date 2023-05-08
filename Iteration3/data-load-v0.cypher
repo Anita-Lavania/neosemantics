@@ -80,7 +80,9 @@ MATCH (a:Asset {name: Name})
 MERGE (o:Author {email: Email})
     SET o.name=Owner
 MERGE (ast:AssetType {name: Asset_Type})
-MERGE (a)-[:TYPE]->(ast);
+MERGE (a)-[:WRITTEN_BY]->(o)
+MERGE (a)-[:TYPE]->(ast) ;
+
 
 
 // Account load
